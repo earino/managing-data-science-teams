@@ -146,13 +146,13 @@ This is why we spent time on artifacts in Block A. Your Manager OS produces the 
 
 | Team | You need from them |
 |---|---|
-| **Product** | Clear business questions, prioritized. Not "can you look into this?" |
-| **Engineering** | Reliable event instrumentation, schema changes communicated in advance |
-| **Legal** | Timely privacy reviews, clear guidance on data usage |
+| **Product** | Clear, prioritized business questions |
+| **Engineering** | Reliable instrumentation, advance notice of schema changes |
+| **Legal** | Timely privacy reviews, clear data usage guidance |
 | **Finance** | Reasonable budget cycles, approval velocity |
 | **IT** | Procurement timelines, cloud access, SSO provisioning |
 
-**The key insight:** These relationships are **bidirectional contracts**. Document them as SLAs.
+**The key insight:** These are **bidirectional contracts**. Document them as SLAs.
 
 *"Engineering will notify analytics 2 sprints before any schema change to tracked events."*
 
@@ -162,7 +162,7 @@ That's not bureaucracy. That's how you stop your pipelines from breaking at 2 AM
 
 ---
 
-## Building Bidirectional SLAs
+## Building Bidirectional SLAs — Template
 
 How to actually create and maintain SLAs with other teams:
 
@@ -173,16 +173,26 @@ How to actually create and maintain SLAs with other teams:
 > **Escalation path:** [name/role] if SLA is missed.
 > **Review cadence:** Monthly sync to assess and adjust.
 
-**Example — Analytics ↔ Engineering:**
+**The key:** SLAs work when **both sides see value**. If it feels one-sided, it won't survive the first quarter.
+
+<!-- Talk track: Let me give you a practical template for building these SLAs. It's dead simple — four lines. What you'll provide and by when. What they'll provide and by when. Who to escalate to when someone misses. And how often you review the agreement. The review cadence is critical — monthly is right for most teams. It gives you a regular forum to say "this is working" or "this isn't working, let's adjust." The secret to SLAs that actually stick is that both sides need to see value. If the SLA only benefits you, the partner team will ignore it within a month. -->
+
+---
+
+## Building Bidirectional SLAs — Example
+
+**Analytics ↔ Engineering SLA:**
 
 > Analytics will review and sign off on schema change impact assessments within **3 business days**.
 > Engineering will notify analytics **2 sprints before** any schema change to tracked events.
 > Escalation: VP Engineering and Head of Analytics.
 > Review: First Monday of each month.
 
-**The key:** SLAs work when **both sides see value**. If it feels one-sided, it won't survive the first quarter.
+Both sides get something: Engineering gets fast turnaround on impact assessments, and you get advance notice of changes.
 
-<!-- Talk track: Let me give you a practical template for building these SLAs. It's dead simple — four lines. What you'll provide and by when. What they'll provide and by when. Who to escalate to when someone misses. And how often you review the agreement. The review cadence is critical — monthly is right for most teams. It gives you a regular forum to say "this is working" or "this isn't working, let's adjust." The example here is for Engineering: you commit to reviewing schema change impacts within three business days, and they commit to notifying you two sprints in advance. Both sides get something. Engineering gets a fast turnaround on impact assessments, and you get advance notice of changes. That's the secret to SLAs that actually stick — both sides need to see value. If the SLA only benefits you, Engineering will ignore it within a month. Draft one of these for each of your key cross-functional partners. It takes thirty minutes and saves you hundreds of hours of fire-fighting. -->
+Draft one of these for each key cross-functional partner. It takes thirty minutes and saves hundreds of hours of fire-fighting.
+
+<!-- Talk track: Here's a concrete example for the Engineering relationship. You commit to reviewing schema change impacts within three business days, and they commit to notifying you two sprints in advance. Both sides benefit. Engineering gets a fast, predictable turnaround on impact assessments, and you get the advance notice you need to update pipelines before anything breaks. I recommend drafting one of these for each of your key partners — Engineering, IT, Legal, Product. It takes about thirty minutes per SLA and the return on that investment is enormous. These documents transform ad hoc relationships into reliable operating agreements. -->
 
 ---
 
@@ -210,21 +220,29 @@ This is the map. Your case context determines the territory.
 
 For those who aren't deeply technical — here's how to read a data flow diagram:
 
-| Layer | What it does (plain English) | Key question to ask |
+| Layer | What it does (plain English) | Key question |
 |---|---|---|
-| **Sources** | Where data originates (your app, APIs, files) | "Are we capturing everything we need?" |
-| **Ingestion** | Moves data from sources to storage | "How fresh is the data? Minutes? Hours? Days?" |
-| **Storage** | The central repository (your warehouse) | "What does it cost? Can it scale?" |
-| **Transform** | Cleans and models raw data into usable tables | "How do we know the output is correct?" |
-| **Semantic Layer** | Defines metrics so everyone agrees on the numbers | "Is there one definition of 'revenue'?" |
-| **Visualization** | Dashboards and reports end users see | "Can stakeholders self-serve?" |
+| **Sources** | Where data originates (app, APIs, files) | "Capturing everything we need?" |
+| **Ingestion** | Moves data from sources to storage | "How fresh? Minutes, hours, days?" |
+| **Storage** | The central repository (warehouse) | "Cost? Can it scale?" |
+| **Transform** | Cleans raw data into usable tables | "How do we verify correctness?" |
+| **Semantic Layer** | Defines metrics so everyone agrees | "One definition of 'revenue'?" |
+| **Visualization** | Dashboards end users see | "Can stakeholders self-serve?" |
+
+<!-- Talk track: If you come from a business or social science background and architecture diagrams feel intimidating, this slide is for you. Each layer does one thing. Sources are where data comes from — your product database, event tracking, third-party APIs. Ingestion is the plumbing that moves data from those sources into your central storage. Storage is the warehouse — think of it as a really big, really fast database optimized for analytics queries. Transform is where you clean and model the raw data — turning messy event logs into clean tables your analysts can use. The semantic layer is where you define what "active user" means or how "revenue" is calculated, so everyone in the company uses the same number. Visualization is the dashboards your stakeholders actually see. -->
+
+---
+
+## Reading an Architecture Diagram (cont.)
 
 **At every layer, ask three questions:**
-1. "How do we know it's working?"
-2. "What happens when it breaks?"
-3. "What does it cost?"
+1. "How do we know it's working?" — observability
+2. "What happens when it breaks?" — resilience
+3. "What does it cost?" — cost management
 
-<!-- Talk track: If you come from a business or social science background and architecture diagrams feel intimidating, this slide is for you. Each layer does one thing. Sources are where data comes from — your product database, event tracking, third-party APIs. Ingestion is the plumbing that moves data from those sources into your central storage. Storage is the warehouse — think of it as a really big, really fast database optimized for analytics queries. Transform is where you clean and model the raw data — turning messy event logs into clean tables your analysts can use. The semantic layer is where you define what "active user" means or how "revenue" is calculated, so everyone in the company uses the same number. Visualization is the dashboards your stakeholders actually see. At every layer, train yourself to ask three questions. How do we know it's working — that's observability. What happens when it breaks — that's resilience. What does it cost — that's cost management. If you can ask those three questions intelligently about each layer, you can hold your own in any infrastructure conversation. -->
+If you can ask those three questions intelligently about each layer, you can hold your own in any infrastructure conversation.
+
+<!-- Talk track: Train yourself to ask these three questions at every layer of the stack. How do we know it's working — that's observability. What happens when it breaks — that's resilience. What does it cost — that's cost management. You don't need to know how to configure a Kubernetes cluster or tune a Spark job. But if you can ask these questions and evaluate the answers, you can participate meaningfully in any infrastructure discussion. That's the level of technical fluency a manager needs. -->
 
 ---
 
@@ -326,26 +344,26 @@ For those of you in the large enterprise case context: your challenge isn't choo
 
 ## The Migration Trap
 
-What happens when you outgrow your stack — the three most common migration stories:
+What happens when you outgrow your stack — three common migration stories:
 
 **1. Spreadsheets to a real warehouse**
-The startup that ran on Google Sheets and suddenly needs BigQuery. Painful but straightforward. Budget 2–3 months.
+Ran on Google Sheets and suddenly need BigQuery. Painful but straightforward. Budget 2–3 months.
 
 **2. Warehouse to warehouse**
-Moving from Redshift to Snowflake, or Snowflake to Databricks. Every query, every dashboard, every integration needs to be rebuilt. Budget 6–12 months.
+Redshift to Snowflake, or Snowflake to Databricks. Every query, dashboard, and integration rebuilt. Budget 6–12 months.
 
 **3. "We built it ourselves and now we can't maintain it"**
-The custom pipeline that one engineer built, who then left the company. Nobody understands it. Nobody can fix it. You're held hostage by your own code.
+The custom pipeline one engineer built, who then left. Nobody understands or can fix it.
 
-**Key insight:** Plan for the **NEXT** migration at the time you choose the current tool. Ask: "How hard will it be to leave this vendor in 3 years?"
+**Key insight:** Plan for the **next** migration when choosing the current tool. Ask: "How hard will it be to leave this vendor in 3 years?"
 
 <!-- Talk track: I want to talk about what happens when you outgrow your stack, because it will happen. Story one: you started on spreadsheets and now you need a real warehouse. This is actually the easiest migration — you're going from nothing to something. It's painful, it takes two to three months, but it's a one-way door and everyone agrees it needs to happen. Story two: you need to move from one warehouse to another. This is brutal. Every SQL query is slightly different across warehouses. Every dashboard connection needs to be reconfigured. Every integration needs to be re-tested. I've seen this take six to twelve months, and during that time your team is essentially maintaining two systems. Story three — and this is the most painful — you built something custom. Maybe it was a brilliant engineer who built a custom ingestion pipeline. Then that engineer left. Now nobody understands how it works, it breaks regularly, and nobody can fix it properly. You're stuck. The lesson: when you choose a tool today, ask yourself how hard it will be to leave that tool in three years. Avoid proprietary lock-in where you can. Use standard SQL. Use standard file formats. Make migration a design criterion, not an afterthought. -->
 
 ---
 
-## Build vs. Buy
+## Build vs. Buy — The Framework
 
-**The framework — four questions in order:**
+**Four questions in order:**
 
 1. **Is this a core differentiator?** If yes: build.
    - Your recommendation algorithm? Build. Your data warehouse? Buy.
@@ -354,7 +372,13 @@ The custom pipeline that one engineer built, who then left the company. Nobody u
    - Ingestion, storage, BI tooling — these are solved problems.
 
 3. **Do you have the team to maintain it?** If no: buy.
-   - "Free" open source has a hidden cost: your engineers' time. Forever.
+   - "Free" open source costs your engineers' time. Forever.
+
+<!-- Talk track: Build versus buy is one of the most consequential decisions you'll make as an analytics leader. Here's a framework with four questions. Question one: is this a core differentiator? If your company's competitive advantage depends on a proprietary recommendation engine, build it. But your data warehouse is not a differentiator. Nobody ever won a market because they had a better warehouse. Question two: is this commodity infrastructure? Ingestion, storage, BI tools — these are solved problems. Buy them. Question three: do you have the team to maintain it? Open source is not free. Airflow is not free. It requires engineers to keep it running, upgrade it, fix it when it breaks. If you don't have those engineers, buy a managed service. -->
+
+---
+
+## Build vs. Buy — Total Cost of Ownership
 
 4. **What's the Total Cost of Ownership?**
    - License + implementation + training + maintenance + **opportunity cost**
@@ -362,30 +386,41 @@ The custom pipeline that one engineer built, who then left the company. Nobody u
 
 **Default to buy** for infrastructure. Default to build for business logic.
 
-<!-- Talk track: Build versus buy is one of the most consequential decisions you'll make as an analytics leader. Here's a framework. Question one: is this a core differentiator? If your company's competitive advantage depends on a proprietary recommendation engine, build it. But your data warehouse is not a differentiator. Nobody ever won a market because they had a better warehouse. Question two: is this commodity infrastructure? Ingestion, storage, BI tools — these are solved problems. Buy them. Question three: do you have the team to maintain it? Open source is not free. Airflow is not free. It requires engineers to keep it running, upgrade it, fix it when it breaks. If you don't have those engineers, buy a managed service. Question four: what's the total cost of ownership? Add up the license, implementation, training, maintenance, and — this is the one people forget — opportunity cost. Every hour your data engineer spends maintaining Airflow is an hour they're not building the pipeline your PM needs. Default to buy for infrastructure. Default to build for business logic. -->
+The opportunity cost is the one people forget. Every hour your data engineer spends maintaining Airflow is an hour they're not building the pipeline your PM needs.
+
+<!-- Talk track: Question four: what's the total cost of ownership? Add up the license, implementation, training, maintenance, and — this is the one people forget — opportunity cost. Every hour your data engineer spends maintaining Airflow is an hour they're not building the pipeline your PM needs. The rule of thumb is simple: default to buy for infrastructure, default to build for business logic. Infrastructure is commodity — someone else has already solved the hard problems. Business logic is where your team adds unique value. That's where you want your engineers spending their time. -->
 
 ---
 
-## The Hidden Costs of "Free"
+## The Hidden Costs of "Free" — The Comparison
 
 Open-source tools have **real costs** — your engineers' time to set up, configure, maintain, upgrade, and debug.
 
-**Concrete example: Airflow (open-source) vs. managed alternatives**
+**Airflow (open-source) vs. managed alternatives:**
 
-| Cost component | Self-hosted Airflow | Managed (e.g., Astronomer, MWAA) |
+| Cost component | Self-hosted Airflow | Managed (e.g., Astronomer) |
 |---|---|---|
 | License | $0 | ~$300–1,200/mo |
-| Engineer setup time | 40–80 hours | 4–8 hours |
+| Engineer setup | 40–80 hours | 4–8 hours |
 | Monthly maintenance | 8–16 hours/mo | ~0 hours/mo |
 | Upgrades (annual) | 20–40 hours | Included |
 | Debugging & incidents | 5–10 hours/mo | Vendor handles |
+
+<!-- Talk track: This is the slide I wish someone had shown me earlier in my career. Open source is not free. Let me walk through a concrete example. Airflow is the most popular open-source orchestration tool. The license costs zero dollars. But setting it up takes forty to eighty hours of a data engineer's time. Maintaining it — keeping it running, monitoring it, fixing it when workers crash — takes eight to sixteen hours a month. Upgrading it when a new version comes out is a multi-day project. And when it breaks at 2 AM, your engineer is the one getting paged. -->
+
+---
+
+## The Hidden Costs of "Free" — The Bottom Line
+
+| | Self-hosted | Managed |
+|---|---|---|
 | **Annual engineer cost** | ~$30K–50K in loaded salary | ~$4K–14K in subscription |
 
 **When "free" actually costs more than "paid":** almost always, unless you have a dedicated platform team.
 
-The real question isn't "what does the tool cost?" It's "what does my team NOT build while they're maintaining this tool?"
+The real question isn't "what does the tool cost?" It's "what does my team NOT build while maintaining this tool?"
 
-<!-- Talk track: This is the slide I wish someone had shown me earlier in my career. Open source is not free. Let me walk through a concrete example. Airflow is the most popular open-source orchestration tool. The license costs zero dollars. But setting it up takes forty to eighty hours of a data engineer's time. Maintaining it — keeping it running, monitoring it, fixing it when workers crash — takes eight to sixteen hours a month. Upgrading it when a new version comes out is a multi-day project. And when it breaks at 2 AM, your engineer is the one getting paged. Add it up: you're spending thirty to fifty thousand dollars a year in engineer salary to run a "free" tool. A managed alternative like Astronomer or AWS MWAA costs four to fourteen thousand a year in subscription fees. And your engineer spends almost zero time on maintenance, so they can build pipelines instead of babysitting infrastructure. The only time self-hosting makes economic sense is when you have a dedicated platform team that's already managing Kubernetes and cloud infrastructure. For most analytics teams, especially small and medium ones, managed services are cheaper than free. -->
+<!-- Talk track: Add it up: you're spending thirty to fifty thousand dollars a year in engineer salary to run a "free" tool. A managed alternative costs four to fourteen thousand a year in subscription fees. And your engineer spends almost zero time on maintenance, so they can build pipelines instead of babysitting infrastructure. The only time self-hosting makes economic sense is when you have a dedicated platform team that's already managing Kubernetes and cloud infrastructure. For most analytics teams, especially small and medium ones, managed services are cheaper than free. -->
 
 ---
 
@@ -407,18 +442,16 @@ The real question isn't "what does the tool cost?" It's "what does my team NOT b
 
 ## The RFP Process — Scoring Dimensions
 
-**Scoring dimensions:**
-
 | Criterion | What to evaluate |
 |---|---|
 | **Functionality** | Does it solve the core problem? |
-| **Integration** | Does it work with our existing stack? |
+| **Integration** | Works with our existing stack? |
 | **Security** | SOC 2, encryption, access controls |
 | **Cost** | Total cost of ownership over 3 years |
 | **Support** | Response times, dedicated CSM, community |
 | **Scalability** | Will it grow with us? |
 
-**Pro tip:** Score as a team, not solo. Each evaluator scores independently, then you discuss disagreements. The discussion reveals assumptions you didn't know you had.
+**Pro tip:** Score as a team. Each evaluator scores independently, then discuss disagreements — the discussion reveals hidden assumptions.
 
 <!-- Talk track: Here are the scoring dimensions I recommend for any vendor evaluation. Functionality — does it actually solve the problem you're trying to solve? Integration — does it connect to your existing warehouse, your existing BI tool, your existing SSO? Security — does it have SOC 2 Type II, does it encrypt data at rest and in transit, does it support role-based access controls? Cost — not just the sticker price, but the total cost of ownership over three years including implementation and training. Support — what happens when it breaks? Do you get a dedicated customer success manager, or do you file a ticket and wait a week? Scalability — if your data volume doubles in a year, will this tool handle it? I recommend scoring as a team. Have each evaluator score independently, then come together to discuss disagreements. That discussion is incredibly valuable — it reveals assumptions and priorities you didn't know existed. -->
 
@@ -453,16 +486,25 @@ The worst time to introduce yourself to the IT security team is when you need an
 
 ---
 
-## The Procurement Timeline
+## The Procurement Timeline — Phases 1–4
 
-What the vendor evaluation process **actually** looks like from start to signed contract:
+What vendor evaluation **actually** looks like from start to signed contract:
 
 | Month | Step | Who's involved |
 |---|---|---|
-| **Month 1** | Identify need, get IT alignment, initial vendor research | Analytics + IT |
+| **Month 1** | Identify need, get IT alignment, vendor research | Analytics + IT |
 | **Month 1–2** | Vendor demos, shortlist to 2–3 options | Analytics + IT + stakeholders |
 | **Month 2–3** | Pilot / proof of concept with real data | Analytics + Engineering |
 | **Month 3** | Security questionnaire + vendor risk assessment | IT Security |
+
+<!-- Talk track: I want to show you what the procurement timeline actually looks like, because most analytics managers dramatically underestimate it. Month one: you identify the need and start researching vendors. Critically, you loop in IT from day one. Month one to two: you run demos and narrow down to two or three finalists. Month two to three: you run a pilot with real data. This is where you find out if the tool actually works for your use case, not just in a sales demo. Month three: security review. The vendor fills out your company's security questionnaire. IT reviews their SOC 2 report. This alone can take three to four weeks. -->
+
+---
+
+## The Procurement Timeline — Phases 5–8
+
+| Month | Step | Who's involved |
+|---|---|---|
 | **Month 3–4** | Legal review of contract + data processing agreement | Legal |
 | **Month 4** | Budget approval (align to budget cycle!) | Finance |
 | **Month 4–5** | SSO integration + access provisioning | IT |
@@ -470,7 +512,7 @@ What the vendor evaluation process **actually** looks like from start to signed 
 
 **Total: 3–6 months.** Plan accordingly. If you need a tool by Q3, start the process in Q1.
 
-<!-- Talk track: I want to show you what the procurement timeline actually looks like, because most analytics managers dramatically underestimate it. Month one: you identify the need and start researching vendors. Critically, you loop in IT from day one. Month one to two: you run demos and narrow down to two or three finalists. Month two to three: you run a pilot with real data. This is where you find out if the tool actually works for your use case, not just in a sales demo. Month three: security review. The vendor fills out your company's security questionnaire. IT reviews their SOC 2 report. This alone can take three to four weeks. Month three to four: legal reviews the contract and the data processing agreement. They'll have questions. There will be redlines. Month four: budget approval. If you've missed the budget cycle, you might wait months. Month four to five: IT configures SSO and provisions access. Month five to six: you actually deploy and train your team. Total elapsed time: three to six months. If you need a tool operational by Q3, you need to start this process in Q1. Most analytics managers start in Q2 and then are surprised when the tool isn't ready until Q4. Plan backwards from your deadline. -->
+<!-- Talk track: Month three to four: legal reviews the contract and the data processing agreement. They'll have questions. There will be redlines. Month four: budget approval. If you've missed the budget cycle, you might wait months. Month four to five: IT configures SSO and provisions access. Month five to six: you actually deploy and train your team. Total elapsed time: three to six months. If you need a tool operational by Q3, you need to start this process in Q1. Most analytics managers start in Q2 and then are surprised when the tool isn't ready until Q4. Plan backwards from your deadline. -->
 
 ---
 
@@ -512,16 +554,24 @@ Every table in your warehouse should have a retention policy. "Keep forever" is 
 For your case context, write a one-page **"Our Next 6 Months of Data Infrastructure"** plan.
 
 **Your one-pager must include:**
-1. **Current state** — What exists today? What are the gaps and pain points?
-2. **Target architecture** — What does the stack look like in 6 months? Map to the blueprint layers.
-3. **Key tools** — What are you selecting for each layer and why?
+1. **Current state** — What exists today? Gaps and pain points?
+2. **Target architecture** — Stack in 6 months, mapped to blueprint layers
+3. **Key tools** — Selection for each layer and rationale
+
+<!-- Talk track: Time for hands-on work. Open the data infrastructure blueprint template. You have 25 minutes. I want you to write a one-page plan for your case context's data infrastructure over the next six months. This is a real deliverable — something you could hand to a VP of Engineering or a CTO and say "here's what we need, here's what it costs, here's the plan." Be specific about tools. Don't write "we need a warehouse" — write "we'll use BigQuery because it has a generous free tier and our team already knows SQL." -->
+
+---
+
+## Activity: Data Infrastructure One-Pager (cont.)
+
+**Your one-pager must also include:**
 4. **Implementation plan** — Phased: Month 1-2, Month 3-4, Month 5-6
 5. **Budget estimate** — Monthly and annual costs
 6. **Risks & dependencies** — What could go wrong? What do you depend on?
 
 **Tip:** Refer back to the blueprint slide. Small context students: resist the urge to over-engineer. Large context students: focus on what's achievable in 6 months, not the 5-year vision.
 
-<!-- Talk track: Time for hands-on work. Open the data infrastructure blueprint template. You have 25 minutes. I want you to write a one-page plan for your case context's data infrastructure over the next six months. This is a real deliverable — something you could hand to a VP of Engineering or a CTO and say "here's what we need, here's what it costs, here's the plan." Be specific about tools. Don't write "we need a warehouse" — write "we'll use BigQuery because it has a generous free tier and our team already knows SQL." Use the cost estimates from the slides as a starting point. Small context people: your one-pager should be simple. Three or four tools, under two thousand a month. Large context people: your challenge is scoping down to what's achievable in six months. Go. I'll circulate. -->
+<!-- Talk track: Use the cost estimates from the slides as a starting point. Small context people: your one-pager should be simple. Three or four tools, under two thousand a month. Large context people: your challenge is scoping down to what's achievable in six months. Make sure you include a phased implementation plan and a realistic budget. The risks section is critical — think about what dependencies you have on other teams and what could delay your timeline. Go. I'll circulate. -->
 
 ---
 
@@ -535,6 +585,12 @@ Pick **one tool category** for your case context:
 - Experimentation (Statsig vs. Eppo vs. LaunchDarkly)
 - Ingestion (Fivetran vs. Airbyte vs. Stitch)
 
+<!-- Talk track: Second activity. Keep your one-pager open — now pick one tool category from your infrastructure plan and do a real vendor evaluation. Pick a category where you have a genuine choice to make. If you're in the small context, maybe it's warehouse or BI tool. If you're in the medium context, maybe it's experimentation or event platform. If you're in the large context, maybe it's data catalog or ML platform. -->
+
+---
+
+## Activity: RFP Scoring Matrix (cont.)
+
 **Your scoring matrix must include:**
 1. **Requirements** — At least 8, prioritized as Must / Should / Nice
 2. **Three real vendors** — Scored 1-5 on each criterion
@@ -544,7 +600,7 @@ Pick **one tool category** for your case context:
 
 **Tip:** You can use real pricing from vendor websites. Approximate is fine.
 
-<!-- Talk track: Second activity. Keep your one-pager open — now pick one tool category from your infrastructure plan and do a real vendor evaluation. Pick a category where you have a genuine choice to make. If you're in the small context, maybe it's warehouse or BI tool. If you're in the medium context, maybe it's experimentation or event platform. If you're in the large context, maybe it's data catalog or ML platform. Use real vendors, real criteria, real-ish pricing. The point of this exercise is to practice the discipline of structured evaluation. It's incredibly tempting to just pick the tool you've heard of or the one your friend uses. The scoring matrix forces you to be rigorous. Twenty minutes. Go. -->
+<!-- Talk track: Use real vendors, real criteria, real-ish pricing. The point of this exercise is to practice the discipline of structured evaluation. It's incredibly tempting to just pick the tool you've heard of or the one your friend uses. The scoring matrix forces you to be rigorous. Make sure you weight your criteria — security and functionality should probably carry more weight than nice-to-have features. Twenty minutes. Go. -->
 
 ---
 

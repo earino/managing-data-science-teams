@@ -26,14 +26,14 @@ By the end of this block you will be able to:
 **Day 1 recap — you built:**
 - A **Manager OS** with cadences, rituals, artifacts, and decision hygiene
 - A **hiring plan** with structured interviews and work samples
-- A **roadmap** tied to business outcomes with an executive narrative
+- A **roadmap** tied to business outcomes
 
 **Today — Day 2:**
-- **Block D (now):** Grow your people — career development, feedback, performance
+- **Block D (now):** Career development, feedback, performance
 - **Block E (13:30):** Cross-functional collaboration, vendor management, data infrastructure
 - **Block F (15:30):** Leading up and across; QBR simulation
 
-**The arc:** You hired a team. Now you need to grow them, equip them, and present their work to leadership.
+**The arc:** You hired a team. Now you need to grow them, equip them, and present their work.
 
 <!-- Talk track: Let me orient you. A week ago, you left here with a Team Charter, a Stakeholder Map, a hiring packet draft, and a roadmap. You've submitted your hiring packet drafts — nice work. Today we complete the arc. This block is about growing the people you hired. Block E is about the infrastructure and partnerships they need to do their work. Block F is about presenting it all to leadership in a QBR simulation. Think of it as: Day 1 was about building the system. Day 2 is about running the system — and that means people, tools, and communication. -->
 
@@ -57,19 +57,17 @@ If your people don't see a path forward on your team, they'll find one somewhere
 
 ## The Performance Management Paradox
 
-**Most people hate performance reviews.** Most managers hate giving them.
-
-And yet, when done well, they're one of the **most valuable things a manager does.**
+**Most people hate performance reviews.** Most managers hate giving them. And yet, done well, they're one of the **most valuable things a manager does.**
 
 **The paradox:** The discomfort IS the value.
 
 - Honest feedback is uncomfortable — but it's how people grow
 - Fair evaluation requires judgment — and judgment feels risky
-- Career conversations force you to make promises — and promises create accountability
+- Career conversations create accountability through promises
 
-**The managers people remember — and stay for — are the ones who told them the truth, even when it was hard.**
+**The managers people remember — and stay for — told them the truth, even when it was hard.**
 
-Avoidance feels kind. It isn't. Avoiding hard conversations is how you end up with surprised, frustrated people who leave.
+Avoidance feels kind. It isn't. It's how you end up with surprised, frustrated people who leave.
 
 <!-- Talk track: Here's the paradox we need to sit with. Performance management is uncomfortable. Writing reviews is tedious. Giving constructive feedback makes your stomach turn. Having the conversation where you tell someone they're not ready for promotion — that's genuinely hard. And yet, every piece of research on management effectiveness says the same thing: the managers people value most are the ones who gave them honest feedback, helped them see their blind spots, and had the courage to have difficult conversations. The discomfort is not a bug — it is the feature. If performance management felt easy, you'd be doing it wrong. You'd be rubber-stamping everyone as "meets expectations" and avoiding the conversations that actually matter. So if this block makes you uncomfortable, good. That means we're doing it right. -->
 
@@ -121,18 +119,27 @@ Avoidance feels kind. It isn't. Avoiding hard conversations is how you end up wi
 
 **What if you only have 3 people?** You still need levels.
 
-- Levels set **expectations** — people know what "good" looks like at their role
-- Levels create **growth paths** — even on a tiny team, people need to see a future
-- Levels enable **fair compensation** — without levels, pay is arbitrary
+- Levels set **expectations** — people know what "good" looks like
+- Levels create **growth paths** — even on a tiny team
+- Levels enable **fair compensation** — without them, pay is arbitrary
 
 **How to write level descriptions for analytics:**
 
-1. **Don't use generic HR templates.** "Demonstrates leadership" means nothing. Write descriptions that reference the actual work: types of analyses, stakeholder interactions, ambiguity of problems.
-2. **Define each level on 3 axes:** Scope (what size problems do they own?), Autonomy (how much direction do they need?), and Impact (who uses their work and for what decisions?).
+1. **Skip generic HR templates.** Write descriptions referencing actual work: types of analyses, stakeholder interactions, ambiguity of problems.
+2. **Define each level on 3 axes:** Scope (problem size), Autonomy (direction needed), Impact (who uses their work).
+
+<!-- Talk track: I know what some of you are thinking — "I have three people on my team, I don't need a career ladder." You do. Even on a tiny team, levels matter because they set expectations and create growth paths. Without them, your people have no way to know what "good" looks like or what they're working toward. The key is to write level descriptions that are specific to analytics work — not the generic HR boilerplate that says things like "demonstrates strategic thinking." What does that mean for a data analyst? Instead, describe the work: at this level, you run analyses that are scoped for you. At the next level, you identify what analyses need to be run and scope them yourself. -->
+
+---
+
+## Building a Ladder That Works (cont.)
+
+**More tips for writing level descriptions:**
+
 3. **Use concrete examples.** "At L3, you run a cohort analysis when asked. At L4, you identify that a cohort analysis is the right approach and scope it yourself."
 4. **Pressure-test with your team.** If your people can't tell which level they're at after reading the descriptions, rewrite them.
 
-<!-- Talk track: I know what some of you are thinking — "I have three people on my team, I don't need a career ladder." You do. Even on a tiny team, levels matter because they set expectations and create growth paths. Without them, your people have no way to know what "good" looks like or what they're working toward. The key is to write level descriptions that are specific to analytics work — not the generic HR boilerplate that says things like "demonstrates strategic thinking." What does that mean for a data analyst? Instead, describe the work: at this level, you run analyses that are scoped for you. At the next level, you identify what analyses need to be run and scope them yourself. At the level above that, you're setting the analytical agenda for a business unit. That's concrete. That's something someone can read and say "I know where I am and I know what I need to do to get to the next level." -->
+<!-- Talk track: Concrete examples are what make level descriptions actually useful. Compare "demonstrates analytical thinking" to "at this level, you identify what analyses need to be run and scope them yourself; at the level above, you're setting the analytical agenda for a business unit." That's something someone can read and say "I know where I am and I know what I need to do to get to the next level." And always pressure-test your descriptions with your team. If they read the level descriptions and can't immediately tell which level they're at, the descriptions aren't specific enough. Rewrite them until they're crystal clear. -->
 
 ---
 
@@ -162,12 +169,11 @@ Avoidance feels kind. It isn't. Avoiding hard conversations is how you end up wi
 
 ---
 
-## The Promotion Conversation
+## The Promotion Conversation — When They're Ready
 
 **How to handle: "I want to be promoted to Senior."**
 
 **Use the scope / autonomy / ambiguity framework:**
-
 - "Let me show you what Senior looks like on our team. Here are the three dimensions..."
 - Compare their current work against each dimension — with specific examples
 - Be honest about where they are and where the gaps are
@@ -176,12 +182,18 @@ Avoidance feels kind. It isn't. Avoiding hard conversations is how you end up wi
 - Advocate hard. Bring evidence to calibration. Make the case before they have to ask.
 - The best promotions happen when the person is *already operating at the next level* — the title is catching up to reality.
 
+<!-- Talk track: At some point, someone on your team will sit in your 1:1 and say "I want to be promoted to Senior." This is a moment that matters. Handle it well and you build trust and motivation. Handle it poorly and you lose them. The scope, autonomy, ambiguity framework gives you an honest, transparent way to have this conversation. Pull it out. Walk through each dimension together. Show them specific examples from their own work. If they're ready — and ideally you should know this before they ask — advocate for them aggressively. Bring the evidence to calibration. The best promotions happen when the person has already been operating at the next level for months and the title is just catching up to reality. -->
+
+---
+
+## The Promotion Conversation — Closing the Gap
+
 **When they're not ready yet:**
 - Don't say "not yet" without a plan. That's demoralizing and vague.
 - Say: "Here's specifically what Senior looks like, here's where you are today, and here's what we'll work on together to close the gap."
 - The difference between "working at the next level" and "doing more of the same" — more dashboards is not Senior. Independently identifying what the business needs and delivering it is.
 
-<!-- Talk track: At some point, someone on your team will sit in your 1:1 and say "I want to be promoted to Senior." This is a moment that matters. Handle it well and you build trust and motivation. Handle it poorly and you lose them. The scope, autonomy, ambiguity framework gives you an honest, transparent way to have this conversation. Pull it out. Walk through each dimension together. Show them specific examples from their own work. If they're ready — and ideally you should know this before they ask — advocate for them aggressively. Bring the evidence to calibration. The best promotions happen when the person has already been operating at the next level for months and the title is just catching up to reality. If they're not ready, don't just say "not yet." That's the worst thing you can say. Instead, be specific: "Here's what Senior looks like on these three dimensions. Here's where you are. Here's the gap. And here's the plan to close it." Give them a concrete path. And make sure they understand the difference between doing more work and doing different work. Shipping ten more dashboards isn't Senior. Identifying that the business needs a different kind of analysis entirely — that's Senior. -->
+<!-- Talk track: If they're not ready, don't just say "not yet." That's the worst thing you can say. Instead, be specific: "Here's what Senior looks like on these three dimensions. Here's where you are. Here's the gap. And here's the plan to close it." Give them a concrete path. And make sure they understand the difference between doing more work and doing different work. Shipping ten more dashboards isn't Senior. Identifying that the business needs a different kind of analysis entirely — that's Senior. The conversation should leave them motivated, not deflated. They should walk out knowing exactly what they need to demonstrate. -->
 
 ---
 
@@ -248,22 +260,27 @@ Most new managers default to **Ruinous Empathy** — they care about the person 
 
 ## Giving Positive Feedback Well
 
-**Positive feedback is just as important as constructive feedback.** And most managers are bad at it too.
+**Positive feedback is just as important as constructive feedback.** Most managers are bad at it.
 
-**The difference:**
-
-- **Vague:** "Great job on the analysis!"
-- **Specific:** "The way you structured the cohort analysis by acquisition channel gave the growth team exactly what they needed to make the decision on reallocating the paid search budget — that's the kind of strategic framing I want to see more of."
+**Vague:** "Great job on the analysis!"
+**Specific:** "The way you structured the cohort analysis by acquisition channel gave the growth team exactly what they needed to reallocate the paid search budget — that's the strategic framing I want to see more of."
 
 **Why specific praise matters:**
-- It reinforces the **exact behaviors** you want to see repeated
-- It tells the person **what "good" looks like** on your team
-- It becomes **evidence** you can use in calibration and promotion cases
-- It builds **trust** — the person knows you're actually paying attention to their work
+- Reinforces the **exact behaviors** you want repeated
+- Shows the person **what "good" looks like** on your team
+- Becomes **evidence** for calibration and promotion cases
+
+<!-- Talk track: We spend a lot of time teaching managers how to give constructive feedback, but we rarely teach them how to give positive feedback well. And most managers are terrible at it. "Great job" is not feedback. It's a pleasantry. It teaches the person nothing about what specifically they did well or what you want to see more of. Compare that to the specific version on this slide — it tells them exactly what behavior was valuable, explains why it mattered to the business, and signals what you want to see more of. That's coaching disguised as praise. -->
+
+---
+
+## Giving Positive Feedback Well (cont.)
 
 **The test:** If your praise could apply to anyone on the team, it's too vague. Good praise is so specific that only one person could have earned it.
 
-<!-- Talk track: We spend a lot of time teaching managers how to give constructive feedback, but we rarely teach them how to give positive feedback well. And most managers are terrible at it. "Great job" is not feedback. It's a pleasantry. It teaches the person nothing about what specifically they did well or what you want to see more of. Compare that to: "The way you structured the cohort analysis by acquisition channel gave the growth team exactly what they needed to make the decision on reallocating the paid search budget — that's the kind of strategic framing I want to see more of." That sentence does three things. It tells them exactly what behavior was valuable. It explains why it mattered to the business. And it signals what you want to see more of. That's coaching disguised as praise. And here's a bonus: every piece of specific positive feedback you give becomes evidence in your manager log that you can pull out during calibration. "Great job" is useless in a calibration room. "She structured the analysis in a way that directly enabled a budget reallocation decision" — that's an accomplishment statement. -->
+**Bonus:** Every piece of specific positive feedback becomes an accomplishment statement for calibration. "Great job" is useless in a calibration room. "She structured the analysis in a way that directly enabled a budget reallocation decision" — that wins.
+
+<!-- Talk track: Here's the litmus test for your praise: if you could say it to anyone on the team, it's too vague. Good praise is so specific that only one person could have earned it. And here's a bonus reason to give specific praise — every piece of it becomes evidence in your manager log that you can pull out during calibration. "Great job" is useless in a calibration room. "She structured the analysis in a way that directly enabled a budget reallocation decision" — that's an accomplishment statement you can use when advocating for her rating. Specific praise does double duty: it motivates in the moment and builds your evidence base for review season. -->
 
 ---
 
@@ -271,19 +288,15 @@ Most new managers default to **Ruinous Empathy** — they care about the person 
 
 **Patterns that undermine trust and growth:**
 
-- **The Feedback Sandwich** — positive / negative / positive. People learn to ignore the bread. "Great slides! Your analysis was wrong. But nice fonts!" Nobody hears the middle.
-
-- **The Vague Praise** — "Great job!" Great job at WHAT? Praise without specificity teaches nothing.
-
-- **The Delayed Feedback** — Telling someone in March about something that happened in December. The moment has passed. Feedback has a half-life.
-
+- **The Feedback Sandwich** — positive / negative / positive. People learn to ignore the bread. Nobody hears the middle.
+- **The Vague Praise** — "Great job!" Great job at WHAT? Teaches nothing.
+- **The Delayed Feedback** — Telling someone in March about December. Feedback has a half-life.
 - **The Public Criticism** — Praise in public, criticize in private. Always.
+- **The Unactionable** — "Be more strategic." Give a concrete behavior to change instead.
 
-- **The Unactionable** — "Be more strategic." What does that mean? If they could be more strategic, they would be. Give them a concrete behavior to change.
+**Rule of thumb:** Feedback should be specific enough that the person knows exactly what to do differently.
 
-**Rule of thumb:** Feedback should be specific enough that the person knows exactly what to do differently next time.
-
-<!-- Talk track: Now let me name the anti-patterns — the ways managers give feedback that actually makes things worse. The feedback sandwich is the most popular and the most useless. Everyone knows the pattern: say something nice, deliver the real message, say something nice again. Your team will learn to brace themselves every time you start with a compliment. Just give the feedback directly. Vague praise is almost as bad: "great job" teaches nothing. What specifically was great? The methodology? The stakeholder communication? The speed? Say that instead. Delayed feedback is incredibly common — you save it up for the quarterly review and dump it all at once. By then, the person can't even remember what you're talking about. Give feedback within 48 hours. Public criticism destroys trust. And "be more strategic" is the laziest feedback in corporate America. What does that even mean? Always ask yourself: is this specific enough that the person knows exactly what to do differently next time? If not, it's not ready to deliver. -->
+<!-- Talk track: Now let me name the anti-patterns — the ways managers give feedback that actually makes things worse. The feedback sandwich is the most popular and the most useless. Everyone knows the pattern: say something nice, deliver the real message, say something nice again. Your team will learn to brace themselves every time you start with a compliment. Just give the feedback directly. Vague praise teaches nothing. Delayed feedback is incredibly common — you save it up for the quarterly review and by then nobody remembers. Public criticism destroys trust. And "be more strategic" is the laziest feedback in corporate America. Always ask yourself: is this specific enough that the person knows exactly what to do differently next time? If not, it's not ready to deliver. -->
 
 ---
 
@@ -320,18 +333,24 @@ Keep a running document of accomplishments, feedback given, and notable moments.
 **What a real weekly entry looks like — 5 minutes per report:**
 
 **Sarah Chen — Week of Jan 13**
-- Shipped the retention cohort analysis; Product team used it in their planning meeting. Strong stakeholder communication.
-- Gave SBI feedback on the dashboard presentation — needs to lead with the "so what" before showing methodology.
-- Career conversation: interested in the Staff track. Discussed what L5 scope looks like. Will identify a project for her to demonstrate cross-team impact.
+- Shipped the retention cohort analysis; Product team used it in their planning meeting.
+- Gave SBI feedback on dashboard presentation — needs to lead with the "so what."
+- Career conversation: interested in Staff track. Discussed L5 scope.
 
 **Template: 2-3 bullets covering:**
 1. **What they shipped** — concrete output with business context
 2. **Feedback given/received** — what you told them, what you heard
-3. **Career conversation notes** — anything related to growth, promotion path, development
+3. **Career notes** — anything related to growth or promotion path
+
+<!-- Talk track: Let me make the manager log concrete. Here's what an actual entry looks like. Three bullet points. Took me three minutes to write. First bullet: what they shipped and who used it. Second bullet: feedback I gave — I note the topic so I can track patterns over time. Third bullet: career conversation notes. That's it. Three bullets, three minutes, once a week. -->
+
+---
+
+## The Manager Log in Practice (cont.)
 
 **The payoff:** When review season arrives, you have 50 weekly entries per person. Your calibration summary writes itself. Your evidence is airtight. And your people feel seen because you actually remember what they did in February.
 
-<!-- Talk track: Let me make the manager log concrete. Here's what an actual entry looks like. Three bullet points. Took me three minutes to write. First bullet: what they shipped and who used it. Second bullet: feedback I gave — I note the topic so I can track patterns over time. Third bullet: career conversation notes. That's it. Three bullets, three minutes, once a week. Now multiply that by 50 weeks and imagine sitting down to write a performance review. Instead of staring at a blank page trying to remember what happened nine months ago, you have a detailed record. You can see patterns — maybe Sarah's stakeholder communication has been improving steadily since March. Maybe the same feedback about leading with the "so what" keeps coming up, which tells you it's a deeper development area. The log doesn't just help with reviews. It helps you be a better manager in real time because you're paying attention. -->
+<!-- Talk track: Now multiply those entries by 50 weeks and imagine sitting down to write a performance review. Instead of staring at a blank page trying to remember what happened nine months ago, you have a detailed record. You can see patterns — maybe Sarah's stakeholder communication has been improving steadily since March. Maybe the same feedback about leading with the "so what" keeps coming up, which tells you it's a deeper development area. The log doesn't just help with reviews. It helps you be a better manager in real time because you're paying attention. -->
 
 ---
 
@@ -363,7 +382,7 @@ Keep a running document of accomplishments, feedback given, and notable moments.
 
 ---
 
-## Writing a Calibration Summary
+## Writing a Calibration Summary — Structure
 
 **Structure:**
 
@@ -373,6 +392,12 @@ Keep a running document of accomplishments, feedback given, and notable moments.
 4. **Development Areas** — Specific, actionable, forward-looking
 5. **Rating Recommendation** — With justification tied to level expectations
 
+<!-- Talk track: Let me show you the anatomy of a good calibration summary. You start with role and level context — this is critical because "exceeds expectations" means different things at different levels. An L3 analyst who ships a solid cohort analysis is meeting expectations. An L5 analyst who does the same thing might be underperforming for their level. Then you list key accomplishments with quantified business impact. Your development areas should be specific and actionable. And your rating justification should explicitly reference level expectations. -->
+
+---
+
+## Writing a Calibration Summary — Good vs. Bad
+
 **Good vs. Bad:**
 
 | | Bad | Good |
@@ -381,7 +406,7 @@ Keep a running document of accomplishments, feedback given, and notable moments.
 | **Development** | "Needs to communicate better" | "Needs to tailor technical presentations for non-technical audiences; recommend presenting at next month's product review as practice" |
 | **Justification** | "She's great, give her exceeds" | "Exceeds expectations for L4: delivered L5-scope impact on the churn project while mentoring 2 junior analysts" |
 
-<!-- Talk track: Let me show you the anatomy of a good calibration summary. You start with role and level context — this is critical because "exceeds expectations" means different things at different levels. An L3 analyst who ships a solid cohort analysis is meeting expectations. An L5 analyst who does the same thing might be underperforming for their level. Then you list key accomplishments with quantified business impact. Look at the difference between "built dashboards for the marketing team" and "built the marketing attribution dashboard that identified $800K in misallocated spend, leading to a 14% improvement in CAC." The first tells me what they did. The second tells me why it mattered. Your development areas should be specific and actionable — not "needs to communicate better" but "needs to tailor technical presentations for non-technical audiences." And your rating justification should explicitly reference level expectations. "Exceeds for L4 because she delivered L5-scope impact" — that's a calibration argument a peer manager can engage with. -->
+<!-- Talk track: Look at the difference between the bad and good examples here. "Built dashboards for the marketing team" tells me what they did. "Built the marketing attribution dashboard that identified $800K in misallocated spend, leading to a 14% improvement in CAC" tells me why it mattered. Your development areas should not be "needs to communicate better" but "needs to tailor technical presentations for non-technical audiences." And your rating justification should reference level expectations explicitly. "Exceeds for L4 because she delivered L5-scope impact" — that's a calibration argument a peer manager can engage with. -->
 
 ---
 
@@ -419,20 +444,29 @@ Keep a running document of accomplishments, feedback given, and notable moments.
 
 Sometimes what looks like underperformance is actually:
 
-- **Wrong role fit** — They're a brilliant data engineer stuck in an analyst role, or vice versa. The fix isn't improvement — it's repositioning.
-- **Unclear expectations** — You never told them what "good" looks like. That's your failure, not theirs.
-- **Personal crisis** — Divorce, illness, family emergency, mental health. The human being needs support, not a performance plan.
-- **Burnout** — They were your top performer for two years and now they're running on empty. A PIP will push them out the door.
-- **Toxic team dynamics** — A colleague is undermining them, or the team culture is broken. The problem is the system, not the person.
-- **Manager's own failure** — You haven't provided direction, context, resources, or feedback. They're failing because you are.
+- **Wrong role fit** — A brilliant data engineer stuck in an analyst role. The fix is repositioning, not improvement.
+- **Unclear expectations** — You never told them what "good" looks like. That's your failure.
+- **Personal crisis** — Divorce, illness, family emergency. The human needs support, not a performance plan.
 
-**The diagnostic before the PIP:** Have an honest, curious conversation. "I've noticed a change in your work. I want to understand what's going on — not to judge, but to help." You might discover the real problem has nothing to do with performance.
-
-<!-- Talk track: This is the slide I wish every manager would internalize before they ever initiate a PIP. Sometimes what looks like underperformance is actually something else entirely. I've seen managers put someone on a PIP when the real problem was that the person was in the wrong role — they were a data engineer forced into an analyst position and they were miserable. A PIP won't fix that. A role change will. I've seen PIPs issued to people going through a divorce or dealing with a sick parent. That's not a performance problem — that's a human being in crisis who needs support. I've seen top performers get put on PIPs after two years of unsustainable workload finally caught up with them. That's burnout, and a PIP is the cruelest possible response. And — this is the hardest one — sometimes the underperformance is actually the manager's fault. If you never set clear expectations, never gave feedback, and never provided direction, you don't get to blame the person for not meeting a standard they didn't know existed. Before you reach for a PIP, have a genuinely curious conversation. You might discover the fix is something completely different. -->
+<!-- Talk track: This is the slide I wish every manager would internalize before they ever initiate a PIP. Sometimes what looks like underperformance is actually something else entirely. I've seen managers put someone on a PIP when the real problem was that the person was in the wrong role — they were a data engineer forced into an analyst position and they were miserable. A PIP won't fix that. A role change will. I've seen PIPs issued to people going through a divorce or dealing with a sick parent. That's not a performance problem — that's a human being in crisis who needs support. -->
 
 ---
 
-## Difficult Conversations Framework
+## When the Problem Isn't Performance (cont.)
+
+**More root causes that look like underperformance:**
+
+- **Burnout** — Your top performer for two years is running on empty. A PIP will push them out the door.
+- **Toxic team dynamics** — A colleague is undermining them, or the culture is broken. The problem is the system, not the person.
+- **Manager's own failure** — You haven't provided direction, context, or feedback. They're failing because you are.
+
+**The diagnostic before the PIP:** Have an honest, curious conversation. "I've noticed a change in your work. I want to understand what's going on — not to judge, but to help."
+
+<!-- Talk track: I've seen top performers get put on PIPs after two years of unsustainable workload finally caught up with them. That's burnout, and a PIP is the cruelest possible response. And — this is the hardest one — sometimes the underperformance is actually the manager's fault. If you never set clear expectations, never gave feedback, and never provided direction, you don't get to blame the person for not meeting a standard they didn't know existed. Before you reach for a PIP, have a genuinely curious conversation. You might discover the fix is something completely different. -->
+
+---
+
+## Difficult Conversations — The COIN Model
 
 **COIN Model:**
 
@@ -441,7 +475,13 @@ Sometimes what looks like underperformance is actually:
 | **C** — Context | Set the scene; be direct about why you're meeting | "I want to talk about the last two sprint cycles and some patterns I'm seeing." |
 | **O** — Observation | State what you observed — factual, not interpretive | "You've missed three deadlines and your last two analyses had errors that stakeholders caught." |
 | **I** — Impact | Describe the consequence | "This is affecting the team's credibility with Product, and I'm getting questions from my manager." |
-| **N** — Next steps | What needs to change; collaborate on the plan | "I'd like to understand what's going on and figure out a plan together. What's your perspective?" |
+| **N** — Next steps | Collaborate on a plan | "I'd like to understand what's going on and figure out a plan together. What's your perspective?" |
+
+<!-- Talk track: Difficult conversations are the tax you pay for being a manager. You can't avoid them, but you can handle them well. The COIN model gives you a structure. Context — be direct about why you're having this meeting. Don't bury the lede. Observation — state what you've observed factually. Not "you've been slacking off" but "you've missed three deadlines." Impact — explain the consequence. And then — the most important part — ask for their perspective. You don't know the full story until you ask. -->
+
+---
+
+## Difficult Conversations — Preparation
 
 **Preparation matters:**
 - Write your key points down beforehand. Don't wing it.
@@ -449,7 +489,7 @@ Sometimes what looks like underperformance is actually:
 - Choose a private setting. Never in Slack, never in the open office.
 - Allow the other person to respond. Listen more than you talk.
 
-<!-- Talk track: Difficult conversations are the tax you pay for being a manager. You can't avoid them, but you can handle them well. The COIN model gives you a structure. Context — be direct about why you're having this meeting. Don't bury the lede. Observation — state what you've observed factually. Not "you've been slacking off" but "you've missed three deadlines." Impact — explain the consequence. And then — and this is the most important part — ask for their perspective. "What's going on?" Maybe they're dealing with a personal crisis. Maybe they're stuck on a technical problem and afraid to ask for help. Maybe they didn't realize they were missing the mark. You don't know until you ask. Preparation is essential. Write down your three key points. Practice saying them out loud. Choose a private setting — never, ever have a difficult conversation in Slack or in the open office. And when you're in the room, listen more than you talk. The goal is not to deliver a speech. The goal is to understand the situation and co-create a path forward. -->
+<!-- Talk track: Preparation is essential for difficult conversations. Write down your three key points. Practice saying them out loud. Choose a private setting — never, ever have a difficult conversation in Slack or in the open office. And when you're in the room, listen more than you talk. The goal is not to deliver a speech. The goal is to understand the situation and co-create a path forward. Maybe they're dealing with a personal crisis. Maybe they're stuck on a technical problem and afraid to ask for help. Maybe they didn't realize they were missing the mark. You don't know until you ask. -->
 
 ---
 
@@ -462,8 +502,16 @@ Write a PGP — either for yourself or for a fictional direct report in your cas
 **Your PGP must include:**
 1. **Current Role & Context** — Where is this person right now?
 2. **Strengths & Superpowers** — 3-5 things they're known for, with evidence
-3. **Growth Areas** — 2-3 specific, actionable areas for development
+3. **Growth Areas** — 2-3 specific, actionable development areas
 4. **Development Actions** — Concrete steps with timelines and success measures
+
+<!-- Talk track: Time to write. Open the PGP template. You have 25 minutes. You can write this for yourself — which is a genuinely valuable exercise — or for a fictional direct report in your case context. Either way, be specific and honest. Here's my biggest tip: growth areas are not the same as weaknesses. A growth area is the next frontier for someone who's already good. "Improve communication" is too vague. "Learn to present technical findings to non-technical stakeholders in under 5 minutes, starting by presenting at the next product review" — that's specific, measurable, and actionable. -->
+
+---
+
+## Activity: Draft a Personal Growth Plan (cont.)
+
+**Your PGP should also include:**
 5. **6-Month Vision** — Where should this person be in 6 months?
 6. **Check-in Cadence** — How often will you review this plan?
 
@@ -471,7 +519,7 @@ Write a PGP — either for yourself or for a fictional direct report in your cas
 - Be specific. "Improve communication" is not a growth area. "Learn to present technical findings to non-technical stakeholders in under 5 minutes" is.
 - Growth areas are not weaknesses. They're the next frontier.
 
-<!-- Talk track: Time to write. Open the PGP template. You have 25 minutes. You can write this for yourself — which is a genuinely valuable exercise — or for a fictional direct report in your case context. Either way, be specific and honest. Here's my biggest tip: growth areas are not the same as weaknesses. A growth area is the next frontier for someone who's already good. "Improve communication" is too vague. "Learn to present technical findings to non-technical stakeholders in under 5 minutes, starting by presenting at the next product review" — that's specific, measurable, and actionable. For the strengths section, don't just say "good at SQL." Say "recognized as the team's go-to person for complex cohort analyses; her retention study was cited by the VP of Product in the board meeting." Evidence makes it real. I'll circulate and help. Go. -->
+<!-- Talk track: For the strengths section, don't just say "good at SQL." Say "recognized as the team's go-to person for complex cohort analyses; her retention study was cited by the VP of Product in the board meeting." Evidence makes it real. And remember to include the six-month vision — where should this person be by then? That forward-looking framing turns the PGP from a checklist into a narrative. I'll circulate and help. Go. -->
 
 ---
 
@@ -479,38 +527,43 @@ Write a PGP — either for yourself or for a fictional direct report in your cas
 
 **Time: 20 minutes** | Use the Performance Summary template provided
 
-Write a calibration-ready performance summary for a fictional team member in your case context.
+Write a calibration-ready performance summary for a fictional team member.
 
 **Your summary must include:**
 1. **Role Context** — Role, level, scope, and what's expected at this level
 2. **Key Accomplishments** — At least 3, with quantified business impact
 3. **Growth & Development** — How this person has grown during the review period
+
+<!-- Talk track: All right, second exercise. Same energy, different artifact. Open the Performance Summary template. You have 20 minutes. You're writing a calibration-ready performance summary for a fictional team member. Imagine you're going to present this to a room of your peer managers. They're going to push back. They're going to ask "what evidence do you have?" and "is that really exceeds expectations for this level?" Write accordingly. -->
+
+---
+
+## Activity: Write a Calibration Summary (cont.)
+
+**Your summary must also include:**
 4. **Development Areas** — Specific, actionable, forward-looking
 5. **Rating Recommendation** — Exceeds / Meets / Below expectations, with explicit justification tied to level expectations
 6. **Supporting Evidence** — Manager log entries or stakeholder feedback
 
-**Challenge:** Write at least one accomplishment statement strong enough to survive calibration.
+**Challenge:** Write at least one accomplishment statement strong enough to survive calibration. Quantify business impact. Tie it to something the organization cares about.
 
-<!-- Talk track: All right, second exercise. Same energy, different artifact. Open the Performance Summary template. You have 20 minutes. You're writing a calibration-ready performance summary for a fictional team member. Imagine you're going to present this to a room of your peer managers. They're going to push back. They're going to ask "what evidence do you have?" and "is that really exceeds expectations for this level?" Write accordingly. The challenge I'm giving you: write at least one accomplishment statement strong enough to survive that scrutiny. Quantify the business impact. Tie it to something the organization cares about. And for the rating recommendation, don't just say "she's great." Say "Exceeds expectations for L4 because she independently identified and delivered an analysis that directly influenced a $2M budget allocation." That's the level of specificity that wins in calibration. Go. -->
+<!-- Talk track: The challenge I'm giving you: write at least one accomplishment statement strong enough to survive peer scrutiny in calibration. Quantify the business impact. Tie it to something the organization cares about. And for the rating recommendation, don't just say "she's great." Say "Exceeds expectations for L4 because she independently identified and delivered an analysis that directly influenced a $2M budget allocation." That's the level of specificity that wins in calibration. Go. -->
 
 ---
 
 ## Debrief
 
 **Let's discuss:**
-
 - What was hardest to write — the PGP or the calibration summary? Why?
-- What made you uncomfortable?
-- Did anyone find it harder to write about strengths than growth areas? (Most people do.)
+- Did anyone find it harder to write about strengths than growth areas?
 - How would you feel receiving the PGP you just wrote?
 
 **Key insights:**
-- If you can't articulate someone's strengths with evidence, you don't know them well enough
-- If your growth areas aren't specific enough to act on, they're not useful
-- If your calibration summary wouldn't survive a peer challenge, your evidence is too thin
-- The discomfort you felt writing these is the same discomfort your future reports will feel receiving them — handle with care
+- If you can't articulate strengths with evidence, you don't know them well enough
+- If growth areas aren't specific enough to act on, they're not useful
+- If your calibration summary wouldn't survive peer challenge, your evidence is too thin
 
-<!-- Talk track: Let's come back together. I want to hear from the room. What was harder — the PGP or the calibration summary? Show of hands for PGP. And for calibration. Interesting. In my experience, people find the calibration summary harder because it requires you to make a judgment and defend it. The PGP is aspirational — it feels generous. The calibration summary is evaluative — it feels high-stakes. Here's a question that might make you squirm: how would you feel receiving the PGP you just wrote? Would you feel seen? Would you feel motivated? Or would you feel like your manager was checking a box? That emotional reaction is data. If your PGP feels generic, it IS generic. The same goes for calibration summaries. If you can't point to specific evidence, you're guessing. And guessing about someone's performance is not fair to them. Take a minute to reflect on what you'd revise. -->
+<!-- Talk track: Let's come back together. I want to hear from the room. What was harder — the PGP or the calibration summary? In my experience, people find the calibration summary harder because it requires you to make a judgment and defend it. The PGP is aspirational — it feels generous. The calibration summary is evaluative — it feels high-stakes. Here's a question that might make you squirm: how would you feel receiving the PGP you just wrote? Would you feel seen? Would you feel motivated? Or would you feel like your manager was checking a box? That emotional reaction is data. If your PGP feels generic, it IS generic. Take a minute to reflect on what you'd revise. -->
 
 ---
 
@@ -518,13 +571,13 @@ Write a calibration-ready performance summary for a fictional team member in you
 
 **What to remember from this block:**
 
-- **PGP is not a PIP.** Growth plans are proactive and aspirational. Make the distinction loudly.
+- **PGP is not a PIP.** Growth plans are proactive and aspirational.
 - **Senior = scope + autonomy + ambiguity tolerance.** Not years.
-- **Feedback has a half-life.** Give it within 48 hours using SBI. Be specific enough that the person knows what to do differently.
-- **Document continuously.** Keep a manager log. Recency bias is the enemy of fairness.
-- **Calibration is where fairness happens.** Lead with evidence and quantified impact, not emotion.
-- **Difficult conversations require preparation.** Use COIN. Write your key points. Lead with curiosity.
-- **Dignity is non-negotiable.** In PIPs, in feedback, in calibration — always.
+- **Feedback has a half-life.** Give it within 48 hours using SBI.
+- **Document continuously.** The manager log defeats recency bias.
+- **Calibration is where fairness happens.** Lead with evidence, not emotion.
+- **Difficult conversations require preparation.** Use COIN. Lead with curiosity.
+- **Dignity is non-negotiable.** In PIPs, feedback, calibration — always.
 
 <!-- Talk track: Let me leave you with the key takeaways. PGP is not a PIP — that's a message you'll need to repeat to your team every single time you introduce growth plans. Senior means scope, autonomy, and ambiguity tolerance — not tenure. Feedback has a half-life — give it fast or lose it. Document continuously — your manager log is the foundation of fair performance management. Calibration is where fairness happens — bring evidence, not feelings. Prepare for difficult conversations — don't wing them. And dignity is non-negotiable, in every interaction, no matter how hard. These aren't just frameworks. They're commitments you make to the people who report to you. -->
 

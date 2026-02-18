@@ -19,7 +19,7 @@ RED = "\033[31m"
 BOLD = "\033[1m"
 RESET = "\033[0m"
 
-BASE = Path(__file__).resolve().parent
+BASE = Path(__file__).resolve().parent.parent
 
 passed = 0
 failed = 0

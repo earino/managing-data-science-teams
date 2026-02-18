@@ -26,14 +26,13 @@ By the end of this block you will be able to:
 **Your instructor:** Eduardo Arino de la Rubia, Professor of Practice at CEU
 
 **What this 2-day intensive covers:**
-- Day 1: Manager OS, Hiring & Team Formation, Roadmapping & Prioritization, Performance & Growth
-- Day 2: Infrastructure & Tooling, Stakeholder Management, Ethics & Governance, Portfolio Capstone
+- Day 1: Manager OS, Hiring & Team Formation, Roadmapping, Performance & Growth
+- Day 2: Infrastructure & Tooling, Stakeholder Mgmt, Ethics & Governance, Capstone
 
 **What makes this course different:**
-- It is **workshop-driven** — you will not just listen, you will build
-- You will leave with a **portfolio of real artifacts**: charters, stakeholder maps, hiring rubrics, roadmaps, performance frameworks
+- **Workshop-driven** — you will build, not just listen
+- You leave with a **portfolio of real artifacts**: charters, stakeholder maps, hiring rubrics, roadmaps, performance frameworks
 - Every artifact is anchored to a realistic case context that YOU choose
-- This is not a lecture series — it is a management flight simulator
 
 <!-- Talk track: Let me introduce myself. I'm Eduardo Arino de la Rubia, and I'm a Professor of Practice here at CEU. My background is in building and leading analytics and data science teams — I've done it at startups, mid-stage companies, and large enterprises. I've made every mistake we're going to talk about, and I've learned from most of them. This course is two days, and it is intense. We're going to cover the full lifecycle of analytics management — from building your operating system as a manager, to hiring, to roadmapping, to performance management, to infrastructure, to stakeholder communication. But here's what's different: this is not a lecture course. You're going to build things. By the end of Day 2, you'll have a portfolio of management artifacts that you could actually use on the job Monday morning. -->
 
@@ -41,17 +40,15 @@ By the end of this block you will be able to:
 
 ## Why This Course Exists
 
-**The problem:** Analytics and data science managers are almost always promoted from individual contributor roles — with **zero management training**.
-
-You were the best analyst, so now you manage analysts. But these are completely different jobs.
+**The problem:** Analytics managers are almost always promoted from IC roles with **zero management training**. You were the best analyst, so now you manage analysts — but these are completely different jobs.
 
 **The cost of bad management in analytics:**
-- **Talent flight** — your best people leave because they feel unseen, undirected, or unappreciated
-- **Lost credibility** — the analytics team becomes the "dashboard team" instead of a strategic partner
-- **Misaligned priorities** — you build what the loudest stakeholder wants, not what matters most
+- **Talent flight** — your best people leave because they feel unseen or undirected
+- **Lost credibility** — the team becomes the "dashboard team" instead of a strategic partner
+- **Misaligned priorities** — you build what the loudest stakeholder wants, not what matters
 - **Burnout** — without structure, everything is urgent and nothing is planned
 
-**The good news:** Management is a **learnable craft**, not an innate talent. You can get better at this systematically, the same way you got better at SQL or Python or statistical modeling.
+Management is a **learnable craft**, not an innate talent. You can improve systematically, the same way you got better at SQL or statistical modeling.
 
 <!-- Talk track: So why does this course exist? Here's the honest truth. The analytics industry has a management problem. The typical career path is: you're a great analyst, you build impressive models, you give clear presentations — and then someone says "congratulations, you're now managing a team of five." And nobody teaches you how to do that. The skills that made you a great IC — deep technical work, long periods of focus, individual problem-solving — those are almost the opposite of what management requires. The cost of getting this wrong is enormous. I've seen entire analytics teams turn over in under a year because of bad management. I've seen analytics functions lose all credibility with the business because nobody was managing stakeholder relationships. And I've seen brilliant people burn out because their manager had no structure, no prioritization framework, and no way to say no. The good news is that management is a craft. It's learnable. That's what we're here to do. -->
 
@@ -67,17 +64,16 @@ You were the best analyst, so now you manage analysts. But these are completely 
 | **Medium** | MarketBridge | Series B scale-up | You manage a team of 4-6 |
 | **Large** | FinGuard | Enterprise financial services | You lead a 15+ person analytics org |
 
-**The course mechanics:**
-- You will **choose one case context** and anchor ALL of your artifacts to it
-- Everything builds on everything else — your charter informs your hiring plan, your hiring plan informs your roadmap, your roadmap informs your stakeholder communication
-- You will leave with a **coherent portfolio**, not a pile of disconnected exercises
-- **Portfolio due date:** one week after Day 2
+- You **choose one case context** and anchor ALL artifacts to it
+- Everything builds: charter informs hiring, hiring informs roadmap, roadmap informs stakeholder communication
+- You leave with a **coherent portfolio**, not disconnected exercises
+- **Portfolio due:** one week after Day 2
 
 <!-- Talk track: Here's how the course works mechanically. We have three case contexts. Each one represents a different stage of analytics team maturity. DataPulse is a seed-stage startup — you're the first analytics hire, there's no infrastructure, and the CEO wants "data-driven decisions" but doesn't know what that means. MarketBridge is a Series B company — you've been hired to manage a small team that grew organically, and there's technical debt and unclear roles. FinGuard is an enterprise — you're leading a large analytics org with compliance requirements, multiple stakeholder groups, and legacy systems. You're going to pick one of these, and everything you build in this course will be anchored to that context. Your charter, your stakeholder map, your hiring rubric, your roadmap — they all connect. At the end, you'll have a portfolio that tells a coherent story about how you'd manage an analytics team in your chosen context. The portfolio is due one week after Day 2 — polished, refined, and ready for me to review. -->
 
 ---
 
-## Choose Your Case Context
+## Choose Your Case Context (1/2)
 
 Pick one now. You will use this for every activity across both days.
 
@@ -88,17 +84,23 @@ Pick one now. You will use this for every activity across both days.
 
 **MarketBridge (Series B Scale-Up)**
 - 200-person B2B SaaS company, $40M ARR, growing fast
-- You are hired to manage 4-6 analysts who previously reported to different PMs
-- There are dashboards everywhere, conflicting metric definitions, and no documentation
+- You manage 4-6 analysts who previously reported to different PMs
+- Dashboards everywhere, conflicting metric definitions, no documentation
+
+<!-- Talk track: Okay, decision time. Read through these three contexts. DataPulse is the scrappy startup — if you pick this, you'll be thinking about how to build everything from zero with almost no resources. It's exciting, but it's also terrifying. MarketBridge is the messy middle — the team exists but it's chaotic. If you pick this, you'll be thinking about how to bring order to an existing team. -->
+
+---
+
+## Choose Your Case Context (2/2)
 
 **FinGuard (Enterprise Financial Services)**
 - 5,000-person regulated financial institution
 - You lead a 15+ person analytics org across multiple business lines
-- There are strict compliance requirements, a centralized data governance team, and a legacy on-prem data warehouse being migrated to cloud
+- Strict compliance requirements, centralized data governance, legacy on-prem warehouse being migrated to cloud
 
 **Write your choice down. There are no wrong answers — each context teaches different lessons.**
 
-<!-- Talk track: Okay, decision time. Read through these three contexts. DataPulse is the scrappy startup — if you pick this, you'll be thinking about how to build everything from zero with almost no resources. It's exciting, but it's also terrifying. MarketBridge is the messy middle — the team exists but it's chaotic. If you pick this, you'll be thinking about how to bring order to an existing team. FinGuard is the enterprise — if you pick this, you'll be dealing with governance, politics, compliance, and the challenge of leading through layers of hierarchy. Pick one. Write it down. Commit to it. There's no wrong answer, but you do need to commit. Every exercise for the rest of the course is anchored to this choice. Take thirty seconds, make your pick, and let's move on. -->
+<!-- Talk track: FinGuard is the enterprise — if you pick this, you'll be dealing with governance, politics, compliance, and the challenge of leading through layers of hierarchy. Pick one. Write it down. Commit to it. There's no wrong answer, but you do need to commit. Every exercise for the rest of the course is anchored to this choice. Take thirty seconds, make your pick, and let's move on. -->
 
 ---
 
@@ -207,15 +209,12 @@ Think of it like software: cadences are the scheduler, rituals are the processes
 
 ## What Happens Without a Manager OS?
 
-When there is no operating system, you get **chaos that feels like busyness**:
+Without an OS, you get **chaos that feels like busyness**:
 
-**No cadences** means problems fester. A small misunderstanding on Monday becomes a full-blown conflict by Friday because there was no natural checkpoint to catch it. Your team spends more time in ad-hoc Slack threads than in structured conversations.
-
-**No artifacts** means decisions get relitigated. You had the metrics definition conversation three months ago, but nobody wrote it down. Now the VP is asking why the numbers don't match, and you're having the same argument again.
-
-**No rituals** means important things fall through the cracks. Nobody is doing career conversations. Nobody is reviewing whether last quarter's priorities still make sense. The team is executing, but executing on what?
-
-**No decision hygiene** means the loudest voice wins. The most senior person in the room, or the most persistent stakeholder, drives every decision — not because they're right, but because there's no process to evaluate alternatives.
+- **No cadences** — problems fester. A small misunderstanding Monday becomes a conflict by Friday with no checkpoint to catch it.
+- **No artifacts** — decisions get relitigated. You had the metrics conversation three months ago but nobody wrote it down.
+- **No rituals** — important things fall through cracks. No career conversations. No priority reviews.
+- **No decision hygiene** — the loudest voice wins, not the best argument.
 
 **You have seen this.** Every analytics team that feels "chaotic" or "reactive" is usually missing one or more of these layers.
 
@@ -240,27 +239,33 @@ The biggest mistake new managers make: too many meetings with no rhythm. Pick a 
 
 ---
 
-## Designing Your Cadence
+## Designing Your Cadence (1/2)
 
 **How to audit your current meeting load:**
 
-The first step is not to add meetings — it is to audit what already exists. Try the **Meeting Audit Exercise**:
+The first step is not to add meetings — it is to audit what exists. Try the **Meeting Audit Exercise**:
 
 1. List every recurring meeting you attend or own
-2. For each meeting, ask three questions:
-   - Does this meeting have an **owner** who prepares and drives it?
-   - Does this meeting have a **standing agenda** or is it free-form?
-   - Does this meeting result in a **decision or action item**, or is it purely informational?
-3. If a meeting fails all three questions, kill it or convert it to an async update
+2. For each, ask three questions:
+   - Does it have an **owner** who prepares and drives it?
+   - Does it have a **standing agenda** or is it free-form?
+   - Does it produce a **decision or action item**, or is it purely informational?
+3. If a meeting fails all three, kill it or convert it to async
+
+<!-- Talk track: Before you start adding meetings, audit what you already have. I've done this exercise with dozens of managers, and every single time, we find at least two or three recurring meetings that have no owner, no agenda, and no clear output. Kill those first. You just freed up hours in your calendar. -->
+
+---
+
+## Designing Your Cadence (2/2)
 
 **Introducing cadences to a team that has none:**
 
 - **Don't overhaul everything at once.** Start with weekly 1:1s and one team sync. That's it.
-- **Explain the "why" before the "what."** People resist new meetings. They won't resist "I want to make sure you have a guaranteed 30 minutes with me every week to talk about whatever matters to you."
+- **Explain the "why" before the "what."** People resist new meetings. They won't resist "I want to give you a guaranteed 30 minutes with me every week."
 - **Timebox aggressively.** A 25-minute meeting that ends on time builds more trust than a 60-minute meeting that rambles.
 - **Protect the cadence.** The first time you cancel a newly established ritual, you signal it's optional. Don't cancel.
 
-<!-- Talk track: Before you start adding meetings, audit what you already have. I've done this exercise with dozens of managers, and every single time, we find at least two or three recurring meetings that have no owner, no agenda, and no clear output. Kill those first. You just freed up hours in your calendar. Now, if you're starting from scratch — maybe you picked DataPulse and there's literally no team yet — start small. Weekly 1:1s and one team sync. That's your entire meeting load. Don't introduce a monthly metrics review until you actually have metrics to review. And here's the most important piece: when you introduce a new cadence, explain why. "I'm adding a weekly 1:1 because I want to make sure you always have dedicated time with me" lands completely differently than "we're adding a new meeting to the calendar." People don't hate meetings. They hate bad meetings. Give them good ones, and they'll protect the cadence themselves. -->
+<!-- Talk track: Now, if you're starting from scratch — maybe you picked DataPulse and there's literally no team yet — start small. Weekly 1:1s and one team sync. That's your entire meeting load. Don't introduce a monthly metrics review until you actually have metrics to review. And here's the most important piece: when you introduce a new cadence, explain why. "I'm adding a weekly 1:1 because I want to make sure you always have dedicated time with me" lands completely differently than "we're adding a new meeting to the calendar." People don't hate meetings. They hate bad meetings. Give them good ones, and they'll protect the cadence themselves. -->
 
 ---
 
@@ -286,40 +291,46 @@ The first step is not to add meetings — it is to audit what already exists. Tr
 - **The Monologue** — If you're talking more than 50%, something's wrong
 
 **Watch for these signals:**
-- If your 1:1s feel boring, the relationship probably isn't deep enough yet for real topics
-- If every 1:1 is a fire drill, you have a structural problem — the 1:1 is a symptom, not the cause
-- If your report says "I don't have anything" every week, they don't trust the space yet
+- Boring 1:1s = relationship isn't deep enough for real topics yet
+- Every 1:1 is a fire drill = you have a structural problem, not a 1:1 problem
+- "I don't have anything" every week = they don't trust the space yet
 
 <!-- Talk track: Now, let me name the anti-patterns. The status update trap — don't use a 1:1 to ask "what did you do this week." That's what Slack is for. A 1:1 should be about what's hard, what's unclear, what's exciting, what's frustrating — the stuff that doesn't fit in a status update. The therapy session — you should be empathetic, absolutely, but if every 1:1 turns into emotional processing about the same issue, something structural needs to change. Help them solve the problem, don't just absorb the emotion. The canceled 1:1 — nothing says "you don't matter to me" faster. And the monologue — if you're talking more than half the time, you're using the 1:1 as a broadcast channel, not a conversation. Who here has had a manager who regularly canceled 1:1s? How did that feel? Exactly. Don't be that manager. -->
 
 ---
 
-## Handling Difficult 1:1 Situations
+## Handling Difficult 1:1s: The Silent Report
 
 **The report who never has agenda items:**
 - They might not trust the space yet. Give it time and keep showing up.
 - Offer prompts: "What's the most frustrating thing you dealt with this week?" or "If you could change one thing about how we work, what would it be?"
-- Share your own vulnerabilities first — "I'm struggling with X, can I get your perspective?" models that the 1:1 is a safe space for real talk.
+- Share your own vulnerabilities first — model that the 1:1 is a safe space for real talk.
+
+**The silent report:**
+- Some people process internally. Try written 1:1s — share questions 24 hours ahead.
+- Walk-and-talk or informal settings sometimes open people up more than a conference room.
+- Be patient. Trust is built in small moments over months, not in one conversation.
+
+<!-- Talk track: Let me give you tactical advice for common difficult situations. First, the report who shows up and says "I don't have anything." This is almost never true — they just don't trust the space yet, or they don't know what's appropriate to bring up. Give them prompts. I like to ask "what's the most frustrating thing you've dealt with this week?" That question almost always unlocks something. Then there's the truly silent report. Some people are just internal processors. That's okay. Try a written format — share questions in advance and let them respond in writing if that's more comfortable. I had a brilliant analyst once who said almost nothing in our 1:1s until I switched to walking meetings. Something about not making eye contact and moving through space opened her up completely. Experiment. There's no single right format. -->
+
+---
+
+## Handling Difficult 1:1s: The Complainer
 
 **The report who only brings complaints:**
 - Validate first, then redirect: "I hear you. That does sound frustrating. What do you think we should do about it?"
 - If it's about a coworker, ask "Have you talked to them directly?" before offering to intervene.
 - Pattern-match across complaints — is there a structural issue underneath? If so, fix the structure, not the symptoms.
 
-**The silent report:**
-- Some people process internally. Try written 1:1s — share a doc with questions 24 hours ahead.
-- Walk-and-talk or informal settings sometimes open people up more than a conference room.
-- Be patient. Trust is built in small moments over months, not in one conversation.
-
-<!-- Talk track: Let me give you tactical advice for three common situations. First, the report who shows up and says "I don't have anything." This is almost never true — they just don't trust the space yet, or they don't know what's appropriate to bring up. Give them prompts. I like to ask "what's the most frustrating thing you've dealt with this week?" That question almost always unlocks something. Second, the report who turns every 1:1 into a complaint session. Start by validating — their frustration is real. But then redirect toward action. "What should we do about it?" And if they're complaining about a coworker, always ask if they've talked to that person directly. Third, the truly silent report. Some people are just internal processors. That's okay. Try a written format — share questions in advance and let them respond in writing if that's more comfortable. I had a brilliant analyst once who said almost nothing in our 1:1s until I switched to walking meetings. Something about not making eye contact and moving through space opened her up completely. Experiment. There's no single right format. -->
+<!-- Talk track: Second common situation: the report who turns every 1:1 into a complaint session. Start by validating — their frustration is real. But then redirect toward action. "What should we do about it?" And if they're complaining about a coworker, always ask if they've talked to that person directly. Most importantly, pattern-match. If the same themes keep coming up, there might be a real structural problem underneath. Maybe the team process is broken, or the workload distribution is unfair. In that case, the complaining is actually useful signal. Your job is to separate the signal from the noise and fix the root cause. -->
 
 ---
 
-## Decision Logs & Memos
+## Decision Logs & Memos (1/2)
 
 **Why writing beats meetings:**
 - Writing forces clarity — you can't hand-wave in prose
-- Writing scales — 50 people can read a memo; 50 people can't be in a meeting
+- Writing scales — 50 people can read a memo; 50 can't be in a meeting
 - Writing creates institutional memory
 
 **The 1-page Decision Memo:**
@@ -332,37 +343,51 @@ The first step is not to add meetings — it is to audit what already exists. Tr
 | **Risks** | What could go wrong and how we'd mitigate |
 | **Decision Type** | Type 1 (irreversible) or Type 2 (reversible) |
 
-**Default to Type 2.** Most decisions are reversible. Move fast on those. Slow down on Type 1.
-
-<!-- Talk track: Jeff Bezos popularized the Type 1 / Type 2 framework. Type 1 decisions are one-way doors — hard or impossible to reverse. Type 2 decisions are two-way doors — you can walk back through if it doesn't work. Here's the insight: most decisions are Type 2, but organizations treat them all like Type 1. That's where bureaucracy comes from. Your job as a manager is to identify which type each decision is and set the right speed. For Type 2 decisions, empower your team to just go. For Type 1 decisions, write a memo. The act of writing a decision memo forces you to think clearly. You can't hide behind vague language when you have to write it down. We have a template for this that you'll use throughout the course. -->
+<!-- Talk track: Let's talk about written decision-making. Jeff Bezos popularized the Type 1 / Type 2 framework. Type 1 decisions are one-way doors — hard or impossible to reverse. Type 2 decisions are two-way doors — you can walk back through if it doesn't work. The insight is that most decisions are Type 2, but organizations treat them all like Type 1. That's where bureaucracy comes from. Your job as a manager is to identify which type each decision is and set the right speed. -->
 
 ---
 
-## Example Decision Memo: Event Tracking Migration
+## Decision Logs & Memos (2/2)
 
-**Context:** MarketBridge currently uses Amplitude for product analytics. The engineering team is proposing we migrate to an in-house event tracking system built on Snowplow + Snowflake. The analytics team needs to weigh in.
+**Default to Type 2.** Most decisions are reversible. Move fast on those. Slow down on Type 1.
+
+For Type 2 decisions, empower your team to just go. For Type 1 decisions, write a memo. The act of writing forces clear thinking — you can't hide behind vague language when you write it down.
+
+<!-- Talk track: For Type 2 decisions, empower your team to just go. Don't require a memo for every small call. For Type 1 decisions, write a memo. The act of writing a decision memo forces you to think clearly. You can't hide behind vague language when you have to write it down. We have a template for this that you'll use throughout the course. The key question to always ask is: "Is this a one-way door or a two-way door?" That single question will save your team from both reckless speed and unnecessary paralysis. -->
+
+---
+
+## Example Decision Memo (1/2)
+
+**Context:** MarketBridge currently uses Amplitude for product analytics. The engineering team proposes migrating to an in-house event tracking system built on Snowplow + Snowflake. The analytics team needs to weigh in.
 
 **Options:**
 
 | Option | Pros | Cons |
 |---|---|---|
-| **A: Stay on Amplitude** | No migration cost; PMs already trained; stable | Costs $120K/yr; limited raw data access; vendor lock-in |
-| **B: Migrate to in-house (Snowplow + Snowflake)** | Full data ownership; flexible schema; long-term cost savings | 3-4 month migration; engineering dependency; we own reliability |
-| **C: Hybrid — keep Amplitude for PMs, add Snowplow for analytics** | PMs unaffected; analytics gets raw data | Two systems to maintain; data consistency risk; higher total cost short-term |
+| **A: Stay on Amplitude** | No migration cost; PMs trained; stable | $120K/yr; limited raw data access; vendor lock-in |
+| **B: Full in-house (Snowplow + Snowflake)** | Full data ownership; flexible schema; long-term savings | 3-4 month migration; engineering dependency; we own reliability |
+| **C: Hybrid — keep Amplitude, add Snowplow** | PMs unaffected; analytics gets raw data | Two systems to maintain; data consistency risk; higher short-term cost |
 
-**Recommendation:** Option C (Hybrid), migrating to full in-house (Option B) in 12 months. This de-risks the migration while giving the analytics team immediate access to raw event data.
+<!-- Talk track: Let me show you what a real decision memo looks like. This is for MarketBridge — should we migrate from Amplitude to an in-house event tracking system? Notice the structure. The context is crisp — one paragraph, everyone understands the situation. Then three options. Not two, because two options creates a false binary. Three forces you to think creatively. Look at the pros and cons — they're specific. Not "it's expensive" but "$120K per year." Not "it takes time" but "3-4 month migration." Specificity is what separates a useful memo from a waste of paper. -->
+
+---
+
+## Example Decision Memo (2/2)
+
+**Recommendation:** Option C (Hybrid), migrating to full in-house (Option B) in 12 months. This de-risks the migration while giving analytics immediate access to raw event data.
 
 **Risks:** Dual systems create metric discrepancy risk. Mitigate with a shared event taxonomy document and weekly reconciliation checks for the first 3 months.
 
 **Decision Type:** Type 2 — reversible. If the hybrid approach fails, we revert to Amplitude-only within a month.
 
-<!-- Talk track: Let me show you what a real decision memo looks like. This is for MarketBridge — should we migrate from Amplitude to an in-house event tracking system? Notice the structure. The context is crisp — one paragraph, everyone understands the situation. Then three options. Not two, because two options creates a false binary. Three forces you to think creatively. Look at the pros and cons — they're specific. Not "it's expensive" but "$120K per year." Not "it takes time" but "3-4 month migration." Specificity is what separates a useful memo from a waste of paper. The recommendation is Option C — the hybrid approach. And notice the reasoning: it de-risks the migration. That's strategic thinking. And at the bottom, this is classified as Type 2 — reversible. If it doesn't work, we go back. That classification matters because it tells everyone "we don't need to agonize over this for three weeks." Write the memo, circulate it, make the call. This is what decision hygiene looks like in practice. You'll write your own memos like this during the course. -->
+<!-- Talk track: The recommendation is Option C — the hybrid approach. And notice the reasoning: it de-risks the migration. That's strategic thinking. The risks section is specific about what could go wrong and how to mitigate it. And at the bottom, this is classified as Type 2 — reversible. If it doesn't work, we go back. That classification matters because it tells everyone "we don't need to agonize over this for three weeks." Write the memo, circulate it, make the call. This is what decision hygiene looks like in practice. You'll write your own memos like this during the course. -->
 
 ---
 
 ## The Team Charter
 
-**What it is:** A 1-2 page document that captures your team's identity and operating agreements.
+**What it is:** A 1-2 page document capturing your team's identity and operating agreements.
 
 **Sections:**
 - **Purpose & Mission** — Why does this team exist? (2-3 sentences)
@@ -392,7 +417,7 @@ The first step is not to add meetings — it is to audit what already exists. Tr
 
 ---
 
-## Stakeholder Map: Details & Hidden Stakeholders
+## Stakeholder Map: What to Capture
 
 **For each stakeholder, capture:**
 - Name/Role
@@ -402,14 +427,22 @@ The first step is not to add meetings — it is to audit what already exists. Tr
 
 **The hidden stakeholders:** Don't forget IT, Legal/Privacy, Finance, and the engineers who maintain your pipelines. New managers always under-map.
 
-**Examples of hidden stakeholders by case context:**
-- **DataPulse:** The CTO who controls your cloud budget. The sole backend engineer who maintains the API you need data from.
-- **MarketBridge:** The data engineering team that owns the pipeline you depend on. The compliance officer who needs to approve any new data collection.
-- **FinGuard:** Model risk management. Internal audit. The vendor management team that approves new tool purchases.
-
 **Ask yourself:** "Who could block my work if I have NOT built a relationship with them?" Those are your hidden stakeholders.
 
-<!-- Talk track: Now let me talk about the details and the hidden stakeholders, because this is where most new managers fall short. For each stakeholder, you need to capture not just who they are, but what the exchange is. What do they need from you? Maybe it's weekly reports, maybe it's a quarterly business review, maybe it's just a heads-up before you change a metric definition. And what do you need from them? Data access, budget approval, engineering support. Map both sides of the relationship. Now, hidden stakeholders. Every time I do this exercise with a new manager, they map the obvious ones — their boss, the PMs, the product team. But they miss IT, Legal, Privacy, Finance. I once had a project blocked for six weeks because I didn't know I needed approval from the data privacy team before I could join two datasets together. Six weeks! If I had mapped them as a stakeholder and built the relationship early, I could have gotten that approval in days. Think about your case context — who could block you that you haven't thought of yet? -->
+<!-- Talk track: Now let me talk about the details and the hidden stakeholders, because this is where most new managers fall short. For each stakeholder, you need to capture not just who they are, but what the exchange is. What do they need from you? Maybe it's weekly reports, maybe it's a quarterly business review, maybe it's just a heads-up before you change a metric definition. And what do you need from them? Data access, budget approval, engineering support. Map both sides of the relationship. -->
+
+---
+
+## Stakeholder Map: Hidden Stakeholders by Context
+
+**Examples of hidden stakeholders by case context:**
+- **DataPulse:** The CTO who controls your cloud budget. The sole backend engineer who maintains the API you need data from.
+- **MarketBridge:** The data engineering team that owns your pipeline. The compliance officer who approves new data collection.
+- **FinGuard:** Model risk management. Internal audit. The vendor management team that approves new tool purchases.
+
+I once had a project blocked for six weeks because I didn't know I needed approval from the data privacy team before joining two datasets. If I had mapped them early, I could have gotten that approval in days.
+
+<!-- Talk track: Every time I do this exercise with a new manager, they map the obvious ones — their boss, the PMs, the product team. But they miss IT, Legal, Privacy, Finance. Think about your case context — who could block you that you haven't thought of yet? The DataPulse folks should think about that one backend engineer. The MarketBridge folks should think about data engineering and compliance. The FinGuard folks should think about model risk management and internal audit. These are the relationships that, if you build them early, save you weeks of delay later. -->
 
 ---
 
@@ -426,7 +459,7 @@ The first step is not to add meetings — it is to audit what already exists. Tr
 
 ---
 
-## RACI: Common Mistakes & When to Use It
+## RACI: Common Mistakes
 
 **Common mistakes:**
 - Everyone is "Consulted" on everything (consensus paralysis)
@@ -435,16 +468,22 @@ The first step is not to add meetings — it is to audit what already exists. Tr
 
 **Use RACI for the 5-10 decisions that cause the most confusion.** Not for everything.
 
+<!-- Talk track: The biggest mistake I see is organizations that RACI everything. Don't do that. Pick the five to ten decisions that cause the most confusion or conflict, and RACI those. And watch out for the "everyone is consulted" trap. If you consult eight people before every decision, you've created consensus paralysis. Keep the C list short. Most people should be I — informed after the fact. -->
+
+---
+
+## RACI: When to Use It
+
 **Good candidates for RACI in an analytics team:**
-- Who defines the canonical metric definitions?
+- Who defines canonical metric definitions?
 - Who approves a new dashboard going to production?
 - Who decides whether to take on a new stakeholder request?
-- Who signs off on a model before it goes to production?
-- Who decides on tooling changes (new BI tool, new pipeline framework)?
+- Who signs off on a model before production?
+- Who decides on tooling changes (new BI tool, new pipeline)?
 
-**Bad candidates for RACI:** What color should the chart be. Which SQL style guide to use. Where to put the documentation. These are decisions, but they are not decisions worth formalizing.
+**Bad candidates:** Chart colors. SQL style guides. Documentation location. These are decisions, but not worth formalizing.
 
-<!-- Talk track: The biggest mistake I see is organizations that RACI everything. Don't do that. Pick the five to ten decisions that cause the most confusion or conflict, and RACI those. I've listed some good candidates here — metric definitions, dashboard approvals, stakeholder intake, model sign-off, tooling changes. These are the decisions where ambiguity causes real pain. If nobody knows who owns metric definitions, you'll have three different teams reporting three different churn numbers to the board. That's a RACI-worthy decision. But "what color should the chart be?" That does not need a RACI matrix. If you RACI trivial decisions, people will roll their eyes at the whole framework and ignore it even when it matters. Use it surgically, and it's powerful. Use it for everything, and it's bureaucracy. -->
+<!-- Talk track: I've listed some good candidates here — metric definitions, dashboard approvals, stakeholder intake, model sign-off, tooling changes. These are the decisions where ambiguity causes real pain. If nobody knows who owns metric definitions, you'll have three different teams reporting three different churn numbers to the board. That's a RACI-worthy decision. But "what color should the chart be?" That does not need a RACI matrix. If you RACI trivial decisions, people will roll their eyes at the whole framework and ignore it even when it matters. Use it surgically, and it's powerful. Use it for everything, and it's bureaucracy. -->
 
 ---
 
@@ -452,9 +491,7 @@ The first step is not to add meetings — it is to audit what already exists. Tr
 
 **Time: 25 minutes** | Use the template provided
 
-Using your chosen case context (Small / Medium / Large), draft a Team Charter.
-
-**Your charter must include:**
+Using your chosen case context, draft a Team Charter with:
 1. **Purpose & Mission** — Why does this analytics team exist?
 2. **Scope & Boundaries** — What's in scope? What's explicitly NOT?
 3. **3 Operating Principles** — Rules your team lives by
@@ -462,13 +499,13 @@ Using your chosen case context (Small / Medium / Large), draft a Team Charter.
 5. **Success Metrics** — 3-5 KPIs for your team's first year
 6. **Cadences** — What meetings happen and when?
 
-**Tip:** Be specific to your case context. A startup charter looks very different from an enterprise charter.
+**Tip:** Be specific to your case. A startup charter looks very different from an enterprise charter. "We value data quality" is not a principle. "Every metric has a documented definition and an owner before it goes to production" is.
 
-<!-- Talk track: All right, let's put this into practice. Open the Team Charter template — it's in your materials. You have 25 minutes. I want you to work individually, anchored to your case context. If you chose the small startup, your charter should reflect that reality — limited resources, scrappy, moving fast. If you chose the large enterprise, think about governance, compliance, cross-team coordination. Be specific. Don't write generic platitudes. "We value data quality" is not a principle. "Every metric has a documented definition and an owner before it goes to production" — that's a principle. I'll circulate and answer questions. Go. -->
+<!-- Talk track: All right, let's put this into practice. Open the Team Charter template — it's in your materials. You have 25 minutes. I want you to work individually, anchored to your case context. If you chose the small startup, your charter should reflect that reality — limited resources, scrappy, moving fast. If you chose the large enterprise, think about governance, compliance, cross-team coordination. Be specific. Don't write generic platitudes. I'll circulate and answer questions. Go. -->
 
 ---
 
-## Activity: Map Your Stakeholders
+## Activity: Map Your Stakeholders (1/2)
 
 **Time: 20 minutes** | Use the template provided
 
@@ -483,6 +520,12 @@ Map your stakeholders on the Power/Interest grid.
   - What you need from them
   - Your engagement strategy
 
+<!-- Talk track: Excellent work on the charters. Now flip to the Stakeholder Map template. You have 20 minutes. I want at least six stakeholders, and I want you to really think about the ones you might miss. Use the prompts on the next slide to jog your thinking. -->
+
+---
+
+## Activity: Map Your Stakeholders (2/2)
+
 **Prompts to jog your thinking:**
 - Who funds your team?
 - Who consumes your outputs?
@@ -490,7 +533,9 @@ Map your stakeholders on the Power/Interest grid.
 - Who could block your work if unhappy?
 - Who do you depend on but rarely talk to?
 
-<!-- Talk track: Excellent work on the charters. Now flip to the Stakeholder Map template. You have 20 minutes. I want at least six stakeholders, and I want you to really think about the ones you might miss. Here are some prompts. Who funds your team? That's probably a VP or C-suite — high power. Who consumes your outputs? Product managers, maybe marketing — high interest. Who controls your data access? That might be IT or engineering — and if you haven't built that relationship, you'll be blocked when you need a new data source. Who could kill your project if they got upset? Think Legal, Privacy, Compliance. Go deep here. This map will serve you for the rest of the course. -->
+Go deep here. This map will serve you for the rest of the course.
+
+<!-- Talk track: Here are some prompts. Who funds your team? That's probably a VP or C-suite — high power. Who consumes your outputs? Product managers, maybe marketing — high interest. Who controls your data access? That might be IT or engineering — and if you haven't built that relationship, you'll be blocked when you need a new data source. Who could kill your project if they got upset? Think Legal, Privacy, Compliance. Go deep here. This map will serve you for the rest of the course. -->
 
 ---
 

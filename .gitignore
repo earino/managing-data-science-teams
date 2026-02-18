@@ -3,3 +3,8 @@
 
 # Claude Code internal state
 .claude/
+
+# Node.js (Puppeteer for overflow check — unused in sandbox but kept for local dev)
+node_modules/
+package-lock.json
+package.json

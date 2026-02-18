@@ -95,15 +95,25 @@ Your VP of Marketing asks for a churn prediction model. You put it on your Gantt
 
 - **February:** You start building. The data is messier than expected — key event tables are missing three months of mobile data.
 - **March 1:** You tell Marketing it will slip two weeks. They have already scheduled campaigns around March 15. Trust takes a hit.
-- **April 1:** The model ships. It is good work. But Marketing already hired an outside consultant to do "a quick analysis" because they lost confidence in your timeline.
+- **April 1:** The model ships. It is good work. But Marketing already hired an outside consultant because they lost confidence in your timeline.
 
 **What went wrong?** You made a date-based commitment for work with **inherent uncertainty**.
 
-**The roadmap alternative:** "Churn modeling is our top priority this quarter. We expect to deliver a production model within Q1. The biggest risk is data completeness — we will know more after the first two weeks of exploration."
+<!-- Talk track: Let me tell you what happens when analytics teams make Gantt chart promises. Your VP of Marketing wants a churn model. You say March 15 because that is what the project plan says. But analytics work has inherent uncertainty — you do not know what you will find in the data until you look. The event tables are missing mobile data. Now you are two weeks late, and Marketing has already planned campaigns around your date. By the time you actually deliver in April, they have lost confidence and hired a consultant. Nobody wins. -->
+
+---
+
+# The Roadmap Alternative
+
+**Instead of the Gantt chart promise, say this:**
+
+> "Churn modeling is our top priority this quarter. We expect to deliver a production model within Q1. The biggest risk is data completeness — we will know more after the first two weeks of exploration."
 
 This sets direction without false precision. When the timeline shifts, you are **updating an estimate**, not **breaking a promise**.
 
-<!-- Talk track: Let me tell you what happens when analytics teams make Gantt chart promises. Your VP of Marketing wants a churn model. You say March 15 because that is what the project plan says. But analytics work has inherent uncertainty — you do not know what you will find in the data until you look. The event tables are missing mobile data. Now you are two weeks late, and Marketing has already planned campaigns around your date. By the time you actually deliver in April, they have lost confidence and hired a consultant. Nobody wins. Now contrast this with a roadmap-style commitment. Churn modeling is our top priority this quarter. We expect to deliver within Q1. Biggest risk is data completeness. This is honest. When the timeline shifts, you are updating an estimate, not breaking a promise. The trust dynamics are completely different. Executives can handle uncertainty. What they cannot handle is being surprised. -->
+Executives can handle uncertainty. What they cannot handle is being surprised.
+
+<!-- Talk track: Now contrast the Gantt chart approach with a roadmap-style commitment. Churn modeling is our top priority this quarter. We expect to deliver within Q1. Biggest risk is data completeness. This is honest. When the timeline shifts, you are updating an estimate, not breaking a promise. The trust dynamics are completely different. Executives can handle uncertainty. What they cannot handle is being surprised. -->
 
 ---
 
@@ -172,27 +182,26 @@ The score does not make the decision. **You** make the decision. The score helps
 
 # RICE in Practice
 
-**Four analytics initiatives scored head-to-head:**
+**Four initiatives scored head-to-head:**
 
 | Initiative | Reach | Impact | Confidence | Effort | Score |
 |-----------|-------|--------|------------|--------|-------|
 | Churn Model v1 | 5,000 users/qtr | 2 (high) | 80% | 3 PM | **2,667** |
-| Self-Serve Dashboard | 200 decisions/qtr | 1 (medium) | 100% | 2 PM | **100** |
+| Self-Serve Dashboard | 200 decisions/qtr | 1 (med) | 100% | 2 PM | **100** |
 | Experimentation Platform | 10,000 users/qtr | 3 (massive) | 50% | 6 PM | **2,500** |
 | Data Quality Audit | 50,000 rows/qtr | 0.5 (low) | 100% | 1 PM | **25,000** |
 
-**Wait — the Data Quality Audit wins?** Reach is huge (every downstream query uses this data), confidence is high, and effort is small. That might actually be right.
+**The Data Quality Audit wins?** Reach is huge (every downstream query uses this data), confidence is high, and effort is small. That might be right.
 
-**Now drop Experimentation Platform confidence to 30%:**
-Score drops from 2,500 to **1,500**. Does that change your Q1 plan?
-
-RICE does not tell you the answer. It tells you **where to argue**.
+**Drop Experimentation Platform confidence to 30%:** score falls from 2,500 to **1,500**. Does that change your Q1 plan? RICE tells you **where to argue**.
 
 <!-- Talk track: Let us work through a real example. Four initiatives, scored with RICE. The Churn Model reaches five thousand users per quarter, has high impact, eighty percent confidence, and takes three person-months. Score: twenty-six sixty-seven. The Self-Serve Dashboard reaches two hundred decisions, medium impact, full confidence, two person-months. Score: one hundred. The Experimentation Platform has massive reach and impact but only fifty percent confidence and six person-months of effort. Score: twenty-five hundred. And then the Data Quality Audit — it affects fifty thousand rows of data that feed every downstream analysis, low impact per row but full confidence and only one person-month. Score: twenty-five thousand. That is a surprising result. The unsexy data quality work scores highest because it touches everything and is cheap. This is RICE working as intended — it challenges your assumptions. Now watch what happens when you adjust confidence on the Experimentation Platform from fifty to thirty percent. The score drops from twenty-five hundred to fifteen hundred. Does that change your Q1 plan? These are the conversations RICE is designed to provoke. -->
 
 ---
 
-# North Star vs. Guardrails
+# North Star Metric
+
+The ONE number that captures your team's value to the business.
 
 ```
                     ┌─────────────────┐
@@ -211,7 +220,23 @@ RICE does not tell you the answer. It tells you **where to argue**.
         └───────────┘ └───────────┘ └───────────┘
 ```
 
-<!-- Talk track: Every analytics team needs a North Star metric — the single number that best captures the value you deliver to the business. For a growth analytics team, it might be monthly active paying users. For a risk analytics team, it might be loss rate. The North Star gives your team focus. But optimizing one metric without constraints is dangerous. That is what guardrails are for. These are the metrics that must not get worse while you chase the North Star. Think of it like driving — the North Star is your destination, and the guardrails are the things that keep you from going off a cliff on the way there. -->
+<!-- Talk track: Every analytics team needs a North Star metric — the single number that best captures the value you deliver to the business. For a growth analytics team, it might be monthly active paying users. For a risk analytics team, it might be loss rate. The North Star gives your team focus. -->
+
+---
+
+# Guardrails Protect the North Star
+
+**Guardrails** are the metrics that must NOT get worse while you optimize the North Star.
+
+Think of it like driving — the North Star is your destination, and the guardrails keep you from going off a cliff on the way there.
+
+Optimizing one metric without constraints is dangerous. Guardrails prevent you from gaming your own North Star.
+
+**Example — Growth Analytics Team:**
+- **North Star:** Monthly Active Paying Users
+- **Guardrails:** User satisfaction score, data quality SLA, model fairness metrics
+
+<!-- Talk track: But optimizing one metric without constraints is dangerous. That is what guardrails are for. These are the metrics that must not get worse while you chase the North Star. If your North Star is revenue per user, your guardrails might be user satisfaction, data quality SLA adherence, and model fairness metrics. You do not want to increase revenue per user by recommending exploitative products or by letting your data pipelines fall apart. Without guardrails, you optimize yourself into a corner. -->
 
 ---
 
@@ -228,20 +253,22 @@ RICE does not tell you the answer. It tells you **where to argue**.
 
 Without guardrails, you optimize yourself into a corner. Without input metrics, you have a North Star you cannot steer toward.
 
-<!-- Talk track: Let me make these concrete. Your North Star is the one number your team rallies around. Your guardrails are the constraints — the things that must not get worse while you pursue that star. If your North Star is revenue per user, your guardrails might be user satisfaction, data quality SLA adherence, and model fairness metrics. You do not want to increase revenue per user by recommending exploitative products or by letting your data pipelines fall apart. Input metrics are the levers your team can actually pull. You probably cannot directly move Monthly Active Paying Users, but you can influence activation rate and retention rate through your analyses and models. The input metrics are where your team's daily work connects to the North Star. -->
+<!-- Talk track: Let me make these concrete. Your North Star is the one number your team rallies around. Your guardrails are the constraints — the things that must not get worse while you pursue that star. Input metrics are the levers your team can actually pull. You probably cannot directly move Monthly Active Paying Users, but you can influence activation rate and retention rate through your analyses and models. The input metrics are where your team's daily work connects to the North Star. -->
 
 ---
 
-# Choosing Your North Star
-
-## Common Mistakes
+# Choosing Your North Star: Common Mistakes
 
 - **Vanity metric** — "Number of dashboards created" feels productive but drives no business outcome
 - **Uninfluenceable metric** — "Total company revenue" is important but your 4-person team cannot move it
 - **Slow-moving metric** — "Annual customer lifetime value" takes 12 months to know if you moved it
 - **Unmeasurable metric** — "Quality of analytical insights" sounds great but how do you track it?
 
-## The North Star Test
+<!-- Talk track: Picking the right North Star is harder than it sounds. I see four common mistakes. First, vanity metrics — number of dashboards created, number of ad hoc requests completed. These feel productive but they do not drive business outcomes. Nobody got promoted because their team made a lot of dashboards. Second, picking something you cannot influence. Total company revenue is important but if you have a four-person analytics team, you are not moving that needle by yourself. Third, slow-moving metrics. If it takes twelve months to know whether your work made a difference, you cannot use it to steer your team's priorities. And fourth, unmeasurable metrics. Quality of analytical insights sounds great in a mission statement but how do you actually track it quarter over quarter? -->
+
+---
+
+# The North Star Test
 
 Ask three questions:
 
@@ -251,7 +278,7 @@ Ask three questions:
 
 If you answer yes to all three, you have your North Star.
 
-<!-- Talk track: Picking the right North Star is harder than it sounds. I see four common mistakes. First, vanity metrics — number of dashboards created, number of ad hoc requests completed. These feel productive but they do not drive business outcomes. Nobody got promoted because their team made a lot of dashboards. Second, picking something you cannot influence. Total company revenue is important but if you have a four-person analytics team, you are not moving that needle by yourself. Third, slow-moving metrics. If it takes twelve months to know whether your work made a difference, you cannot use it to steer your team's priorities. And fourth, unmeasurable metrics. Quality of analytical insights sounds great in a mission statement but how do you actually track it quarter over quarter? The test is simple. Three questions. Can your team directly influence it? Does it move when you do good work? Does leadership care about it? If the answer to all three is yes, you have found your North Star. If any answer is no, keep looking. -->
+<!-- Talk track: The test is simple. Three questions. Can your team directly influence it? Does it move when you do good work? Does leadership care about it? If the answer to all three is yes, you have found your North Star. If any answer is no, keep looking. Do not settle for a metric that fails even one of these tests — it will steer your team in the wrong direction for an entire quarter before you realize the problem. -->
 
 ---
 
@@ -269,11 +296,11 @@ Team Activities: Onboarding         Churn modeling,
                  signup experiment   win-back targeting
 ```
 
-**Draw yours.** Start from the business outcome your executive cares about. Work down to what your team can actually do.
+**Draw yours.** Start from the business outcome your executive cares about. Work down to what your team can do.
 
 The tree answers: **"How does my team's daily work connect to the number the CEO reports to the board?"**
 
-<!-- Talk track: The metrics tree is the bridge between your team's daily work and the number the CEO reports to the board. Start at the top with the business outcome your executive sponsor cares about most. Then identify your North Star — the metric your team most directly influences. Break that into input metrics, the levers your team can actually pull. And at the bottom, list the specific team activities that move those input metrics. When a stakeholder asks why you are spending three weeks on churn modeling, you point to the tree. Churn modeling improves retention rate, which drives monthly active paying users, which drives revenue growth. If you cannot draw this tree, your roadmap is disconnected from the business. -->
+<!-- Talk track: The metrics tree is the bridge between your team's daily work and the number the CEO reports to the board. Start at the top with the business outcome your executive sponsor cares about most. Then identify your North Star. Break that into input metrics, the levers your team can actually pull. At the bottom, list the specific activities that move those input metrics. When a stakeholder asks why you are spending three weeks on churn modeling, you point to the tree. If you cannot draw this tree, your roadmap is disconnected from the business. -->
 
 ---
 
@@ -309,7 +336,7 @@ Approach every trade-off conversation as a **joint problem-solving exercise**, n
 
 ---
 
-# The Trade-off Conversation in Practice
+# The Trade-off Conversation: Setup
 
 **Scenario:** Your team is deep in building a churn model (your top Q1 priority). The VP of Product walks in and says: "We need a dashboard for the new feature launch. Can your team put something together this week?"
 
@@ -318,17 +345,22 @@ Approach every trade-off conversation as a **joint problem-solving exercise**, n
 
 *Why this fails:* The VP hears "no" and goes around you — asks an analyst directly, hires a contractor, or escalates to your boss.
 
-**The right way:**
-> "Absolutely — let me show you what that would involve. Right now my team is committed to the churn model, which your colleague Sarah in Marketing is counting on for her Q2 retention campaign. We have three options:
+<!-- Talk track: Let me script out how this actually sounds in practice. Your VP of Product shows up wanting a dashboard for a feature launch. This happens every week in every analytics team. The wrong way is to say we do not have bandwidth. That is a wall. The VP hears no, gets frustrated, and either goes around you or escalates to your boss. Either way, you lose. -->
+
+---
+
+# The Trade-off Conversation: The Right Way
+
+> "Absolutely — let me show you what that would involve. Right now my team is committed to the churn model, which Sarah in Marketing is counting on for her Q2 retention campaign. We have three options:
 > 1. **Pause churn model for 1 week** — dashboard this week, churn model slips to mid-April. I'd need you and Sarah to align on that.
-> 2. **Quick version now, full version later** — I can pull 2 hours today to set up a basic Looker view from existing tables. It won't have custom metrics but it covers 80% of what you need.
+> 2. **Quick version now, full version later** — I can pull 2 hours today to set up a basic Looker view. It won't have custom metrics but covers 80% of what you need.
 > 3. **Next sprint** — We finish churn model on schedule and start the dashboard March 24.
 >
 > Which of these works best for your launch timeline?"
 
 *Why this works:* You said yes, presented costs, and made it their choice.
 
-<!-- Talk track: Let me script out how this actually sounds in practice. Your VP of Product shows up wanting a dashboard for a feature launch. This happens every week in every analytics team. The wrong way is to say we do not have bandwidth. That is a wall. The VP hears no, gets frustrated, and either goes around you or escalates to your boss. Either way, you lose. The right way starts with absolutely, which is a yes. Then you lay out the current commitment, name the stakeholder who is depending on it, and present three concrete options with real costs. Option one: we pause the churn model, but you and Sarah need to agree on that. Option two: quick and dirty version today, real version later. Option three: we finish current work first, start yours next sprint. Then you ask which works best. Notice what you did. You never said no. You made the trade-off visible. You made it their decision, not yours. Nine times out of ten, the VP picks option two or three. And now you are a strategic partner, not a bottleneck. Practice this pattern until it is muscle memory. -->
+<!-- Talk track: The right way starts with absolutely, which is a yes. Then you lay out the current commitment, name the stakeholder who is depending on it, and present three concrete options with real costs. Notice what you did. You never said no. You made the trade-off visible. You made it their decision, not yours. Nine times out of ten, the VP picks option two or three. And now you are a strategic partner, not a bottleneck. Practice this pattern until it is muscle memory. -->
 
 ---
 
@@ -352,11 +384,11 @@ This is the document that gets forwarded to the CEO's CEO.
 
 ---
 
-# Anatomy of a Great Executive Narrative
+# Executive Narrative: Context & Results
 
 **A condensed example for a fictional analytics team at MarketBridge:**
 
-**Context:** "The Analytics team (5 ICs, 1 manager) supports MarketBridge's B2B SaaS platform, which serves 2,400 mid-market accounts. This quarter we operated at full capacity following the successful onboarding of two analysts hired in Q3. Our primary stakeholders are Product, Marketing, and Customer Success."
+**Context:** "The Analytics team (5 ICs, 1 manager) supports MarketBridge's B2B SaaS platform, which serves 2,400 mid-market accounts. This quarter we operated at full capacity following the successful onboarding of two analysts hired in Q3."
 
 *What makes this work: concrete numbers, no jargon, establishes scope and capacity in three sentences.*
 
@@ -364,11 +396,17 @@ This is the document that gets forwarded to the CEO's CEO.
 
 *What makes this work: one clear outcome, quantified before and after, shows who uses it and how.*
 
+<!-- Talk track: Let me show you what each section looks like when it is done well. This is a condensed example for a fictional analytics team at MarketBridge, a B2B SaaS company. Look at the Context section — three sentences, and you know the team size, what they support, and where they stand. No jargon. The What We Did section has one clear outcome with before and after numbers, and it shows who actually uses the work. Customer Success reviews the top fifty at-risk accounts weekly — that shows your work is integrated into a real business process, not sitting on a shelf. -->
+
+---
+
+# Executive Narrative: Insights, Plans, and Asks
+
 **What We Learned:** "Our biggest surprise was that product usage intensity is a weaker churn predictor than support ticket sentiment. Accounts that file frustrated tickets — even if they use the product daily — churn at 3x the rate."
 
 *What makes this work: a genuine insight that changes how leadership thinks about the business.*
 
-**What's Next:** "In Q2, we are investing in self-serve reporting for the Sales team. Currently, 40% of our ad hoc requests come from Sales asking the same five questions with different filters. Automating this frees approximately 1.5 analyst-months per quarter for higher-leverage work."
+**What's Next:** "In Q2, we are investing in self-serve reporting for the Sales team. Currently, 40% of our ad hoc requests come from Sales asking the same five questions. Automating this frees ~1.5 analyst-months per quarter for higher-leverage work."
 
 *What makes this work: clear priority, quantified opportunity cost, explains the why.*
 
@@ -376,7 +414,7 @@ This is the document that gets forwarded to the CEO's CEO.
 
 *What makes this work: specific ask, specific date, explains the consequence of not getting it.*
 
-<!-- Talk track: Let me show you what each section looks like when it is done well. This is a condensed example for a fictional analytics team at MarketBridge, a B2B SaaS company. Look at the Context section — three sentences, and you know the team size, what they support, and where they stand. No jargon. The What We Did section has one clear outcome with before and after numbers, and it shows who actually uses the work. Customer Success reviews the top fifty at-risk accounts weekly — that shows your work is integrated into a real business process, not sitting on a shelf. The What We Learned section is where most narratives fall flat. People write platitudes. This example shares a genuine surprise — product usage intensity is a weaker churn predictor than support ticket sentiment. That is the kind of insight that makes a VP lean forward. The What is Next section explains the priority, quantifies the opportunity cost in analyst-months, and explains why this is the highest-leverage investment. And What We Need is a specific, dated ask with a clear consequence. Not we need more resources, but we need the event schema migration by April fifteenth or our Q3 initiative is blocked. Every section earns the reader's attention by being specific, quantified, and connected to business outcomes. -->
+<!-- Talk track: The What We Learned section is where most narratives fall flat. People write platitudes. This example shares a genuine surprise — product usage intensity is a weaker churn predictor than support ticket sentiment. That is the kind of insight that makes a VP lean forward. The What is Next section explains the priority, quantifies the opportunity cost in analyst-months, and explains why this is the highest-leverage investment. And What We Need is a specific, dated ask with a clear consequence. Not we need more resources, but we need the event schema migration by April fifteenth or our Q3 initiative is blocked. Every section earns the reader's attention by being specific, quantified, and connected to business outcomes. -->
 
 ---
 
@@ -434,14 +472,12 @@ Executives trust leaders who name risks before they become surprises.
 **Build a 12-month roadmap for your case context.**
 
 1. Define your **North Star metric** and **3 guardrail metrics**
-2. Brainstorm at least **8 initiatives** your team could pursue
+2. Brainstorm at least **8 initiatives**
 3. **RICE score** each initiative
-4. Place initiatives in **Now / Next / Later** based on RICE scores and dependencies
-5. Identify the **top 3 dependencies** that could block your plan
+4. Place initiatives in **Now / Next / Later** based on scores and dependencies
+5. Identify **top 3 dependencies** that could block your plan
 
-**Use the `roadmap-rice.md` template.**
-
-Work individually, but talk to your case-context peers if you get stuck.
+**Use the `roadmap-rice.md` template.** Work individually, but talk to case-context peers if stuck.
 
 <!-- Talk track: This is the big activity for this block. You have 30 minutes to build a 12-month roadmap for your case context. Start by defining your North Star metric — what is the one number that best captures the value your team delivers? Then identify three guardrails. Next, brainstorm at least eight initiatives. Do not self-censor — get them all on paper first. Then RICE score each one. Finally, place them into Now, Next, and Later columns. Use the template I have provided. Work individually, but if you are stuck on what initiatives make sense for your case context, talk to the people at your table who chose the same context. I will be circulating to help. -->
 
