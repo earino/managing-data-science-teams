@@ -176,7 +176,7 @@ I'll circulate. Flag me if you're stuck.
 
 ## QBR Prep
 
-**Time: 15 minutes** | Block F (15:30) = **5-minute QBR** to a mock exec panel.
+**Time: 10 minutes** | Block F (15:30) = **5-minute QBR** to a mock exec panel.
 
 **Practice a 2-minute elevator pitch** with your partner:
 1. What are you building? (Roadmap headline)

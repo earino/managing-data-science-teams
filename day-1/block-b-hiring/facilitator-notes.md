@@ -59,14 +59,13 @@ Prepare four fictional candidate profiles for the role-play exercise:
 | 13:45–13:55 | 10 min | **Structured Interviews & Research** | Slides 22–25 (Schmidt & Hunter data, fairness). The research data is the anchor. Pause for reactions. |
 | 13:55–14:05 | 10 min | **Work Samples & Rubrics** | Slides 26–38 (work samples, rubric design). Skip calibration/norming slides 39–44 (covered in Day 2 Block D). Focus on rubric design — this is where students struggle most. |
 | 14:05–14:10 | 5 min | **Interview Loop Overview** | Slides 45–52 (interview loop, debrief). Skip detailed candidate experience slides 53–59 — mention briefly. |
-| 14:10–14:15 | 5 min | **Activity Brief** | Slides 60–63. **REVISED scope:** "In class, focus on your JD and Rubric — 25 minutes. Work sample design and interview loop are part of your final portfolio — start them between now and Day 2." |
-| 14:15–14:40 | 25 min | **Individual Work: JD + Rubric** | Circulate, answer questions. Students build the Job Description and Scoring Rubric only. Check progress at 10 min and 20 min. Push for specificity in rubric criteria. |
-| 14:40–14:45 | 5 min | **Role-Play Setup** | Slides 64–68. Distribute candidate profile cards, pair students, explain logistics. |
-| 14:45–14:55 | 10 min | **Role-Play Round 1** | One pair member interviews using their rubric, the other plays the candidate profile. Full 10 minutes allows proper warm-up and practice. |
-| 14:55–14:57 | 2 min | **Quick Swap** | Switch roles, new candidate profile card. |
-| 14:57–15:07 | 10 min | **Role-Play Round 2** | Reversed roles. |
-| 15:07–15:15 | 8 min | **Debrief** | Slides 69–73. Capture key observations. Focus question: "Did your rubric capture what you were actually evaluating?" |
-| 15:15–15:20 | 5 min | **Transition to Block C** | Slides 74–76. Key takeaways. Remind: work sample + interview loop are portfolio deliverables — start them between Day 1 and Day 2. |
+| 14:10–14:13 | 3 min | **Activity Brief** | Slides 60–63. **REVISED scope:** "In class, focus on your JD and Rubric — 25 minutes. Work sample design and interview loop are part of your final portfolio — start them between now and Day 2." |
+| 14:13–14:38 | 25 min | **Individual Work: JD + Rubric** | Circulate, answer questions. Students build the Job Description and Scoring Rubric only. Check progress at 10 min and 20 min. Push for specificity in rubric criteria. |
+| 14:38–14:41 | 3 min | **Role-Play Setup** | Slides 64–68. Distribute candidate profile cards, pair students, explain logistics. |
+| 14:41–14:51 | 10 min | **Role-Play Round 1** | One pair member interviews using their rubric, the other plays the candidate profile. Full 10 minutes allows proper warm-up and practice. |
+| 14:51–14:52 | 1 min | **Quick Swap** | Switch roles, new candidate profile card. |
+| 14:52–15:02 | 10 min | **Role-Play Round 2** | Reversed roles. |
+| 15:02–15:10 | 8 min | **Debrief** | Slides 69–76. Capture key observations. Focus question: "Did your rubric capture what you were actually evaluating?" Key takeaways. Remind: work sample + interview loop are portfolio deliverables — start them between Day 1 and Day 2. |
 
 **Total: 100 minutes**
 
@@ -84,9 +83,9 @@ This is the first block after lunch — the "graveyard slot" in teaching. Specif
 
 2. **Keep the lecture portion to 40 minutes maximum.** Slides 2–59 should be done by 14:15. If you are running long, skip the calibration slides (slides 39–44) — students will encounter calibration naturally during the role-play.
 
-3. **The activity is the energy.** The 35-minute individual work period and the role-play get students moving and talking. Do not sacrifice activity time for more lecture.
+3. **The activity is the energy.** The 25-minute individual work period and the role-play get students moving and talking. Do not sacrifice activity time for more lecture.
 
-4. **Stand up prompt.** At the 14:55 role-play transition, ask everyone to stand, find a partner, and move chairs. Physical movement resets energy.
+4. **Stand up prompt.** At the 14:38 role-play transition, ask everyone to stand, find a partner, and move chairs. Physical movement resets energy.
 
 ---
 

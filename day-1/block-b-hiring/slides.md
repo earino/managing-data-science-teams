@@ -792,9 +792,9 @@ Use a 4-point scale. Not three, not five.
 
 # Activity: Build Your Hiring Packet
 
-## 35 Minutes | Use the Templates
+## 25 Minutes | Use the Templates
 
-<!-- Talk track: Time to put this into practice. For the next 35 minutes, you will build a complete hiring packet for your first or next analytics hire within your chosen case context. You have four templates to complete: a job description built around 90-day outcomes, a work sample exercise, a scoring rubric, and an interview loop design. Use the templates provided. Work individually but feel free to ask questions. I will circulate. At the end, you will pair up for a role-play exercise using what you have built. -->
+<!-- Talk track: Time to put this into practice. For the next 25 minutes, you will build a complete hiring packet for your first or next analytics hire within your chosen case context. You have four templates to complete: a job description built around 90-day outcomes, a work sample exercise, a scoring rubric, and an interview loop design. Use the templates provided. Work individually but feel free to ask questions. I will circulate. At the end, you will pair up for a role-play exercise using what you have built. -->
 
 ---
 
@@ -810,7 +810,7 @@ Use the company scenario you chose in Block A (small / medium / large)
 
 # Activity Brief: Build Your Hiring Packet (2/2)
 
-### Deliverables (35 min)
+### Deliverables (25 min)
 
 1. **Job Description** — Role summary, 90-day outcomes, responsibilities, qualifications
 2. **Work Sample Exercise** — Realistic task, dataset description, evaluation criteria
@@ -830,19 +830,19 @@ Use the company scenario you chose in Block A (small / medium / large)
 
 > If you are stuck, start with: "What would make me confident this person can succeed in their first 90 days?" and work backward.
 
-<!-- Talk track: A few tips. Start with the 90-day outcomes because everything else flows from there. Be honest about what is truly required versus merely preferred. Keep your work sample scoped to 2–4 hours. And design the rubric so that a stranger could pick it up and reach similar conclusions to you — that is the test of a good rubric. If you are stuck, ask yourself "what would make me confident this person can succeed?" and work backward from there. You have 35 minutes. Go. -->
+<!-- Talk track: A few tips. Start with the 90-day outcomes because everything else flows from there. Be honest about what is truly required versus merely preferred. Keep your work sample scoped to 2–4 hours. And design the rubric so that a stranger could pick it up and reach similar conclusions to you — that is the test of a good rubric. If you are stuck, ask yourself "what would make me confident this person can succeed?" and work backward from there. You have 25 minutes. Go. -->
 
 ---
 
 # Role-Play Setup (1/2)
 
-### In 15 minutes, you will pair up
+### In 10 minutes, you will pair up
 
 **Round 1 (10 min):** Person A plays the candidate. Person B runs a structured interview using their rubric.
 
 **Round 2 (10 min):** Swap roles.
 
-<!-- Talk track: After the 35 minutes of building, we are going to do something uncomfortable and valuable. You are going to pair up and run actual structured interviews. One person plays the candidate using a profile card I will give you. The other person runs the interview using the rubric they just built. Then you swap. -->
+<!-- Talk track: After the 25 minutes of building, we are going to do something uncomfortable and valuable. You are going to pair up and run actual structured interviews. One person plays the candidate using a profile card I will give you. The other person runs the interview using the rubric they just built. Then you swap. -->
 
 ---
 

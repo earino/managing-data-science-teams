@@ -513,7 +513,7 @@ Play one of these roles during Q&A. Stay in character. **You MUST interrupt the 
 
 ## QBR Simulation — In Progress
 
-**Time: 40–50 minutes** | Rotate within your group. Everyone presents once.
+**Time: ~50 minutes** | Rotate within your group. Everyone presents once.
 
 **Remember:**
 - Presenters: 5 minutes max, then 5 minutes Q&A
@@ -623,7 +623,7 @@ Write down **3 specific actions** for the next 90 days. Not aspirations — acti
 
 **Specific. Measurable. Time-bound.**
 
-Take 2 minutes now. Write them down. These are yours — you don't have to share them.
+Take a few minutes now. Write them down. These are yours — you don't have to share them.
 
 <!-- Talk track: Specific, measurable, time-bound. Take 2 minutes. Write them down. These are for you — I'm not going to collect them. But research shows that writing down intentions dramatically increases follow-through. Go. -->
 

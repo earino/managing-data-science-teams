@@ -70,7 +70,7 @@
 - Swap roles. Assign a new scenario or let them continue.
 - Same coaching approach.
 
-**Debrief transition (2 min):**
+**Transition to next activity:**
 - Don't over-debrief here — save it for the full debrief at the end. Just ask: "Quick show of hands — who found articulating the impact statement hardest?" This validates the common struggle and transitions to the next activity.
 
 ### Mock Calibration (17 minutes)

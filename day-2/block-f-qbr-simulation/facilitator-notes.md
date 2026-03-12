@@ -40,10 +40,9 @@
 | 15:53–15:58 | 5 min | First 90 Days + QBR Simulation Brief + Evaluation Criteria + Role Cards | 31–40 |
 | 15:58–16:00 | 2 min | Form groups, assign first presenter, distribute role cards | — |
 | 16:00–16:50 | 50 min | **QBR Simulation** (5–6 rounds of presentations) | 41 |
-| 16:50–17:02 | 12 min | Simulation Debrief (whole room) | 42 |
-| 17:02–17:04 | 2 min | Portfolio Checklist walkthrough | 43–48 |
+| 16:50–16:58 | 8 min | Simulation Debrief (whole room) | 42 |
 | 16:58–17:02 | 4 min | Next 90 Days (individual writing) | 49–50 |
-| 17:02–17:04 | 2 min | Peer Feedback Reminder | 51–52 |
+| 17:02–17:04 | 2 min | Portfolio Checklist + Peer Feedback Reminder | 43–52 |
 | 17:04–17:10 | 6 min | Close — celebration, final words, thanks | 53–56 |
 
 **Total: 100 minutes**
@@ -100,7 +99,7 @@
 ### If Running Sequential Presentations (Small Class <12)
 - All students watch each presentation. This takes longer but creates a richer debrief.
 - Assign 2–3 students as the exec panel for each presentation. Rotate panel membership.
-- Maximum 6 sequential presentations in 45 minutes (5+5+1 transition each = ~8 min each).
+- Maximum 6 sequential presentations in ~50 minutes (4+3+1 transition each = ~8 min each).
 
 ---
 
@@ -178,7 +177,7 @@
 
 ## Portfolio Checklist Walkthrough
 
-### Spend Exactly 3 Minutes on This
+### Spend 2 Minutes on This
 - Project the portfolio checklist on screen (slides 43–48)
 - Walk through each artifact by name: "Team Charter — you started this in Block A. It should be 1–2 pages, final form."
 - Be specific about format: "Single PDF or a structured repo with a README that lists all artifacts."

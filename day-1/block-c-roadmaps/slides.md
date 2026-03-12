@@ -654,7 +654,7 @@ Executives trust leaders who name risks before they become surprises.
 ---
 
 # Activity: Executive Narrative Draft (1/2)
-## 15 minutes
+## 20 minutes
 
 **Write the first page of your 2-page executive narrative.**
 
@@ -662,7 +662,7 @@ Focus on two sections:
 1. **Context** — Team size, capabilities, business environment, key constraints.
 2. **What's Next** — Top 3 priorities for next quarter and why they matter.
 
-<!-- Talk track: Now take 15 minutes to write the first page of your executive narrative. Focus on Context and What is Next. Write in complete sentences — I know bullet points are tempting, but resist. Imagine your reader is two levels above you. -->
+<!-- Talk track: Now take 20 minutes to write the first page of your executive narrative. Focus on Context and What is Next. Write in complete sentences — I know bullet points are tempting, but resist. Imagine your reader is two levels above you. -->
 
 ---
 
@@ -680,13 +680,13 @@ Do not try to make it perfect — get the structure and the key messages right.
 ---
 
 # Red-Team: Kill the Project (1/2)
-## 10 minutes
+## 8 minutes
 
 **Pair up with someone from a DIFFERENT case context.**
 
 Your job: **find the fatal flaw** in their roadmap.
 
-<!-- Talk track: This is my favorite exercise of the day. Pair up with someone who chose a different case context than yours. You have 10 minutes total — 5 minutes each direction. Your job is to find the fatal flaw in their roadmap. -->
+<!-- Talk track: This is my favorite exercise of the day. Pair up with someone who chose a different case context than yours. You have 8 minutes total — 4 minutes each direction. Your job is to find the fatal flaw in their roadmap. -->
 
 ---
 

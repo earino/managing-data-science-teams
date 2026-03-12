@@ -88,7 +88,7 @@ This transition takes about 2 minutes. It's worth it — students who don't get 
 
 **Time management:** Give a "15 minutes left" and "5 minutes left" warning.
 
-### Structured Peer Review (30 minutes)
+### Structured Peer Review (35 minutes including setup)
 
 **Pairing:** Cross-pollinate case contexts. A student working on the small startup context should review work from someone in the enterprise context. This forces both parties to evaluate clarity — if an outsider to your context can understand your artifact, it's well-written.
 
@@ -165,7 +165,7 @@ This block directly supports three grading components:
 - [ ] Peer feedback form accessible to students
 - [ ] Grading rubrics accessible to students
 - [ ] Portfolio checklist accessible to students
-- [ ] Timer visible for activities (30 min revision, 30 min peer review, 10 min QBR prep)
+- [ ] Timer visible for activities (30 min revision, 35 min peer review (5 setup + 30 active), 10 min QBR prep)
 
 ---
 

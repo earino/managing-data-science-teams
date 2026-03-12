@@ -84,20 +84,20 @@
 | 11:27–11:30 | 3 min | 1:1s That Work + Anti-Patterns (skip difficult 1:1s 30–32) | 27–29 |
 | 11:30–11:33 | 3 min | Decision Logs & Memos (skip example memo 36–38) | 33–35 |
 | 11:33–11:37 | 4 min | Team Charter + Stakeholder Map (mention RACI, skip 45–47) | 39–44 |
-| 11:37–11:40 | 3 min | Activity brief — Team Charter | 48–49 |
-| **11:40–11:48** | **8 min** | **NEW: Manager OS Skeleton Micro-Activity** — Students spend 8 min sketching the 4 layers of their OS (cadences, rituals, artifacts, decision hygiene) for their case context. One sentence per layer. This becomes the seed for the full Manager OS document. |  |
-| 11:48–11:50 | 2 min | Activity brief — Team Charter | 48–49 |
-| 11:50–12:12 | 22 min | **Activity: Draft Team Charter** | 48–49 |
-| 12:12–12:14 | 2 min | Activity brief — Stakeholder Map | 50 |
-| 12:14–12:32 | 18 min | **Activity: Map Stakeholders** | 50–52 |
-| 12:32–12:37 | 5 min | Pair Share | 53–54 |
-| 12:37–12:45 | 8 min | **Debrief** + Recap + Transition to Block B | 55–59 |
+| 11:37–11:39 | 2 min | Activity brief — Team Charter | 48–49 |
+| **11:39–11:44** | **5 min** | **NEW: Manager OS Skeleton Micro-Activity** — Students sketch the 4 layers of their OS (cadences, rituals, artifacts, decision hygiene) for their case context. One sentence per layer. This becomes the seed for the full Manager OS document. |  |
+| 11:44–11:45 | 1 min | Re-brief — Team Charter ("Now build the full charter") | 48–49 |
+| 11:45–12:07 | 22 min | **Activity: Draft Team Charter** | 48–49 |
+| 12:07–12:09 | 2 min | Activity brief — Stakeholder Map | 50 |
+| 12:09–12:27 | 18 min | **Activity: Map Stakeholders** | 50–52 |
+| 12:27–12:32 | 5 min | Pair Share | 53–54 |
+| 12:32–12:40 | 8 min | **Debrief** + Recap + Transition to Block B | 55–59 |
 
-**Total: ~100 minutes**
+**Total: 100 minutes**
 
-**Notes on slide cuts:** The skipped slides (15–16, 20–21, 24–26, 30–32, 36–38, 45–47) remain in the deck for reference but should be advanced through without presenting. This saves ~18 minutes of lecture time, which is reallocated to the OS skeleton micro-activity (8 min) and extended debrief (5 min extra).
+**Notes on slide cuts:** The skipped slides (15–16, 20–21, 24–26, 30–32, 36–38, 45–47) remain in the deck for reference but should be advanced through without presenting. This saves ~18 minutes of lecture time, which is reallocated to the OS skeleton micro-activity (5 min) and extended debrief (5 min extra).
 
-**Manager OS Skeleton Micro-Activity instructions:** "Take 8 minutes. Open a blank document. Write one sentence for each of the four OS layers: (1) Cadences — what recurring meetings will you run and at what frequency? (2) Rituals — what are your team norms for standups, retros, demos? (3) Artifacts — what documents will your team maintain? (4) Decision hygiene — how will decisions be made and recorded? This skeleton becomes the seed for your full Manager OS document in the portfolio."
+**Manager OS Skeleton Micro-Activity instructions:** "Take 5 minutes. Open a blank document. Write one sentence for each of the four OS layers: (1) Cadences — what recurring meetings will you run and at what frequency? (2) Rituals — what are your team norms for standups, retros, demos? (3) Artifacts — what documents will your team maintain? (4) Decision hygiene — how will decisions be made and recorded? This skeleton becomes the seed for your full Manager OS document in the portfolio."
 
 ---
 
@@ -127,8 +127,8 @@ Weave this into the Manager OS discussion naturally — it is not a separate sec
 - **Pair Share can be shortened to 6 minutes total (3 min each)** if running behind.
 
 ### Do Not Skip
-- The Team Charter activity (25 min) — This is the core deliverable of the block.
-- The Stakeholder Map activity (20 min) — Also a core deliverable.
+- The Team Charter activity (22 min) — This is the core deliverable of the block.
+- The Stakeholder Map activity (18 min) — Also a core deliverable.
 - At least a brief debrief — Even 2 minutes of whole-room discussion cements the learning.
 
 ---
@@ -178,10 +178,10 @@ This is the **opening block** of a two-day intensive. Energy management is criti
 - **Praise specificity.** When a student shares a charter principle or a stakeholder insight, say "That's specific and actionable — that's exactly what a good charter looks like."
 
 ### Energy Through the Block
-- **11:00–11:30 (lecture portion):** Keep pace brisk. These slides are concept-heavy. Many topics are now split across two or three slides, so advance slides quickly to maintain visual momentum. If energy dips, ask a question: "Quick show of hands — who has been in a meeting that should have been a memo?"
-- **11:30–12:00 (final concepts + activity brief):** Students may check out briefly. The activity brief re-engages them. Be crisp: "Here's what you're doing, here's how long you have, go."
-- **12:00–12:47 (activities):** This is the high-energy portion. Circulate, coach, encourage. Students working on real artifacts stay engaged.
-- **12:47–12:55 (pair share + debrief):** Energy often dips at the end. Keep the debrief tight and end with a forward-looking question: "What role would you hire first?" This primes them for Block B.
+- **11:00–11:37 (lecture portion):** Keep pace brisk. These slides are concept-heavy. Many topics are now split across two or three slides, so advance slides quickly to maintain visual momentum. If energy dips, ask a question: "Quick show of hands — who has been in a meeting that should have been a memo?"
+- **11:37–11:45 (activity briefs + micro-activity):** Students may check out briefly. The micro-activity and activity brief re-engage them. Be crisp: "Here's what you're doing, here's how long you have, go."
+- **11:45–12:27 (activities):** This is the high-energy portion. Circulate, coach, encourage. Students working on real artifacts stay engaged.
+- **12:27–12:40 (pair share + debrief):** Energy often dips at the end. Keep the debrief tight and end with a forward-looking question: "What role would you hire first?" This primes them for Block B.
 
 ---
 
@@ -189,8 +189,8 @@ This is the **opening block** of a two-day intensive. Energy management is criti
 
 ### If Running 10 Minutes Behind
 - **Cut the RACI slides** (slides 45–47) — students can learn RACI from the template. Save 3 minutes.
-- **Shorten the pair share** from 10 minutes to 5 minutes (2.5 min each). Save 5 minutes.
-- **Shorten the debrief** from 3 minutes to 1 minute — just ask one question and give the recap. Save 2 minutes.
+- **Shorten the pair share** from 5 minutes to 2 minutes (1 min each). Save 3 minutes.
+- **Shorten the debrief** from 8 minutes to 3 minutes — just ask one question and give the recap. Save 5 minutes.
 - Do NOT cut the Team Charter or Stakeholder Map activities. These are the core deliverables.
 
 ### If Running 10 Minutes Ahead

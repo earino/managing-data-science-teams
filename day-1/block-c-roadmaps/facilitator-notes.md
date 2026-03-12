@@ -6,7 +6,7 @@
 
 ## Pre-Class Setup
 
-- **Room:** Ensure tables are arranged for easy pairing across case contexts (you will need cross-context pairs for the red-team exercise at minute 70).
+- **Room:** Ensure tables are arranged for easy pairing across case contexts (you will need cross-context pairs for the red-team exercise starting at ~minute 88 — plan pairings during the narrative activity).
 - **Screen:** Have the `slides.md` deck loaded and ready. Pre-load the `roadmap-rice.md` template on a second screen or tab so you can walk through it during the activity brief.
 - **Materials:** Students should have their case context documents and Block A artifacts (Team Charter, Stakeholder Map) accessible — either printed or on their laptops. They will need these for the roadmap activity and for the Day 1 Checkpoint submission.
 - **LMS:** Confirm the LMS submission portal is open and working BEFORE class starts. Test-upload a blank file. The 17:10 deadline is non-negotiable and technical issues will cause stress if not resolved in advance.
@@ -17,7 +17,7 @@
 
 ## Timing Breakdown (Minute-by-Minute) — REVISED
 
-**Key changes from original:** Teaching compressed from 44→35 min. Exec narrative activity extended from 15→20 min. Debrief extended from 3→8 min. Skip metrics tree "draw live" section (32–33), scripted trade-off conversation (38–40), and individual narrative example sections (point to template instead).
+**Key changes from original:** Teaching compressed from 44→35 min. Exec narrative activity extended from 15→20 min. Debrief extended from 3→4 min. Skip metrics tree "draw live" section (32–33), scripted trade-off conversation (38–40), and individual narrative example sections (point to template instead).
 
 | Time | Minutes | Slide(s) | Activity |
 |------|---------|----------|----------|
@@ -147,9 +147,9 @@ A: The risk register is NOT required for today's checkpoint. It is part of the f
 This is the last block of the day. Students have been in class since 11:00 with a lunch break. Energy will be lower at the start of this block compared to Block A.
 
 **Strategy:**
-- **Minutes 0-44 (concept slides 2-52):** Keep these brisk and interactive. Ask questions frequently. Do not lecture for more than 4 minutes without engaging the room.
-- **Minutes 45-91 (activities, slides 53-56):** The roadmap and narrative activities are individual work, which can feel low-energy. Circulate actively. Ask students to share interesting decisions with their neighbors. If energy is flagging at minute 70, consider a 60-second stretch break before the narrative exercise.
-- **Minutes 91-102 (red-team, slides 57-60):** This is the energy injection. The red-team exercise is competitive, social, and slightly uncomfortable — all of which wake people up. Lean into it. Be visibly enthusiastic. If pairs are going through the motions, jump in with a provocative question to raise the stakes.
+- **Minutes 0–35 (concept slides 2–52):** Keep these brisk and interactive. Ask questions frequently. Do not lecture for more than 4 minutes without engaging the room.
+- **Minutes 36–87 (activities, slides 53–56):** The roadmap and narrative activities are individual work, which can feel low-energy. Circulate actively. Ask students to share interesting decisions with their neighbors. If energy is flagging at minute 70, consider a 60-second stretch break before the narrative exercise.
+- **Minutes 88–100 (red-team + debrief, slides 57–60):** This is the energy injection. The red-team exercise is competitive, social, and slightly uncomfortable — all of which wake people up. Lean into it. Be visibly enthusiastic. If pairs are going through the motions, jump in with a provocative question to raise the stakes.
 - **Do not let the narrative writing drag.** If students are struggling with prose, tell them to write ugly sentences now and edit later. The goal is structure, not elegance.
 
 ---

@@ -254,7 +254,7 @@ Your **operating system** has four layers:
 
 Think of it like software: cadences are the scheduler, rituals are the processes, artifacts are the data store, and decision hygiene is the error-handling layer.
 
-<!-- Talk track: Here's the core mental model for this block. Your Manager OS has four layers. Cadences are the clock — how often things happen. Rituals are the actual meetings and practices. Artifacts are the written documents that create shared memory. And decision hygiene is how you make sure decisions are actually good. I like the software analogy: cadences are your cron scheduler, rituals are your running processes, artifacts are your database, and decision hygiene is your error handling. Over the next ninety minutes, we're going to build out each layer for YOUR context. -->
+<!-- Talk track: Here's the core mental model for this block. Your Manager OS has four layers. Cadences are the clock — how often things happen. Rituals are the actual meetings and practices. Artifacts are the written documents that create shared memory. And decision hygiene is how you make sure decisions are actually good. I like the software analogy: cadences are your cron scheduler, rituals are your running processes, artifacts are your database, and decision hygiene is your error handling. Over this block, we're going to build out each layer for YOUR context. -->
 
 ---
 
@@ -530,7 +530,7 @@ This classification matters because it tells everyone "we don't need to agonize 
 
 **Example principle:** *"We ship insights, not dashboards. If an analysis doesn't lead to a decision, we ask why before starting it."*
 
-<!-- Talk track: Let me give you a real example. I once joined a team where every PM in the company felt entitled to ask for any analysis at any time. The team was drowning. We wrote a charter that said: "We serve the Growth and Monetization pods. Other teams submit requests through a quarterly intake process." That one sentence saved hundreds of hours. You're going to write your own charter in about fifteen minutes. Let me show you what the template looks like. -->
+<!-- Talk track: Let me give you a real example. I once joined a team where every PM in the company felt entitled to ask for any analysis at any time. The team was drowning. We wrote a charter that said: "We serve the Growth and Monetization pods. Other teams submit requests through a quarterly intake process." That one sentence saved hundreds of hours. You're going to write your own charter in about twenty minutes. Let me show you what the template looks like. -->
 
 ---
 
@@ -625,14 +625,14 @@ I once had a project blocked for six weeks because I didn't know I needed approv
 
 ## Activity: Draft Your Team Charter (1/2)
 
-**Time: 25 minutes** | Use the template provided
+**Time: 22 minutes** | Use the template provided
 
 Using your chosen case context, draft a Team Charter with:
 1. **Purpose & Mission** — Why does this analytics team exist?
 2. **Scope & Boundaries** — What's in scope? What's explicitly NOT?
 3. **3 Operating Principles** — Rules your team lives by
 
-<!-- Talk track: All right, let's put this into practice. Open the Team Charter template — it's in your materials. You have 25 minutes. I want you to work individually, anchored to your case context. If you chose the small startup, your charter should reflect that reality — limited resources, scrappy, moving fast. If you chose the large enterprise, think about governance, compliance, cross-team coordination. -->
+<!-- Talk track: All right, let's put this into practice. Open the Team Charter template — it's in your materials. You have 22 minutes. I want you to work individually, anchored to your case context. If you chose the small startup, your charter should reflect that reality — limited resources, scrappy, moving fast. If you chose the large enterprise, think about governance, compliance, cross-team coordination. -->
 
 ---
 
@@ -651,7 +651,7 @@ Continue your Team Charter with:
 
 ## Activity: Map Your Stakeholders (1/2)
 
-**Time: 20 minutes** | Use the template provided
+**Time: 18 minutes** | Use the template provided
 
 Map your stakeholders on the Power/Interest grid.
 
@@ -660,7 +660,7 @@ Map your stakeholders on the Power/Interest grid.
 - For each, note Power level (High / Low) and Interest level (High / Low)
 - Also capture: what they need from you
 
-<!-- Talk track: Excellent work on the charters. Now flip to the Stakeholder Map template. You have 20 minutes. I want at least six stakeholders, and I want you to really think about the ones you might miss. Use the prompts on the next slide to jog your thinking. -->
+<!-- Talk track: Excellent work on the charters. Now flip to the Stakeholder Map template. You have 18 minutes. I want at least six stakeholders, and I want you to really think about the ones you might miss. Use the prompts on the next slide to jog your thinking. -->
 
 ---
 
@@ -693,7 +693,7 @@ Go deep here. This map will serve you for the rest of the course.
 
 ## Pair Share (1/2)
 
-**Time: 10 minutes (5 minutes each)**
+**Time: 5 minutes (2–3 minutes each)**
 
 Find a partner — ideally someone who chose a **different** case context.
 
