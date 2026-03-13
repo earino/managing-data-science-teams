@@ -24,7 +24,7 @@ List your requirements for this tool category. Classify each as Must-Have (non-n
 | 7 | Version control / audit trail for reports and dashboards | Nice | Supports governance and change tracking |
 | 8 | AI/ML-assisted exploration (natural language queries, auto-insights) | Nice | Emerging capability; nice to have but not a decision driver |
 
-**Note:** These are starter criteria — adapt them to your case context. DataPulse may deprioritize SOC 2 (early stage) and prioritize cost. FinGuard may add HIPAA/PCI-DSS compliance as a Must-Have. The point is to debate the weights and scores, not to invent the categories from scratch.
+**Note:** These are starter criteria — adapt them to your case context. DataPulse may deprioritize SOC 2 (early stage) and prioritize cost. FinGuard may add PCI-DSS and SOX compliance as a Must-Have. The point is to debate the weights and scores, not to invent the categories from scratch.
 
 **Minimum viable requirements:** Any vendor that fails a "Must-Have" requirement is eliminated regardless of score.
 

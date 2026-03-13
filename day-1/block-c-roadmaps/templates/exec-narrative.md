@@ -20,7 +20,7 @@ _Now write yours:_
 
 ---
 
-## What We've Done
+## What We Did
 
 _Key accomplishments and metrics moved. Be specific. Quantify everything. Use the BLUF principle: lead with the result, then explain how you got there._
 
@@ -32,11 +32,11 @@ _Key accomplishments and metrics moved. Be specific. Quantify everything. Use th
 
 _Use plausible fictional metrics for your case context. The skill being assessed is the structure and clarity of the writing, not the accuracy of the invented numbers._
 
-[Your What We've Done section here — aim for one substantial paragraph, approximately 100-150 words.]
+[Your What We Did section here — aim for one substantial paragraph, approximately 100-150 words.]
 
 ---
 
-## What We've Learned
+## What We Learned
 
 _Insights, surprises, and pivots. This section demonstrates intellectual honesty and analytical maturity. Executives value leaders who learn from data, not just report it._
 
@@ -46,7 +46,7 @@ _Insights, surprises, and pivots. This section demonstrates intellectual honesty
 - Were there any pivots — things you planned to do but stopped because the data told you otherwise?
 - This section is where you build trust. Showing what you got wrong is more credible than pretending everything went perfectly.
 
-[Your What We've Learned section here — aim for one substantial paragraph, approximately 80-120 words.]
+[Your What We Learned section here — aim for one substantial paragraph, approximately 80-120 words.]
 
 ---
 

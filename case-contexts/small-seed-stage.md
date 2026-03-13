@@ -43,7 +43,7 @@ The core problem at DataPulse is not a lack of data — it is a lack of trust, s
 You are operating under significant resource constraints that will shape every decision you make:
 
 - **Budget:** $5,000 per month is the total budget allocated for data tools and infrastructure. This must cover any new platforms, warehouse hosting, ETL tooling, and visualization software. There is no room for enterprise-grade solutions.
-- **Headcount:** You are the first and only data hire. There is no budget approved for a second data person in the near term. Everything you build must be maintainable by one person.
+- **Headcount:** You are the first and only data hire. There is no budget approved for a second data person in the near term. Everything you build must be maintainable by one person. Mira has indicated that if you demonstrate early wins and the Series A fundraise succeeds, a second data hire will be budgeted for Q2.
 - **Time pressure:** You have approximately 90 days to demonstrate enough value to justify your continued employment and, ideally, to produce the metrics the CEO needs for the fundraise. Quick wins matter as much as long-term architecture.
 - **Data literacy:** Nobody on the team has worked with a data professional before. Concepts like event taxonomies, dimensional modeling, statistical significance, and metric definitions will need to be introduced gently and with context. You will need to be a teacher as much as a builder.
 - **Technical debt:** Any solution must work with the existing React Native app, Firebase setup, and PostgreSQL database. A rip-and-replace approach is not feasible given the team's bandwidth and the fundraise timeline.

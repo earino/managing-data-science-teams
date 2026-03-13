@@ -185,7 +185,7 @@ I'll circulate. Flag me if you're stuck.
 
 Does your executive narrative lead with BLUF?
 
-<!-- Talk track: The QBR simulation is next block. You have fifteen minutes to prep. The most common mistake in QBR presentations is trying to show everything you did. Executives don't care about everything — they care about what matters. Practice your two-minute elevator pitch with your partner. Three sentences: what you're building, why it matters to the business, and what you need from leadership. If you can nail those three sentences, the rest of the QBR will flow. -->
+<!-- Talk track: The QBR simulation is next block. You have ten minutes to prep. The most common mistake in QBR presentations is trying to show everything you did. Executives don't care about everything — they care about what matters. Practice your two-minute elevator pitch with your partner. Three sentences: what you're building, why it matters to the business, and what you need from leadership. If you can nail those three sentences, the rest of the QBR will flow. -->
 
 ---
 

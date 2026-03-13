@@ -26,10 +26,10 @@ By the end of this block you will be able to:
 **Your instructor:** Eduardo Arino de la Rubia, Professor of Practice at CEU
 
 **What this 2-day intensive covers:**
-- Day 1: Manager OS, Hiring & Team Formation, Roadmapping, Performance & Growth
-- Day 2: Infrastructure & Tooling, Stakeholder Mgmt, Ethics & Governance, Capstone
+- Day 1: Manager OS, Hiring & Team Formation, Roadmaps & Alignment
+- Day 2: Growth & Performance, Portfolio Workshop & Peer Review, QBR Simulation
 
-<!-- Talk track: Let me introduce myself. I'm Eduardo Arino de la Rubia, and I'm a Professor of Practice here at CEU. My background is in building and leading analytics and data science teams — I've done it at startups, mid-stage companies, and large enterprises. I've made every mistake we're going to talk about, and I've learned from most of them. This course is two days, and it is intense. We're going to cover the full lifecycle of analytics management — from building your operating system as a manager, to hiring, to roadmapping, to performance management, to infrastructure, to stakeholder communication. -->
+<!-- Talk track: Let me introduce myself. I'm Eduardo Arino de la Rubia, and I'm a Professor of Practice here at CEU. My background is in building and leading analytics and data science teams — I've done it at startups, mid-stage companies, and large enterprises. I've made every mistake we're going to talk about, and I've learned from most of them. This course is two days, and it is intense. We're going to cover the full lifecycle of analytics management — from building your operating system as a manager, to hiring, to roadmapping, to performance management, to executive communication, and a capstone QBR simulation. -->
 
 ---
 
@@ -571,12 +571,11 @@ This classification matters because it tells everyone "we don't need to agonize 
 
 ## Stakeholder Map: Hidden Stakeholders by Context
 
-**Examples of hidden stakeholders by case context:**
-- **DataPulse:** The CTO who controls your cloud budget. The sole backend engineer who maintains the API you need data from. The LLM/API budget controller (often the CTO themselves at this stage).
-- **MarketBridge:** The data engineering team that owns your pipeline. The compliance officer who approves new data collection. The platform team managing LLM API costs.
-- **FinGuard:** Model risk management. Internal audit. The vendor management team that approves new tool purchases. The AI governance committee.
+- **DataPulse:** The CTO (cloud budget), the sole backend engineer, the LLM/API budget controller
+- **MarketBridge:** Data engineering (pipeline), compliance officer, platform team (LLM costs)
+- **FinGuard:** Model risk management, internal audit, vendor management, AI governance committee
 
-I once had a project blocked for six weeks because I didn't know I needed approval from the data privacy team before joining two datasets. If I had mapped them early, I could have gotten that approval in days.
+> I once had a project blocked for six weeks because I didn't map the data privacy team. Map early, avoid delays.
 
 <!-- Talk track: Every time I do this exercise with a new manager, they map the obvious ones — their boss, the PMs, the product team. But they miss IT, Legal, Privacy, Finance. Think about your case context — who could block you that you haven't thought of yet? The DataPulse folks should think about that one backend engineer. The MarketBridge folks should think about data engineering and compliance. The FinGuard folks should think about model risk management and internal audit. These are the relationships that, if you build them early, save you weeks of delay later. -->
 
@@ -649,7 +648,7 @@ Continue your Team Charter with:
 
 ---
 
-## Activity: Map Your Stakeholders (1/2)
+## Activity: Map Your Stakeholders (1/3)
 
 **Time: 18 minutes** | Use the template provided
 

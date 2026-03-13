@@ -47,7 +47,7 @@ _Track the status of every artifact. Update this checklist as you work. Submit t
 
 _For each major artifact, reflect honestly on its current quality. This self-assessment is for your benefit — it helps you prioritize where to spend your remaining time before the deadline._
 
-### Team Charter & Stakeholder Map
+### Manager OS Document (incl. Team Charter & Stakeholder Map)
 - **What's strong about this artifact?**
   [Your response]
 - **What would you improve with more time?**

@@ -137,7 +137,7 @@
 ## Evaluation Approach
 
 ### Formative, Not Summative
-- The QBR simulation is part of the **participation grade (20%)**, not a separate graded component.
+- The QBR simulation is part of the **participation grade (15%)**, not a separate graded component.
 - Do not assign individual scores during the simulation. This kills psychological safety.
 - **Verbal feedback only** during the debrief — one strength, one improvement per presenter (if time allows for individual feedback) or general patterns across all presentations.
 

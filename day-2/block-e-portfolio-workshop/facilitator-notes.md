@@ -29,7 +29,7 @@ This transition takes about 2 minutes. It's worth it — students who don't get 
 
 ---
 
-## Slide Map (15 slides)
+## Slide Map (16 slides)
 
 | Slide | Title |
 |-------|-------|
@@ -153,7 +153,7 @@ This block directly supports three grading components:
 
 1. **Peer Feedback Quality (5%)** — The peer review exercise is explicit practice for the peer feedback submission due 48h after Day 2. Students who take this seriously will produce stronger peer feedback.
 
-2. **All portfolio artifacts** — The revision workshop directly improves the artifacts that make up 75% of the grade (Hiring Packet, Roadmap, Manager OS, PGP).
+2. **All portfolio artifacts** — The revision workshop directly improves the artifacts that make up 70% of the grade (Hiring Packet, Roadmap, Manager OS, PGP + Performance Summary).
 
 3. **Participation (15%)** — Active engagement in peer review, asking good questions during Q&A, and genuine effort during revision all count.
 

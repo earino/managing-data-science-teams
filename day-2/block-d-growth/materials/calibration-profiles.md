@@ -92,11 +92,15 @@ Rate each profile:
 
 For each rating, write a one-sentence justification.
 
-### Group Calibration (10 minutes)
+### Group Calibration (8 minutes)
 - Reveal ratings simultaneously (hold up cards or read aloud).
 - Where the group **agrees**: briefly confirm the reasoning.
 - Where the group **disagrees**: discuss. The goal is **consensus**, not compromise. You must agree on a rating for each person.
 - Pay attention to what drives disagreements — this is the most valuable part.
+
+### Individual Reflection (2 minutes)
+- Write down: Did you change your mind during the discussion? What convinced you?
+- Note one thing you would do differently in a real calibration session.
 
 ### Debrief Questions
 - Which profile generated the most disagreement? Why?

@@ -104,7 +104,7 @@ Print or display one scenario per pair. Each round, partners swap roles (giver â
 
 ### Setup (2 minutes)
 - Pair students. Assign each pair a scenario (or let them choose).
-- Explain the format: 2 rounds, 8 minutes per round (practice + debrief), 2 minutes between rounds to swap roles.
+- Explain the format: 2 rounds, 10 minutes per round (8 minutes practice + 2 minutes debrief), 2 minutes between rounds to swap roles.
 
 ### Round 1 (10 minutes)
 - Partner A gives feedback (SBI), Partner B receives.

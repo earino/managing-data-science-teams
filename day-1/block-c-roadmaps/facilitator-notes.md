@@ -17,7 +17,7 @@
 
 ## Timing Breakdown (Minute-by-Minute) — REVISED
 
-**Key changes from original:** Teaching compressed from 44→35 min. Exec narrative activity extended from 15→20 min. Debrief extended from 3→4 min. Skip metrics tree "draw live" section (32–33), scripted trade-off conversation (38–40), and individual narrative example sections (point to template instead).
+**Key changes from original:** Teaching compressed from 44→35 min. Exec narrative activity extended from 15→20 min. Debrief compressed from 3→1 min to guarantee 3 min for checkpoint upload. Skip metrics tree "draw live" section (32–33), scripted trade-off conversation (38–40), and individual narrative example sections (point to template instead).
 
 | Time | Minutes | Slide(s) | Activity |
 |------|---------|----------|----------|
@@ -38,12 +38,12 @@
 | 16:58 | 88-96 | **RED-TEAM: Kill the Project** | 8 minutes. High-energy. Walk around, prompt with provocative questions. |
 | 16:58 | 88-92 | Red-Team Round 1 | Partner A presents, Partner B attacks. |
 | 17:02 | 92-96 | Red-Team Round 2 | Switch roles. |
-| 17:06 | 96-100 | 59-60 (Debrief + Update) | **Extended debrief (4 min):** "What did the red-team reveal?" + "What's one thing you'll change in your roadmap?" 2 min to update. |
-| 17:10 | 100 | 61-66 (Checkpoint, What's Coming, Close) | **HARD STOP.** Day 1 Checkpoint, What's Coming, Close. Remind students to upload NOW. |
+| 17:06 | 96-97 | 59-60 (Debrief + Update) | **Quick debrief (1 min):** "What did the red-team reveal?" One or two fast responses. |
+| 17:07 | 97-100 | 61-66 (Checkpoint, What's Coming, Close) | **Checkpoint Upload (3 min).** Day 1 Checkpoint, What's Coming, Close. Remind students to upload NOW. |
 
 **Total: 100 minutes. No slack. Manage transitions tightly.**
 
-**Notes on slide cuts:** Skip slides 32–33 (metrics tree live drawing — mention concept, let students explore in template), 38–40 (scripted trade-off conversation — reference the "instead of / say" table instead), and individual narrative example sections within 41–47 (point to template). This saves ~9 minutes, reallocated to extended exec narrative activity (+5 min) and extended debrief (+4 min).
+**Notes on slide cuts:** Skip slides 32–33 (metrics tree live drawing — mention concept, let students explore in template), 38–40 (scripted trade-off conversation — reference the "instead of / say" table instead), and individual narrative example sections within 41–47 (point to template). This saves ~9 minutes, reallocated to extended exec narrative activity (+5 min), quick debrief (+1 min), and dedicated checkpoint upload time (+3 min).
 
 ---
 
@@ -64,8 +64,8 @@
 
 ### Time Management
 
-- Use a loud, clear signal (clap, timer sound) at the 5-minute mark to switch roles.
-- At the 10-minute mark, call time firmly. Students will want to keep going — channel that energy into the debrief.
+- Use a loud, clear signal (clap, timer sound) at the 4-minute mark to switch roles.
+- At the 8-minute mark, call time firmly. Students will want to keep going — channel that energy into the debrief.
 
 ---
 
@@ -157,7 +157,9 @@ This is the last block of the day. Students have been in class since 11:00 with 
 ## Transition to Day 2
 
 Before dismissing:
+- **Between-days checklist:** Point students to `resources/between-days-checklist.md` (also posted on Moodle) for their between-days work including required reading for Day 2. The checklist covers reading assignments (Fournier Ch. 6, Grove Ch. 11, Larson §5.3), portfolio artifact work, and Day 2 logistics. Walk through it briefly so students know what is expected during the week.
 - **Remind about the hiring packet:** Students should continue working on their work sample and interview loop between Day 1 and Day 2. These are portfolio deliverables — no mid-week deadline.
+- **Required reading:** Emphasize that the three readings (especially Grove Ch. 11 on performance reviews and Fournier Ch. 6 on managing a team) are essential preparation for Block D's calibration and feedback exercises. Students who skip the reading will struggle with the mock calibration activity.
 - **QBR simulation brief:** Will be posted on the LMS tonight. Students should read it before Day 2.
 - **Roadmap refinement:** Encourage students to spend 30-60 minutes between now and Day 2 polishing their roadmap. They will present it during the QBR simulation.
 - **Office hours:** Remind students of your availability for questions between Day 1 and Day 2.

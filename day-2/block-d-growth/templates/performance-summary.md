@@ -6,7 +6,7 @@
 | **Date** | |
 | **Case Context** | Small / Medium / Large |
 | **Subject** | Employee Name & Level |
-| **Review Period** | (e.g., Q1-Q4 2025, or H2 2025) |
+| **Review Period** | (e.g., Q1-Q4 2025, or H1 2026) |
 
 ---
 
@@ -100,11 +100,11 @@ Provide 3-5 brief entries from your manager log, stakeholder feedback, or other 
 
 **Example entries:**
 
-> **2025-03-15 | Manager observation:** Jordan presented the retention analysis to the Growth PM. Presentation was clear and well-structured. PM followed up with two action items directly from the analysis.
+> **2025-06-15 | Manager observation:** Jordan presented the retention analysis to the Growth PM. Presentation was clear and well-structured. PM followed up with two action items directly from the analysis.
 
-> **2025-06-02 | Stakeholder feedback (VP Product):** "Jordan's segmentation work was exactly what we needed. The framing was business-first, which made it easy for the pricing team to act on."
+> **2025-09-02 | Stakeholder feedback (VP Product):** "Jordan's segmentation work was exactly what we needed. The framing was business-first, which made it easy for the pricing team to act on."
 
-> **2025-08-20 | Manager observation:** Jordan missed the deadline on the funnel analysis by 3 days. Root cause: scope creep — Jordan expanded the analysis without re-negotiating the timeline. Discussed the importance of scope management in 1:1.
+> **2026-01-20 | Manager observation:** Jordan missed the deadline on the funnel analysis by 3 days. Root cause: scope creep — Jordan expanded the analysis without re-negotiating the timeline. Discussed the importance of scope management in 1:1.
 
 ---
 

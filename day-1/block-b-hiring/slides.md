@@ -301,12 +301,10 @@ The leveling conversation is the one you have with your recruiter, HR partner, o
 
 **Redesign work samples for the AI era:**
 
-- **Allow AI use** — even encourage it. Then evaluate: did they validate the output?
+- **Allow AI use** — then evaluate: did they validate the output?
 - **Test framing** — Can they define the right question before touching any tool?
-- **Test judgment** — Can they spot when the AI's answer is subtly wrong?
+- **Test judgment** — Can they spot when the AI is subtly wrong?
 - **Test communication** — Can they explain findings to a non-technical stakeholder?
-
-> The meta-skill for the AI era: **knowing when the AI is wrong.**
 
 <!-- Talk track: Here is how to redesign your work samples. Allow AI use — even encourage it. Then evaluate what the candidate did with the AI output. Did they validate it? Did they add judgment the AI could not provide? Did they catch the edge case the model missed? The framing question is now even more diagnostic than before. A candidate who jumps straight into prompting an AI without first defining the problem is doing the same thing as the candidate who jumps into writing code without thinking. Test whether they can frame the question, evaluate the answer critically, and communicate the findings in business terms. The meta-skill you are hiring for now is knowing when the AI is wrong. That requires domain knowledge, statistical intuition, and intellectual honesty — exactly the things you cannot automate. -->
 
@@ -792,9 +790,9 @@ Use a 4-point scale. Not three, not five.
 
 # Activity: Build Your Hiring Packet
 
-## 25 Minutes | Use the Templates
+## 25 Minutes | JD + Rubric In Class
 
-<!-- Talk track: Time to put this into practice. For the next 25 minutes, you will build a complete hiring packet for your first or next analytics hire within your chosen case context. You have four templates to complete: a job description built around 90-day outcomes, a work sample exercise, a scoring rubric, and an interview loop design. Use the templates provided. Work individually but feel free to ask questions. I will circulate. At the end, you will pair up for a role-play exercise using what you have built. -->
+<!-- Talk track: Time to put this into practice. For the next 25 minutes, you will focus on two deliverables: your job description and your scoring rubric. These are the foundation of the hiring packet. Work sample design and interview loop design are part of your final portfolio — start them between now and Day 2. Use the templates provided. Work individually but feel free to ask questions. I will circulate. At the end, you will pair up for a role-play exercise using the rubric you built. -->
 
 ---
 
@@ -804,20 +802,21 @@ Use a 4-point scale. Not three, not five.
 
 Use the company scenario you chose in Block A (small / medium / large)
 
-<!-- Talk track: Here is the specific breakdown. Use the company scenario you chose in Block A. Start with the job description template and fill in the 90-day outcomes first. That is your anchor. -->
+<!-- Talk track: Here is the specific breakdown. Use the company scenario you chose in Block A. In class today, you are building two things: the job description and the scoring rubric. Start with the job description template and fill in the 90-day outcomes first — that is your anchor. The work sample and interview loop are homework — part of your final portfolio. -->
 
 ---
 
 # Activity Brief: Build Your Hiring Packet (2/2)
 
-### Deliverables (25 min)
+### In-Class (25 min)
+1. **Job Description** — 90-day outcomes, responsibilities, qualifications
+2. **Scoring Rubric** — Dimensions, 1–4 scale, behavioral anchors
 
-1. **Job Description** — Role summary, 90-day outcomes, responsibilities, qualifications
-2. **Work Sample Exercise** — Realistic task, dataset description, evaluation criteria
-3. **Scoring Rubric** — Dimensions, 1–4 scale with behavioral anchors
-4. **Interview Loop Design** — Stages, interviewers, focus areas, debrief protocol
+### Portfolio Homework
+3. **Work Sample Exercise** — Realistic task, dataset, evaluation criteria
+4. **Interview Loop Design** — Stages, interviewers, debrief protocol
 
-<!-- Talk track: You have four deliverables. First the job description with 90-day outcomes. Then design a work sample that tests whether a candidate can accomplish those outcomes. Build your rubric next — make sure every dimension maps to something in the work sample or interviews. Finally, design the interview loop: who interviews, what they evaluate, and how you debrief. -->
+<!-- Talk track: In class, you have two deliverables: the job description with 90-day outcomes, and the scoring rubric. Focus your 25 minutes here. The work sample exercise and interview loop design are part of your final portfolio — start them between now and Day 2, building on the JD and rubric you draft today. You will have until the portfolio deadline to polish everything. -->
 
 ---
 
@@ -825,12 +824,12 @@ Use the company scenario you chose in Block A (small / medium / large)
 
 - Start with the 90-day outcomes — everything else follows
 - Be honest about "required" vs. "preferred" qualifications
-- Your work sample should take a candidate 2–4 hours, not 20
 - Design the rubric so a stranger could use it and reach similar conclusions
+- You will use this rubric in the role-play next — make it specific enough to actually score a candidate
 
 > If you are stuck, start with: "What would make me confident this person can succeed in their first 90 days?" and work backward.
 
-<!-- Talk track: A few tips. Start with the 90-day outcomes because everything else flows from there. Be honest about what is truly required versus merely preferred. Keep your work sample scoped to 2–4 hours. And design the rubric so that a stranger could pick it up and reach similar conclusions to you — that is the test of a good rubric. If you are stuck, ask yourself "what would make me confident this person can succeed?" and work backward from there. You have 25 minutes. Go. -->
+<!-- Talk track: A few tips. Start with the 90-day outcomes because everything else flows from there. Be honest about what is truly required versus merely preferred. Design the rubric so that a stranger could pick it up and reach similar conclusions to you — that is the test of a good rubric. You are about to use this rubric in a live role-play, so make it specific enough to actually score someone. If you are stuck, ask yourself "what would make me confident this person can succeed?" and work backward from there. You have 25 minutes — focus on the JD and rubric. Go. -->
 
 ---
 

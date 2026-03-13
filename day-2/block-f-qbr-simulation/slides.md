@@ -485,13 +485,13 @@ How the 90-day plan varies by org size:
 
 ## Exec Panel Role Cards (1/2)
 
-Play one of these roles during Q&A. Stay in character. **You MUST interrupt the presenter at least once during their 5 minutes.**
+Play one of these roles during Q&A. Stay in character. **You MUST interrupt at least once.**
 
-**CEO:** "Show me the business impact. Why should I invest in this team over other priorities?"
-- Interrupt with: "Hold on — are we on track or not?" or "Skip ahead — what's the one thing I need to know?"
+**CEO:** "Show me business impact. Why invest in this team over other priorities?"
+- Interrupt: "Are we on track or not?" or "What's the one thing I need to know?"
 
-**CTO:** "How does this integrate with our engineering roadmap? What are the technical risks?"
-- Interrupt with: "Wait — what happens if the data pipeline migration slips?" or "How does this connect to what engineering is building?"
+**CTO:** "How does this integrate with engineering? What are the technical risks?"
+- Interrupt: "What happens if the data pipeline migration slips?"
 
 <!-- Talk track: Here are your role cards. When you're playing an executive, pick one of these four roles and commit to it. The CEO cares about strategic impact and resource allocation. The CTO cares about technical integration and risk. And here is the key instruction: you must interrupt the presenter at least once. Do not wait politely for them to finish. In real QBRs, executives interrupt constantly. They don't wait for slide 12 to ask the question they had on slide 3. Your job as a panelist is to simulate that reality. Presenters, your job is to handle it gracefully — answer briefly, then get back to your narrative. -->
 
@@ -611,11 +611,11 @@ Write down **3 specific actions** for the next 90 days. Not aspirations — acti
 
 | Bad | Good |
 |---|---|
-| "Be a better manager" | "Start weekly 1:1s with each report by March 30" |
+| "Be a better manager" | "Start weekly 1:1s with each report within 2 weeks of completing this course" |
 | "Improve data quality" | "Implement metric ownership doc for top 10 metrics by April 15" |
 | "Communicate better" | "Write a BLUF summary for every exec update starting next week" |
 
-<!-- Talk track: I want to do something different for a moment. Take out a piece of paper or open a blank doc. Write down three specific actions you will take in the next 90 days based on what you've learned. Not "be a better manager" — that's a wish, not an action. I want things like "Start weekly 1:1s with my two direct reports by the end of March." "Write a team charter for my analytics team and share it with my VP by April." "Create a metric ownership document for our top 10 dashboards." -->
+<!-- Talk track: I want to do something different for a moment. Take out a piece of paper or open a blank doc. Write down three specific actions you will take in the next 90 days based on what you've learned. Not "be a better manager" — that's a wish, not an action. I want things like "Start weekly 1:1s with my two direct reports within two weeks of finishing this course." "Write a team charter for my analytics team and share it with my VP by April." "Create a metric ownership document for our top 10 dashboards." -->
 
 ---
 

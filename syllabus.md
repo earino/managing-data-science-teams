@@ -7,16 +7,16 @@
 - **Course Code & Title:** ECBS5256 – Managing Data Science Teams  
 - **Program:** MS in Business Analytics (MSBA)  
 - **Instructor:** Eduardo Ariño de la Rubia, Professor of Practice  
-- **Email / Office Hours:** **TBA** (posted on LMS)  
+- **Email / Office Hours:** By appointment, D-207
 - **Meeting Pattern:** Two-day intensive, in person  
 - **Dates:** Monday **March 16** and Monday **March 23**  
 - **Class Blocks (each day):**  
   - Block A: 11:00–12:40  
   - Block B: 13:30–15:10  
   - Block C: 15:30–17:10  
-- **Location:** CEU Vienna Campus, Room **TBA**  
+- **Location:** CEU Vienna Campus, Room B-421
 - **ECTS:** **TBA**  
-- **LMS:** **TBA** (Canvas/Moodle link to be posted)
+- **LMS:** Moodle
 
 ---
 
@@ -58,8 +58,15 @@ By the end of the course, students will be able to:
 
 ### Required (with specific chapters)
 
-- Camille Fournier — *The Manager’s Path*, Ch. 1–3 & Ch. 6 ("Managing a Team"). The spine of this course: 1:1s, hiring, team management, managing up. (~100 pp)
-- Andy Grove — *High Output Management*, Ch. 4 ("Meetings") & Ch. 11 ("Performance Reviews"). The intellectual foundation for Manager OS and calibration. (~60 pp)
+**Read before Day 1 (March 16):**
+
+- Camille Fournier — *The Manager’s Path*, Ch. 1–3. 1:1s, hiring basics, team management. (~70 pp)
+- Andy Grove — *High Output Management*, Ch. 4 ("Meetings"). The intellectual foundation for Manager OS. (~30 pp)
+
+**Read before Day 2 (March 23):**
+
+- Camille Fournier — *The Manager’s Path*, Ch. 6 ("Managing a Team"). Managing up, performance. (~30 pp)
+- Andy Grove — *High Output Management*, Ch. 11 ("Performance Reviews"). Foundation for calibration. (~30 pp)
 - Will Larson — *An Elegant Puzzle*, Part 2 ("Organizations") & §5.3 ("Presenting to Senior Leadership"). Org design at scale and roadmap communication. (~80 pp)
 
 ### Further Reading (valuable, not expected)
@@ -192,7 +199,7 @@ All artifacts compile into a single **Manager Portfolio** (PDF/repo).
 
 ## 12\. Instructor
 
-**Eduardo Ariño de la Rubia** is a data scientist and technologist focused on analytics leadership and practical ML. He has led teams across product analytics, infra, and applied research, and teaches in CEU’s MSBA. Bio and office hours **TBA** on LMS.
+**Eduardo Ariño de la Rubia** is a data scientist and technologist focused on analytics leadership and practical ML. He has led teams across product analytics, infra, and applied research, and teaches in CEU’s MSBA. Office hours by appointment, D-207.
 
 ---
 
@@ -204,5 +211,5 @@ All artifacts compile into a single **Manager Portfolio** (PDF/repo).
 
 ---
 
-*Placeholders (ECTS, room, LMS link, academic year) will be filled when provided by the program.*  
+*ECTS credit value to be confirmed by program.*
 

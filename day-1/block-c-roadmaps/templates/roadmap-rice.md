@@ -47,7 +47,7 @@ _Score each initiative using the RICE framework. Then sort by RICE score to info
 - **Reach:** Number of people, decisions, or dollars affected per quarter
 - **Impact:** 3 = massive, 2 = high, 1 = medium, 0.5 = low, 0.25 = minimal
 - **Confidence:** 100% = high certainty, 80% = reasonable, 50% = speculative
-- **Effort:** Person-months of work required
+- **Effort:** Person-months of work required (include compute costs where significant)
 - **RICE Score:** (Reach x Impact x Confidence) / Effort
 
 | # | Initiative | Reach | Impact | Confidence | Effort | RICE Score | Horizon |

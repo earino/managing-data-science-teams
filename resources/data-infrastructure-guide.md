@@ -63,7 +63,7 @@ Add to the small stack:
 |---|---|---|
 | **Event platform** | Segment or RudderStack | Structured event collection; identity resolution |
 | **Experimentation** | Statsig or Eppo | Rigorous A/B testing, not spreadsheet math |
-| **Semantic layer** | dbt metrics or Cube | Single source of truth for metric definitions |
+| **Semantic layer** | dbt Semantic Layer (MetricFlow) or Cube | Single source of truth for metric definitions |
 | **Catalog** | DataHub or Atlan | Discovery; lineage; tribal knowledge captured |
 | **Observability** | Monte Carlo or Elementary | Know when data breaks before your stakeholders do |
 
