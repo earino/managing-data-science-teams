@@ -816,58 +816,47 @@ Use the company scenario you chose in Block A (small / medium / large)
 
 ---
 
-## Role-Play Setup
-### In 10 minutes, you will pair up
+## Role-Play: Structured Interview Practice
 
-**Round 1 (10 min):** Person A plays the candidate. Person B runs a structured interview using their rubric.
+**Pair up** with someone — ideally a different case context.
 
-**Round 2 (10 min):** Swap roles.
+| | Time | What happens |
+|---|---|---|
+| **Setup** | 2 min | Candidate picks a profile, reads it silently |
+| **Interview** | 6 min | Interviewer runs structured interview using their rubric |
+| **Debrief** | 2 min | Interviewer shares scores. Candidate reveals profile and gives feedback |
 
-<!-- Talk track: After the 25 minutes of building, we are going to do something uncomfortable and valuable. You are going to pair up and run actual structured interviews. One person plays the candidate using a profile card I will give you. The other person runs the interview using the rubric they just built. Then you swap. -->
+**Round 1 (10 min):** Person A is the candidate. Person B interviews.
+**Round 2 (10 min):** Swap roles. Person B picks a **different** profile.
+
+<!-- Talk track: After the 25 minutes of building, we're going to do something uncomfortable and valuable. Pair up — ideally with someone who chose a different case context. One of you will play a candidate, the other will interview them using the rubric you just built. Then you swap. Here's the key: the candidate picks their own profile and reads it silently. The interviewer does not see the profile. You're going in blind, just like a real interview. -->
 
 ---
 
-## Role-Play Setup
-### How It Works
+## Candidate Profiles
 
-1. You will receive a **Candidate Profile Card** (`materials/candidate-profile-cards.md`) — play this person authentically, including their weaknesses
-2. The interviewer uses their **scoring rubric** to evaluate responses — ask questions that probe the dimensions you defined
-3. After each round, the interviewer shares scores and explains reasoning
+**Candidate:** Pick ONE file. Read it silently. **Do not show it to your interviewer.**
 
-<!-- Talk track: Here is how it works. You will receive a candidate profile card — play this person authentically, including their weaknesses. The interviewer uses the scoring rubric they just built to evaluate responses. Ask questions that probe the dimensions you defined in your rubric. After each round, the interviewer shares scores and explains their reasoning. -->
+| Profile | File |
+|:---|:---|
+| **A** — Strong candidate | `materials/candidate-a-priya.md` |
+| **B** — Borderline | `materials/candidate-b-marcus.md` |
+| **C** — Wrong level | `materials/candidate-c-sarah.md` |
+| **D** — Culture fit trap | `materials/candidate-d-jordan.md` |
+
+<!-- Talk track: Here are the four profiles. Each one is an archetype you will encounter in real hiring. Pick one — don't tell your partner which one. Open the file and read it silently. You have two minutes. Play the character authentically, including their weaknesses. If your profile says you struggle to explain things to non-technical people, then struggle. The goal is to stress-test the rubric, not to practice being impressive. -->
 
 ---
 
 ## Role-Play: The Goal
 
-- The "candidate" gives feedback: "Here is what felt fair, here is what felt unclear"
-- Experience both sides of a structured interview
-- Find where your rubric works and where it breaks down
+You are testing **whether your rubric works**, not whether the candidate is a fit.
 
-> Play the candidate authentically — do not make it easy for the interviewer. If your profile says you are weak on communication, be weak on communication. The goal is to stress-test the rubric.
+- **Interviewer:** Use your rubric's "How to Probe" questions. Score in real time.
+- **Candidate:** Play the profile, not yourself. Lean into the weaknesses.
+- **After each round:** Interviewer shares scores. Candidate reveals profile and gives feedback.
 
-<!-- Talk track: This is where the rubber meets the road. You will discover whether your rubric actually helps you evaluate someone or whether it falls apart when a real human being is sitting across from you. Play the candidate authentically. If your profile says you are weak on communication, be weak on communication. The goal is to stress-test the rubric, not to practice being impressive. After each round, the candidate gives feedback on what felt fair and what felt unclear. -->
-
----
-
-## Candidate Profile Cards
-| Profile | Archetype | Key Trait |
-|:---|:---|:---|
-| **A** | Strong Candidate | Solid all-around; slightly overqualified |
-| **B** | Borderline | Good technical but communication gaps |
-| **C** | Wrong Level | Impressive resume, wrong seniority |
-| **D** | Culture Fit Trap | Likable but shallow technical depth |
-
-<!-- Talk track: I am going to hand out candidate profile cards. Each profile is a different archetype you will encounter in real hiring. Profile A is the strong candidate. Profile B is the borderline. Profile C is the wrong level. Profile D is the culture-fit trap — charming and articulate but shallow technically. -->
-
----
-
-## Candidate Profile Cards
-Each card includes: background, strengths, weaknesses, a "tell" the interviewer should catch, and suggested responses.
-
-**Play the profile, not yourself.**
-
-<!-- Talk track: Each card has suggested responses and a tell that the interviewer should catch if their rubric is well-designed. Play the profile, not yourself. The goal is to stress-test the rubric, not to practice being impressive. -->
+<!-- Talk track: I want to be clear about the goal. You are not evaluating whether this person would get hired. You are testing whether your rubric gives you a structured way to evaluate someone. Your rubric was designed for your case context — maybe you wrote it for a senior analyst at FinGuard. The candidate might be playing a junior bootcamp grad. That mismatch is fine. The question is: does your rubric help you see signal, or does it fall apart when a real person is sitting across from you? -->
 
 ---
 
@@ -889,15 +878,13 @@ Each card includes: background, strengths, weaknesses, a "tell" the interviewer 
 ## Debrief: The Candidate Perspective
 
 - **What surprised you about being the candidate?**
-  - What felt fair? What felt arbitrary?
+- What felt fair? What felt arbitrary?
 
-### Key Takeaway
+**The reveal:** Each profile had a hidden "tell" — a signal a well-designed rubric should catch. Did yours surface it?
 
-A rubric is a living document. Your first version will be wrong. The goal is to **iterate** after every interview loop.
+A rubric is a living document. After every real interview loop: add a missing dimension, sharpen a vague score, remove what wasn't diagnostic.
 
-> After every real interview loop, update your rubric. Add a missing dimension. Sharpen a vague score definition. Remove a dimension that was not diagnostic.
-
-<!-- Talk track: Now candidates: what felt fair about the process? What felt arbitrary or unclear? After every real interview loop, you should update your rubric based on what you learned. Add a dimension you were missing. Sharpen a vague score definition. Remove a dimension that was not actually diagnostic. The rubric is a living document, not a form you fill out once and file away. -->
+<!-- Talk track: Now candidates: what felt fair about the process? What felt arbitrary or unclear? Here's something I didn't tell you before the exercise — each profile had a hidden tell. Profile A proactively suggests improvements beyond the question. Profile B defaults to jargon when asked to simplify. Profile C steers everything toward strategy and delegation. Profile D pivots to storytelling when pressed on methodology. Did your rubric catch the tell? If not, that's your most valuable insight — you now know what dimension to add or sharpen. The rubric is a living document. Your first version will always be wrong. The goal is iteration. -->
 
 ---
 <!-- _class: cut -->

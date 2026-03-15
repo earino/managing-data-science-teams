@@ -9,42 +9,26 @@
 
 ### Materials Needed
 
-- [ ] Printed or digitally shared **Candidate Profile Cards** (4 profiles, enough for all students)
+- [ ] Four individual candidate profile files available on LMS: `candidate-a-priya.md`, `candidate-b-marcus.md`, `candidate-c-sarah.md`, `candidate-d-jordan.md`
 - [ ] Templates available on LMS or printed: Job Description, Work Sample, Rubric, Interview Loop
 - [ ] Timer visible to students (projector or large screen)
 - [ ] Whiteboard or flip chart for debrief capture
 
-### Candidate Profile Cards (Print/Share Before Class)
+### Candidate Profiles (Available as Individual Files)
 
-Prepare four fictional candidate profiles for the role-play exercise:
+Four fictional candidate profiles are available as separate files in `materials/`:
+- `candidate-a-priya.md` — The Strong Candidate
+- `candidate-b-marcus.md` — The Borderline Candidate
+- `candidate-c-sarah.md` — The Wrong-Level Candidate
+- `candidate-d-jordan.md` — The Culture Fit Trap
 
-**Profile A — The Strong Candidate ("Priya")**
-- Background: 3 years at a mid-size SaaS company, transitioned from software engineering to analytics
-- Strengths: Strong SQL and Python, clear communicator, asks good clarifying questions
-- Weaknesses: Slightly overqualified for junior roles; may seem impatient with basic questions
-- Tell: Will proactively suggest improvements to the business question — interviewer should notice strategic thinking
-- Suggested interview responses: Reframes vague questions into structured approaches; references past stakeholder interactions naturally
+Students self-select a profile during the role-play setup. Each profile contains background, strengths, weaknesses, and suggested interview responses. The "tell" for each profile (the behavioral signal the interviewer should detect) is **not visible to the student playing the candidate** — it is revealed during the debrief so the class can discuss what signals were or were not caught.
 
-**Profile B — The Borderline Candidate ("Marcus")**
-- Background: 2 years in a consulting firm doing analytics, recently completed a data science bootcamp
-- Strengths: Solid technical execution, strong work ethic, good at following instructions
-- Weaknesses: Struggles to explain findings to non-technical audiences; tends to jump to solutions without framing the problem
-- Tell: When asked "how would you explain this to the VP of Marketing?" will default to technical jargon
-- Suggested interview responses: Gives technically correct but overly complex answers; asks few clarifying questions
-
-**Profile C — The Wrong-Level Candidate ("Sarah")**
-- Background: 8 years in analytics, led a team of 5 at a large enterprise, has a PhD in statistics
-- Strengths: Deep expertise, impressive resume, articulate about organizational challenges
-- Weaknesses: Too senior for a mid-level IC role; will be bored within 3 months; expects to influence strategy from day one
-- Tell: Keeps steering conversation toward team building and strategy rather than hands-on execution
-- Suggested interview responses: Answers questions about execution with "I would delegate that" or "I would design the framework for..."
-
-**Profile D — The Culture Fit Trap ("Jordan")**
-- Background: 1.5 years at a trendy startup, active on data Twitter/LinkedIn, gives good conference talks
-- Strengths: Extremely likable, articulate, enthusiastic about the company and role, great cultural energy
-- Weaknesses: Technical depth is shallow; analysis tends to be surface-level; has not worked with messy real-world data
-- Tell: When probed on methodology, pivots to storytelling about impact rather than explaining the approach
-- Suggested interview responses: Uses buzzwords correctly but cannot go a level deeper; strong on "what" but weak on "how"
+**Facilitator reference — the tells (revealed in debrief only):**
+- **Priya:** Will proactively suggest improvements to the business question — interviewer should notice strategic thinking
+- **Marcus:** When asked "how would you explain this to the VP of Marketing?" will default to technical jargon
+- **Sarah:** Keeps steering conversation toward team building and strategy rather than hands-on execution
+- **Jordan:** When probed on methodology, pivots to storytelling about impact rather than explaining the approach
 
 ---
 
@@ -61,11 +45,11 @@ Prepare four fictional candidate profiles for the role-play exercise:
 | 14:05–14:10 | 5 min | **Interview Loop Overview** | Slides 50–57 (interview loop, debrief). Skip detailed candidate experience slides 58–65 — mention briefly. |
 | 14:10–14:13 | 3 min | **Activity Brief** | Slides 66–69. **REVISED scope:** "In class, focus on your JD and Rubric — 25 minutes. Work sample design and interview loop are part of your final portfolio — start them between now and Day 2." |
 | 14:13–14:38 | 25 min | **Individual Work: JD + Rubric** | Circulate, answer questions. Students build the Job Description and Scoring Rubric only. Check progress at 10 min and 20 min. Push for specificity in rubric criteria. |
-| 14:38–14:41 | 3 min | **Role-Play Setup** | Slides 70–74. Distribute candidate profile cards, pair students, explain logistics. |
+| 14:38–14:41 | 3 min | **Role-Play Setup** | Slides 70–72. Students self-select a candidate profile, pair up, explain logistics. |
 | 14:41–14:51 | 10 min | **Role-Play Round 1** | One pair member interviews using their rubric, the other plays the candidate profile. Full 10 minutes allows proper warm-up and practice. |
-| 14:51–14:52 | 1 min | **Quick Swap** | Switch roles, new candidate profile card. |
+| 14:51–14:52 | 1 min | **Quick Swap** | Switch roles, new candidate profile. |
 | 14:52–15:02 | 10 min | **Role-Play Round 2** | Reversed roles. |
-| 15:02–15:10 | 8 min | **Debrief** | Slides 75–83. Capture key observations. Focus question: "Did your rubric capture what you were actually evaluating?" Key takeaways. Remind: work sample + interview loop are portfolio deliverables — start them between Day 1 and Day 2. |
+| 15:02–15:10 | 8 min | **Debrief** | Slides 73–81. Reveal the "tell" in each candidate profile — discuss what signals interviewers caught or missed. Capture key observations. Focus question: "Did your rubric capture what you were actually evaluating?" Key takeaways. Remind: work sample + interview loop are portfolio deliverables — start them between Day 1 and Day 2. |
 
 **Total: 100 minutes**
 
@@ -95,7 +79,7 @@ This is the first block after lunch — the "graveyard slot" in teaching. Specif
 
 - Pair students with **different case contexts** if possible (e.g., small company student pairs with large company student)
 - If odd number of students, create one group of three with rotating roles (interviewer, candidate, observer)
-- Distribute candidate profile cards randomly — the interviewer should NOT see the candidate's card
+- Students self-select a candidate profile from the four individual files — the interviewer should NOT see the candidate's profile
 
 ### Managing Time
 
@@ -159,7 +143,7 @@ When covering work sample design, raise this discussion point:
 ### Skip If Short on Time
 
 - Candidate experience and employer brand slides (slides 58–65) — can be mentioned in one sentence during activity brief
-- Hiring anti-patterns slides (slides 77–80) — entertaining but not essential; can be shared as a handout
+- Hiring anti-patterns slides (slides 75–78) — entertaining but not essential; can be shared as a handout
 - Second role-play round — one round is sufficient if time is genuinely tight
 
 ---
