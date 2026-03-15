@@ -11,3 +11,6 @@ package.json
 
 # Python
 __pycache__/
+
+# Review notes
+TODO-*.md
