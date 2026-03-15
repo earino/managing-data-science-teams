@@ -36,18 +36,12 @@ By the end of this block you will be able to:
 - Day 1: Manager OS, Hiring & Team Formation, Roadmaps & Alignment
 - Day 2: Growth & Performance, Portfolio Workshop & Peer Review, QBR Simulation
 
-<!-- Talk track: Let me introduce myself. I'm Eduardo Ariño de la Rubia, and I'm a Professor of Practice here at CEU. My background is in building and leading analytics and data science teams — I've done it at startups, mid-stage companies, and large enterprises. I've made every mistake we're going to talk about, and I've learned from most of them. This course is two days, and it is intense. We're going to cover the full lifecycle of analytics management — from building your operating system as a manager, to hiring, to roadmapping, to performance management, to executive communication, and a capstone QBR simulation. -->
-
----
-
-## Welcome & Course Overview
-
 **What makes this course different:**
 - **Workshop-driven** — you will build, not just listen
 - You leave with a **portfolio of real artifacts**: charters, stakeholder maps, hiring rubrics, roadmaps, performance frameworks
 - Every artifact is anchored to a realistic case context that YOU choose
 
-<!-- Talk track: But here's what's different: this is not a lecture course. You're going to build things. By the end of Day 2, you'll have a portfolio of management artifacts that you could actually use on the job Monday morning. -->
+<!-- Talk track: Let me introduce myself. I'm Eduardo Ariño de la Rubia, and I'm a Professor of Practice here at CEU. My background is in building and leading analytics and data science teams. This course is two days, and it is intense — the full lifecycle of analytics management. But here's what's different: this is not a lecture course. You're going to build things. By the end of Day 2, you'll have a portfolio of management artifacts that you could actually use on the job Monday morning. -->
 
 ---
 
@@ -58,20 +52,12 @@ By the end of this block you will be able to:
 **The cost of bad management in analytics:**
 - **Talent flight** — your best people leave because they feel unseen or undirected
 - **Lost credibility** — the team becomes the "dashboard team" instead of a strategic partner
-
-<!-- Talk track: So why does this course exist? Here's the honest truth. The analytics industry has a management problem. The typical career path is: you're a great analyst, you build impressive models, you give clear presentations — and then someone says "congratulations, you're now managing a team of five." And nobody teaches you how to do that. The skills that made you a great IC — deep technical work, long periods of focus, individual problem-solving — those are almost the opposite of what management requires. -->
-
----
-
-## Why This Course Exists
-
-**More costs of bad management:**
 - **Misaligned priorities** — you build what the loudest stakeholder wants, not what matters
 - **Burnout** — without structure, everything is urgent and nothing is planned
 
-Management is a **learnable craft**, not an innate talent. You can improve systematically, the same way you got better at SQL or statistical modeling.
+Management is a **learnable craft**, not an innate talent.
 
-<!-- Talk track: The cost of getting this wrong is enormous. I've seen entire analytics teams turn over in under a year because of bad management. I've seen analytics functions lose all credibility with the business because nobody was managing stakeholder relationships. And I've seen brilliant people burn out because their manager had no structure, no prioritization framework, and no way to say no. The good news is that management is a craft. It's learnable. That's what we're here to do. -->
+<!-- Talk track: So why does this course exist? The analytics industry has a management problem. You're a great analyst, and then someone says "congratulations, you're now managing five people." Nobody teaches you how. The cost of getting it wrong is enormous — talent flight, lost credibility, misaligned priorities, burnout. The good news is that management is a craft. It's learnable. That's what we're here to do. -->
 
 ---
 
@@ -167,23 +153,16 @@ Three overlapping circles — the analytics manager spans all three but **owns P
 
 ## The Analytics Manager Is Unique
 
-The analytics manager is unique: you live at the intersection. You need enough technical depth to earn trust, enough product sense to prioritize, and enough people skill to build a team.
+You live at the intersection. You need enough technical depth to earn trust, enough product sense to prioritize, and enough people skill to build a team.
 
 **Why this overlap matters:**
-- If you have no technical depth, your team won't respect your judgment on project scoping or technical tradeoffs
+- If you have no technical depth, your team won't respect your judgment on scoping or tradeoffs
 - If you have no product sense, you'll build technically impressive things nobody uses
+- If you have no people skill, your best analysts will leave for a manager who invests in them
 
-<!-- Talk track: I want to dwell on this point because it's important. The analytics manager role is uniquely demanding because you can't fully delegate any of the three circles. A VP of Engineering can say "my tech leads handle the technical decisions." But as an analytics manager, especially at a small or mid-size company, you ARE the tech lead and you're often playing a PM-like role in defining what analyses to pursue. -->
+**This is not a "choose two" situation.** You need baseline competence in all three.
 
----
-
-## The Analytics Manager Is Unique
-
-- If you have no people skill, your best analysts will leave for a manager who actually invests in them
-
-**This is not a "choose two" situation.** You need baseline competence in all three, even if you're strongest in one.
-
-<!-- Talk track: That's what makes this role hard, and it's also what makes it rewarding. You get to be a generalist in an industry that usually rewards specialists. Embrace that. -->
+<!-- Talk track: The analytics manager role is uniquely demanding because you can't fully delegate any of the three circles. No technical depth — your team won't respect your judgment. No product sense — you build things nobody uses. No people skill — your best analysts leave. This is not "choose two." You need all three. That's what makes this role hard, and it's also what makes it rewarding. -->
 
 ---
 <!-- _class: skip -->
@@ -373,18 +352,12 @@ Without an OS, you get **chaos that feels like busyness**:
 - **The Canceled 1:1** — The fastest way to signal "you don't matter"
 - **The Monologue** — If you're talking more than 50%, something's wrong
 
-<!-- Talk track: Now, let me name the anti-patterns. The status update trap — don't use a 1:1 to ask "what did you do this week." That's what Slack is for. A 1:1 should be about what's hard, what's unclear, what's exciting, what's frustrating — the stuff that doesn't fit in a status update. The therapy session — you should be empathetic, absolutely, but if every 1:1 turns into emotional processing about the same issue, something structural needs to change. Help them solve the problem, don't just absorb the emotion. The canceled 1:1 — nothing says "you don't matter to me" faster. And the monologue — if you're talking more than half the time, you're using the 1:1 as a broadcast channel, not a conversation. -->
-
----
-
-## 1:1 Anti-Patterns
-
-**Watch for these signals:**
-- Boring 1:1s = relationship isn't deep enough for real topics yet
-- Every 1:1 is a fire drill = you have a structural problem, not a 1:1 problem
+**Diagnostic signals:**
+- Boring 1:1s = relationship isn't deep enough yet
+- Every 1:1 is a fire drill = structural problem, not a 1:1 problem
 - "I don't have anything" every week = they don't trust the space yet
 
-<!-- Talk track: Who here has had a manager who regularly canceled 1:1s? How did that feel? Exactly. Don't be that manager. And watch for these diagnostic signals. If your 1:1s are boring, the relationship isn't deep enough yet — keep investing. If every 1:1 is a fire drill, you have a structural problem upstream. And if someone says "I don't have anything" every week, they don't trust the space yet — that's on you to fix. -->
+<!-- Talk track: Let me name the anti-patterns. The status update trap — that's what Slack is for. The therapy session — help them solve the problem, don't just absorb the emotion. The canceled 1:1 — nothing says "you don't matter" faster. The monologue — if you're talking more than half the time, it's a broadcast, not a conversation. And watch the diagnostic signals: boring 1:1s mean the relationship isn't deep enough. Fire-drill 1:1s mean you have a structural problem upstream. "I don't have anything" means they don't trust the space yet — that's on you to fix. -->
 
 ---
 <!-- _class: skip -->
@@ -445,17 +418,9 @@ Without an OS, you get **chaos that feels like busyness**:
 - **Risks** — What could go wrong and how we'd mitigate
 - **Decision Type** — Type 1 (irreversible) or Type 2 (reversible)
 
-<!-- Talk track: Here is the template for a one-page decision memo. Five sections, each with a clear purpose. Context sets the scene, Options forces creative thinking, Recommendation commits to a path, Risks shows you've thought about downsides, and Decision Type tells everyone how fast to move. -->
+**Default to Type 2.** Most decisions are reversible — move fast on those. Slow down on Type 1. Empower your team to go on Type 2; write a memo for Type 1.
 
----
-
-## Decision Logs & Memos
-
-**Default to Type 2.** Most decisions are reversible. Move fast on those. Slow down on Type 1.
-
-For Type 2 decisions, empower your team to just go. For Type 1 decisions, write a memo. The act of writing forces clear thinking — you can't hide behind vague language when you write it down.
-
-<!-- Talk track: For Type 2 decisions, empower your team to just go. Don't require a memo for every small call. For Type 1 decisions, write a memo. The act of writing a decision memo forces you to think clearly. You can't hide behind vague language when you have to write it down. We have a template for this that you'll use throughout the course. The key question to always ask is: "Is this a one-way door or a two-way door?" That single question will save your team from both reckless speed and unnecessary paralysis. -->
+<!-- Talk track: Here is the template for a one-page decision memo. Five sections, each with a clear purpose. Context sets the scene, Options forces creative thinking, Recommendation commits to a path, Risks shows you've thought about downsides, and Decision Type tells everyone how fast to move. The key question to always ask is: "Is this a one-way door or a two-way door?" For Type 2 decisions, empower your team to just go. Don't require a memo for every small call. For Type 1 decisions, write a memo — the act of writing forces clear thinking. That single question will save your team from both reckless speed and unnecessary paralysis. -->
 
 ---
 <!-- _class: skip -->
@@ -545,17 +510,11 @@ This classification matters because it tells everyone "we don't need to agonize 
 - What you need from them
 - Engagement strategy (frequency + channel)
 
-<!-- Talk track: Now let me talk about the details and the hidden stakeholders, because this is where most new managers fall short. For each stakeholder, you need to capture not just who they are, but what the exchange is. What do they need from you? Maybe it's weekly reports, maybe it's a quarterly business review, maybe it's just a heads-up before you change a metric definition. And what do you need from them? Data access, budget approval, engineering support. Map both sides of the relationship. -->
-
----
-
-## Stakeholder Map: What to Capture
-
 **The hidden stakeholders:** Don't forget IT, Legal/Privacy, Finance, and the engineers who maintain your pipelines. New managers always under-map.
 
-**Ask yourself:** "Who could block my work if I have NOT built a relationship with them?" Those are your hidden stakeholders.
+**Ask yourself:** "Who could block my work if I have NOT built a relationship with them?"
 
-<!-- Talk track: The hidden stakeholders are the ones that trip up new managers every time. IT controls your infrastructure. Legal controls what data you can use. Finance controls your budget. The engineers who maintain your data pipelines can make or break your team's productivity. Ask yourself that key question: who could block me if I haven't built a relationship with them? Those are the people you need to map. -->
+<!-- Talk track: For each stakeholder, capture not just who they are but the exchange. What do they need from you? What do you need from them? And don't forget the hidden stakeholders — IT controls your infrastructure, Legal controls your data access, Finance controls your budget. The engineers who maintain your pipelines can make or break your productivity. Ask yourself: who could block me if I haven't built a relationship with them? Those are the people you need to map. -->
 
 ---
 
@@ -678,28 +637,16 @@ Map your stakeholders on the Power/Interest grid.
 
 ## Activity: Map Your Stakeholders
 
-For each stakeholder, also note:
-  - What you need from them
-  - Your engagement strategy
+For each stakeholder, also note what you need from them and your engagement strategy.
 
 **Prompts to jog your thinking:**
 - Who funds your team?
 - Who consumes your outputs?
 - Who controls access to data or systems?
-
-<!-- Talk track: Here are some prompts. Who funds your team? That's probably a VP or C-suite — high power. Who consumes your outputs? Product managers, maybe marketing — high interest. Who controls your data access? That might be IT or engineering — and if you haven't built that relationship, you'll be blocked when you need a new data source. -->
-
----
-
-## Activity: Map Your Stakeholders
-
-**More prompts:**
 - Who could block your work if unhappy?
 - Who do you depend on but rarely talk to?
 
-Go deep here. This map will serve you for the rest of the course.
-
-<!-- Talk track: Who could kill your project if they got upset? Think Legal, Privacy, Compliance. And who do you depend on but rarely talk to? Those invisible dependencies are the ones that will bite you later. Go deep here. This map will serve you for the rest of the course. -->
+<!-- Talk track: Here are some prompts. Who funds your team? That's probably a VP or C-suite — high power. Who consumes your outputs? Product managers, maybe marketing. Who controls your data access? Who could block your work if unhappy — think Legal, Privacy, Compliance. And who do you depend on but rarely talk to? Those invisible dependencies are the ones that will bite you later. Go deep here. -->
 
 ---
 

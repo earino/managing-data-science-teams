@@ -2,15 +2,20 @@
 """
 check-overflow.py — Heuristic overflow detection for Marp slides.
 
-Marp's default slide is 1280x720 with padding.  The content area is
-roughly 1160px wide.  At the default font size (~24px body text),
-a line of proportional text fits approximately 75 characters before
-wrapping.  Long Markdown "lines" (which are really paragraphs) therefore
-occupy ceil(len / 75) visual lines on the rendered slide.
+Marp's default slide is 1280x720 with 50px/60px padding (ceu-analytics
+theme).  The content area is roughly 1160px wide.  At 28px base font
+(the theme's section font-size), a line of proportional text fits
+approximately 80 characters before wrapping.  Tables render at 0.9em
+(~25px) so fit more text per line.
 
 The heuristic estimates visual height by summing wrapped-line counts
 for every piece of visible content, with multipliers for elements that
 take extra vertical space (headings, table chrome, bullet indent, etc.).
+
+Weights were recalibrated 2026-03-14 against the ceu-analytics Marp
+theme (marp-theme.css) after empirical testing showed the previous
+weights (h2=2.5, table-row=1.3, limit=14.0) were too conservative,
+causing content to be split across unnecessarily thin slides.
 """
 
 import math
@@ -19,13 +24,13 @@ import sys
 from pathlib import Path
 
 # ── Tuning knobs ────────────────────────────────────────────────────
-MAX_WEIGHTED_LINES = 14.0   # visual lines that fit on a 16:9 slide
+MAX_WEIGHTED_LINES = 18.0   # visual lines that fit on a 16:9 slide
 
 # Characters per visual line, by element type.
-# Bullets are indented → fewer chars per line.  Bold / Markdown
-# formatting eats some width, so body text is < raw terminal width.
-CHARS_BODY = 75
-CHARS_BULLET = 70
+# Theme uses 28px base font.  Bullets are indented → fewer chars.
+# Tables use 0.9em → more chars per line.
+CHARS_BODY = 80
+CHARS_BULLET = 75
 CHARS_BLOCKQUOTE = 65
 
 
@@ -58,24 +63,26 @@ def count_weighted_lines(slide_text: str) -> float:
             continue
 
         # Headings — bigger font ⇒ extra vertical space
+        # h2 in theme is 1.6em with 3px gold border + padding ≈ 2.0 lines
         if re.match(r"^#{1,2}\s", stripped):
-            weight += 2.5
+            weight += 2.0
             continue
+        # h3 is 1.25em — slightly larger than body
         if re.match(r"^#{3,6}\s", stripped):
-            weight += 1.8
+            weight += 1.5
             continue
 
-        # Table rows
+        # Table rows — tables use font-size: 0.9em in theme
         if stripped.startswith("|"):
             if re.match(r"^\|[\s\-:]+\|", stripped):
-                weight += 0.3          # separator row
+                weight += 0.2          # separator row
             else:
-                weight += 1.3          # data / header row
+                weight += 1.1          # data / header row
             continue
 
         # Bullet points (-, *, +, 1.)
         if re.match(r"^[-*+]\s", stripped) or re.match(r"^\d+\.\s", stripped):
-            weight += _wrap_lines(len(stripped), CHARS_BULLET) + 0.2
+            weight += _wrap_lines(len(stripped), CHARS_BULLET) + 0.15
             continue
 
         # Block quotes
