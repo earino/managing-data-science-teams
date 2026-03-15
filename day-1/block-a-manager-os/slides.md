@@ -650,7 +650,7 @@ This classification matters because it tells everyone "we don't need to agonize 
 
 ## Activity: Draft Your Team Charter
 
-## 22 Minutes | Team Charter Template
+## 22 Minutes | `templates/team-charter.md`
 
 <!-- Talk track: Time to put what you've learned into practice. For the next 22 minutes, you'll draft a Team Charter using your case context. Open the template — let's go. -->
 
@@ -658,7 +658,7 @@ This classification matters because it tells everyone "we don't need to agonize 
 
 ## Activity: Draft Your Team Charter
 
-**Time: 22 minutes** | Use the template provided
+**Time: 22 minutes** | Open `templates/team-charter.md`
 
 Using your chosen case context, draft a Team Charter with:
 1. **Purpose & Mission** — Why does this analytics team exist?
@@ -686,7 +686,7 @@ Continue your Team Charter with:
 
 ## Activity: Map Your Stakeholders
 
-## 18 Minutes | Stakeholder Grid Template
+## 18 Minutes | `templates/stakeholder-map.md`
 
 <!-- Talk track: Second activity. You'll map your stakeholders on the Power/Interest grid. Open the template. -->
 
@@ -694,7 +694,7 @@ Continue your Team Charter with:
 
 ## Activity: Map Your Stakeholders
 
-**Time: 18 minutes** | Use the template provided
+**Time: 18 minutes** | Open `templates/stakeholder-map.md`
 
 Map your stakeholders on the Power/Interest grid.
 

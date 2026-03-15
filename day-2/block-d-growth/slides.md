@@ -249,7 +249,7 @@ The manager log is what makes this possible.
 
 ## Activity: SBI Feedback Role-Play
 
-## 22 Minutes | Scenario Cards
+## 22 Minutes | `materials/sbi-scenario-cards.md`
 
 <!-- Talk track: Time to practice. This is where the learning happens — not in hearing about SBI, but in doing it. -->
 
@@ -257,7 +257,7 @@ The manager log is what makes this possible.
 
 ## Activity: SBI Feedback Role-Play
 
-**Time: 22 minutes** | Use the scenario cards provided
+**Time: 22 minutes** | Open `materials/sbi-scenario-cards.md`
 
 **Format:**
 - **Pair up.** Each pair gets a scenario card.
@@ -286,7 +286,7 @@ The manager log is what makes this possible.
 
 ## Activity: Mock Calibration
 
-## 17 Minutes | Calibration Profiles
+## 17 Minutes | `materials/calibration-profiles.md`
 
 <!-- Talk track: Now we're going to do something uncomfortable — and that's exactly the point. -->
 
@@ -294,7 +294,7 @@ The manager log is what makes this possible.
 
 ## Activity: Mock Calibration
 
-**Time: 17 minutes** | Use the calibration profiles provided
+**Time: 17 minutes** | Open `materials/calibration-profiles.md`
 
 **Format:**
 - **Form groups of 4.**
@@ -321,7 +321,7 @@ The manager log is what makes this possible.
 
 ## Activity: PGP Draft
 
-## 17 Minutes | PGP Template
+## 17 Minutes | `templates/pgp.md`
 
 <!-- Talk track: Last activity for this block. Open the PGP template. -->
 
@@ -329,7 +329,7 @@ The manager log is what makes this possible.
 
 ## Activity: PGP Draft
 
-**Time: 17 minutes** | Use the PGP template provided
+**Time: 17 minutes** | Open `templates/pgp.md`
 
 Write a PGP — for yourself or for a fictional direct report in your case context.
 

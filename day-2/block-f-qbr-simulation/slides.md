@@ -473,7 +473,7 @@ How the 90-day plan varies by org size:
 
 ## QBR Simulation Brief
 
-**Presenting:** Be concise, be confident, lead with BLUF. Use your QBR outline template.
+**Presenting:** Be concise, be confident, lead with BLUF (Bottom Line Up Front). Use your `templates/qbr-outline.md`.
 
 **On the panel:** Stay in character. Ask real questions. Be respectful but challenging.
 

@@ -650,7 +650,7 @@ Executives trust leaders who name risks before they become surprises.
 
 ## Activity: 12-Month Roadmap
 
-## 30 Minutes | Roadmap RICE Template
+## 30 Minutes | `templates/roadmap-rice.md`
 
 <!-- Talk track: Time for the big activity. You have 30 minutes to build a 12-month roadmap. Open the template — let's go. -->
 
@@ -683,7 +683,7 @@ Executives trust leaders who name risks before they become surprises.
 
 ## Activity: Executive Narrative Draft
 
-## 20 Minutes | Executive Narrative Template
+## 20 Minutes | `templates/exec-narrative.md`
 
 <!-- Talk track: Next activity. You'll write the first page of your executive narrative. Open the template. -->
 

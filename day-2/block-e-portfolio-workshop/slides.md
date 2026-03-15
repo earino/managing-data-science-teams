@@ -91,7 +91,7 @@ Common mistakes in portfolio revision:
 
 ## Artifact Revision Workshop
 
-**Time: 30 minutes** | Pick your **weakest artifact** and open the grading rubric beside it.
+**Time: 30 minutes** | Pick your **weakest artifact** and open `assessment/grading-rubrics.md` beside it.
 
 **Revision priorities (in order):**
 1. **Fill gaps** — no blank sections or placeholder text
@@ -110,7 +110,7 @@ I'll circulate. Flag me if you're stuck.
 
 **Hiring Packet:** Can two independent reviewers reach the same score using your rubric? Add behavioral anchors.
 
-**Roadmap:** Are RICE scores justified or gut feelings with numbers? Does the narrative lead with BLUF?
+**Roadmap:** Are RICE scores justified or gut feelings with numbers? Does the narrative lead with BLUF (Bottom Line Up Front)?
 
 **PGP:** "Improve communication" → "Present technical findings to non-technical stakeholders in under 5 minutes."
 
@@ -126,7 +126,7 @@ I'll circulate. Flag me if you're stuck.
 
 | Phase | Time | What to do |
 |---|---|---|
-| Silent reading + written feedback | 10 min | Use the peer feedback form |
+| Silent reading + written feedback | 10 min | Use `assessment/peer-feedback-form.md` |
 | Partner A → B verbal feedback (SBI) | 7 min | Situation, Behavior, Impact + suggestion |
 | Partner B → A verbal feedback (SBI) | 7 min | Same structure |
 | Revision notes | 6 min | Write 3 specific changes you'll make |

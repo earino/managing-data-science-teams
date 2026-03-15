@@ -775,7 +775,7 @@ Use a 4-point scale. Not three, not five.
 
 ## Activity: Build Your Hiring Packet
 
-## 25 Minutes | JD + Rubric In Class
+## 25 Minutes | `templates/job-description.md` + `templates/rubric.md`
 
 <!-- Talk track: Time to put this into practice. For the next 25 minutes, you will focus on two deliverables: your job description and your scoring rubric. These are the foundation of the hiring packet. Work sample design and interview loop design are part of your final portfolio — start them between now and Day 2. Use the templates provided. Work individually but feel free to ask questions. I will circulate. At the end, you will pair up for a role-play exercise using the rubric you built. -->
 
@@ -792,12 +792,12 @@ Use the company scenario you chose in Block A (small / medium / large)
 
 ## Activity Brief: Build Your Hiring Packet
 ### In-Class (25 min)
-1. **Job Description** — 90-day outcomes, responsibilities, qualifications
-2. **Scoring Rubric** — Dimensions, 1–4 scale, behavioral anchors
+1. **Job Description** (`templates/job-description.md`)
+2. **Scoring Rubric** (`templates/rubric.md`)
 
-### Portfolio Homework
-3. **Work Sample Exercise** — Realistic task, dataset, evaluation criteria
-4. **Interview Loop Design** — Stages, interviewers, debrief protocol
+### Portfolio Homework (complete between Day 1 and Day 2)
+3. **Work Sample Exercise** (`templates/work-sample.md`)
+4. **Interview Loop Design** (`templates/interview-loop.md`)
 
 <!-- Talk track: In class, you have two deliverables: the job description with 90-day outcomes, and the scoring rubric. Focus your 25 minutes here. The work sample exercise and interview loop design are part of your final portfolio — start them between now and Day 2, building on the JD and rubric you draft today. You will have until the portfolio deadline to polish everything. -->
 
