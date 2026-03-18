@@ -33,16 +33,16 @@
 | 11:28 | 28 | 4 min | 10 | Performance cycles & documentation |
 | 11:32 | 32 | 3 min | 11 | Calibration sessions |
 | 11:35 | 35 | — | 12 | The ethical PIP |
-| **11:35** | **35** | **22 min** | **14** | **Activity: SBI Feedback Role-Play** |
-| **11:57** | **57** | **17 min** | **16** | **Activity: Mock Calibration** |
-| **12:14** | **74** | **17 min** | **18** | **Activity: PGP Draft** |
-| 12:31 | 91 | 9 min | 19–22 | Debrief + Key takeaways + Transition to Block E |
+| **11:35** | **35** | **25 min** | **14** | **Activity: SBI Feedback Role-Play** |
+| **12:00** | **60** | **20 min** | **16** | **Activity: Mock Calibration** |
+| 12:20 | 80 | 10 min | 19–22 | Debrief + Key takeaways + Transition to Block E |
 
 **Total: 100 minutes**
 
 **Timing notes:**
-- Teaching is compressed to 35 minutes. Move briskly through lecture slides. The learning happens in the three activities, not in the lecture.
-- The "What Senior Means" slide (slide 6) tends to generate discussion. Let it breathe for a minute, but don't let it consume the block. You can say: "This is a rich topic — we'll use it in the PGP exercise."
+- Lecture: ~45 min | SBI Role-Play: ~25 min | Mock Calibration: ~20 min | Wrap-up + buffer: ~10 min
+- Teaching is compressed to 35 minutes. Move briskly through lecture slides. The learning happens in the activities, not in the lecture.
+- The "What Senior Means" slide (slide 6) tends to generate discussion. Let it breathe for a minute, but don't let it consume the block. You can say: "This is a rich topic — we'll use it in the PGP homework."
 - The PIP slide (slide 12) is emotionally loaded. Slow down. Make eye contact. If someone shares a difficult experience, acknowledge it.
 - If you're running behind on lecture, compress the ethical PIP slide — students can read it. Protect activity time.
 
@@ -50,7 +50,7 @@
 
 ## Activity Facilitation
 
-### SBI Feedback Role-Play (22 minutes)
+### SBI Feedback Role-Play (25 minutes)
 
 **This is the highest-priority new activity.** Protect this time.
 
@@ -74,7 +74,7 @@
 **Transition to next activity:**
 - Don't over-debrief here — save it for the full debrief at the end. Just ask: "Quick show of hands — who found articulating the impact statement hardest?" This validates the common struggle and transitions to the next activity.
 
-### Mock Calibration (17 minutes)
+### Mock Calibration (20 minutes)
 
 **This activity surfaces the discomfort of real calibration.**
 
@@ -97,19 +97,9 @@
 - Ask each group: "Which profile was most contested?" (Almost always Kevin.)
 - Key insight to surface: "Notice how 'what's expected at this level' changes everything. Kevin's work would be exceptional for an L3. The question is whether it's enough for an L4."
 
-### PGP Draft (17 minutes)
+**PGP Draft — Homework**
 
-**Compressed from the original 25+20 minutes. Students focus on two sections only.**
-
-- Direct students to the PGP template. **Also point them to the `materials/pgp-starter-template.md`** — this provides example growth areas and sentence starters to reduce blank-page paralysis.
-- "Focus on Growth Areas and Development Actions. Two sections, 17 minutes. Be specific enough that you could check in next month and know whether progress happened."
-- **If students are staring at a blank page after 2 minutes,** prompt them: "Look at the PGP starter template. Pick the growth area that resonates most, adapt it to your case context, and write from there. You can always change it later — the point is to start."
-- Circulate. Common coaching moments:
-  - "Improve communication" → "What aspect of communication? In what context? By when?"
-  - Missing timelines → "When will this happen? What's the first step?"
-  - Generic actions → "Is this specific enough that someone could hold you accountable?"
-- Remind students at 12 minutes: "5 minutes left. Finish the section you're on."
-- Students complete the remaining PGP sections (Strengths, Support Needed, 6-Month Vision) as homework.
+The PGP Draft is now completed at home. During the PGP lecture, emphasize that students have the template (`templates/pgp.md`) and the starter template (`materials/pgp-starter-template.md`) with example growth areas and sentence starters. Remind them to apply the specificity test: "Improve communication" → "Present technical findings to non-technical stakeholders in under 5 minutes, starting at next product review."
 
 ---
 
@@ -162,7 +152,7 @@ Answer: "As honest as the trust relationship allows. Start with observations if 
 - **Lunch break:** 12:40–13:30 (50 minutes).
 - **Bridge from D to E:** "Block D was about growing people and practicing the hardest conversations in management. Block E is about strengthening the artifacts you've built — your portfolio. You'll revise your weakest artifact, give and receive peer feedback using SBI, and prep for the QBR."
 - **Prompt to carry forward:** "Over lunch, think about which of your portfolio artifacts is the weakest. That's where you'll focus in Block E."
-- **Portfolio reminder:** The PGP and Performance Summary are portfolio deliverables (15% weight combined). Students who didn't finish the PGP in class should complete all sections before the portfolio deadline.
+- **Portfolio reminder:** The PGP and Performance Summary are portfolio deliverables (15% weight combined). Students complete the PGP at home — remind them to finish all sections before the portfolio deadline.
 
 ---
 
@@ -174,5 +164,5 @@ Answer: "As honest as the trust relationship allows. Start with observations if 
 - [ ] **SBI scenario cards printed** — one per pair, enough variety for the class
 - [ ] **Calibration profiles printed** — one set per group of 4
 - [ ] Day 1 recap slide prepared
-- [ ] Timer visible for activities (22 min SBI, 17 min calibration, 17 min PGP)
+- [ ] Timer visible for activities (25 min SBI, 20 min calibration)
 - [ ] Sticky notes or index cards for calibration rating reveals
