@@ -150,8 +150,8 @@ Answer: "As honest as the trust relationship allows. Start with observations if 
 ## Transition Notes to Block E
 
 - **Lunch break:** 12:40–13:30 (50 minutes).
-- **Bridge from D to E:** "Block D was about growing people and practicing the hardest conversations in management. Block E is about strengthening the artifacts you've built — your portfolio. You'll revise your weakest artifact, give and receive peer feedback using SBI, and prep for the QBR."
-- **Prompt to carry forward:** "Over lunch, think about which of your portfolio artifacts is the weakest. That's where you'll focus in Block E."
+- **Bridge from D to E:** "Block D was about growing people and practicing the hardest conversations in management. Block E shifts to infrastructure — data stacks, build vs. buy decisions, and working with engineering and IT."
+- **Prompt to carry forward:** "Over lunch, think about what the data infrastructure looks like in your case context. That's what we'll be working with in Block E."
 - **Portfolio reminder:** The PGP and Performance Summary are portfolio deliverables (15% weight combined). Students complete the PGP at home — remind them to finish all sections before the portfolio deadline.
 
 ---
