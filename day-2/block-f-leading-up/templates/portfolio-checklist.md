@@ -10,7 +10,7 @@
 
 _Track the status of every artifact. Update this checklist as you work. Submit this checklist as the first page of your portfolio so the instructor can quickly verify completeness._
 
-### Required Portfolio Components (6)
+### Required Portfolio Components (5)
 
 | # | Component | What to Submit | Source | Status |
 |---|---|---|---|---|
@@ -20,13 +20,14 @@ _Track the status of every artifact. Update this checklist as you work. Submit t
 | | | — Work Sample Exercise | | Draft / Final / Not Started |
 | | | — Scoring Rubric | | Draft / Final / Not Started |
 | | | — Interview Loop Design | | Draft / Final / Not Started |
-| 3 | **Roadmap + Executive Narrative** | Contains: | Block C | |
+| 3 | **Roadmap + Executive Narrative + QBR** | Contains: | Block C / Block F | |
 | | | — 12-Month Roadmap + RICE Scoring | | Draft / Final / Not Started |
 | | | — Executive Narrative (2 pages) | | Draft / Final / Not Started |
 | | | — Risk Register | | Draft / Final / Not Started |
+| | | — QBR Outline | | Draft / Final / Not Started |
+| | | — QBR Video (5-min recording) | | Draft / Final / Not Started |
 | 4 | **Personal Growth Plan** | PGP | Block D | Draft / Final / Not Started |
 | 5 | **Performance Summary** | Calibration-ready | Block D | Draft / Final / Not Started |
-| 6 | **QBR Outline** | QBR presentation outline | Block F | Draft / Final / Not Started |
 
 ### Optional Artifacts (for a richer portfolio; not separately graded)
 
@@ -71,7 +72,7 @@ _For each major artifact, reflect honestly on its current quality. This self-ass
 - **What would you improve with more time?**
   [Your response]
 
-### QBR Outline
+### QBR Outline + Video
 - **What's strong about this artifact?**
   [Your response]
 - **What would you improve with more time?**
@@ -99,7 +100,7 @@ This portfolio checklist and reflection will be assessed on the following dimens
 
 | Criterion | Description | Weight |
 |---|---|---|
-| **Completeness** | All 6 required portfolio components are present and substantive — including all sub-items within each component. No placeholders or empty sections. Missing components significantly reduce the grade. Optional artifacts, if included, are held to the same quality standard. | High |
+| **Completeness** | All 5 required portfolio components are present and substantive — including all sub-items within each component. No placeholders or empty sections. Missing components significantly reduce the grade. Optional artifacts, if included, are held to the same quality standard. | High |
 | **Consistency** | All artifacts are anchored to the same case context. The team charter, hiring packet, roadmap, and QBR outline tell a coherent story. | High |
 | **Quality of Self-Assessment** | Self-assessment is honest and specific. Student identifies genuine strengths and real areas for improvement — not generic filler. | Medium |
 | **Depth of Reflection** | Reflection demonstrates genuine engagement with course concepts. Student connects ideas across blocks and articulates how they'll apply what they learned. | Medium |
