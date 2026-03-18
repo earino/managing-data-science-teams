@@ -157,14 +157,13 @@ All artifacts compile into a single **Manager Portfolio** (PDF/repo).
 
 ## 9\. Deliverables (Portfolio Checklist)
 
-### Required (6 artifacts)
+### Required (5 artifacts)
 
 1. **Manager OS Document** (2–4 pages) — your operational playbook, synthesizing your team charter and stakeholder map into a single framework covering cadences, rituals, artifacts, and decision hygiene (Block A)
 2. **Hiring Packet** — JD, work sample, rubric, interview loop (Block B)
-3. **Roadmap \+ Executive Narrative** — 12-month roadmap with RICE, risk register as section, 2-page narrative (Block C)
+3. **Roadmap \+ Executive Narrative \+ QBR** — 12-month roadmap with RICE, risk register, 2-page narrative, QBR outline, and 5-minute QBR video (Blocks C/F)
 4. **Personal Growth Plan** (Block D)
 5. **Performance Summary** (1-2 pp) — calibration-ready assessment of a hypothetical direct report from your case context. Use behavioral evidence and SBI framework to differentiate performance levels. (Block D)
-6. **QBR Outline** (Block F) — included in Roadmap \+ Narrative weight
 
 ### Optional (for a richer portfolio, not separately graded)
 
