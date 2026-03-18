@@ -20,20 +20,19 @@ Late submissions will be penalized unless prior arrangements have been made with
 
 ---
 
-## Required Artifacts (6)
+## Required Artifacts (5)
 
-These six artifacts are required and graded. Check off each as you complete it.
+These five artifacts are required and graded. Check off each as you complete it.
 
 | # | Artifact | Source Block | Weight | Status | Notes |
 |---|---|---|---|---|---|
 | 1 | Manager OS Document (2–4 pp; absorbs charter + stakeholder map) | Block A | 15% | [ ] Complete | |
 | 2 | Hiring Packet (JD + work sample + rubric + interview loop) | Block B | 20% | [ ] Complete | |
-| 3 | Roadmap + Executive Narrative (includes risk register as section) | Block C | 20% | [ ] Complete | |
+| 3 | Roadmap + Executive Narrative + QBR Outline + QBR Video | Block C / Block F | 25% | [ ] Complete | 5-min video recording required |
 | 4 | Personal Growth Plan | Block D | 7.5% | [ ] Complete | |
 | 5 | Performance Summary (calibration-ready) | Block D | 7.5% | [ ] Complete | |
-| 6 | QBR Outline | Block F | Included in Roadmap weight | [ ] Complete | |
 
-**Total required artifacts: 6**
+**Total required artifacts: 5**
 
 ---
 
@@ -58,6 +57,7 @@ Before submitting, verify that your portfolio meets the following formatting sta
 - [ ] **Professional formatting** — Clean layout, readable fonts, appropriate use of tables and lists; no raw markdown or broken formatting in the PDF.
 - [ ] **Case context clearly identified** — Your selected case context is stated on the cover page and referenced throughout each artifact where relevant.
 - [ ] **AI assistance noted in footer** — If you used AI tools (e.g., ChatGPT, Claude, Copilot) in preparing any artifact, note this in the document footer. State which tools were used and for what purpose. This is a transparency requirement, not a penalty.
+- [ ] **QBR Video** — 5-minute maximum recording; Zoom-style presentation as if addressing your executive team; clear audio; screen share of key slides/visuals encouraged but not required.
 
 ---
 
@@ -65,7 +65,7 @@ Before submitting, verify that your portfolio meets the following formatting sta
 
 Before submitting each artifact, ask yourself the following questions. If you cannot answer "yes" to all three for every required artifact, revisit that section.
 
-**For each of the 6 required artifacts:**
+**For each of the 5 required artifacts:**
 
 1. **Is it complete?**
    Does the artifact address all required elements? Are there any blank sections, placeholder text, or "TODO" notes remaining?
@@ -84,13 +84,12 @@ Your portfolio will be evaluated according to the following weight distribution.
 
 | Component | Weight | Key Evaluation Focus |
 |---|---|---|
-| Participation & Preparedness | 15% | Engagement, role-play quality (SBI, calibration), peer review, red-team critiques, case preparation |
+| Participation & Preparedness | 15% | Engagement, role-play quality (SBI, calibration), class discussions, infrastructure activity, red-team critiques, case preparation |
 | Day 1 Checkpoint | 10% | Pass/fail: Team Charter complete, 6+ stakeholders mapped, 5+ roadmap items with RICE scores |
 | Hiring Packet | 20% | Role clarity, work sample design, rubric specificity, interview loop logic |
-| Roadmap + Executive Narrative | 20% | Strategic alignment, RICE rigor, risk awareness, narrative clarity, realism |
+| Roadmap + Executive Narrative + QBR | 25% | Strategic alignment, RICE rigor, risk awareness, narrative clarity, realism, anticipates pushback |
 | Manager OS | 15% | Completeness, practicality, context adaptation, decision hygiene |
 | PGP + Performance Summary | 15% | Growth area specificity, plan actionability, calibration quality, SBI application |
-| Peer Feedback Quality | 5% | Specificity, actionability, balance, timeliness |
 | **Total** | **100%** | |
 
 ---
