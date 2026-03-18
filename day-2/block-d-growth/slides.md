@@ -12,7 +12,7 @@ footer: "CEU Vienna | Day 2 – Block D"
 
 ## Day 2 — Block D | 11:00–12:40
 
-<!-- Talk track: Welcome back. It's been a week since Day 1, and I hope that week gave you time to reflect. On Day 1 you built a Manager OS, a hiring plan, and a roadmap. Today we shift from building the machine to growing the people inside it. This block is about the hardest and most rewarding part of management: helping people develop, giving honest feedback, and making fair performance assessments. By the end of this block, you'll have practiced SBI feedback in pairs, run a mock calibration session, and drafted a PGP. Some of this will be uncomfortable. That's by design. Let's get started. -->
+<!-- Talk track: Welcome back. It's been a week since Day 1, and I hope that week gave you time to reflect. On Day 1 you built a Manager OS, a hiring plan, and a roadmap. Today we shift from building the machine to growing the people inside it. This block is about the hardest and most rewarding part of management: helping people develop, giving honest feedback, and making fair performance assessments. By the end of this block, you'll have practiced SBI feedback in pairs and run a mock calibration session. You'll also learn the PGP framework and draft yours at home. Some of this will be uncomfortable. That's by design. Let's get started. -->
 
 ---
 
@@ -45,12 +45,12 @@ By the end of this block you will be able to:
 
 **Today — Day 2:**
 - **Block D (now):** Career development, feedback, performance — with practice
-- **Block E (13:30):** Portfolio Workshop & Peer Review
-- **Block F (15:30):** Leading up and across; QBR simulation
+- **Block E (13:30):** Infrastructure & Cross-Functional Interfaces
+- **Block F (15:30):** Leading Up & Executive Communication
 
 **The arc:** Day 1 was about building the system. Day 2 is about running the system — people, feedback, and communication.
 
-<!-- Talk track: This block is about growing the people you hired. Block E is workshop time to strengthen your portfolio with peer feedback. Block F is presenting it all to leadership in a QBR simulation. -->
+<!-- Talk track: This block is about growing the people you hired. Block E covers data infrastructure and cross-functional relationships. Block F is about executive communication — how to lead up, handle failure, and present to leadership. -->
 
 ---
 
@@ -264,21 +264,21 @@ The manager log is what makes this possible.
 
 ---
 
-<!-- ⏱ Expected: 11:35 (min 35/100) | Activity: SBI Feedback Role-Play (22 min) -->
+<!-- ⏱ Expected: 11:35 (min 35/100) | Activity: SBI Feedback Role-Play (25 min) -->
 <!-- _class: divider -->
 
 ## Activity: SBI Feedback Role-Play
 
-## 22 Minutes | `materials/sbi-scenario-cards.md`
+## 25 Minutes | `materials/sbi-scenario-cards.md`
 
 <!-- Talk track: Time to practice. This is where the learning happens — not in hearing about SBI, but in doing it. -->
 
 ---
 
-<!-- ⏱ Expected: 11:35 (min 35/100) | Activity: SBI Feedback Role-Play (22 min) -->
+<!-- ⏱ Expected: 11:35 (min 35/100) | Activity: SBI Feedback Role-Play (25 min) -->
 ## Activity: SBI Feedback Role-Play
 
-**Time: 22 minutes** | Open `materials/sbi-scenario-cards.md`
+**Time: 25 minutes** | Open `materials/sbi-scenario-cards.md`
 
 **Format:**
 - **Pair up.** Each pair gets a scenario card.
@@ -289,7 +289,7 @@ The manager log is what makes this possible.
 
 ---
 
-<!-- ⏱ Expected: 11:35 (min 35/100) | Activity: SBI Feedback Role-Play (22 min) -->
+<!-- ⏱ Expected: 11:35 (min 35/100) | Activity: SBI Feedback Role-Play (25 min) -->
 ## Activity: SBI Feedback Role-Play
 
 **Rules:**
@@ -298,27 +298,27 @@ The manager log is what makes this possible.
 - Receiver: React naturally — defensive, confused, emotional
 - Debrief honestly: "What worked? What felt off?"
 
-**Pick up your scenario cards. You have 22 minutes. Go.**
+**Pick up your scenario cards. You have 25 minutes. Go.**
 
 <!-- Talk track: Stay in character. If you're the receiver and the feedback makes you defensive, be defensive. That's real. The goal is to feel what it's like to give structured feedback under pressure. Pick up your scenario cards. Go. -->
 
 ---
 
-<!-- ⏱ Expected: 11:57 (min 57/100) | Activity: Mock Calibration (17 min) -->
+<!-- ⏱ Expected: 12:00 (min 60/100) | Activity: Mock Calibration (20 min) -->
 <!-- _class: divider -->
 
 ## Activity: Mock Calibration
 
-## 17 Minutes | `materials/calibration-profiles.md`
+## 20 Minutes | `materials/calibration-profiles.md`
 
 <!-- Talk track: Now we're going to do something uncomfortable — and that's exactly the point. -->
 
 ---
 
-<!-- ⏱ Expected: 11:57 (min 57/100) | Activity: Mock Calibration (17 min) -->
+<!-- ⏱ Expected: 12:00 (min 60/100) | Activity: Mock Calibration (20 min) -->
 ## Activity: Mock Calibration
 
-**Time: 17 minutes** | Open `materials/calibration-profiles.md`
+**Time: 20 minutes** | Open `materials/calibration-profiles.md`
 
 **Format:**
 - **Form groups of 4.**
@@ -329,7 +329,7 @@ The manager log is what makes this possible.
 
 ---
 
-<!-- ⏱ Expected: 11:57 (min 57/100) | Activity: Mock Calibration (17 min) -->
+<!-- ⏱ Expected: 12:00 (min 60/100) | Activity: Mock Calibration (20 min) -->
 ## Activity: Mock Calibration
 
 - **2 min:** Group reflection — Which profile was most contested? Why?
@@ -338,11 +338,11 @@ The manager log is what makes this possible.
 
 **The discomfort is the point.** Disagreement surfaces the assumptions that real calibration is designed to surface.
 
-<!-- Talk track: Once everyone has their ratings, reveal them simultaneously. Where you agree, confirm quickly. Where you disagree — that's where the real learning happens. The disagreement surfaces assumptions about what "good" looks like, what counts as evidence, and how level expectations change the conversation. You have 17 minutes. Go. -->
+<!-- Talk track: Once everyone has their ratings, reveal them simultaneously. Where you agree, confirm quickly. Where you disagree — that's where the real learning happens. The disagreement surfaces assumptions about what "good" looks like, what counts as evidence, and how level expectations change the conversation. You have 20 minutes. Go. -->
 
 ---
 
-<!-- ⏱ Expected: 12:14 (min 74/100) | Debrief + Key Takeaways + Transition -->
+<!-- ⏱ Expected: 12:20 (min 80/100) | Debrief + Key Takeaways + Transition -->
 ## Debrief
 
 **From the SBI role-play:**
@@ -357,7 +357,7 @@ The manager log is what makes this possible.
 
 ---
 
-<!-- ⏱ Expected: 12:14 (min 74/100) | Debrief + Key Takeaways + Transition -->
+<!-- ⏱ Expected: 12:20 (min 80/100) | Debrief + Key Takeaways + Transition -->
 ## Key Takeaways
 
 - **SBI separates observation from judgment.** That's what makes feedback hearable.
@@ -368,7 +368,7 @@ The manager log is what makes this possible.
 
 ---
 
-<!-- ⏱ Expected: 12:14 (min 74/100) | Debrief + Key Takeaways + Transition -->
+<!-- ⏱ Expected: 12:20 (min 80/100) | Debrief + Key Takeaways + Transition -->
 ## Key Takeaways
 
 - **Senior = scope + autonomy + ambiguity tolerance.** Not years.
@@ -381,7 +381,7 @@ The manager log is what makes this possible.
 
 ---
 
-<!-- ⏱ Expected: 12:14 (min 74/100) | Debrief + Key Takeaways + Transition -->
+<!-- ⏱ Expected: 12:20 (min 80/100) | Debrief + Key Takeaways + Transition -->
 <!-- _class: divider -->
 
 ## Up Next: Block E
@@ -393,7 +393,7 @@ The manager log is what makes this possible.
 
 ---
 
-<!-- ⏱ Expected: 12:14 (min 74/100) | Debrief + Key Takeaways + Transition -->
+<!-- ⏱ Expected: 12:20 (min 80/100) | Debrief + Key Takeaways + Transition -->
 ## Transition to Block E
 
 **After lunch: Block E — Infrastructure & Cross-Functional Interfaces (13:30–15:10)**
