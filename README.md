@@ -34,8 +34,8 @@ Each day has three 100-minute blocks with breaks between them.
 | Time | Block | Topic |
 |------|-------|-------|
 | 11:00–12:40 | **D** | Growth, Performance & Feedback |
-| 13:30–15:10 | **E** | Portfolio Workshop & Peer Review |
-| 15:30–17:10 | **F** | Leading Up/Across & QBR Simulation |
+| 13:30–15:10 | **E** | Infrastructure & Cross-Functional Interfaces |
+| 15:30–17:10 | **F** | Leading Up & Executive Communication |
 
 ## What Students Build
 
@@ -122,10 +122,9 @@ All work is anchored to one of three case contexts that students choose on Day 1
 | Participation & Preparedness | 15% | Ongoing |
 | Day 1 Checkpoint (draft artifacts) | 10% | March 16, 17:10 |
 | Hiring Packet | 20% | March 30, 23:59 CET |
-| Roadmap + Executive Narrative | 20% | March 30, 23:59 CET |
+| Roadmap + Executive Narrative + QBR | 25% | March 30, 23:59 CET |
 | Manager OS Document | 15% | March 30, 23:59 CET |
 | PGP + Performance Summary | 15% | March 30, 23:59 CET |
-| Peer Feedback Quality | 5% | March 25, 23:59 CET |
 
 Full rubrics are in [`assessment/grading-rubrics.md`](assessment/grading-rubrics.md).
 
