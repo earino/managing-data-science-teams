@@ -4,7 +4,7 @@
 
 **A workshop-driven intensive on analytics leadership — from hiring to roadmaps to executive alignment.**
 
-This course is part of Central European University's MS in Business Analytics program. Students build a complete **Manager Operating System** by producing real management artifacts anchored to one of three realistic company scenarios. The capstone is a QBR simulation where students present their roadmap to a mock executive panel.
+This course is part of Central European University's MS in Business Analytics program. Students build a complete **Manager Operating System** by producing real management artifacts anchored to one of three realistic company scenarios. The capstone is an async QBR video where students present their roadmap to a virtual executive panel.
 
 ## Key Information
 
