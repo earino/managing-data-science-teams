@@ -95,10 +95,10 @@ All work is anchored to one of three case contexts that students choose on Day 1
 │   │   ├── facilitator-notes.md
 │   │   ├── materials/             # SBI scenario cards, calibration profiles
 │   │   └── templates/             # PGP, performance summary
-│   ├── block-e-portfolio-workshop/
+│   ├── block-e-infrastructure/
 │   │   ├── slides.md
 │   │   └── facilitator-notes.md
-│   └── block-f-qbr-simulation/
+│   └── block-f-leading-up/
 │       ├── slides.md
 │       ├── facilitator-notes.md
 │       └── templates/             # QBR outline, portfolio checklist

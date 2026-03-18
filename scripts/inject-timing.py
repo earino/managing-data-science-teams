@@ -149,7 +149,7 @@ BLOCKS = [
     # NOTE: Facilitator notes count Marp config as "slide 1".
     # Actual slide 1 = notes slide 2, etc.
     {
-        "path": ROOT / "day-2" / "block-e-portfolio-workshop" / "slides.md",
+        "path": ROOT / "day-2" / "block-e-infrastructure" / "slides.md",
         "start": "13:30",
         "duration": 100,
         "expected_slides": 18,
@@ -167,7 +167,7 @@ BLOCKS = [
 
     # ---- BLOCK F: Leading Up & Across; QBR Simulation (Day 2, 15:30–17:10, 100 min, 60 slides) ----
     {
-        "path": ROOT / "day-2" / "block-f-qbr-simulation" / "slides.md",
+        "path": ROOT / "day-2" / "block-f-leading-up" / "slides.md",
         "start": "15:30",
         "duration": 100,
         "expected_slides": 60,
