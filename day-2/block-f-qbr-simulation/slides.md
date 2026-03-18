@@ -8,11 +8,11 @@ footer: "CEU Vienna | Day 2 – Block F"
 <!-- ⏱ Expected: 15:30 (min 0/100) -->
 <!-- _class: title -->
 
-# Leading Up & Across; QBR Simulation
+# Leading Up & Executive Communication
 
 ## Day 2 — Block F | 15:30–17:10
 
-<!-- Talk track: Welcome to the final block. Everything you've built over these two days — the Manager OS, the hiring packet, the roadmap, the growth plans, the peer feedback you gave and received — it all converges here. This block is about leading up and across. Leading up means communicating with executives who have limited time and broad scope. Leading across means working with peers in other functions who have different priorities. The QBR simulation is your chance to practice both. You'll present your roadmap to a mock executive panel, and your peers will play the executives asking hard questions. Let's start with the framework for executive communication. -->
+<!-- Talk track: Welcome to the final block. Everything you've built over these two days — the Manager OS, the hiring packet, the roadmap, the growth plans, the infrastructure plan — it all converges here. This block is about leading up: communicating with executives who have limited time and broad scope, handling failure honestly, and thinking about your first 90 days as a manager. We'll also cover your capstone deliverable — the async QBR. -->
 
 ---
 
@@ -20,14 +20,16 @@ footer: "CEU Vienna | Day 2 – Block F"
 ## Learning Outcomes
 
 By the end of this block you will be able to:
-- Align leadership and collaborate cross-functionally using clear interfaces
-- Present a roadmap and executive narrative to a mock executive panel
+- Structure executive communication using the Pyramid Principle and BLUF
+- Communicate failure upward using a structured framework
+- Plan your first 90 days as an analytics manager
+- Understand the async QBR deliverable format and evaluation criteria
 
-<!-- Talk track: Two outcomes for the capstone. Executive alignment and the QBR simulation itself. -->
+<!-- Talk track: Four outcomes for the final block. Executive communication frameworks, handling failure honestly, your first 90 days as a manager, and the async QBR. -->
 
 ---
 
-<!-- ⏱ Expected: 15:32 (min 2/100) -->
+<!-- ⏱ Expected: 15:30 (min 0/100) -->
 ## The Final Block
 
 This is the capstone of the entire course. Everything from both days converges here.
@@ -38,23 +40,23 @@ Over Day 1 and Day 2, you have:
 - **Hired a team** — with structure, fairness, and signal
 - **Planned a roadmap** — with RICE scoring and executive alignment
 
-<!-- Talk track: Take a breath and look at how far you've come. Over two days, you've built the full stack of analytics management. You have a team charter, a hiring packet, a roadmap, growth plans, and you've refined your portfolio through peer review. That's an enormous amount of work. -->
+<!-- Talk track: Take a breath and look at how far you've come. Over two days, you've built the full stack of analytics management. You have a team charter, a hiring packet, a roadmap, growth plans, and an infrastructure plan. That's an enormous amount of work. -->
 
 ---
 
-<!-- ⏱ Expected: 15:32 (min 2/100) -->
+<!-- ⏱ Expected: 15:30 (min 0/100) -->
 ## The Final Block
 
 - **Grown your people** — through PGPs, SBI feedback practice, and calibration
-- **Refined your portfolio** — through structured peer review and revision
+- **Assessed your infrastructure** — build vs. buy, cross-functional SLAs, data stack planning
 
-Now you **present it all to leadership**. This skill separates analytics managers who **get funded** from those who **get cut**.
+Now you learn to **communicate it all to leadership**. This skill separates analytics managers who **get funded** from those who **get cut**.
 
-<!-- Talk track: But here's the thing — none of it matters if you can't communicate it to the people who control your budget, your headcount, and your team's survival. This block is where you practice the skill that separates the analytics managers who get funded and grow their teams from the ones who get quietly reorged out of existence. It's not enough to do great work. You have to be able to show that you do great work, in a format that executives can absorb in five minutes. -->
+<!-- Talk track: But none of it matters if you can't communicate it to the people who control your budget, your headcount, and your team's survival. This block is where you learn the skill that separates the analytics managers who get funded from the ones who get quietly reorged out of existence. -->
 
 ---
 
-<!-- ⏱ Expected: 15:32 (min 2/100) -->
+<!-- ⏱ Expected: 15:32 (min 2/100) | Pyramid Principle / BLUF / Executive Attention (8 min) -->
 ## Why Executive Communication Is a Survival Skill
 
 Analytics teams that can't communicate their value **get cut**. The work **does not speak for itself** — you speak for the work.
@@ -65,66 +67,11 @@ Every budget cycle, every reorg, someone asks:
 
 Your answer determines your team's future.
 
-<!-- Talk track: I want to be direct with you about why this block exists. Analytics teams get cut. It happens all the time. Not because the work isn't valuable — but because the team couldn't articulate its value in terms the business understood. Every budget cycle, every reorg, every new VP, someone asks "what does the analytics team actually do?" And your answer to that question — not your dashboards, not your models, not your pipelines — your answer is what determines whether your team grows or gets absorbed into engineering or product. -->
+<!-- Talk track: I want to be direct about why this block exists. Analytics teams get cut. It happens all the time. Not because the work isn't valuable — but because the team couldn't articulate its value in terms the business understood. -->
 
 ---
 
 <!-- ⏱ Expected: 15:32 (min 2/100) -->
-## Why Executive Communication Is a Survival Skill
-
-- If you answer **crisply** — with business impact, not jargon — your team gets funded.
-- If you fumble — "well, we maintain dashboards and run A/B tests and..." — you're on the chopping block.
-- Analytics is **young enough** in most orgs that its value is still being proven. Engineering and Sales don't justify their existence. Analytics still does.
-
-<!-- Talk track: The analytics function is still young enough in most organizations that its existence is not taken for granted. You have to earn your seat at the table every quarter. That's what this block prepares you for. -->
-
----
-
-<!-- ⏱ Expected: 15:38 (min 8/100) -->
-## What We'll Do This Block
-
-**Four parts:**
-
-1. **Executive communication frameworks**
-   The Pyramid Principle, BLUF, and how to structure information for people who have three minutes, not thirty
-
-2. **QBR simulation**
-   You present your roadmap and executive narrative to a mock executive panel. They push back. You handle it.
-
-<!-- Talk track: Here's the plan for the next hundred minutes. We'll start with frameworks — the Pyramid Principle, BLUF, and the specific patterns that work for executive audiences. Then we'll move into the QBR simulation, which is the heart of this block. You'll present to a mock executive panel, and your classmates will play the execs. The simulation is where the real learning happens. It's uncomfortable, and that's the point. -->
-
----
-
-<!-- ⏱ Expected: 15:38 (min 8/100) -->
-## What We'll Do This Block
-
-3. **Peer feedback on your presentation**
-   What landed? What didn't? What would a real exec have pushed harder on?
-
-4. **Portfolio checklist**
-   A concrete guide to your final submission — every artifact, where it came from, and what "done" looks like
-
-By the end of this block, you'll have practiced the single hardest communication challenge in analytics management: selling your team's value to people who control your budget.
-
-<!-- Talk track: After the simulation, we'll do peer feedback so you get concrete notes on what worked and what didn't. And finally, we'll walk through the portfolio checklist so you know exactly what you need to submit. Let's get into the frameworks first. -->
-
----
-
-<!-- ⏱ Expected: 15:38 (min 8/100) -->
-## Executive Communication
-
-> "If you can't explain it simply, you don't understand it well enough."
-
-Executives operate in a different context than you:
-- **Limited time** — They have 30 minutes between meetings, not 30 minutes for your meeting
-- **Broad scope** — Your team is one of twenty things they're tracking
-- **High stakes** — They're making resource allocation decisions based on what you tell them
-
-<!-- Talk track: Let me be blunt about something. The way you communicate with your team is not the way you communicate with executives. Your team wants context, nuance, caveats. Executives want the answer first. They're not being rude or dismissive — they're operating in a fundamentally different context. They might have fifteen meetings today. Yours is one of them. They're tracking twenty teams, a hundred projects, three board-level initiatives. Your analytics roadmap is important, but it's one of many things competing for their attention. And the stakes are high — they're making real resource allocation decisions based on what you tell them in these meetings. If you're unclear, they'll make the wrong decision or, worse, make no decision at all. -->
-
----
-
-<!-- ⏱ Expected: 15:38 (min 8/100) -->
 ## Executive Communication: Frameworks
 
 **The Pyramid Principle:** Conclusion first, then supporting arguments, then data.
@@ -133,48 +80,26 @@ Executives operate in a different context than you:
 
 Here's a test: if an executive read **only your first sentence**, would they know your main message? If not, restructure.
 
-<!-- Talk track: The Pyramid Principle comes from Barbara Minto at McKinsey. The idea is simple: start with the conclusion, then give supporting arguments, then provide data if asked. BLUF — Bottom Line Up Front — is the military version of the same idea. Both say the same thing: lead with the answer, not the buildup. Here's a concrete test. Look at the first sentence of your next exec update. If someone read only that sentence, would they know your main message? If not, restructure. -->
+<!-- Talk track: The Pyramid Principle comes from Barbara Minto at McKinsey. Start with the conclusion, then supporting arguments, then data if asked. BLUF is the military version of the same idea. Both say: lead with the answer, not the buildup. -->
 
 ---
 
-<!-- ⏱ Expected: 15:38 (min 8/100) -->
-## Executive Communication: Frameworks
-
-This is not about dumbing things down. It's about **respecting someone's time and cognitive bandwidth**.
-
-The best analytics leaders can switch between deep technical discussions with their team and crisp executive summaries in the same hour.
-
-<!-- Talk track: I want to be clear — this isn't about dumbing things down or being less rigorous. It's about recognizing that executives have different information needs than your team. Your IC data scientist wants methodology details. Your VP wants the business impact. Both are legitimate. The skill is switching between those modes fluently. -->
-
----
-
-<!-- ⏱ Expected: 15:43 (min 13/100) -->
+<!-- ⏱ Expected: 15:32 (min 2/100) -->
 ## The Executive Attention Budget
 
 Executives make **30–50 decisions per day**. Your QBR is one of many.
-
-They're not trying to be difficult — they're trying to **triage**.
 
 - If you **front-load** the most important information, you're respecting their cognitive load
 - If you **build up slowly**, you'll lose them by slide 3
 - If you **bury the ask**, they'll move on before they get to it
 
-<!-- Talk track: I want to give you a mental model for how executives experience your presentation. They make somewhere between 30 and 50 decisions a day. Not small decisions — resource allocation, hiring, strategy, risk. By the time they get to your QBR, they've already made twenty decisions that morning. They're not trying to be difficult when they check their phone or cut you off — they're cognitively depleted and trying to triage. Your job is to make it easy for them. Front-load everything. The most important information goes first. -->
+**The 5-minute version of your presentation should be just as compelling as the 15-minute version.** Your first two slides carry the entire narrative. Everything after that is supporting evidence you can skip.
+
+<!-- Talk track: They make 30 to 50 decisions a day. By the time they get to your QBR, they've already made twenty decisions. Your job is to make it easy for them. Front-load everything. Plan for five minutes — if you get fifteen, use the extra time for depth. -->
 
 ---
 
-<!-- ⏱ Expected: 15:43 (min 13/100) -->
-## The Executive Attention Budget
-
-**Real talk:** Most exec meetings run late. If yours is last on the agenda, you might get **5 minutes instead of 15**. Plan for that.
-
-**The 5-minute version of your presentation should be just as compelling as the 15-minute version.** That means your first two slides carry the entire narrative. Everything after that is supporting evidence you can skip if time is short.
-
-<!-- Talk track: Here's the scenario that will happen to you at least once in your career: the meeting before yours runs long, and someone says "can you do it in five minutes instead of fifteen?" If your answer is "no, I need to walk you through the whole thing," you've failed. Your first two slides should carry the entire narrative. Everything after that is evidence you can skip gracefully. Plan for five minutes. If you get fifteen, great — use the extra time for depth. -->
-
----
-
-<!-- ⏱ Expected: 15:43 (min 13/100) -->
+<!-- ⏱ Expected: 15:32 (min 2/100) -->
 ## What Executives Actually Want to Know
 
 Every executive presentation should answer **three questions:**
@@ -186,47 +111,29 @@ Every executive presentation should answer **three questions:**
 3. **What do you need from me?**
    Decisions, resources, air cover, or nothing ("nothing" is a valid answer)
 
-<!-- Talk track: I want to simplify executive communication down to its essence. There are exactly three things executives want to know. First: are we on track? Give me the status. Green, yellow, red — don't make me guess. Second: what are the risks? Don't hide bad news. Executives hate surprises more than they hate bad news. If your model is underperforming, say so and say what you're doing about it. Third: what do you need from me? This is the one people forget. Executives want to help. They want to unblock you. But you have to ask. If you don't need anything, say "no asks this quarter" — that's actually reassuring. -->
+**Everything else is context.** Put these three answers on your first slide.
+
+<!-- Talk track: There are exactly three things executives want to know. First: are we on track? Second: what are the risks? Don't hide bad news — executives hate surprises more than they hate bad news. Third: what do you need from me? If you don't need anything, say "no asks this quarter" — that's actually reassuring. -->
 
 ---
 
-<!-- ⏱ Expected: 15:43 (min 13/100) -->
-## What Executives Actually Want to Know
-
-**Everything else is context.** Put these three answers on your first slide. Everything after is supporting evidence.
-
-<!-- Talk track: Everything else in your presentation is context and evidence supporting these three answers. -->
-
----
-
-<!-- ⏱ Expected: 15:47 (min 17/100) -->
+<!-- ⏱ Expected: 15:40 (min 10/100) | Three Executive Questions + Anti-Patterns (6 min) -->
 ## The Anti-Patterns of Exec Presentations
 
 Common failure modes — you will see all of these in the wild:
 
 - **"Data Dump"** — 50 slides of metrics with no narrative. Executives don't want data; they want judgment.
-
-- **"Everything Is Fine"** — No risks acknowledged means no trust earned. All-green means you're naive or hiding something.
-
-- **"Ask Buried on Slide 47"** — If you need something, say it upfront. They won't dig for it.
-
-<!-- Talk track: Before we move on, let me show you the failure modes I've seen repeatedly in exec presentations. The data dump is the most common — someone pastes fifty charts into a deck and calls it a QBR. There's no narrative, no "so what," just data. Executives don't want data. They want your judgment about what the data means. The "everything is fine" deck is dangerous because it destroys trust. Every team has risks. If you don't acknowledge yours, the exec assumes you either don't know about them or you're hiding them. Both are bad. The buried ask kills me — someone spends forty-five minutes on status updates and then rushes through their one critical request in the last thirty seconds. If you need a headcount, say it on slide one. -->
-
----
-
-<!-- ⏱ Expected: 15:47 (min 17/100) -->
-## The Anti-Patterns of Exec Presentations
-
+- **"Everything Is Fine"** — No risks acknowledged means no trust earned.
+- **"Ask Buried on Slide 47"** — If you need something, say it upfront.
 - **"Jargon Wall"** — Every unexplained acronym is a moment where the executive checks out.
+- **"But First, Methodology"** — No one in the C-suite cares about your SQL query. They care what it means for the business.
 
-- **"But First, Methodology"** — No one in the C-suite cares about your SQL query or model architecture. They care what it means for the business.
-
-<!-- Talk track: The jargon wall and the methodology-first deck are variations of the same problem: you're optimizing for technical credibility instead of executive decision-making. Save the methodology for the appendix. -->
+<!-- Talk track: Before we move on, the failure modes. The data dump is the most common. The "everything is fine" deck destroys trust. The buried ask kills me — someone spends forty-five minutes on status updates and then rushes their one critical request. -->
 
 ---
 
-<!-- ⏱ Expected: 15:47 (min 17/100) -->
-## Decisions & Escalation: When to Escalate
+<!-- ⏱ Expected: 15:40 (min 10/100) -->
+## Decisions & Escalation
 
 **When to escalate:**
 - When the decision is **irreversible** (Type 1)
@@ -234,38 +141,20 @@ Common failure modes — you will see all of these in the wild:
 - When you need **resources you don't have**
 - When it has **legal, compliance, or reputational** implications
 
-**The escalation anti-pattern:** Escalating everything (decision avoidance) is as bad as escalating nothing (cowboy behavior).
-
-<!-- Talk track: Knowing when and how to escalate is one of the hardest skills for new managers. Here's the framework. Escalate when the decision is irreversible — remember Type 1 from Day 1. Escalate when it affects teams you don't control — if your decision will change the engineering team's roadmap, that's not your call alone. Escalate when you need resources — budget, headcount, executive sponsorship. And always escalate legal or compliance issues. The anti-pattern to watch for is the manager who escalates everything. That's not being diligent — it's avoiding decisions. If you escalate ten things a week, your boss will start wondering why they hired a manager. The other anti-pattern is the cowboy who never escalates and makes decisions that blow up. Find the balance. -->
-
----
-
-<!-- ⏱ Expected: 15:47 (min 17/100) -->
-## Decisions & Escalation: How to Escalate
-
 **How to escalate:**
-1. Present the **decision** clearly — what needs to be decided
-2. Give your **recommendation** — what you think we should do
-3. Lay out the **trade-offs** — what we gain and lose with each option
+1. Present the **decision** clearly
+2. Give your **recommendation**
+3. Lay out the **trade-offs**
 
 Never escalate a problem without a recommendation. "I don't know what to do" is not an escalation — it's an abdication.
 
-<!-- Talk track: How you escalate matters as much as when. The format is simple: here's the situation, here are the options, here's what I recommend, and here's the trade-off. Never go to your boss and say "I don't know what to do." That's not escalating — that's abdicating your responsibility as a manager. Always have a recommendation, even if you're not confident in it. Say "I recommend option A, but I'm only 60% confident — here's why I'm torn." That gives your boss something to react to. -->
+**"Disagree and commit"** — Once the decision is made, execute fully.
+
+<!-- Talk track: Knowing when and how to escalate is one of the hardest skills for new managers. Always have a recommendation, even if you're not confident. And once a decision is made, execute it fully — passive-aggressive non-compliance is worse than open disagreement. -->
 
 ---
 
-<!-- ⏱ Expected: 15:47 (min 17/100) -->
-## Decisions & Escalation: How to Escalate
-
-**"Disagree and commit"** — Once the decision is made, execute fully. Undermining a decision you lost is a career-ending move.
-
-Passive-aggressive non-compliance — doing the thing you were told to do but doing it badly — is worse than open disagreement.
-
-<!-- Talk track: Disagree and commit is an Amazon principle but it's universal. You can argue hard for your position in the room. But once the decision is made, you execute it fully. I've seen managers lose their jobs not because they disagreed with a decision, but because they quietly sabotaged it after the fact. If you can't commit to executing a decision, say so in the room, not after. -->
-
----
-
-<!-- ⏱ Expected: 15:47 (min 17/100) -->
+<!-- ⏱ Expected: 15:46 (min 16/100) | Art of the Ask (6 min) -->
 ## The Art of the Ask
 
 How to actually ask executives for what you need:
@@ -274,21 +163,14 @@ How to actually ask executives for what you need:
 - Not: "We need more resources"
 - Instead: "We need one senior data engineer by Q2 to unblock the self-serve dashboard initiative, currently blocked on pipeline reliability"
 
-<!-- Talk track: This is one of the most underdeveloped skills in analytics management — actually asking for what you need. Most managers are terrible at this. They either don't ask at all, hoping their hard work will be noticed, or they ask vaguely — "we need more resources" — which is impossible to act on. Be painfully specific. Not "we need help" but "we need one senior data engineer by Q2 to unblock the self-serve dashboard initiative." Then quantify what happens if you don't get it. Executives think in trade-offs. Help them understand the cost of saying no. -->
-
----
-
-<!-- ⏱ Expected: 15:47 (min 17/100) -->
-## The Art of the Ask
-
 **Quantify the cost of NOT getting what you ask for:**
 - "Without this hire, the self-serve project slips to Q4, and the product team continues filing 15 ad-hoc requests per week, costing ~40 analyst-hours monthly"
 
-<!-- Talk track: Once you've named what you need, quantify the cost of not getting it. Executives think in trade-offs — give them the numbers. Help them understand the cost of saying no so they can make a real decision rather than defer. -->
+<!-- Talk track: This is one of the most underdeveloped skills in analytics management. Most managers either don't ask at all, or they ask vaguely. Be painfully specific. Then quantify what happens if you don't get it. Executives think in trade-offs. Help them understand the cost of saying no. -->
 
 ---
 
-<!-- ⏱ Expected: 15:47 (min 17/100) -->
+<!-- ⏱ Expected: 15:46 (min 16/100) -->
 ## The Art of the Ask
 
 **Make it easy to say yes:**
@@ -297,13 +179,11 @@ How to actually ask executives for what you need:
 
 **One ask per meeting.** If you have three requests, prioritize. The executive who says yes to one thing is more useful than the one who says "let me think about it" to three things.
 
-<!-- Talk track: Make it easy for executives to say yes — frame your ask as a choice between two concrete options, not an open-ended request. And remember: one ask per meeting. If you walk in with a list of five things, you'll get zero. Prioritize ruthlessly. Get one yes. Come back next month for the next one. -->
+<!-- Talk track: Frame your ask as a choice between two concrete options. And remember: one ask per meeting. Prioritize ruthlessly. Get one yes. Come back next month for the next one. -->
 
 ---
 
-<!-- ⏱ Expected: 15:50 (min 20/100) -->
-<!-- _class: cut -->
-
+<!-- ⏱ Expected: 15:52 (min 22/100) | Communicating Failure lecture (10 min) -->
 ## Incident Postmortems for Analytics: When Things Go Wrong
 
 When things go wrong — and they will:
@@ -311,27 +191,18 @@ When things go wrong — and they will:
 - The **A/B test had a bug** and you shipped a losing variant
 - The **model made a bad prediction** and it cost real money
 
+What matters is not the failure. It's **how you respond**.
+
 <!-- Talk track: Let's talk about what happens when analytics fails. And it will fail. Your dashboard will show the wrong number. Your A/B test will have a bug. Your model will make a prediction that costs the company money. What matters is how you respond. -->
 
 ---
 
-<!-- ⏱ Expected: 15:50 (min 20/100) -->
-<!-- _class: cut -->
-
-## Incident Postmortems for Analytics: When Things Go Wrong
+<!-- ⏱ Expected: 15:52 (min 22/100) -->
+## Blameless Postmortems
 
 **Blameless culture:** Focus on **systems**, not people.
 
 "Sarah forgot to update the dashboard" is not a root cause. "We have no process for propagating metric definition changes" is a root cause.
-
-<!-- Talk track: The best teams run blameless postmortems. Blameless doesn't mean no accountability — it means you focus on the system that allowed the failure, not the person who happened to trigger it. If someone can make a mistake that breaks a dashboard for the whole company, the problem is that one person can break a dashboard for the whole company. That's a system failure, not a people failure. -->
-
----
-
-<!-- ⏱ Expected: 15:50 (min 20/100) -->
-<!-- _class: cut -->
-
-## Incident Postmortems: Root Cause
 
 **The 5 Whys:**
 1. Why was the dashboard wrong? → The metric definition changed
@@ -340,26 +211,13 @@ When things go wrong — and they will:
 4. Why not? → We grew too fast and skipped governance
 5. Why? → No one owned data quality as a function
 
-<!-- Talk track: The 5 Whys is a simple technique from Toyota. You keep asking "why" until you get to a root cause that's systemic, not individual. Look at this example. We start with "the dashboard was wrong" and we end at "no one owned data quality as a function." That's a systemic root cause, and it's something you can actually fix. -->
+**Action items must have:** An owner, a deadline, and a verification method. A postmortem without action items is just group therapy.
+
+<!-- Talk track: The best teams run blameless postmortems. Blameless doesn't mean no accountability — it means you focus on the system that allowed the failure, not the person who happened to trigger it. Use the 5 Whys to get to a systemic root cause. And every postmortem must produce action items with an owner, a deadline, and a verification method. -->
 
 ---
 
-<!-- ⏱ Expected: 15:50 (min 20/100) -->
-<!-- _class: cut -->
-
-## Incident Postmortems: Root Cause
-
-**Action items must have:** An owner, a deadline, and a verification method.
-
-A postmortem without action items is just group therapy.
-
-<!-- Talk track: Every postmortem should produce action items, and every action item needs three things: an owner — a specific human being, not a team; a deadline — a specific date, not "soon"; and a verification method — how will we know it's actually done? Without those three things, your action items are just wishes. I've seen teams run beautiful postmortems and produce a list of twelve action items and then do zero of them. The postmortem isn't the document. The postmortem is the follow-through. -->
-
----
-
-<!-- ⏱ Expected: 15:50 (min 20/100) -->
-<!-- _class: cut -->
-
+<!-- ⏱ Expected: 15:52 (min 22/100) -->
 ## Communicating Failure Upward
 
 How to tell your VP that the dashboard was wrong, the model failed, or the project is behind.
@@ -367,77 +225,55 @@ How to tell your VP that the dashboard was wrong, the model failed, or the proje
 **The framework:**
 1. **Lead with impact** — "A revenue dashboard had incorrect data for 3 days; two decisions were made using it"
 2. **Explain what happened** — brief, factual, no finger-pointing
-
-<!-- Talk track: This is the conversation nobody wants to have. You have to tell your VP that something broke. Maybe the dashboard showed the wrong revenue numbers for a week. Maybe the model gave a bad recommendation. Here's the framework: lead with impact, not with methodology. Don't start with "so there was a join condition in the ETL that..." Start with "the revenue dashboard showed incorrect data for three days, and two pricing decisions were made using it." Then explain what happened briefly and factually. -->
-
----
-
-<!-- ⏱ Expected: 15:50 (min 20/100) -->
-## Communicating Failure Upward
-
 3. **Describe what you're doing about it** — immediate remediation
 4. **Share the systemic fix** — what changes so this never happens again
 
-**The worst thing you can do:** Hide it. It always comes out, and now you have two problems — the incident and the cover-up.
-
-<!-- Talk track: Then tell them what you're doing about it right now. And finally, share the systemic fix. The absolute worst thing you can do is hide it. It always comes out. And now you have two problems: the incident and the fact that you tried to cover it up. -->
+<!-- Talk track: This is the conversation nobody wants to have. Here's the framework: lead with impact, not with methodology. Don't start with "so there was a join condition in the ETL that..." Start with "the revenue dashboard showed incorrect data for three days, and two pricing decisions were made using it." -->
 
 ---
 
-<!-- ⏱ Expected: 15:50 (min 20/100) -->
+<!-- ⏱ Expected: 15:52 (min 22/100) -->
 ## Communicating Failure Upward
 
-**The second worst thing:** Bury it in a long email. Your VP reads the first two lines. If those don't convey the severity, they'll be blindsided when someone else tells them.
+**The worst thing you can do:** Hide it. It always comes out, and now you have two problems — the incident and the cover-up.
+
+**The second worst thing:** Bury it in a long email. Your VP reads the first two lines.
 
 **Subject line format:** "[Impact level] — [What happened] — [Status]"
 Example: "P1 — Revenue dashboard showed incorrect data for 3 days — Resolved, postmortem scheduled"
 
-<!-- Talk track: The second worst thing after hiding a failure is burying it in a long, defensive email. Lead with impact. Be direct. Your VP will respect you more for it, not less. Use a clear subject line format that communicates severity immediately. Impact level, what happened, current status — all in the subject line so they know what they're dealing with before they even open the email. -->
+<!-- Talk track: The absolute worst thing you can do is hide it. It always comes out. And now you have two problems: the incident and the fact that you tried to cover it up. Lead with impact. Be direct. Your VP will respect you more for it, not less. -->
 
 ---
 
-<!-- ⏱ Expected: 15:50 (min 20/100) -->
-<!-- _class: cut -->
+<!-- ⏱ Expected: 16:02 (min 32/100) | Discussion: delivering worst news (15 min) -->
+<!-- _class: divider -->
 
-## Adapting Your Manager OS by Org Size
+## Discussion: Delivering Your Worst News
 
-| Dimension | Small (Seed/Series A) | Medium (Series B/C) | Large (Enterprise) |
-|---|---|---|---|
-| **Communication** | Informal, verbal, fast | Written becomes critical | Formal docs, alignment decks |
-| **Decision-making** | You decide, then do | You delegate and review | You lead through others |
-| **Cross-functional** | Walk to their desk | Scheduled syncs, shared docs | RACI, SLAs, steering committees |
-| **Your main job** | Ship | Build process | Ensure alignment |
-| **Biggest risk** | Burnout (you do everything) | Bottleneck (everything goes through you) | Drift (teams misalign silently) |
-
-<!-- Talk track: Your Manager OS is not static. It has to evolve as the organization grows. At a small startup, you do everything. You're the analyst, the data engineer, the dashboard builder, and the manager. Communication is informal — you just yell across the room. Decisions are fast. That's fine for 5 people. At medium scale, say 20 to 100 people, you have to start building process. Written communication becomes critical because you can't be in every room. You start delegating real decisions. Cross-functional work gets formalized. At large scale, your main job is alignment. You lead through other managers. You spend most of your time in meetings ensuring that teams are moving in the same direction. -->
+## 15 Minutes
 
 ---
 
-<!-- ⏱ Expected: 15:53 (min 23/100) | QBR brief + Role cards — advance briskly -->
-## The Transition Trap
+<!-- ⏱ Expected: 16:02 (min 32/100) -->
+## Discussion: Delivering Your Worst News
 
-**What made you successful at one size will actively hurt you at the next size.**
+Think about the worst thing happening in your case context right now. You have a meeting with your VP in one hour.
 
-- The scrappy startup founder who won't delegate **kills** the Series B company
-- The process-builder who won't let go of process **kills** innovation at the startup
-- The enterprise director who micromanages individual contributors **kills** morale and retention
+- What do you say **first**?
+- How do you frame the **impact**?
+- What's your **remediation plan**?
+- What **systemic fix** do you propose?
 
-<!-- Talk track: The dangerous moment is the transition between these stages. What made you successful at one stage can actively hurt you at the next. The founder who won't stop coding. The director who won't stop approving every pull request. The VP who still insists on reviewing every dashboard before it ships. I see this pattern constantly — someone gets promoted because they were great at their current level, and then they keep doing the things that made them great at the old level instead of learning the new level. -->
+Use the framework: **Lead with impact → What happened → What you're doing → Systemic fix.**
 
----
+*Take 2 minutes to think silently, then we'll discuss as a class.*
 
-<!-- ⏱ Expected: 15:53 (min 23/100) | QBR brief + Role cards — advance briskly -->
-## The Transition Trap
-
-The dangerous moment is the transition. The skills that made you a great IC analyst — attention to detail, doing everything yourself, being the expert in the room — are the same skills that will make you a terrible manager if you can't let them go.
-
-**Adaptation is the meta-skill.**
-
-<!-- Talk track: At a startup, your superpower is doing everything yourself. At a medium company, your superpower is building systems so other people can do things without you. At a large company, your superpower is alignment — making sure twenty people are all moving in the same direction without you touching anything. Adaptation is the meta-skill. If you can learn how to learn, you can handle any transition. -->
+<!-- Talk track: Let's put this into practice. Think about the worst thing happening in your case context right now. Maybe a key dashboard is unreliable. Maybe a project is behind schedule. Maybe a hire fell through. Whatever it is — you have a meeting with your VP in one hour. What do you say first? Take two minutes to think silently, then I'll open it up to the room. -->
 
 ---
 
-<!-- ⏱ Expected: 15:53 (min 23/100) | QBR brief + Role cards — advance briskly -->
+<!-- ⏱ Expected: 16:17 (min 47/100) | First 90 Days lecture (8 min) -->
 ## Your First 90 Days as an Analytics Manager
 
 A practical roadmap for the first 90 days in role, tailored by org size.
@@ -447,11 +283,11 @@ A practical roadmap for the first 90 days in role, tailored by org size.
 - Understand the data landscape — what exists, what's trusted, what's a mess
 - Don't change anything yet. Earn credibility through listening.
 
-<!-- Talk track: Let me give you something concrete to take with you — a practical roadmap for your first 90 days as an analytics manager. This applies whether it's your first management role or you're joining a new company. Days 1 through 30: shut up and listen. Seriously. Meet every stakeholder. Ask them what they need from analytics, what's working, what's broken. Understand the data landscape. Don't change anything yet. You haven't earned the credibility to change things. -->
+<!-- Talk track: Let me give you something concrete to take with you — a practical roadmap for your first 90 days as an analytics manager. Days 1 through 30: shut up and listen. Seriously. Meet every stakeholder. Understand the data landscape. Don't change anything yet. You haven't earned the credibility to change things. -->
 
 ---
 
-<!-- ⏱ Expected: 15:53 (min 23/100) | QBR brief + Role cards — advance briskly -->
+<!-- ⏱ Expected: 16:17 (min 47/100) -->
 ## Your First 90 Days as an Analytics Manager
 
 **Days 31–60: Quick Wins, Establish Cadences**
@@ -459,26 +295,17 @@ A practical roadmap for the first 90 days in role, tailored by org size.
 - Start your 1:1s, team meetings, and stakeholder syncs
 - Begin documenting your Manager OS — even a rough draft
 
-<!-- Talk track: Days 31 through 60: start making small, visible improvements. Fix the dashboard everyone hates. Start your cadences — 1:1s, team meetings, stakeholder syncs. Begin writing your Manager OS. -->
-
----
-
-<!-- ⏱ Expected: 15:53 (min 23/100) | QBR brief + Role cards — advance briskly -->
-## Your First 90 Days as an Analytics Manager
-
 **Days 61–90: Roadmap, First Hire Decision, First Exec Presentation**
 - Present your first roadmap draft to leadership
 - Make your first hiring or resourcing recommendation
 - Deliver your first exec update — use everything from this block
 
-<!-- Talk track: Days 61 through 90: now you have enough context to be strategic. Present your first roadmap. Make your first hiring recommendation. Deliver your first exec update using everything you've learned in this block. -->
+<!-- Talk track: Days 31 through 60: start making small, visible improvements. Fix the dashboard everyone hates. Start your cadences. Begin writing your Manager OS. Days 61 through 90: now you have enough context to be strategic. Present your first roadmap. Make your first hiring recommendation. Deliver your first exec update. -->
 
 ---
 
-<!-- ⏱ Expected: 15:53 (min 23/100) | QBR brief + Role cards — advance briskly -->
-## Your First 90 Days as an Analytics Manager
-
-How the 90-day plan varies by org size:
+<!-- ⏱ Expected: 16:17 (min 47/100) -->
+## Your First 90 Days — By Org Size
 
 | Context | Days 1–30 Focus | Days 31–60 Focus | Days 61–90 Focus |
 |---|---|---|---|
@@ -486,272 +313,119 @@ How the 90-day plan varies by org size:
 | **Medium org** | Meet all stakeholders, audit existing work | Establish cadences, fix one broken process | Present roadmap, identify team skill gaps |
 | **Large org** | Map the org chart, find allies | Align with existing processes, find quick wins within constraints | First exec presentation, first reorg proposal if needed |
 
-<!-- Talk track: The table shows how the 90-day plan varies by org size. At a small startup, your 90-day goal is to ship something and make the case for your second hire. At a medium company, you're establishing cadences and identifying skill gaps. At a large enterprise, your 90-day goal is to navigate the org chart and deliver your first aligned presentation. The core structure is the same — listen, then quick wins, then strategy — but the specifics shift based on your context. -->
+The core structure is the same — **listen, then quick wins, then strategy** — but the specifics shift based on your context.
+
+<!-- Talk track: The 90-day plan varies by org size. At a small startup, your 90-day goal is to ship something and make the case for your second hire. At a large enterprise, your 90-day goal is to navigate the org chart and deliver your first aligned presentation. The core structure is the same. -->
 
 ---
 
-<!-- ⏱ Expected: 15:53 (min 23/100) | QBR brief + Role cards — advance briskly -->
+<!-- ⏱ Expected: 16:25 (min 55/100) | Discussion: first week on the job (15 min) -->
 <!-- _class: divider -->
 
-## QBR Simulation
+## Discussion: Your First Week on the Job
 
-## Present Your Roadmap to the Executive Panel
-
-<!-- Talk track: This is it — the capstone. Everything you've built over two days converges right now. -->
+## 15 Minutes
 
 ---
 
-<!-- ⏱ Expected: 15:53 (min 23/100) | QBR brief + Role cards — advance briskly -->
-## QBR Simulation Brief
+<!-- ⏱ Expected: 16:25 (min 55/100) -->
+## Discussion: Your First Week on the Job
 
-**Format:** **5-minute presentation** + **5-minute Q&A** from the "executive panel" (groups of 3–4)
+You just got hired as the analytics manager in your case context.
 
-**How it works:**
-1. One student presents their roadmap and executive narrative as if in a real QBR
-2. Others play executive roles (using role cards on the next slide)
-3. Rotate until everyone has presented
+- What do you do on **day one**?
+- Who do you **meet first**?
+- What do you **NOT do**? (This might be the hardest question.)
+- What's different about your first week at a **startup vs. an enterprise**?
 
-<!-- Talk track: All right, let's set up the simulation. This is the capstone of the entire course. Here's how it works. You'll form groups of 3 to 4. One person presents their roadmap and executive narrative — the same one you've been building since Day 1. You have exactly 5 minutes to present. Then the other members of your group become the executive panel and ask questions for 5 minutes. Then you rotate. Everyone presents. Everyone plays an executive. -->
+*Take 2 minutes to think silently, then we'll discuss as a class.*
 
----
-
-<!-- ⏱ Expected: 15:53 (min 23/100) | QBR brief + Role cards — advance briskly -->
-## QBR Simulation Brief
-
-**Presenting:** Be concise, be confident, lead with BLUF (Bottom Line Up Front). Use your `templates/qbr-outline.md`.
-
-**On the panel:** Stay in character. Ask real questions. Be respectful but challenging.
-
-<!-- Talk track: I want this to feel as real as possible. When you're presenting, pretend this is your actual quarterly business review. When you're on the panel, pretend you're actually the CEO or CTO or CFO. Ask the hard questions. Don't be mean, but don't be easy either. -->
+<!-- Talk track: You just got the job. You're the new analytics manager in your case context. Day one. What do you do? More importantly — what do you NOT do? Take two minutes to think silently, then we'll open it up. -->
 
 ---
 
-<!-- ⏱ Expected: 15:53 (min 23/100) | QBR brief + Role cards — advance briskly -->
-## QBR Evaluation Criteria
+<!-- ⏱ Expected: 16:40 (min 70/100) | Async QBR briefing (5 min) -->
+## Async QBR: Your Capstone Deliverable
 
-| Criterion | What "Good" Looks Like |
-|---|---|
-| **Clarity of narrative** | BLUF structure, no unexplained jargon, logical flow |
-| **Business alignment** | Roadmap connects to company goals, not just technical goals |
-| **Realism** | Achievable with stated resources, credible timeline |
-| **Risk awareness** | Risks acknowledged, mitigations concrete |
-| **Q&A handling** | Composed under pressure, direct answers, honest about unknowns |
+**What you submit** (as part of your final portfolio):
+1. **QBR Outline** — written document using `templates/qbr-outline.md`
+2. **QBR Video** — 5-minute recording, as if presenting to your exec team on Zoom
 
-<!-- Talk track: Let me be transparent about how I'll evaluate these presentations. There are five criteria. Clarity — is it BLUF? Can I follow your logic? Business alignment — does your roadmap connect to what the company actually needs, or is it a wish list of cool technical projects? Realism — if you say you're going to do 15 things with 3 people in one quarter, I'm going to push back. Risk awareness — every plan has risks. If you tell me there are no risks, I don't trust your judgment. And Q&A handling — this is where it gets real. Can you stay composed when someone challenges your assumptions? -->
+**The scenario:** You are the analytics team lead. You have a quarterly business review with your CEO, CTO, CFO, and VP Product. Present your team's status, wins, risks, and asks.
 
----
+Apply everything from today: **Pyramid Principle, Art of the Ask, the Three Executive Questions.**
 
-<!-- ⏱ Expected: 15:53 (min 23/100) | QBR brief + Role cards — advance briskly -->
-## QBR Evaluation Criteria
-
-**"Great":** The panel feels confident the analytics team is well-managed, aligned, and worth investing in.
-
-**"Needs work":** The presenter drowns in technical details, can't articulate business impact, or gets defensive.
-
-<!-- Talk track: Can you say "I don't know, but here's how I'd find out"? That takes practice, which is why we're practicing now. -->
+<!-- Talk track: Now let me brief you on your capstone deliverable — the async QBR. You'll submit two things as part of your portfolio: a written QBR outline and a five-minute video recording. In the video, you're presenting to your executive team on Zoom. Use everything you learned today. Lead with BLUF. Answer the three questions. Make your ask specific. -->
 
 ---
 
-<!-- ⏱ Expected: 15:53 (min 23/100) | QBR brief + Role cards — advance briskly -->
-## Exec Panel Role Cards
+<!-- ⏱ Expected: 16:40 (min 70/100) -->
+## Async QBR: How You'll Be Evaluated
 
-Play one of these roles during Q&A. Stay in character. **You MUST interrupt at least once.**
+Five dimensions (part of Roadmap + Executive Narrative, 25%):
 
-**CEO:** "Show me business impact. Why invest in this team over other priorities?"
-- Interrupt: "Are we on track or not?" or "What's the one thing I need to know?"
+1. **Clarity of narrative** — BLUF structure, no jargon, logical flow
+2. **Business alignment** — roadmap tied to company goals, not just tech
+3. **Realism** — achievable timeline with stated resources
+4. **Risk awareness** — risks acknowledged with concrete mitigations
+5. **Anticipates pushback** — preemptively address the hardest question an executive would ask
 
-**CTO:** "How does this integrate with engineering? What are the technical risks?"
-- Interrupt: "What happens if the data pipeline migration slips?"
+Don't wait for them to ask it. In your video, address the hardest question **before they would**.
 
-<!-- Talk track: Here are your role cards. When you're playing an executive, pick one of these four roles and commit to it. The CEO cares about strategic impact and resource allocation. The CTO cares about technical integration and risk. And here is the key instruction: you must interrupt the presenter at least once. Do not wait politely for them to finish. In real QBRs, executives interrupt constantly. They don't wait for slide 12 to ask the question they had on slide 3. Your job as a panelist is to simulate that reality. Presenters, your job is to handle it gracefully — answer briefly, then get back to your narrative. -->
-
----
-
-<!-- ⏱ Expected: 15:53 (min 23/100) | QBR brief + Role cards — advance briskly -->
-## Exec Panel Role Cards
-
-**CFO:** "What's the ROI? Can we do this with fewer people? What if I cut your budget 20%?"
-- Interrupt with: "Can you put a dollar figure on that?" or "What's the cost if we don't do this?"
-
-**VP Product:** "How will this help my team ship faster? What's your SLA?"
-- Interrupt with: "My team filed 15 requests last month — when does that get better?"
-
-**Rules:** Interrupt at least once during the presentation. Ask one hard follow-up during Q&A. Don't pile on — give the presenter space to respond.
-
-<!-- Talk track: The CFO cares about money — ROI, efficiency, headcount. The VP Product cares about speed and service to their teams. Each role has a signature question and an interrupt prompt. Use them. The goal is not to stump the presenter — it's to simulate what a real QBR feels like. In real life, executives interrupt because they're time-constrained and they want to cut to what matters. Learning to handle that gracefully — answer the question, then smoothly return to your narrative — is one of the most important skills you can develop. -->
+<!-- Talk track: You'll be evaluated on five dimensions. The fifth one is new: anticipates pushback. In a live QBR, executives interrupt and challenge you. In the async format, you need to do that yourself. In your video, preemptively address the hardest question an executive would ask. Think: "What would the CFO push back on?" Then answer it. -->
 
 ---
 
-<!-- ⏱ Expected: 16:00 (min 30/100) | QBR Simulation (50 min) -->
-## QBR Simulation — In Progress
-
-**Time: ~50 minutes** | Rotate within your group. Everyone presents once.
-
-**Remember:**
-- Presenters: 5 minutes max, then 5 minutes Q&A
-- Panelists: stay in your exec role, ask real questions
-- Timer is running — respect the clock
-
-<!-- Talk track: All right, form your groups. Pick your first presenter. I'm starting the timer. Five minutes to present, five minutes for Q&A. I'll call time. Let's go. -->
-
----
-
-<!-- ⏱ Expected: 16:50 (min 80/100) | Simulation Debrief (8 min) -->
-## Simulation Debrief
-
-**Reflect and discuss:**
-
-- What **surprised you** about presenting to executives?
-- What question were you **least prepared** for?
-- What would you **do differently** next time?
-- What did you learn from **playing an executive** that changes how you'll present?
-
-**Key insight:** The gap between "I know my material" and "I can communicate it under pressure to a skeptical audience" is enormous. That gap closes only with practice.
-
-<!-- Talk track: Let's debrief. I want to hear from the room. What surprised you? Raise your hand. What question caught you off guard? Here's what I usually see: people are surprised by how hard it is to be concise under pressure. You know your material deeply, but when someone asks a pointed question, your instinct is to give context, explain the nuance, add caveats. Executives don't want that. They want the answer first. Also, I want to hear from people who played executives. What did you notice from the other side of the table? Usually people say: "I realized how impatient I was. I just wanted them to get to the point." That's the insight. You now know what it feels like to be on both sides. Carry that with you. -->
-
----
-
-<!-- ⏱ Expected: 16:58 (min 88/100) | Portfolio Checklist walkthrough -->
+<!-- ⏱ Expected: 16:45 (min 75/100) | Portfolio checklist + logistics (5 min) -->
 ## Portfolio Checklist: Components
 
 **Due: One week from today (23:59 Vienna time)**
 
-Your portfolio has **6 graded components.** Here's what goes in each.
+Your portfolio has **5 graded components:**
 
-| Component | What to Submit | Source |
+| Component | What to Submit | Weight |
 |---|---|---|
-| **1. Manager OS Document** (2–4 pp) | Absorbs your Team Charter + Stakeholder Map into one document | Block A |
-| **2. Hiring Packet** | JD, Work Sample, Scoring Rubric, Interview Loop | Block B |
+| **1. Manager OS Document** (2–4 pp) | Absorbs charter + stakeholder map | 15% |
+| **2. Hiring Packet** | JD, work sample, rubric, interview loop | 20% |
+| **3. Roadmap + Exec Narrative + QBR** | Roadmap with RICE, narrative, QBR outline, QBR video | 25% |
+| **4. Personal Growth Plan** | PGP | 7.5% |
+| **5. Performance Summary** | Calibration-ready summary | 7.5% |
 
-<!-- Talk track: Let's talk about what's due. The portfolio has six graded components. First: the Manager OS Document from Block A — this absorbs your team charter and stakeholder map into one cohesive 2-4 page document. Second: the Hiring Packet from Block B — that's four pieces: JD, work sample, rubric, and interview loop, submitted together as one section. -->
+<!-- Talk track: Let's walk through the portfolio checklist. Five graded components. The biggest one — Roadmap plus Executive Narrative plus QBR — is worth 25% and includes your roadmap, your executive narrative, your QBR outline, and your QBR video. That's the capstone that integrates everything. -->
 
 ---
 
-<!-- ⏱ Expected: 16:58 (min 88/100) | Portfolio Checklist walkthrough -->
-## Portfolio Checklist: Components
+<!-- ⏱ Expected: 16:45 (min 75/100) -->
+## Portfolio Checklist: Submission
 
-| Component | What to Submit | Source |
-|---|---|---|
-| **3. Roadmap + Executive Narrative** | 12-Month Roadmap with RICE, Executive Narrative (2 pp), Risk Register | Block C |
-| **4. Personal Growth Plan** | PGP | Block D |
-| **5. Performance Summary** | Calibration-ready summary | Block D |
+**Format:** Single PDF or structured repository
 
-<!-- Talk track: Third: Roadmap plus Executive Narrative from Block C. This is one graded section that includes three pieces — your RICE-scored roadmap, the two-page narrative, and the risk register. Fourth and fifth: your Personal Growth Plan and Performance Summary from Block D. -->
+**Other graded components:**
+- Participation & Preparedness: 15%
+- Day 1 Checkpoint: 10%
 
----
-
-<!-- ⏱ Expected: 16:58 (min 88/100) | Portfolio Checklist walkthrough -->
-## Portfolio Checklist: Components
-
-| Component | What to Submit | Source |
-|---|---|---|
-| **6. QBR Outline** | QBR presentation outline | Block F |
-
-Six components. Each should be polished — not perfect, but clearly thought through and professionally presented.
+**Total: 100%**
 
 _Optional extras for a richer portfolio: RACI Matrix, Decision Memo, Data Infrastructure Blueprint, RFP Scoring Matrix (see `resources/` templates)._
 
-<!-- Talk track: And sixth: the QBR outline from today. Six components total. Each one should be polished and professionally presented. If you want to go further, there are optional templates in the resources folder — RACI matrix, decision memo, data infrastructure blueprint, RFP scoring matrix. These are not required but they enrich your portfolio. -->
+The portfolio is not five separate documents. It's **one integrated system**. Your roadmap should reference the same team from your charter. Your QBR should synthesize everything into a coherent story.
+
+<!-- Talk track: Submit as a single PDF or structured repo. The portfolio is one integrated system, not five disconnected pieces. That consistency is what separates a good submission from a great one. The optional infrastructure artifacts from Block E are great additions if you want to go deeper. -->
 
 ---
 
-<!-- ⏱ Expected: 16:58 (min 88/100) | Portfolio Checklist walkthrough -->
-## Portfolio Checklist: Submission
-
-**Format:** Single PDF or structured repository. Use the portfolio checklist template.
-
-Drafts you built in class are your starting point — **refine them, don't start over**.
-
-**Tips for a strong submission:**
-- Your roadmap should reference the same team structure from your charter
-- Your executive narrative should reference your RICE-prioritized roadmap
-
-<!-- Talk track: Submit your portfolio as a single PDF or a structured repo — use whichever format the portfolio checklist template suggests. The key thing I want to emphasize: refine your drafts, don't start over. You built solid drafts in class. Take those, improve them, and make sure they're consistent with each other. -->
-
----
-
-<!-- ⏱ Expected: 16:58 (min 88/100) | Portfolio Checklist walkthrough -->
-## Portfolio Checklist: Submission
-
-- Your QBR outline should synthesize everything into a coherent story
-
-The portfolio is not six separate documents. It's **one integrated system**.
-
-<!-- Talk track: That consistency is actually one of the things I'm looking for. Think of the portfolio as one integrated system, not six disconnected pieces. That integration is what separates a good submission from a great one. -->
-
----
-
-<!-- ⏱ Expected: 17:02 (min 92/100) | Next 90 Days + Peer Feedback reminder -->
-<!-- _class: cut -->
-
-## Your Next 90 Days
-
-Real talk: **what are you going to do with this?**
-Write down **3 specific actions** for the next 90 days. Not aspirations — actions.
-
-| Bad | Good |
-|---|---|
-| "Be a better manager" | "Start weekly 1:1s with each report within 2 weeks of completing this course" |
-| "Improve data quality" | "Implement metric ownership doc for top 10 metrics by April 15" |
-| "Communicate better" | "Write a BLUF summary for every exec update starting next week" |
-
-<!-- Talk track: I want to do something different for a moment. Take out a piece of paper or open a blank doc. Write down three specific actions you will take in the next 90 days based on what you've learned. Not "be a better manager" — that's a wish, not an action. I want things like "Start weekly 1:1s with my two direct reports within two weeks of finishing this course." "Write a team charter for my analytics team and share it with my VP by April." "Create a metric ownership document for our top 10 dashboards." -->
-
----
-
-<!-- ⏱ Expected: 17:02 (min 92/100) | Next 90 Days + Peer Feedback reminder -->
-<!-- _class: cut -->
-
-## Your Next 90 Days
-
-**Specific. Measurable. Time-bound.**
-
-Take a few minutes now. Write them down. These are yours — you don't have to share them.
-
-<!-- Talk track: Specific, measurable, time-bound. Take 2 minutes. Write them down. These are for you — I'm not going to collect them. But research shows that writing down intentions dramatically increases follow-through. Go. -->
-
----
-
-<!-- ⏱ Expected: 17:02 (min 92/100) | Next 90 Days + Peer Feedback reminder -->
-## Peer Feedback Reminder
-
-**Due: 48 hours from now**
-
-- Written feedback for **2 peers**
-- Use the **peer feedback form** (on LMS)
-- **5% of your grade** — take it seriously
-
-<!-- Talk track: Before I close, a reminder about peer feedback. It's due 48 hours from now. You'll provide written feedback for two of your peers using the peer feedback form on the LMS. This is worth 5% of your grade, so take it seriously. -->
-
----
-
-<!-- ⏱ Expected: 17:02 (min 92/100) | Next 90 Days + Peer Feedback reminder -->
-## Peer Feedback Reminder
-
-**How to give good feedback:**
-- Be **specific** — "Your risk register was thorough" beats "Good job"
-- Be **kind** — You're helping a colleague improve, not scoring points
-- Be **useful** — What's one thing they could do to make their artifact stronger?
-
-The best feedback is something the recipient can act on before the portfolio deadline.
-
-<!-- Talk track: Here's what good peer feedback looks like. It's specific — not "nice work" but "your risk register identified technical debt as a risk but didn't include a mitigation strategy, which would make it stronger." It's kind — remember, you're helping a colleague improve. And it's useful — the best feedback gives someone something concrete they can act on before the portfolio deadline. Think of it as a gift: you're giving someone an outside perspective they can't get on their own. -->
-
----
-
-<!-- ⏱ Expected: 17:04 (min 94/100) | Close — celebration + final words -->
+<!-- ⏱ Expected: 16:50 (min 80/100) | Course close + celebration (8 min) -->
 <!-- _class: divider -->
 
 ## Course Complete
 
 ## Go Build Great Teams
 
-<!-- Talk track: And that's the simulation. Let me close by telling you what you've accomplished. -->
+<!-- Talk track: And that brings us to the close. Let me tell you what you've accomplished. -->
 
 ---
 
-<!-- ⏱ Expected: 17:04 (min 94/100) | Close — celebration + final words -->
+<!-- ⏱ Expected: 16:50 (min 80/100) -->
 ## Close: What You've Built
 
 You've built a **Manager Operating System**.
@@ -760,37 +434,20 @@ Over two days, you've practiced how to:
 - **Define** your team's purpose, scope, and operating principles
 - **Hire** with structure, fairness, and signal
 - **Roadmap** with business alignment and executive clarity
-
-<!-- Talk track: Let me close by telling you what you've accomplished. In two days, you've built more management artifacts than most new managers create in their first six months. You have a team charter, a stakeholder map, a hiring packet, a roadmap, a growth plan, a performance summary, and you just presented to a mock executive panel. That's not theory — that's practice. -->
-
----
-
-<!-- ⏱ Expected: 17:04 (min 94/100) | Close — celebration + final words -->
-## Close: What You've Built
-
 - **Grow** your people through PGPs and honest performance conversations
-- **Refine** your artifacts through structured peer feedback
-- **Present** to executives under pressure and handle hard questions
+- **Assess** your infrastructure and cross-functional dependencies
+- **Communicate** to executives with impact and clarity
 
 The **portfolio is the proof**. Refine your drafts. Submit with pride.
 
-<!-- Talk track: The portfolio is your chance to refine all of this into something you're proud of. Take the drafts you built in class, improve them, and submit them. -->
+<!-- Talk track: In two days, you've built more management artifacts than most new managers create in their first six months. You have a team charter, a hiring packet, a roadmap, growth plans, an infrastructure assessment, and you've learned to communicate all of it to executives. That's not theory — that's practice. -->
 
 ---
 
-<!-- ⏱ Expected: 17:04 (min 94/100) | Close — celebration + final words -->
+<!-- ⏱ Expected: 16:50 (min 80/100) -->
 ## Close: Go Build Great Teams
 
-**Office hours are available** — reach out if you need help.
-
-I genuinely hope this course changes how you think about management. It's not about authority — it's about building systems that let talented people do their best work.
-
-<!-- Talk track: If you're stuck on anything for the portfolio, office hours are available. I genuinely hope this course changes how you think about management. It's not about authority. It's not about having direct reports on an org chart. It's about building systems that let talented people do their best work. -->
-
----
-
-<!-- ⏱ Expected: 17:04 (min 94/100) | Close — celebration + final words -->
-## Close: Go Build Great Teams
+**Office hours are available** — reach out if you need help with the portfolio or the async QBR.
 
 The best analytics managers I know share three traits:
 - They **care deeply** about their people
@@ -803,4 +460,4 @@ Thank you for your energy, your engagement, and your willingness to practice som
 
 **Now go build great teams.**
 
-<!-- Talk track: The best analytics managers I know share three traits. They care deeply about their people — not in a soft, abstract way, but in a practical way. They know what their people want, and they help them get it. They communicate clearly with leadership — they can translate between technical depth and executive brevity. And they never stop learning the craft of management itself. You now have the frameworks. You have the artifacts. You have the practice. The rest is up to you. Thank you for your energy, your engagement, and your willingness to practice something hard. Now go build great teams. -->
+<!-- Talk track: The best analytics managers I know care deeply about their people, communicate clearly with leadership, and never stop learning the craft of management. You now have the frameworks. You have the artifacts. You have the practice. The rest is up to you. Thank you for your energy and your engagement. Now go build great teams. -->
