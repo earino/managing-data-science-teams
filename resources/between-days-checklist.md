@@ -19,18 +19,19 @@ Complete these artifacts started in class:
 - [ ] **Polish your Roadmap** — Refine RICE scores, fill in the Now/Next/Later visualization, add dependencies
 - [ ] **Start your Executive Narrative** — Expand beyond the Context and What's Next sections drafted in class
 - [ ] **Review your Team Charter and Stakeholder Map** — These feed into your final Manager OS document
+- [ ] **Draft your Personal Growth Plan** — Use the PGP template (`day-2/block-d-growth/templates/pgp.md`) and starter template (`day-2/block-d-growth/materials/pgp-starter-template.md`). Focus on Growth Areas and Development Actions first; apply the specificity test.
 
 ## Day 2 Preview
 
-- **Block D (11:00-12:40):** Growth & Performance — career ladders, SBI feedback practice, mock calibration, PGP drafting
-- **Block E (13:30-15:10):** Portfolio Workshop — revise your weakest artifact, structured peer review, QBR prep
-- **Block F (15:30-17:10):** QBR Simulation — present your roadmap to a mock exec panel
+- **Block D (11:00-12:40):** Growth & Performance — career ladders, SBI feedback practice, mock calibration
+- **Block E (13:30-15:10):** Infrastructure & Cross-Functional Interfaces — data stack, build vs. buy, vendor management, infra one-pager activity
+- **Block F (15:30-17:10):** Leading Up & Executive Communication — exec communication frameworks, communicating failure discussion, first 90 days discussion, async QBR briefing
 
 ## Reminders
 
-- Check Moodle for your **QBR group assignment** (posted the night before Day 2)
 - Bring your laptop with all templates accessible
-- The QBR simulation brief will be posted on Moodle after Day 1
+- The async QBR brief will be covered in Block F — no prep needed beforehand
+- Review the self-study frameworks handout (`resources/self-study-frameworks.md`) if time permits
 
 ---
 
