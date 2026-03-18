@@ -22,20 +22,20 @@
 
 | Time | Min | Duration | Slide(s) | Activity |
 |------|-----|----------|----------|----------|
-| 11:00 | 0 | 3 min | 1 | Title slide, welcome, learning outcomes |
-| 11:03 | 3 | 3 min | 3 | Welcome back — Day 1 recap, Day 2 overview |
-| 11:06 | 6 | 3 min | 4 | Why growth & performance matter |
-| 11:09 | 9 | 4 min | 5 | Career ladders for analytics |
-| 11:13 | 13 | 5 min | 6 | What "Senior" actually means — expect discussion |
-| 11:18 | 18 | 3 min | 7 | Personal Growth Plan (PGP) — PGP vs. PIP |
-| 11:21 | 21 | 4 min | 8 | PGP structure + SBI model |
-| 11:25 | 25 | 3 min | 9 | Radical Candor + feedback anti-patterns |
-| 11:28 | 28 | 4 min | 10 | Performance cycles & documentation |
-| 11:32 | 32 | 3 min | 11 | Calibration sessions |
-| 11:35 | 35 | — | 12 | The ethical PIP |
-| **11:35** | **35** | **25 min** | **14** | **Activity: SBI Feedback Role-Play** |
-| **12:00** | **60** | **20 min** | **16** | **Activity: Mock Calibration** |
-| 12:20 | 80 | 10 min | 19–22 | Debrief + Key takeaways + Transition to Block E |
+| 11:00 | 0 | 3 min | 1–3 | Title slide, welcome, learning outcomes |
+| 11:03 | 3 | 3 min | 4–5 | Welcome back — Day 1 recap, Day 2 overview |
+| 11:06 | 6 | 3 min | 6 | Why growth & performance matter |
+| 11:09 | 9 | 4 min | 7–8 | Career ladders for analytics, what "Senior" means |
+| 11:13 | 13 | 5 min | 9 | What "Senior" actually means — expect discussion |
+| 11:18 | 18 | 3 min | 10 | Personal Growth Plan (PGP) — PGP vs. PIP |
+| 11:21 | 21 | 4 min | 11–12 | PGP structure + SBI model |
+| 11:25 | 25 | 3 min | 13 | Radical Candor + feedback anti-patterns |
+| 11:28 | 28 | 4 min | 14–15 | Performance cycles & documentation |
+| 11:32 | 32 | 3 min | 16–17 | Calibration sessions |
+| 11:35 | 35 | — | 18–19 | The ethical PIP |
+| **11:35** | **35** | **25 min** | **20–22** | **Activity: SBI Feedback Role-Play** |
+| **12:00** | **60** | **20 min** | **23–25** | **Activity: Mock Calibration** |
+| 12:20 | 80 | 10 min | 26–30 | Debrief + Key takeaways + Transition to Block E |
 
 **Total: 100 minutes**
 
@@ -43,7 +43,7 @@
 - Lecture: ~45 min | SBI Role-Play: ~25 min | Mock Calibration: ~20 min | Wrap-up + buffer: ~10 min
 - Teaching is compressed to 35 minutes. Move briskly through lecture slides. The learning happens in the activities, not in the lecture.
 - The "What Senior Means" slide (slide 6) tends to generate discussion. Let it breathe for a minute, but don't let it consume the block. You can say: "This is a rich topic — we'll use it in the PGP homework."
-- The PIP slide (slide 12) is emotionally loaded. Slow down. Make eye contact. If someone shares a difficult experience, acknowledge it.
+- The PIP slides (slides 18–19) are emotionally loaded. Slow down. Make eye contact. If someone shares a difficult experience, acknowledge it.
 - If you're running behind on lecture, compress the ethical PIP slide — students can read it. Protect activity time.
 
 ---
