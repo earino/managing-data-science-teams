@@ -145,45 +145,48 @@ BLOCKS = [
         ],
     },
 
-    # ---- BLOCK E: Portfolio Workshop & Peer Review (Day 2, 13:30–15:10, 100 min, 18 slides) ----
+    # ---- BLOCK E: Infrastructure & Cross-Functional Interfaces (Day 2, 13:30–15:10, 100 min, 30 slides) ----
     # NOTE: Facilitator notes count Marp config as "slide 1".
     # Actual slide 1 = notes slide 2, etc.
     {
         "path": ROOT / "day-2" / "block-e-infrastructure" / "slides.md",
         "start": "13:30",
         "duration": 100,
-        "expected_slides": 18,
+        "expected_slides": 30,
         "entries": [
             ("13:30", r(1, 3), None),       # Title + Learning Outcomes + Shifting Gears
-            ("13:32", r(4, 5), None),       # Portfolio Status + Revision Mindset
-            ("13:35", [6], None),           # Quick Self-Assessment
-            ("13:38", r(7, 8), "Activity brief — Revision Workshop starts at 13:40"),
-            ("14:10", r(9, 12), "Peer Review setup + instructions"),
-            ("14:45", r(13, 14), "QBR Prep (10 min)"),
-            ("14:55", [15], "Instructor Q&A / Office Hours (15 min)"),
-            ("15:10", r(16, 18), "Block recap + Transition to Block F"),
+            ("13:32", r(4, 5), "Why Infrastructure Matters (4 min)"),
+            ("13:36", r(6, 7), "XFN Universe + Failure Modes (6 min)"),
+            ("13:42", r(8, 10), "Bidirectional SLAs (6 min)"),
+            ("13:48", r(11, 13), "Blueprint + Architecture Diagrams (8 min)"),
+            ("13:56", r(14, 18), "Stack by Size — small/medium/large + migration trap (10 min)"),
+            ("14:06", r(19, 20), "Build vs. Buy + Hidden Costs (8 min)"),
+            ("14:14", [21], "RFP Process + Scoring (6 min)"),
+            ("14:20", r(22, 23), "IT, Procurement, Privacy (6 min)"),
+            ("14:26", r(24, 26), "Activity: Data Infra One-Pager (30 min)"),
+            ("14:56", r(27, 28), "Debrief + portfolio connection (8 min)"),
+            ("15:04", r(29, 30), "Buffer + Transition to Block F"),
         ],
     },
 
-    # ---- BLOCK F: Leading Up & Across; QBR Simulation (Day 2, 15:30–17:10, 100 min, 60 slides) ----
+    # ---- BLOCK F: Leading Up & Executive Communication (Day 2, 15:30–17:10, 100 min, 30 slides) ----
     {
         "path": ROOT / "day-2" / "block-f-leading-up" / "slides.md",
         "start": "15:30",
         "duration": 100,
-        "expected_slides": 60,
+        "expected_slides": 30,
         "entries": [
-            ("15:30", r(1, 2), None),
-            ("15:32", r(3, 6), None),
-            ("15:38", r(7, 11), None),
-            ("15:43", r(12, 15), None),
-            ("15:47", r(16, 23), None),
-            ("15:50", r(24, 31), None),
-            ("15:53", r(32, 44), "QBR brief + Role cards — advance briskly"),
-            ("16:00", [45], "QBR Simulation (50 min)"),
-            ("16:50", [46], "Simulation Debrief (8 min)"),
-            ("16:58", r(47, 51), "Portfolio Checklist walkthrough"),
-            ("17:02", r(52, 55), "Next 90 Days + Peer Feedback reminder"),
-            ("17:04", r(56, 60), "Close — celebration + final words"),
+            ("15:30", r(1, 4), None),       # Title + Learning Outcomes + Final Block framing
+            ("15:32", r(5, 8), "Pyramid Principle / BLUF / Executive Attention (8 min)"),
+            ("15:40", r(9, 10), "Three Executive Questions + Anti-Patterns (6 min)"),
+            ("15:46", r(11, 12), "Art of the Ask (6 min)"),
+            ("15:52", r(13, 16), "Communicating Failure lecture (10 min)"),
+            ("16:02", r(17, 18), "Discussion: delivering worst news (15 min)"),
+            ("16:17", r(19, 21), "First 90 Days lecture (8 min)"),
+            ("16:25", r(22, 23), "Discussion: first week on the job (15 min)"),
+            ("16:40", r(24, 25), "Async QBR briefing (5 min)"),
+            ("16:45", r(26, 27), "Portfolio checklist + logistics (5 min)"),
+            ("16:50", r(28, 30), "Course close + celebration (8 min)"),
         ],
     },
 ]
