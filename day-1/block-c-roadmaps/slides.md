@@ -70,9 +70,9 @@ A good analytics roadmap is not a wish list. It is a **strategic tool**:
 | **Executive narrative** | The document your VP forwards to the C-suite |
 | **Red-team critique** | Stress-testing your plan before a real executive does |
 
-You will leave with **a draft roadmap and an executive narrative** — artifacts you present in Day 2's QBR simulation.
+You will leave with **a draft roadmap and an executive narrative** — artifacts that feed into your Day 2 QBR.
 
-<!-- Talk track: Here is what we are building. North Star and guardrails, RICE-scored initiatives, a Now/Next/Later roadmap, an executive narrative, and a red-team exercise. Everything feeds into the Day 2 QBR simulation, so treat this as a real draft. -->
+<!-- Talk track: Here is what we are building. North Star and guardrails, RICE-scored initiatives, a Now/Next/Later roadmap, an executive narrative, and a red-team exercise. Everything feeds into your Day 2 QBR, so treat this as a real draft. -->
 
 ---
 
@@ -557,7 +557,7 @@ Focus on two sections:
 
 **Use the `exec-narrative.md` template.** Write in **complete sentences** — no bullet points. Imagine your reader is your VP's VP. Do not try to make it perfect — get the structure and key messages right.
 
-<!-- Talk track: Twenty minutes. Focus on Context and What is Next. Write in complete sentences — bullets are tempting but resist. This draft feeds into the Day 2 QBR simulation. Polish comes later. -->
+<!-- Talk track: Twenty minutes. Focus on Context and What is Next. Write in complete sentences — bullets are tempting but resist. This draft feeds into your Day 2 QBR. Polish comes later. -->
 
 ---
 
@@ -629,12 +629,12 @@ Your job: **find the fatal flaw** in their roadmap. Ask these questions:
 | Block | Topic | Activity |
 |-------|-------|----------|
 | **D** (11:00) | Growth & Performance | PGP + calibration |
-| **E** (13:30) | Portfolio Workshop & Peer Review | Revise artifacts + peer feedback |
-| **F** (15:30) | QBR Simulation | Present roadmap |
+| **E** (13:30) | Infrastructure & Cross-Functional Interfaces | Data stack + build vs. buy |
+| **F** (15:30) | Leading Up & Executive Communication | Exec frameworks + async QBR |
 
-**Before Day 2:** Continue your hiring packet, read the QBR simulation brief (on LMS tonight), and review your roadmap.
+**Before Day 2:** Continue your hiring packet, draft your PGP, and review your roadmap.
 
-<!-- Talk track: Day 2 next Monday. Block D is growth and performance. Block E is a portfolio workshop with peer feedback. Block F is the QBR simulation. Before then: continue your hiring packet, read the QBR brief, and review your roadmap. -->
+<!-- Talk track: Day 2 next Monday. Block D is growth and performance. Block E is infrastructure — data stacks, build versus buy, working with engineering and IT. Block F is executive communication — leading up, handling failure, and your async QBR. Before then: continue your hiring packet, draft your PGP, and review your roadmap. -->
 
 ---
 
@@ -663,4 +663,4 @@ Day 2 is about **people, refinement, and presenting it all.**
 
 > "Management is not about having all the answers. It's about building the system that finds them."
 
-<!-- Talk track: You walked in this morning with a case context and an empty folder. You now have a team charter, a stakeholder map, a hiring plan, a roadmap, and an executive narrative. That is the core of a Manager OS. Day 2 adds the people dimension and the QBR simulation. Submit your checkpoint artifacts now. See you on March 23. -->
+<!-- Talk track: You walked in this morning with a case context and an empty folder. You now have a team charter, a stakeholder map, a hiring plan, a roadmap, and an executive narrative. That is the core of a Manager OS. Day 2 adds the people dimension, infrastructure planning, and executive communication. Submit your checkpoint artifacts now. See you on March 23. -->
