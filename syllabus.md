@@ -22,7 +22,7 @@
 
 ## 2\. Course Description (Short)
 
-This course treats **management as praxis** for analytics leaders. Students build and practice a lightweight **Manager Operating System (OS)** for small analytics organizations, then learn how to adapt it for **small, medium, and large** company contexts. Emphasis on structured hiring, roadmapping & executive alignment, personal growth and performance with hands-on practice (SBI feedback, mock calibration), and cross-functional collaboration. In the age of Artificial Intelligence, all teams are hybrid human/AI teams, and everyone manages someone. This course will touch on the changing nature of management in the age of AI. The capstone is a **QBR simulation** with peer and instructor feedback. A portfolio workshop with structured peer review helps students refine their artifacts before submission.
+This course treats **management as praxis** for analytics leaders. Students build and practice a lightweight **Manager Operating System (OS)** for small analytics organizations, then learn how to adapt it for **small, medium, and large** company contexts. Emphasis on structured hiring, roadmapping & executive alignment, personal growth and performance with hands-on practice (SBI feedback, mock calibration), and cross-functional collaboration. In the age of Artificial Intelligence, all teams are hybrid human/AI teams, and everyone manages someone. This course will touch on the changing nature of management in the age of AI. The capstone is an **async QBR video** where students present their roadmap to a virtual executive panel.
 
 ---
 
@@ -91,18 +91,17 @@ All artifacts compile into a single **Manager Portfolio** (PDF/repo).
 
 | Component | Description | Due | Weight |
 | :---- | :---- | :---- | :---- |
-| Participation & Preparedness | Active presence in discussions, role-plays, peer reviews, red-team critiques. | Ongoing | 15% |
+| Participation & Preparedness | Active presence in discussions, role-plays, class discussions, infrastructure activity, red-team critiques. | Ongoing | 15% |
 | **Day 1 Checkpoint (drafts)** | **Team Charter \+ Stakeholder Map \+ Roadmap Outline (RICE sketch)** — pass/fail on completeness. | End of Day 1 | 10% |
 | Hiring Packet (final) | JD, work sample, rubric, interview loop. | Portfolio | 20% |
-| Roadmap \+ Exec Narrative (final) | 12-month roadmap \+ 2-page narrative \+ QBR outline. | Portfolio | 20% |
+| Roadmap \+ Exec Narrative \+ QBR (final) | 12-month roadmap \+ 2-page narrative \+ QBR outline. | Portfolio | 25% |
 | Manager OS (final) | 2–4 pages: operational playbook synthesizing charter \+ stakeholder map into cadences, artifacts, KPIs, and decision hygiene. | Portfolio | 15% |
 | PGP \+ Performance Summary (final) | Growth plan \+ calibration-ready performance summary. | Portfolio | **15%** |
-| Peer Feedback Quality | Actionable critique for two peers' artifacts. | Wed March 25, 23:59 CET | 5% |
 
 ### Milestones & Deadlines
 
 - **End of Day 1:** Submit **Charter \+ Stakeholder Map \+ Roadmap Outline (draft)**.
-- **Day 2 (in-class):** **QBR Simulation** (present roadmap & narrative).
+- **Day 2 (async):** **QBR Video** (5-min recorded presentation of roadmap & narrative).
 - **Wednesday, March 25 at 23:59 CET:** Submit **peer feedback** (2 peers).
 - **Sunday, March 30 at 23:59 CET:** Submit **Manager Portfolio (final)**.
 
@@ -145,18 +144,14 @@ All artifacts compile into a single **Manager Portfolio** (PDF/repo).
   **Exercise:** Mock calibration session — rate 3 ambiguous profiles, reach group consensus
   **Hands-on:** Draft **PGP** (growth areas \+ development actions; finish at home)
 
-**Block E (13:30–15:10) — Portfolio Workshop & Peer Review**
+**Block E (13:30–15:10) — Infrastructure & Cross-Functional Interfaces**
 
-- Artifact revision workshop; structured peer review using SBI; QBR preparation; instructor Q&A
-  **Workshop:** Revise your weakest portfolio artifact (30 min)
-  **Practice:** Give and receive structured peer feedback (30 min)
-  **Prep:** QBR elevator pitch practice with a partner
+- Cross-functional interfaces and bidirectional SLAs; the canonical data stack; stack blueprints by org size; build vs. buy framework; RFP process overview; IT and procurement realities; privacy and governance basics
+  **Activity:** Data Infrastructure One-Pager (30 min) — sketch your case context's data stack, identify gaps, propose one change with build-vs-buy reasoning
 
-**Block F (15:30–17:10) — Leading Up & Across; QBR Simulation**
+**Block F (15:30–17:10) — Leading Up & Executive Communication**
 
-- Exec comms, decisions & risks; incident postmortems; alignment tactics across org sizes
-  **Simulation:** QBR presentations to a mock exec panel; peer & instructor feedback
-  **Wrap:** Portfolio checklist; next 90-day plan
+- Executive communication frameworks (Pyramid Principle, BLUF); communicating failure \+ class discussion; first 90 days \+ class discussion; async QBR briefing; portfolio checklist; course close
 
 ---
 
