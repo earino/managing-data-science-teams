@@ -276,7 +276,6 @@ RUBRIC_SECTIONS = [
     ("Roadmap", [r"roadmap"]),
     ("Manager OS", [r"manager\s*os"]),
     ("PGP / Growth Plan", [r"pgp", r"growth\s*plan", r"performance"]),
-    ("Peer Feedback", [r"peer\s*feedback"]),
 ]
 
 if not RUBRIC_PATH.is_file():
