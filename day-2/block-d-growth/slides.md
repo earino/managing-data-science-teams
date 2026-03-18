@@ -342,46 +342,7 @@ The manager log is what makes this possible.
 
 ---
 
-<!-- ⏱ Expected: 12:14 (min 74/100) | Activity: PGP Draft (17 min) -->
-<!-- _class: divider -->
-
-## Activity: PGP Draft
-
-## 17 Minutes | `templates/pgp.md`
-
-<!-- Talk track: Last activity for this block. Open the PGP template. -->
-
----
-
-<!-- ⏱ Expected: 12:14 (min 74/100) | Activity: PGP Draft (17 min) -->
-## Activity: PGP Draft
-
-**Time: 17 minutes** | Open `templates/pgp.md`
-
-Write a PGP — for yourself or for a fictional direct report in your case context.
-
-**Focus on two sections (finish the rest at home):**
-1. **Growth Areas** — 2-3 specific, actionable development areas
-2. **Development Actions** — Concrete steps with timelines
-
-<!-- Talk track: Last activity for this block. Open the PGP template. You have 17 minutes — focus on just two sections: growth areas and development actions. You'll finish the rest at home. -->
-
----
-
-<!-- ⏱ Expected: 12:14 (min 74/100) | Activity: PGP Draft (17 min) -->
-## Activity: PGP Draft
-
-**The specificity test:**
-- Too vague: "Improve communication"
-- Just right: "Present technical findings to non-technical stakeholders in under 5 minutes, starting by presenting at the next product review"
-
-Every growth area must be specific enough that the person knows exactly what to work on.
-
-<!-- Talk track: The standard I'm holding you to: every growth area must be specific enough that the person knows exactly what to work on, and every development action must be concrete enough that you could check in on it next month and know if it happened. Go. I'll circulate. -->
-
----
-
-<!-- ⏱ Expected: 12:31 (min 91/100) | Debrief + Key Takeaways + Transition -->
+<!-- ⏱ Expected: 12:14 (min 74/100) | Debrief + Key Takeaways + Transition -->
 ## Debrief
 
 **From the SBI role-play:**
@@ -396,20 +357,7 @@ Every growth area must be specific enough that the person knows exactly what to 
 
 ---
 
-<!-- ⏱ Expected: 12:31 (min 91/100) | Debrief + Key Takeaways + Transition -->
-## Debrief
-
-**From the PGP:**
-- Were your growth areas specific enough to act on?
-- How would you feel receiving the PGP you wrote?
-
-If your growth areas feel generic, they ARE generic. That emotional reaction is data about whether your PGP is good enough.
-
-<!-- Talk track: And the PGP — if your growth areas feel generic, they are generic. The emotional reaction to reading your own PGP is data about whether it's good enough. -->
-
----
-
-<!-- ⏱ Expected: 12:31 (min 91/100) | Debrief + Key Takeaways + Transition -->
+<!-- ⏱ Expected: 12:14 (min 74/100) | Debrief + Key Takeaways + Transition -->
 ## Key Takeaways
 
 - **SBI separates observation from judgment.** That's what makes feedback hearable.
@@ -420,7 +368,7 @@ If your growth areas feel generic, they ARE generic. That emotional reaction is 
 
 ---
 
-<!-- ⏱ Expected: 12:31 (min 91/100) | Debrief + Key Takeaways + Transition -->
+<!-- ⏱ Expected: 12:14 (min 74/100) | Debrief + Key Takeaways + Transition -->
 ## Key Takeaways
 
 - **Senior = scope + autonomy + ambiguity tolerance.** Not years.
@@ -433,27 +381,27 @@ If your growth areas feel generic, they ARE generic. That emotional reaction is 
 
 ---
 
-<!-- ⏱ Expected: 12:31 (min 91/100) | Debrief + Key Takeaways + Transition -->
+<!-- ⏱ Expected: 12:14 (min 74/100) | Debrief + Key Takeaways + Transition -->
 <!-- _class: divider -->
 
 ## Up Next: Block E
 
-## Portfolio Workshop & Peer Review
+## Infrastructure & Cross-Functional Interfaces
 ### 13:30–15:10
 
-<!-- Talk track: That wraps Block D. After lunch, Block E is your workshop — revise, get feedback, prep for the QBR. -->
+<!-- Talk track: That wraps Block D. After lunch, Block E shifts gears — we'll talk about data infrastructure, working with engineering and IT, and the build versus buy decisions you'll face as a manager. -->
 
 ---
 
-<!-- ⏱ Expected: 12:31 (min 91/100) | Debrief + Key Takeaways + Transition -->
+<!-- ⏱ Expected: 12:14 (min 74/100) | Debrief + Key Takeaways + Transition -->
 ## Transition to Block E
 
-**After lunch: Block E — Portfolio Workshop & Peer Review (13:30–15:10)**
+**After lunch: Block E — Infrastructure & Cross-Functional Interfaces (13:30–15:10)**
 
-You'll revise your weakest artifact, practice peer feedback using SBI, and prep for the QBR.
+We'll cover the data stack, build vs. buy decisions, working with engineering and IT, and you'll sketch your case context's infrastructure.
 
-> **Over lunch, think about:** Which portfolio artifact is your weakest?
+> **Over lunch, think about:** What does the data infrastructure look like in your case context?
 
 See you at 13:30.
 
-<!-- Talk track: We're breaking for lunch. When you come back, Block E is your workshop. You'll revise your weakest artifact, practice giving peer feedback using the SBI model you just learned, and prep for the QBR simulation. Over lunch, think about which artifact needs the most work. Enjoy lunch, and I'll see you at 1:30. -->
+<!-- Talk track: We're breaking for lunch. When you come back, Block E shifts to infrastructure — the data stack, build versus buy decisions, working with engineering and IT. You'll also do a hands-on activity sketching the infrastructure for your case context. Over lunch, start thinking about what the data stack looks like in your case. Enjoy lunch, and I'll see you at 1:30. -->
