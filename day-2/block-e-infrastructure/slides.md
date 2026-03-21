@@ -70,7 +70,7 @@ Analytics doesn't exist in a vacuum. Your key interfaces:
 
 **Mental model:** Analytics sits at the center of a hub-and-spoke. Every spoke is a relationship you must actively manage.
 
-<!-- Talk track: Analytics managers spend thirty to forty percent of their time on cross-functional work. You depend on Engineering to instrument events. You depend on IT to provision access. You depend on Legal to clear your data usage. These relationships exist whether you manage them or not. The only question is whether you're proactive or reactive. -->
+<!-- Talk track: Here's a number that surprises most new analytics managers: you will spend thirty to forty percent of your time on cross-functional work. Not analyzing data. Not building dashboards. Managing relationships with other teams. You depend on Engineering to instrument events. You depend on IT to provision access. You depend on Legal to clear your data usage. And here's the thing — if any one of these relationships is broken, your team stalls. Not "slows down." Stalls. Let me show you what that looks like. -->
 
 ---
 
@@ -86,7 +86,7 @@ What actually goes wrong when cross-functional relationships aren't managed:
 
 Each failure mode maps to a **preventable relationship gap**. That's what SLAs are for.
 
-<!-- Talk track: Let me make this concrete with real failure stories. Engineering ships a database migration over the weekend. They rename three columns. Your pipeline fails at 2 AM. The CEO pulls up the revenue dashboard at 8 AM and asks why it's blank. Every one of these is preventable with a written SLA and a regular check-in. -->
+<!-- Talk track: Let me make this concrete with real failure stories. Story one: Engineering ships a database migration over the weekend. They rename three columns. Your pipeline fails at 2 AM. Your morning dashboards are blank. The CEO pulls them up at 8 AM and asks what's going on — and you find out from the CEO, not from Engineering. Story two: you spend three months evaluating and implementing a new analytics tool. Then Legal tells you the data processing agreement doesn't meet GDPR. Three months of work, unwound. Story three: Finance doesn't renew your BI tool license because nobody flagged the budget cycle deadline. Dashboards go dark. Every one of these is preventable with a written SLA and a regular check-in. -->
 
 ---
 
@@ -101,7 +101,7 @@ Each failure mode maps to a **preventable relationship gap**. That's what SLAs a
 | **Finance** | Cost attribution, ROI analysis | Reasonable budget cycles |
 | **IT** | Security compliance docs | Procurement timelines, cloud access |
 
-<!-- Talk track: Notice the pattern — every relationship is bidirectional. You owe them things and they owe you things. The managers who struggle most are the ones who only think about what they need from other teams without considering what those teams need from them. -->
+<!-- Talk track: Notice the pattern — every relationship is bidirectional. You owe them things and they owe you things. Most new managers only think about what they need: "Engineering should tell me about schema changes." But Engineering needs things from you too — data contracts, documentation, SLAs for query load on their systems. If you only make demands without offering commitments, the relationship dies. The managers who do this well think in trades, not requests. -->
 
 ---
 
@@ -117,7 +117,7 @@ Each failure mode maps to a **preventable relationship gap**. That's what SLAs a
 
 SLAs work when **both sides see value**. If it feels one-sided, it won't survive the first quarter.
 
-<!-- Talk track: Let me give you a practical template. Four lines. What you'll provide and by when. What they'll provide and by when. Who to escalate to when someone misses. How often you review. Start with the most critical relationship — usually Engineering — and get that SLA working well before expanding. -->
+<!-- Talk track: Here's a practical template. Four lines — that's it. What you'll provide and by when. What they'll provide and by when. Who to escalate to when someone misses — and you need a real name here, not "management." And how often you review the agreement. Start with your most critical relationship — usually Engineering — and get one SLA working well before expanding to others. The key: both sides need to see value. If the SLA only benefits you, the other team will ignore it within a month. -->
 
 ---
 
@@ -133,7 +133,7 @@ SLAs work when **both sides see value**. If it feels one-sided, it won't survive
 
 Both sides get something: Engineering gets fast turnaround on impact assessments, and you get advance notice of changes.
 
-<!-- Talk track: Here's a concrete example. You commit to reviewing schema change impacts within three business days, they commit to notifying you two sprints in advance. Both sides get something. Draft one of these for each key cross-functional partner. It takes thirty minutes and saves hundreds of hours of fire-fighting. -->
+<!-- Talk track: Here's a concrete example for the Engineering relationship. You commit to reviewing schema change impacts within three business days — that's fast, and Engineering values fast turnaround. They commit to notifying you two sprints before any schema change — that's the advance notice you need to update your pipelines before anything breaks. Both sides get something. And when someone misses the SLA? You don't send a passive-aggressive Slack message. You escalate to the names on the document. Draft one of these for each key partner. It takes thirty minutes and saves hundreds of hours of fire-fighting. -->
 
 ---
 
@@ -215,7 +215,7 @@ Open-source tools have **real costs** — your engineers' time.
 
 The real question: what does your team **not build** while maintaining this tool?
 
-<!-- Talk track: This is the slide I wish someone had shown me earlier in my career. Open source is not free. Add it up: thirty to fifty thousand in engineer salary to run a "free" tool, versus four to fourteen thousand for a managed service. And your engineer spends almost zero time on maintenance. -->
+<!-- Talk track: This is the slide I wish someone had shown me earlier in my career. Open source is not free. Add it up: thirty to fifty thousand dollars a year in engineer salary to run a "free" tool. Versus four to fourteen thousand for a managed service. And here's the real kicker — it's not just the money. It's what your team doesn't build while they're maintaining Airflow. Every hour your data engineer spends debugging a scheduler crash is an hour they're not building the pipeline your PM is waiting for. That opportunity cost is the hidden killer. -->
 
 ---
 
@@ -285,7 +285,7 @@ Add to the small stack:
 
 **Governance:** Formal data owners. Published SLAs. Access controls.
 
-<!-- Talk track: At medium scale, the critical addition is observability — knowing when data is broken before the CEO messages you on Slack. You also add a semantic layer so there's one agreed-upon definition of "active user" and "revenue." Monthly cost jumps to ten to thirty thousand. -->
+<!-- Talk track: At medium scale, the critical addition is observability. Without it, here's what happens: your dashboard shows stale data for six hours. Nobody on your team notices. The CEO pulls it up in a meeting and says "why does this say yesterday's numbers?" You find out from the CEO. With observability — Monte Carlo, Elementary — you get an alert at 6 AM saying "data freshness SLA violated." You fix it before anyone notices. That single tool changes your relationship with the rest of the company. Monthly cost jumps to ten to thirty thousand, but one prevented incident pays for it. -->
 
 ---
 
@@ -306,9 +306,7 @@ Add to the medium stack:
 
 **Your challenge isn't the tools — it's governance and organizational alignment.**
 
-<!-- Talk track: At enterprise scale, the challenges are fundamentally different. You're not trying to get trusted numbers — you're trying to maintain trust across dozens of teams, petabytes of data, and strict regulatory requirements. Your challenge isn't choosing tools. It's navigating procurement, proving ROI, and managing the politics of a data mesh transition. -->
-
-<!-- Talk track: At medium scale, the critical addition is observability — knowing when data is broken before the CEO messages you on Slack. At enterprise scale, the challenge shifts from tools to organizational design. Data mesh means each business domain owns its data products. You need model governance because regulators will ask. Monthly cost goes from ten thousand to a hundred thousand plus — but at this scale, that's a fraction of a percent of revenue. -->
+<!-- Talk track: At enterprise scale, the challenges are fundamentally different. You're not trying to get trusted numbers — you're trying to maintain trust across dozens of teams, petabytes of data, and strict regulatory requirements. Data mesh means each business domain owns its data products — the central team sets standards but doesn't own every pipeline. You need model governance because regulators will ask. And you need cost management because at a hundred thousand a month, someone in finance is going to want accountability. For those of you in the large enterprise case context: your challenge in the activity isn't "what tools do I pick?" It's "what can I actually get approved in six months given procurement, legal, and budget cycles?" -->
 
 ---
 
@@ -325,7 +323,7 @@ What happens when you outgrow your stack:
 
 Avoid proprietary lock-in where you can. Use standard SQL. Use standard file formats.
 
-<!-- Talk track: I want to talk about what happens when you outgrow your stack. The lesson: when you choose a tool today, ask yourself how hard it will be to leave that tool in three years. Make migration a design criterion, not an afterthought. -->
+<!-- Talk track: Let me talk about what happens when you outgrow your stack. Story three is the scariest: a brilliant engineer builds a custom ingestion pipeline. Beautiful code. Handles edge cases nobody else thought of. Then that engineer leaves. Now nobody understands how it works, it breaks every few weeks, and nobody can fix it properly. You're stuck maintaining a system you can't modify and can't replace without a six-month migration project. The lesson: when you choose a tool today, ask yourself how hard it will be to leave it in three years. Use standard SQL. Use standard file formats. Make migration a design criterion, not an afterthought. -->
 
 ---
 
