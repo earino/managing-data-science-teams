@@ -349,27 +349,7 @@ Avoid proprietary lock-in where you can. Use standard SQL. Use standard file for
 
 ---
 
-<!-- ⏱ Expected: 14:16 (min 46/100) | RFP Overview (6 min) -->
-## The RFP Process
-
-**When to RFP:** Spending >$10K/year or handling PII.
-
-**Steps:**
-1. **Define requirements** — Must-have vs. Should-have vs. Nice-to-have
-2. **Weight criteria** — Not all requirements are equal
-3. **Score vendors** — Structured, not vibes-based
-4. **Negotiate** — Always negotiate. Always.
-5. **Pilot** — 2-4 week proof of concept before committing
-
-**Scoring dimensions:** Functionality, Integration, Security, Cost, Support, Scalability
-
-**Pro tip:** Score as a team. Each evaluator scores independently, then discuss disagreements — the discussion reveals hidden assumptions.
-
-<!-- Talk track: When you're spending more than ten thousand a year or when PII is involved, you need a structured process. Separate requirements into must-have, should-have, and nice-to-have. Weight the criteria. Score each vendor on a 1-to-5 scale as a team. And always negotiate — SaaS pricing is almost never firm. Never commit without a pilot. -->
-
----
-
-<!-- ⏱ Expected: 14:22 (min 52/100) | IT, Procurement, Privacy (6 min) -->
+<!-- ⏱ Expected: 14:16 (min 46/100) | IT, Procurement, Privacy (6 min) -->
 ## Working with IT & Procurement
 
 **Speak their language:**
@@ -389,7 +369,7 @@ Avoid proprietary lock-in where you can. Use standard SQL. Use standard file for
 
 ---
 
-<!-- ⏱ Expected: 14:22 (min 52/100) | Privacy Basics -->
+<!-- ⏱ Expected: 14:16 (min 46/100) | Privacy Basics -->
 ## Privacy & Governance Basics
 
 **GDPR essentials for analytics managers:**
@@ -412,7 +392,7 @@ Avoid proprietary lock-in where you can. Use standard SQL. Use standard file for
 
 ---
 
-<!-- ⏱ Expected: 14:28 (min 58/100) | Activity: Data Infra One-Pager (30 min) -->
+<!-- ⏱ Expected: 14:22 (min 52/100) | Activity: Data Infra One-Pager (30 min) -->
 <!-- _class: divider -->
 
 ## Activity: Data Infra One-Pager
@@ -423,12 +403,12 @@ Avoid proprietary lock-in where you can. Use standard SQL. Use standard file for
 
 ---
 
-<!-- ⏱ Expected: 14:28 (min 58/100) | Activity -->
+<!-- ⏱ Expected: 14:22 (min 52/100) | Activity -->
 ## Activity: Data Infra One-Pager
 
 **Time: 30 minutes** | Reference: `resources/data-infra-blueprint-template.md`
 
-For your case context, sketch a one-page **"Our Next 6 Months of Data Infrastructure"** plan.
+**Working individually.** For your case context, sketch a one-page **"Our Next 6 Months of Data Infrastructure"** plan.
 
 **Your one-pager must include:**
 1. **Current state** — What exists today? Gaps and pain points?
@@ -441,7 +421,7 @@ For your case context, sketch a one-page **"Our Next 6 Months of Data Infrastruc
 
 ---
 
-<!-- ⏱ Expected: 14:28 (min 58/100) | Activity Tips -->
+<!-- ⏱ Expected: 14:22 (min 52/100) | Activity Tips -->
 ## Activity: Data Infra One-Pager — Tips
 
 **Small org context:** 3-4 tools, under $2K/month. Your one-pager should be simple.
@@ -453,13 +433,14 @@ For your case context, sketch a one-page **"Our Next 6 Months of Data Infrastruc
 **For everyone:**
 - Refer back to the blueprint slide for the canonical layers
 - Use the cost estimates from the slides as a starting point
+- Use the cost estimates from the stack-by-size slides — order of magnitude is fine, don't Google exact pricing
 - Think about what IT would push back on in your plan
 
 <!-- Talk track: A few tips as you work. Refer back to the blueprint slide — make sure you've thought about each layer. Use the cost estimates from the slides. And think about your plan through IT's eyes. If you picked a tool without SOC 2, they'll push back. -->
 
 ---
 
-<!-- ⏱ Expected: 14:58 (min 88/100) | Debrief (8 min) -->
+<!-- ⏱ Expected: 14:52 (min 82/100) | Debrief (8 min) -->
 ## Debrief
 
 **From the room:**
@@ -473,7 +454,7 @@ For your case context, sketch a one-page **"Our Next 6 Months of Data Infrastruc
 
 ---
 
-<!-- ⏱ Expected: 14:58 (min 88/100) | Debrief — Key Insight -->
+<!-- ⏱ Expected: 14:52 (min 82/100) | Debrief — Key Insight -->
 ## Debrief
 
 **Key insight:** The "right" stack depends on your constraints — team size, budget, timeline, regulatory environment. There is no universal answer. The framework is the answer.
@@ -487,7 +468,7 @@ For your case context, sketch a one-page **"Our Next 6 Months of Data Infrastruc
 
 ---
 
-<!-- ⏱ Expected: 15:06 (min 96/100) | Transition -->
+<!-- ⏱ Expected: 15:00 (min 90/100) | Transition -->
 <!-- _class: divider -->
 
 ## Up Next: Block F
@@ -499,7 +480,7 @@ For your case context, sketch a one-page **"Our Next 6 Months of Data Infrastruc
 
 ---
 
-<!-- ⏱ Expected: 15:06 (min 96/100) | Transition -->
+<!-- ⏱ Expected: 15:00 (min 90/100) | Transition -->
 ## Transition to Block F
 
 **After break: Block F — Leading Up & Executive Communication (15:30–17:10)**

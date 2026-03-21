@@ -55,6 +55,7 @@
 **This is the highest-priority new activity.** Protect this time.
 
 **Setup (2 min):**
+- **Model it first.** Before pairing off, do a 60-second live demo with a volunteer. Pick a simple scenario (e.g., Scenario 6 — positive feedback). Deliver SBI feedback to the volunteer so students see what "good" sounds like before they try it. This costs one minute and prevents the blank-stare problem.
 - Pair students. Distribute scenario cards (one per pair).
 - Explain: "Two rounds. Round 1: Partner A gives feedback using SBI, Partner B receives in character. After 8 minutes, 2 minutes of pair debrief. Then swap for Round 2."
 - Emphasize: "Stay in character. If the feedback makes you defensive, be defensive. That's real."

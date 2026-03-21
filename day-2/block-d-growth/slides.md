@@ -180,23 +180,7 @@ The individual owns this document. You co-create it.
 ---
 
 <!-- ⏱ Expected: 11:28 (min 28/100) -->
-## Performance Cycles
-
-**A better cadence than annual reviews:**
-
-| Cadence | What happens |
-|---|---|
-| **Continuous** | Real-time feedback (SBI) |
-| **Monthly** | 1:1 growth check-in (10 min) |
-| **Quarterly** | Written self-assessment + manager assessment |
-| **Annual** | Calibration + compensation review |
-
-<!-- Talk track: Annual reviews alone are insufficient — they encourage recency bias and surprise people. Use this cadence: continuous SBI feedback, monthly growth check-ins, quarterly written assessments, and annual calibration. -->
-
----
-
-<!-- ⏱ Expected: 11:28 (min 28/100) -->
-## Performance Cycles
+## The Manager Log
 
 **The Manager Log:** Keep a running document of accomplishments, feedback given, and notable moments. Update it weekly. 3 bullets per person, 5 minutes.
 

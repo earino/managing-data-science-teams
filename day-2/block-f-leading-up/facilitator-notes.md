@@ -21,16 +21,16 @@
 | 15:40 | 10 | 6 min | Three Executive Questions + Anti-Patterns |
 | 15:46 | 16 | 6 min | Art of the Ask |
 | 15:52 | 22 | 10 min | Communicating Failure lecture |
-| 16:02 | 32 | 15 min | **Discussion: delivering worst news** |
+| 16:02 | 32 | 15 min | **Discussion: delivering worst news** (pair-then-plenary) |
 | 16:17 | 47 | 5 min | First 90 Days (compressed, one slide) |
-| 16:22 | 52 | 10 min | Async QBR briefing |
-| 16:32 | 62 | 5 min | Portfolio checklist + logistics |
-| 16:37 | 67 | 10 min | Course close + celebration |
-| 16:47 | 77 | 23 min | Buffer |
+| 16:22 | 52 | 8 min | **BLUF Rehearsal** (pair exercise) |
+| 16:30 | 60 | 3 min | AI and the Changing Manager Role |
+| 16:33 | 63 | 8 min | Async QBR briefing |
+| 16:41 | 71 | 5 min | Portfolio checklist + logistics |
+| 16:46 | 76 | 10 min | Course close + celebration |
+| 16:56 | 86 | 14 min | Buffer |
 
-**Note on buffer:** 23 minutes is generous by design. Day 1 taught us everything runs long.
-Use it for: extended discussion, QBR Q&A, portfolio questions, or letting the close breathe.
-The discussion will likely absorb 5-8 minutes of this naturally.
+**Note on buffer:** 14 minutes of buffer. The discussion and BLUF rehearsal will likely absorb some of this naturally.
 
 ## Key Teaching Points
 
@@ -50,10 +50,10 @@ The discussion will likely absorb 5-8 minutes of this naturally.
 
 ### Discussion 1: Delivering Your Worst News (15 min)
 
-**Setup:** After the Communicating Failure lecture, pose the question. Give students **2 minutes of silent thinking time** before opening discussion. This prevents the loudest voices from dominating.
+**Setup:** After the Communicating Failure lecture, pose the question. **Pair-then-plenary format:** 2 minutes silent thinking, 3 minutes sharing with a partner, then 10 minutes whole-class discussion. The pair step ensures every student practices saying it out loud — not just the 3-4 who speak in plenary.
 
 **Facilitation approach:**
-- Ask for a volunteer to share their scenario first
+- After the pair step, ask for a volunteer to share their scenario
 - After they describe their worst news, ask the class: "How would you frame the impact statement?"
 - Push for specificity: "What's the subject line of that email?"
 - If discussion stalls, use the subject line format as a prompt: "[Impact level] — [What happened] — [Status]"
@@ -69,15 +69,30 @@ The discussion will likely absorb 5-8 minutes of this naturally.
 
 **How to close:** Summarize the pattern: "Notice that every scenario, regardless of case context, follows the same structure — impact first, then facts, then what you're doing about it. That structure works whether the failure is a broken dashboard or a failed hire."
 
-**If the discussion runs hot** (lots of hands, high energy): Let it go to 20 minutes — you have 23 minutes of buffer. This is a sign of strong engagement and the best possible use of the extra time.
+**If the discussion runs hot** (lots of hands, high energy): Let it go to 18 minutes. You have 14 minutes of buffer, but save some for the BLUF rehearsal — that's the capstone practice moment.
 
 ## First 90 Days (5 min)
 
 This is compressed to one slide. Hit the key insight: **listen, then quick wins, then strategy** — same structure at every org size. Connect it to the course: "Your Manager OS is what you build in days 31-60. Your roadmap is what you present in days 61-90. Everything from this course maps onto these 90 days."
 
-## Async QBR Briefing (10 min)
+## BLUF Rehearsal (8 min)
 
-This is worth 25% of the grade — give it the time it deserves.
+**This is the capstone practice moment.** Every student writes, delivers, and gets feedback on their QBR opening. It directly feeds their async video submission.
+
+**How to run it:**
+1. **3 min writing:** Students write 4 sentences (the Three Executive Questions + their ask). Circulate and check — if anyone is staring at a blank page, prompt them: "Just answer: are you on track? What's the biggest risk? What do you need?"
+2. **2 min each direction:** Partner A delivers in 60 seconds, Partner B gives one SBI feedback point. Then swap.
+3. **No plenary debrief** — the practice IS the learning. Move straight to the AI slide and QBR briefing.
+
+**Watch for:** Students who try to present their entire roadmap instead of a 60-second opening. Redirect: "Just the BLUF — four sentences."
+
+## AI and the Changing Manager Role (3 min)
+
+Keep this brief and forward-looking. The point is not to teach AI management — it's to acknowledge that the Manager OS, hiring criteria, and roadmap they've built need to account for AI-augmented teams. Plant the seed. Students working on their QBR video should consider how AI affects their roadmap and team planning.
+
+## Async QBR Briefing (8 min)
+
+This is worth 25% of the grade — give it the time it deserves. Students just did a BLUF rehearsal, so they have a concrete sense of what their opening sounds like.
 - Show the format (video + outline)
 - Show the 5 evaluation criteria
 - Emphasize: "Apply everything from today — Pyramid Principle, Art of the Ask, the Three Executive Questions"

@@ -28,11 +28,10 @@ The 90-second breathing exercise acknowledges the shift from Block D's emotional
 | 13:56 | 26 | 8 min | Build vs. Buy + Hidden Costs |
 | 14:04 | 34 | 2 min | **Pair discussion: build or buy one tool** |
 | 14:06 | 36 | 10 min | Stack by Size (small/medium/large + migration trap) |
-| 14:16 | 46 | 6 min | RFP Process + Scoring overview |
-| 14:22 | 52 | 6 min | IT, Procurement, Privacy basics |
-| 14:28 | 58 | 30 min | **Activity: Data Infra One-Pager** |
-| 14:58 | 88 | 8 min | Debrief + portfolio connection |
-| 15:06 | 96 | 4 min | Buffer / transition |
+| 14:16 | 46 | 6 min | IT, Procurement, Privacy basics |
+| 14:22 | 52 | 30 min | **Activity: Data Infra One-Pager** |
+| 14:52 | 82 | 8 min | Debrief + portfolio connection |
+| 15:00 | 90 | 10 min | Buffer / transition |
 
 ## Key Teaching Points
 
@@ -44,9 +43,8 @@ The 90-second breathing exercise acknowledges the shift from Block D's emotional
 - **Opportunity cost** is the hidden killer in build-vs-buy decisions
 
 ### Can Compress If Running Long
-- RFP Process + Scoring (6 min → 3 min, just hit the highlights)
 - IT, Procurement, Privacy (6 min → 3 min, focus on procurement timeline reality)
-- These two sections are the **safety valve** — 12 min → 6 min if needed
+- With 10 minutes of buffer, you have significant flexibility
 
 ### Do Not Skip
 - Build vs. Buy framework (students will face this immediately in their careers)

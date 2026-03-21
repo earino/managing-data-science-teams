@@ -267,9 +267,9 @@ Think about the worst thing happening in your case context right now. You have a
 
 Use the framework: **Lead with impact → What happened → What you're doing → Systemic fix.**
 
-*Take 2 minutes to think silently, then we'll discuss as a class.*
+*2 minutes: think silently. 3 minutes: share with a partner. Then we'll open it to the room.*
 
-<!-- Talk track: Let's put this into practice. Think about the worst thing happening in your case context right now. Maybe a key dashboard is unreliable. Maybe a project is behind schedule. Maybe a hire fell through. Whatever it is — you have a meeting with your VP in one hour. What do you say first? Take two minutes to think silently, then I'll open it up to the room. -->
+<!-- Talk track: Let's put this into practice. Think about the worst thing happening in your case context right now. Maybe a key dashboard is unreliable. Maybe a project is behind schedule. Maybe a hire fell through. Whatever it is — you have a meeting with your VP in one hour. What do you say first? Take two minutes to think silently. Then turn to the person next to you and practice saying it out loud — that's three minutes. Then I'll open it to the room. -->
 
 ---
 
@@ -288,7 +288,42 @@ The core structure is the same at every org size — **listen, then quick wins, 
 
 ---
 
-<!-- ⏱ Expected: 16:22 (min 52/100) | Async QBR briefing (10 min) -->
+<!-- ⏱ Expected: 16:22 (min 52/100) | BLUF Rehearsal (8 min) -->
+## Practice: Your QBR Opening
+
+**8 minutes — pair exercise:**
+
+1. **Write** your QBR opening in 4 sentences (3 min):
+   - Are we on track?
+   - What's the headline result?
+   - What's the top risk?
+   - What do you need from leadership?
+
+2. **Deliver** it to your partner in 60 seconds (2 min each)
+
+3. Your partner gives **one SBI feedback point** — what landed, what didn't
+
+<!-- Talk track: Before I brief you on the async QBR, let's practice the hardest part — the opening. Write four sentences answering the three executive questions plus your ask. You have three minutes to write. Then deliver it to your partner in 60 seconds. Your partner gives you one piece of SBI feedback. Then swap. This is a dress rehearsal for your video. Go. -->
+
+---
+
+<!-- ⏱ Expected: 16:30 (min 60/100) | AI and the Changing Manager Role (3 min) -->
+## Managing in the Age of AI
+
+Your team in 2026 is a **hybrid human/AI team** — whether you've formalized it or not.
+
+What changes:
+- **Velocity shifts** — Individual contributors augmented by AI produce more. Your planning assumptions change.
+- **Quality review shifts** — You're reviewing AI-assisted output, not just human output. Different failure modes.
+- **Skill mix shifts** — "Can prompt effectively" becomes a real hiring criterion. "Can evaluate AI output critically" becomes a senior-level skill.
+
+Your Manager OS, your hiring rubric, and your roadmap all need to account for this. It's not a future problem — it's a now problem.
+
+<!-- Talk track: One more thing before the QBR briefing. The syllabus says all teams are hybrid human/AI teams. I want to make that concrete. Your team in 2026 uses AI tools daily — for code generation, for analysis, for drafting. That changes your job as a manager. Your planning assumptions change because augmented ICs produce more. Your quality review changes because you're evaluating AI-assisted output with different failure modes. And your hiring criteria change — "can prompt effectively" and "can evaluate AI output critically" are real skills now. Think about this when you record your QBR. Your roadmap should reflect the reality that your team includes AI. -->
+
+---
+
+<!-- ⏱ Expected: 16:33 (min 63/100) | Async QBR briefing (8 min) -->
 ## Async QBR: Your Capstone Deliverable
 
 **What you submit** (as part of your final portfolio):
@@ -303,7 +338,7 @@ Apply everything from today: **Pyramid Principle, Art of the Ask, the Three Exec
 
 ---
 
-<!-- ⏱ Expected: 16:22 (min 52/100) -->
+<!-- ⏱ Expected: 16:33 (min 63/100) -->
 ## Async QBR: How You'll Be Evaluated
 
 Five dimensions (part of Roadmap + Executive Narrative, 25%):
@@ -320,7 +355,7 @@ Don't wait for them to ask it. In your video, address the hardest question **bef
 
 ---
 
-<!-- ⏱ Expected: 16:32 (min 62/100) | Portfolio checklist + logistics (5 min) -->
+<!-- ⏱ Expected: 16:41 (min 71/100) | Portfolio checklist + logistics (5 min) -->
 ## Portfolio Checklist: Components
 
 **Due: One week from today (23:59 Vienna time)**
@@ -339,7 +374,7 @@ Your portfolio has **5 graded components:**
 
 ---
 
-<!-- ⏱ Expected: 16:32 (min 62/100) -->
+<!-- ⏱ Expected: 16:41 (min 71/100) -->
 ## Portfolio Checklist: Submission
 
 **Format:** Single PDF or structured repository
@@ -358,7 +393,7 @@ The portfolio is not five separate documents. It's **one integrated system**. Yo
 
 ---
 
-<!-- ⏱ Expected: 16:37 (min 67/100) | Course close + celebration (8 min) -->
+<!-- ⏱ Expected: 16:46 (min 76/100) | Course close + celebration (8 min) -->
 <!-- _class: divider -->
 
 ## Course Complete
@@ -369,7 +404,7 @@ The portfolio is not five separate documents. It's **one integrated system**. Yo
 
 ---
 
-<!-- ⏱ Expected: 16:37 (min 67/100) -->
+<!-- ⏱ Expected: 16:46 (min 76/100) -->
 ## Close: What You've Built
 
 You've built a **Manager Operating System**.
@@ -388,7 +423,7 @@ The **portfolio is the proof**. Refine your drafts. Submit with pride.
 
 ---
 
-<!-- ⏱ Expected: 16:37 (min 67/100) -->
+<!-- ⏱ Expected: 16:46 (min 76/100) -->
 ## Close: Go Build Great Teams
 
 **Office hours are available** — reach out if you need help with the portfolio or the async QBR.
