@@ -312,14 +312,15 @@ The core structure is the same at every org size — **listen, then quick wins, 
 
 Your team in 2026 is a **hybrid human/AI team** — whether you've formalized it or not.
 
-What changes:
-- **Velocity shifts** — Individual contributors augmented by AI produce more. Your planning assumptions change.
-- **Quality review shifts** — You're reviewing AI-assisted output, not just human output. Different failure modes.
-- **Skill mix shifts** — "Can prompt effectively" becomes a real hiring criterion. "Can evaluate AI output critically" becomes a senior-level skill.
+What changes for you as a manager:
+- **Velocity shifts** — AI-augmented ICs produce more. Your roadmap and planning assumptions change.
+- **Quality review shifts** — You're reviewing AI-assisted output. Different failure modes (remember Liam's unverified stats from the SBI exercise?).
+- **Skill mix shifts** — "Can evaluate AI output critically" is now a senior-level skill. Your hiring rubric needs to reflect this.
+- **Team dynamics shifts** — High AI users may produce volume but create reviewability problems (remember Kevin's calibration profile?).
 
-Your Manager OS, your hiring rubric, and your roadmap all need to account for this. It's not a future problem — it's a now problem.
+Every artifact you've built — Manager OS, hiring rubric, roadmap, infrastructure plan — needs to account for AI. It's not a future problem.
 
-<!-- Talk track: One more thing before the QBR briefing. The syllabus says all teams are hybrid human/AI teams. I want to make that concrete. Your team in 2026 uses AI tools daily — for code generation, for analysis, for drafting. That changes your job as a manager. Your planning assumptions change because augmented ICs produce more. Your quality review changes because you're evaluating AI-assisted output with different failure modes. And your hiring criteria change — "can prompt effectively" and "can evaluate AI output critically" are real skills now. Think about this when you record your QBR. Your roadmap should reflect the reality that your team includes AI. -->
+<!-- Talk track: One more thing before the QBR briefing. Think back to this morning. If you drew Scenario 9 — Liam's AI-generated report with fabricated stats — you practiced giving feedback for an AI-specific failure mode. If you calibrated Kevin, you debated whether AI-augmented volume with lower reviewability counts as high performance. These aren't hypothetical scenarios — they're happening right now in analytics teams. As a manager, AI changes your planning assumptions, your quality review process, your hiring criteria, and your team dynamics. When you record your QBR, your roadmap should reflect the reality that your team includes AI. -->
 
 ---
 
@@ -424,6 +425,25 @@ The **portfolio is the proof**. Refine your drafts. Submit with pride.
 ---
 
 <!-- ⏱ Expected: 16:46 (min 76/100) -->
+## Your Next 90 Days — Write It Down
+
+**2 minutes.** Write down **3 specific actions** you will take in the next 90 days.
+
+Not aspirations — **actions with dates.**
+
+| Instead of... | Write... |
+|---|---|
+| "Be a better manager" | "Start weekly 1:1s with each report within 2 weeks" |
+| "Improve data quality" | "Implement metric ownership doc for top 10 metrics by April 15" |
+| "Communicate better" | "Write a BLUF summary for every exec update starting next week" |
+
+These are yours. You don't have to share them.
+
+<!-- Talk track: Before I close — take out a piece of paper or open a blank doc. Write down three specific actions you will take in the next 90 days based on what you've learned. Not "be a better manager." I want dates and specifics. Things like "Start weekly 1:1s within two weeks of finishing this course" or "Write a BLUF summary for every exec update starting next week." Two minutes. These are for you — I won't collect them. But research shows that writing down intentions dramatically increases follow-through. Go. -->
+
+---
+
+<!-- ⏱ Expected: 16:48 (min 78/100) -->
 ## Close: Go Build Great Teams
 
 **Office hours are available** — reach out if you need help with the portfolio or the async QBR.

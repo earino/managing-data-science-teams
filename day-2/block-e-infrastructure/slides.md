@@ -201,7 +201,7 @@ With cross-cutting concerns at every layer:
 
 **Default to buy** for infrastructure. Default to build for business logic.
 
-<!-- Talk track: Build versus buy is one of the most consequential decisions you'll make. The rule of thumb: default to buy for infrastructure, default to build for business logic. Infrastructure is commodity. Business logic is where your team adds unique value. And when you decide to buy — involve IT from day one, not after you've already started a trial. Procurement takes two to six times longer than you expect. If you need a tool by Q3, start the process in Q1. -->
+<!-- Talk track: Build versus buy is one of the most consequential decisions you'll make. The rule of thumb: default to buy for infrastructure, default to build for business logic. Infrastructure is commodity. Business logic is where your team adds unique value. And when you decide to buy — involve IT from day one, not after you've already started a trial. Procurement takes two to six times longer than you expect. If you need a tool by Q3, start the process in Q1. One more thing: AI tools are a new line item in your stack. API costs for LLMs, AI coding assistants, model serving — these are real infrastructure decisions now, and the same build-vs-buy framework applies. -->
 
 ---
 

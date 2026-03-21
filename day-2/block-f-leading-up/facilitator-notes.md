@@ -88,7 +88,7 @@ This is compressed to one slide. Hit the key insight: **listen, then quick wins,
 
 ## AI and the Changing Manager Role (3 min)
 
-Keep this brief and forward-looking. The point is not to teach AI management — it's to acknowledge that the Manager OS, hiring criteria, and roadmap they've built need to account for AI-augmented teams. Plant the seed. Students working on their QBR video should consider how AI affects their roadmap and team planning.
+This slide ties back to the morning's exercises. If students drew Scenario 9 (Liam's AI-generated report), reference it: "You already practiced this." If they calibrated Kevin, reference the AI dimension: "You already debated this." The point is that AI management is not a separate topic — it's woven into feedback, calibration, infrastructure, and executive communication. Students working on their QBR video should consider how AI affects their roadmap and team planning.
 
 ## Async QBR Briefing (8 min)
 
@@ -108,15 +108,21 @@ Key updates to communicate:
 - Infrastructure artifacts remain **optional** (but Block E gives them the foundation)
 - Submission: single PDF or repo, one week after Day 2, 23:59 Vienna time
 
-## Closing Energy (10 min)
+## Learner Reflection: Next 90 Days (2 min)
 
-This is the end of a two-day intensive. **Make it count.**
-- Acknowledge the emotional and intellectual journey
-- Name what they've built: a complete manager's toolkit
-- Be specific about what impressed you during the two days
+Before the final close, students write 3 specific actions with dates. This is intentionally quiet — let them sit with it. Do NOT ask them to share. The writing is the point: research shows written intention-setting increases follow-through.
+
+If a student looks stuck, prompt: "Think about the First 90 Days slide. What's one thing from that framework you'd do in your first month?"
+
+## Closing Energy (8 min)
+
+This follows the quiet reflection, so the energy shift is: introspective → celebratory. **Make the transition deliberate** — stand up straighter, change your tone, look at the room.
+- Name what they've built: recap the "What You've Built" slide
+- Tie the three traits to specific blocks (the slide does this for you)
+- Acknowledge the courage of practicing management in public
 - Stay available for 10-15 minutes after for individual questions
 - Remind them: the portfolio deadline, the async QBR, office hours availability
-- Deliver the close with warmth and conviction — endings matter
+- The last line — "Now go build great teams" — should feel like a send-off, not a slide transition
 
 ## If Running Behind
 

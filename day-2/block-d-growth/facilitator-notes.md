@@ -95,12 +95,20 @@
 - "Reveal your ratings simultaneously. Where you agree, confirm quickly. Where you disagree — discuss."
 - Listen for:
   - **Profile A (Dana, L3):** Most students rate Exceeds. The interesting discussion is whether the prioritization issue and Python avoidance pull her to Meets.
-  - **Profile B (Kevin, L4):** This is the most contested. Technically brilliant but scope creep + team dynamics. "Exceeds on technical impact, Meets or Below on team leadership." The tension between individual brilliance and team elevation is the real learning.
+  - **Profile B (Kevin, L4):** This is the most contested. Technically brilliant but scope creep + team dynamics + AI usage creating reviewability concerns. "Exceeds on technical impact, Meets or Below on team leadership." The AI dimension adds a 2026-specific wrinkle: does AI-augmented volume with quality risks count as high performance? The tension between individual brilliance and team elevation is the real learning.
   - **Profile C (Mika, L2):** Split between Meets and Below. The "reliability vs. independence" tension. Students who've managed juniors tend to be more generous; students focused on the stats error tend to rate Below.
 
 **Reflection (2 min):**
 - Ask each group: "Which profile was most contested?" (Almost always Kevin.)
 - Key insight to surface: "Notice how 'what's expected at this level' changes everything. Kevin's work would be exceptional for an L3. The question is whether it's enough for an L4."
+
+### Micro-Draft: One SBI Development Area (5 minutes)
+
+**This bridges the calibration skill to the written portfolio artifact.** Students open the Performance Summary template and write one development area using SBI format for one of the three profiles they just calibrated. This is the exact format the rubric requires ("evidence of SBI application").
+
+- Circulate and check: are they writing in SBI format (Situation → Behavior → Impact → Recommendation)?
+- Common mistake: writing general impressions ("Kevin needs to communicate better") instead of SBI-grounded evidence. Push for specificity.
+- If someone finishes early: have them write a second development area for a different profile.
 
 **PGP Draft — Homework**
 

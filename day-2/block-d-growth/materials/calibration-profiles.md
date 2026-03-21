@@ -48,9 +48,10 @@ Use these three profiles for the mock calibration exercise. Each group of 4 stud
 - **Delivery consistency:** The experimentation framework launched 6 weeks late. Kevin attributed delays to scope changes from Engineering, but his manager noted that Kevin repeatedly expanded scope himself ("while we're at it, let's also add...").
 - **Team dynamics:** Two L3 data scientists on the team have expressed frustration that Kevin "takes the interesting problems and delegates the boring ones." One described feeling "like Kevin's data cleaning crew."
 - **Written communication:** Kevin's documentation is minimal. The experimentation framework has a 2-page README. The team has asked for proper runbooks multiple times.
+- **AI tool usage:** Kevin has been an early adopter of AI coding assistants and uses them extensively. His output volume has roughly doubled since he started. However, two L3s have raised concerns: one found a subtle statistical error in AI-generated code that Kevin hadn't caught, and the other notes that Kevin's AI-assisted code is harder to review because "it doesn't follow our team's patterns." Kevin's view: "AI makes me faster and the quality is fine — people just need to adapt."
 
 ### Manager's Summary Note
-"Kevin is technically brilliant and his experimentation work is genuinely field-leading for a company our size. But I'm struggling with two things. First, the scope creep pattern — he's a victim of his own ambition and it affects timelines. Second, the team dynamics issue concerns me. An L4 should be elevating the people around them. Kevin is elevating the work but not the team. I'm torn on the rating."
+"Kevin is technically brilliant and his experimentation work is genuinely field-leading for a company our size. But I'm struggling with three things. First, the scope creep pattern — he's a victim of his own ambition and it affects timelines. Second, the team dynamics issue concerns me. An L4 should be elevating the people around them. Kevin is elevating the work but not the team. Third, the AI usage: his velocity is impressive, but should higher output with lower reviewability count as 'exceeding expectations' or is it creating a new kind of technical debt? I'm torn on the rating."
 
 ---
 

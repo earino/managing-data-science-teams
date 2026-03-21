@@ -326,7 +326,7 @@ The manager log is what makes this possible.
 
 ---
 
-<!-- ⏱ Expected: 12:20 (min 80/100) | Debrief + Key Takeaways + Transition -->
+<!-- ⏱ Expected: 12:25 (min 85/100) | Key Takeaways + Transition -->
 ## Debrief
 
 **From the SBI role-play:**
@@ -341,7 +341,25 @@ The manager log is what makes this possible.
 
 ---
 
-<!-- ⏱ Expected: 12:20 (min 80/100) | Debrief + Key Takeaways + Transition -->
+<!-- ⏱ Expected: 12:20 (min 80/100) | Micro-draft: bridge to portfolio (5 min) -->
+## Quick Draft: One SBI Development Area
+
+**5 minutes** | Open `templates/performance-summary.md`
+
+Pick **one person** you just calibrated. Write **one development area** using SBI:
+
+> **Situation:** [When/where did you observe this?]
+> **Behavior:** [What specifically did they do?]
+> **Impact:** [What was the consequence?]
+> **Development recommendation:** [What should they do differently?]
+
+This is the exact format your Performance Summary requires. You're practicing it now so it's not blank when you sit down to write.
+
+<!-- Talk track: Before we wrap up, I want to bridge what you just did to what you'll submit. Open the performance summary template. Pick one of the three people you just calibrated — Dana, Kevin, or Mika. Write one development area using SBI format. Situation, behavior, impact, then your recommendation. Five minutes. This is what the rubric means by "evidence of SBI application." Go. -->
+
+---
+
+<!-- ⏱ Expected: 12:25 (min 85/100) | Key Takeaways + Transition -->
 ## Key Takeaways
 
 - **SBI separates observation from judgment.** That's what makes feedback hearable.
@@ -352,7 +370,7 @@ The manager log is what makes this possible.
 
 ---
 
-<!-- ⏱ Expected: 12:20 (min 80/100) | Debrief + Key Takeaways + Transition -->
+<!-- ⏱ Expected: 12:25 (min 85/100) | Key Takeaways + Transition -->
 ## Key Takeaways
 
 - **Senior = scope + autonomy + ambiguity tolerance.** Not years.
@@ -365,7 +383,7 @@ The manager log is what makes this possible.
 
 ---
 
-<!-- ⏱ Expected: 12:20 (min 80/100) | Debrief + Key Takeaways + Transition -->
+<!-- ⏱ Expected: 12:25 (min 85/100) | Key Takeaways + Transition -->
 <!-- _class: divider -->
 
 ## Up Next: Block E
@@ -377,7 +395,7 @@ The manager log is what makes this possible.
 
 ---
 
-<!-- ⏱ Expected: 12:20 (min 80/100) | Debrief + Key Takeaways + Transition -->
+<!-- ⏱ Expected: 12:25 (min 85/100) | Key Takeaways + Transition -->
 ## Transition to Block E
 
 **After lunch: Block E — Infrastructure & Cross-Functional Interfaces (13:30–15:10)**
