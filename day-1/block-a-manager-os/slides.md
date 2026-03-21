@@ -36,7 +36,7 @@ By the end of this block you will be able to:
 
 **What this 2-day intensive covers:**
 - Day 1: Manager OS, Hiring & Team Formation, Roadmaps & Alignment
-- Day 2: Growth & Performance, Portfolio Workshop & Peer Review, QBR Simulation
+- Day 2: Growth & Performance, Infrastructure & Cross-Functional Interfaces, Leading Up & Executive Communication
 
 **What makes this course different:**
 - **Workshop-driven** — you will build, not just listen

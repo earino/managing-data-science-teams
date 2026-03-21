@@ -24,9 +24,11 @@ _Track the status of every artifact. Update this checklist as you work. Submit t
 | | | — 12-Month Roadmap + RICE Scoring | | Draft / Final / Not Started |
 | | | — Executive Narrative (2 pages) | | Draft / Final / Not Started |
 | | | — Risk Register | | Draft / Final / Not Started |
-| 4 | **Personal Growth Plan** | PGP | Block D | Draft / Final / Not Started |
-| 5 | **Performance Summary** | Calibration-ready | Block D | Draft / Final / Not Started |
-| 6 | **QBR Outline** | QBR presentation outline | Block F | Draft / Final / Not Started |
+| 4 | **QBR Outline + QBR Video** | Contains: | Block F | |
+| | | — QBR Outline | | Draft / Final / Not Started |
+| | | — QBR Video (5-min recording) | | Draft / Final / Not Started |
+| 5 | **Personal Growth Plan** | PGP | Block D | Draft / Final / Not Started |
+| 6 | **Performance Summary** | Calibration-ready | Block D | Draft / Final / Not Started |
 
 ### Optional Artifacts (for a richer portfolio; not separately graded)
 
@@ -71,7 +73,7 @@ _For each major artifact, reflect honestly on its current quality. This self-ass
 - **What would you improve with more time?**
   [Your response]
 
-### QBR Outline
+### QBR Outline + Video
 - **What's strong about this artifact?**
   [Your response]
 - **What would you improve with more time?**

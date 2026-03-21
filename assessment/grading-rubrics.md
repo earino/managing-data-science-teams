@@ -10,13 +10,13 @@ Total portfolio weight: 100%
 
 ## Participation & Preparedness (15%)
 
-Active, constructive engagement across both days of the intensive is essential. This is not merely attendance — it reflects the quality and consistency of your contributions. Participation now includes observable moments in SBI role-plays, mock calibration, and portfolio peer review.
+Active, constructive engagement across both days of the intensive is essential. This is not merely attendance — it reflects the quality and consistency of your contributions. Participation now includes observable moments in SBI role-plays, mock calibration, infrastructure activity, and class discussions.
 
 | Criterion | Excellent (14–15%) | Good (10–13%) | Needs Work (0–9%) |
 |---|---|---|---|
 | **Active engagement in discussions** | Consistently contributes substantive points that advance the conversation; draws on case materials and course concepts; engages across multiple sessions. | Participates regularly with relevant comments but occasionally surface-level or reactive rather than proactive. | Rarely speaks, or contributions are off-topic, repetitive, or do not reflect engagement with the material. |
 | **Quality of contributions to role-plays** | Fully inhabits the assigned role; demonstrates preparation and creativity; adapts to unexpected dynamics in real time. | Completes the role-play adequately; stays in character but may miss opportunities to deepen the exercise. | Unprepared for the role-play; breaks character frequently; does not take the exercise seriously or contribute meaningfully. |
-| **Constructiveness in red-team critiques** | Provides specific, evidence-based critiques that help peers strengthen their work; balances challenge with respect. | Offers useful feedback but may lack specificity or lean too heavily toward praise or criticism. | Feedback is vague, unhelpful, or delivered in a way that is dismissive or unconstructive. |
+| **Constructiveness in discussions and critiques** | Provides specific, evidence-based contributions in class discussions; draws on case context and course frameworks; helps advance the conversation beyond surface-level observations. | Participates in discussions with relevant comments but may lack specificity or stay at surface level. | Rarely contributes to discussions, or contributions are off-topic, repetitive, or do not reflect engagement with the material. |
 | **Preparedness with case context materials** | Arrives with thorough knowledge of the assigned case; references specific details and constraints in discussions and exercises. | Has read the case materials but may miss key details or fail to connect them to the exercises at hand. | Clearly underprepared; cannot reference case specifics; relies on others to provide context. |
 | **Peer collaboration** | Actively supports teammates; shares ideas generously; helps the group produce stronger collective output. | Works cooperatively but does not go out of the way to elevate others' contributions. | Disengaged from group work; free-rides on teammates' effort; creates friction without resolution. |
 
@@ -60,17 +60,27 @@ The Hiring Packet demonstrates your ability to design a rigorous, fair, and effe
 
 ---
 
-## Roadmap + Executive Narrative (20%)
+## Roadmap + Executive Narrative (15%)
 
 This component assesses your ability to translate technical possibilities into strategic priorities and communicate them to senior stakeholders.
 
-| Criterion | Excellent (18–20%) | Good (14–17%) | Needs Work (0–13%) |
+| Criterion | Excellent (13–15%) | Good (10–12%) | Needs Work (0–9%) |
 |---|---|---|---|
 | **Strategic alignment to business outcomes** | Every roadmap item is explicitly tied to a business outcome or organizational goal; prioritization reflects strategic value, not just technical interest. | Most items connect to business outcomes but some feel technically motivated without clear business justification. | Roadmap reads as a technical wish list; no clear connection between items and the organization's strategic priorities. |
 | **RICE rigor** | RICE scores are well-calibrated with clear justification for each dimension; scores differentiate meaningfully between items; assumptions are stated. | RICE scores are present and reasonable but may lack justification or show inconsistencies in how dimensions are estimated. | RICE scores are missing, perfunctory, or clearly not used to inform actual prioritization decisions. |
 | **Risk awareness** | Key risks are identified for high-priority items; mitigation strategies are realistic; dependencies and assumptions are called out. | Some risks are noted but coverage is incomplete or mitigations are vague. | No risk identification; roadmap assumes everything will go according to plan. |
 | **Narrative clarity (BLUF, quantified)** | Executive narrative leads with a bottom-line-up-front summary; key claims are quantified where possible; language is precise and jargon-free; a non-technical executive could act on it. | Narrative is clear but may bury the lead, lack quantification, or include unnecessary technical detail. | Narrative is disorganized, overly technical, or fails to convey the "so what" to a senior audience. |
 | **Realism given case context constraints** | Plan reflects genuine understanding of the case context's resource constraints, organizational maturity, data infrastructure, and timeline realities. | Plan is mostly realistic but may underestimate constraints or include items that are aspirational given the context. | Plan ignores the case context's constraints; could not be executed by the described team in the described environment. |
+
+---
+
+## QBR Outline + QBR Video (10%)
+
+This component assesses your ability to present your roadmap and narrative to an executive audience, anticipate pushback, and make a clear ask.
+
+| Criterion | Excellent (9–10%) | Good (7–8%) | Needs Work (0–6%) |
+|---|---|---|---|
+| **QBR video: Anticipates pushback** | Video preemptively addresses the hardest question an executive would ask; demonstrates understanding of executive concerns; uses BLUF structure; ask is specific and quantified. | Video acknowledges potential concerns but may not address the most challenging question; BLUF structure present but may not be crisp. | Video does not anticipate executive questions; presentation is one-directional with no evidence of considering the audience's likely pushback. |
 
 ---
 
@@ -100,19 +110,6 @@ The Personal Growth Plan and Performance Summary demonstrate your ability to dev
 
 ---
 
-## Peer Feedback Quality (5%)
-
-The quality of feedback you provide to your peers is itself assessed. This incentivizes thoughtful, generous engagement with others' work.
-
-| Criterion | Excellent (5%) | Good (3–4%) | Needs Work (0–2%) |
-|---|---|---|---|
-| **Specificity** | Feedback references specific sections, decisions, or language in the peer's artifact; avoids generalities. | Feedback is somewhat specific but may rely on overall impressions rather than pointing to concrete elements. | Feedback is entirely generic and could apply to any artifact without modification. |
-| **Actionability** | Every piece of feedback includes a concrete suggestion for what the peer could do differently or add. | Some suggestions are actionable but others are observations without clear next steps. | Feedback identifies issues but offers no guidance on how to address them. |
-| **Balance of strengths and improvements** | Identifies genuine strengths (not just politeness) and genuine areas for improvement (not just nitpicks); both are substantive. | Covers both strengths and improvements but one side may be superficial or perfunctory. | Entirely positive (unhelpfully so) or entirely critical (discouraging without constructive intent). |
-| **Timeliness** | Feedback is submitted by the stated deadline, giving the peer adequate time to incorporate suggestions before final submission. | Feedback is submitted but close to or slightly past the deadline. | Feedback is significantly late or not submitted, depriving the peer of the opportunity to improve their work. |
-
----
-
 ## Grade Calculation Summary
 
 | Component | Weight |
@@ -120,10 +117,10 @@ The quality of feedback you provide to your peers is itself assessed. This incen
 | Participation & Preparedness | 15% |
 | Day 1 Checkpoint | 10% |
 | Hiring Packet | 20% |
-| Roadmap + Executive Narrative | 20% |
+| Roadmap + Executive Narrative | 15% |
+| QBR Outline + QBR Video | 10% |
 | Manager OS | 15% |
 | PGP + Performance Summary | 15% |
-| Peer Feedback Quality | 5% |
 | **Total** | **100%** |
 
 ---

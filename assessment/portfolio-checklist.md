@@ -28,10 +28,10 @@ These six artifacts are required and graded. Check off each as you complete it.
 |---|---|---|---|---|---|
 | 1 | Manager OS Document (2–4 pp; absorbs charter + stakeholder map) | Block A | 15% | [ ] Complete | |
 | 2 | Hiring Packet (JD + work sample + rubric + interview loop) | Block B | 20% | [ ] Complete | |
-| 3 | Roadmap + Executive Narrative (includes risk register as section) | Block C | 20% | [ ] Complete | |
-| 4 | Personal Growth Plan | Block D | 7.5% | [ ] Complete | |
-| 5 | Performance Summary (calibration-ready) | Block D | 7.5% | [ ] Complete | |
-| 6 | QBR Outline | Block F | Included in Roadmap weight | [ ] Complete | |
+| 3 | Roadmap + Executive Narrative | Block C | 15% | [ ] Complete | |
+| 4 | QBR Outline + QBR Video | Block F | 10% | [ ] Complete | 5-min video recording required |
+| 5 | Personal Growth Plan | Block D | 7.5% | [ ] Complete | |
+| 6 | Performance Summary (calibration-ready) | Block D | 7.5% | [ ] Complete | |
 
 **Total required artifacts: 6**
 
@@ -58,6 +58,7 @@ Before submitting, verify that your portfolio meets the following formatting sta
 - [ ] **Professional formatting** — Clean layout, readable fonts, appropriate use of tables and lists; no raw markdown or broken formatting in the PDF.
 - [ ] **Case context clearly identified** — Your selected case context is stated on the cover page and referenced throughout each artifact where relevant.
 - [ ] **AI assistance noted in footer** — If you used AI tools (e.g., ChatGPT, Claude, Copilot) in preparing any artifact, note this in the document footer. State which tools were used and for what purpose. This is a transparency requirement, not a penalty.
+- [ ] **QBR Video** — 5-minute maximum recording; Zoom-style presentation as if addressing your executive team; clear audio; screen share of key slides/visuals encouraged but not required.
 
 ---
 
@@ -84,13 +85,13 @@ Your portfolio will be evaluated according to the following weight distribution.
 
 | Component | Weight | Key Evaluation Focus |
 |---|---|---|
-| Participation & Preparedness | 15% | Engagement, role-play quality (SBI, calibration), peer review, red-team critiques, case preparation |
+| Participation & Preparedness | 15% | Engagement, role-play quality (SBI, calibration), class discussions, infrastructure activity, red-team critiques, case preparation |
 | Day 1 Checkpoint | 10% | Pass/fail: Team Charter complete, 6+ stakeholders mapped, 5+ roadmap items with RICE scores |
 | Hiring Packet | 20% | Role clarity, work sample design, rubric specificity, interview loop logic |
-| Roadmap + Executive Narrative | 20% | Strategic alignment, RICE rigor, risk awareness, narrative clarity, realism |
+| Roadmap + Executive Narrative | 15% | Strategic alignment, RICE rigor, risk awareness, narrative clarity, realism |
+| QBR Outline + QBR Video | 10% | Anticipates pushback, BLUF structure, specific and quantified ask |
 | Manager OS | 15% | Completeness, practicality, context adaptation, decision hygiene |
 | PGP + Performance Summary | 15% | Growth area specificity, plan actionability, calibration quality, SBI application |
-| Peer Feedback Quality | 5% | Specificity, actionability, balance, timeliness |
 | **Total** | **100%** | |
 
 ---

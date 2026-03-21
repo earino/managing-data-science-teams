@@ -52,6 +52,8 @@ Identify 2-3 areas for development. These are NOT weaknesses — they are the ne
 
 **Specificity check:** If your growth area could apply to any analyst anywhere (e.g., "improve communication"), it is too vague. Rewrite it until it is specific to THIS person in THIS context.
 
+**SBI check:** For each growth area, can you point to a specific Situation, Behavior, and Impact that illustrates the gap? If not, the growth area may be based on a general impression rather than observable evidence. Use SBI to ground your growth areas in concrete moments.
+
 ---
 
 ## Development Actions

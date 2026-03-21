@@ -4,7 +4,7 @@
 
 **A workshop-driven intensive on analytics leadership — from hiring to roadmaps to executive alignment.**
 
-This course is part of Central European University's MS in Business Analytics program. Students build a complete **Manager Operating System** by producing real management artifacts anchored to one of three realistic company scenarios. The capstone is a QBR simulation where students present their roadmap to a mock executive panel.
+This course is part of Central European University's MS in Business Analytics program. Students build a complete **Manager Operating System** by producing real management artifacts anchored to one of three realistic company scenarios. The capstone is an async QBR video where students present their roadmap to a virtual executive panel.
 
 ## Key Information
 
@@ -34,8 +34,8 @@ Each day has three 100-minute blocks with breaks between them.
 | Time | Block | Topic |
 |------|-------|-------|
 | 11:00–12:40 | **D** | Growth, Performance & Feedback |
-| 13:30–15:10 | **E** | Portfolio Workshop & Peer Review |
-| 15:30–17:10 | **F** | Leading Up/Across & QBR Simulation |
+| 13:30–15:10 | **E** | Infrastructure & Cross-Functional Interfaces |
+| 15:30–17:10 | **F** | Leading Up & Executive Communication |
 
 ## What Students Build
 
@@ -95,10 +95,10 @@ All work is anchored to one of three case contexts that students choose on Day 1
 │   │   ├── facilitator-notes.md
 │   │   ├── materials/             # SBI scenario cards, calibration profiles
 │   │   └── templates/             # PGP, performance summary
-│   ├── block-e-portfolio-workshop/
+│   ├── block-e-infrastructure/
 │   │   ├── slides.md
 │   │   └── facilitator-notes.md
-│   └── block-f-qbr-simulation/
+│   └── block-f-leading-up/
 │       ├── slides.md
 │       ├── facilitator-notes.md
 │       └── templates/             # QBR outline, portfolio checklist
@@ -122,10 +122,10 @@ All work is anchored to one of three case contexts that students choose on Day 1
 | Participation & Preparedness | 15% | Ongoing |
 | Day 1 Checkpoint (draft artifacts) | 10% | March 16, 17:10 |
 | Hiring Packet | 20% | March 30, 23:59 CET |
-| Roadmap + Executive Narrative | 20% | March 30, 23:59 CET |
+| Roadmap + Executive Narrative | 15% | March 30, 23:59 CET |
+| QBR Outline + QBR Video | 10% | March 30, 23:59 CET |
 | Manager OS Document | 15% | March 30, 23:59 CET |
 | PGP + Performance Summary | 15% | March 30, 23:59 CET |
-| Peer Feedback Quality | 5% | March 25, 23:59 CET |
 
 Full rubrics are in [`assessment/grading-rubrics.md`](assessment/grading-rubrics.md).
 

@@ -70,12 +70,12 @@ REQUIRED_FILES = [
     "day-2/block-d-growth/templates/performance-summary.md",
     "day-2/block-d-growth/materials/sbi-scenario-cards.md",
     "day-2/block-d-growth/materials/calibration-profiles.md",
-    "day-2/block-e-portfolio-workshop/slides.md",
-    "day-2/block-e-portfolio-workshop/facilitator-notes.md",
-    "day-2/block-f-qbr-simulation/slides.md",
-    "day-2/block-f-qbr-simulation/facilitator-notes.md",
-    "day-2/block-f-qbr-simulation/templates/qbr-outline.md",
-    "day-2/block-f-qbr-simulation/templates/portfolio-checklist.md",
+    "day-2/block-e-infrastructure/slides.md",
+    "day-2/block-e-infrastructure/facilitator-notes.md",
+    "day-2/block-f-leading-up/slides.md",
+    "day-2/block-f-leading-up/facilitator-notes.md",
+    "day-2/block-f-leading-up/templates/qbr-outline.md",
+    "day-2/block-f-leading-up/templates/portfolio-checklist.md",
     # Supporting files
     "case-contexts/small-seed-stage.md",
     "case-contexts/medium-series-b.md",
@@ -207,7 +207,7 @@ LO_CHECKS = [
     ),
     (
         "LO6 Align leadership",
-        "day-2/block-f-qbr-simulation/slides.md",
+        "day-2/block-f-leading-up/slides.md",
         ["QBR", "executive", "alignment"],
     ),
 ]
@@ -276,7 +276,6 @@ RUBRIC_SECTIONS = [
     ("Roadmap", [r"roadmap"]),
     ("Manager OS", [r"manager\s*os"]),
     ("PGP / Growth Plan", [r"pgp", r"growth\s*plan", r"performance"]),
-    ("Peer Feedback", [r"peer\s*feedback"]),
 ]
 
 if not RUBRIC_PATH.is_file():

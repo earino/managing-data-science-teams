@@ -100,6 +100,18 @@ Print or display one scenario per pair. Each round, partners swap roles (giver �
 
 ---
 
+## Scenario 9: The AI-Assisted Report
+
+**Context:** You manage Liam, a mid-level data analyst (L3, 1.5 years on the team).
+
+**What happened:** Last week Liam delivered a quarterly market analysis to the VP of Strategy two days ahead of deadline. The VP was impressed — until she noticed that two of the benchmark statistics didn't match her industry knowledge. She checked: the numbers were fabricated by the LLM Liam used to draft the report. Liam had used Claude to generate the first draft and edited it for narrative flow, but didn't verify the external statistics. The VP caught it before it reached the board, but she told you: "I can't trust reports from your team if I have to fact-check every number."
+
+**Your task:** Give Liam feedback using SBI. The AI tool isn't the problem — the missing verification step is. Navigate the tension between encouraging AI-augmented productivity and maintaining analytical rigor.
+
+**For the receiver:** You're Liam. You used AI to work faster and you're proud of the early delivery. You feel the VP is overreacting — "it was just two numbers and they were close." You're worried that admitting the error means you'll be told to stop using AI tools entirely.
+
+---
+
 ## Facilitator Instructions
 
 ### Setup (2 minutes)

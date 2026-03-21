@@ -9,7 +9,7 @@
 - **Room:** Arrive 15 minutes early. Set up the welcome-back slide (Slide 1) on screen before students enter.
 - **Energy:** This is the opening block of Day 2. A week has passed. Students may have lost some of the Day 1 momentum. Start with warm, welcoming energy. Acknowledge the gap: "It's good to see you again."
 - **Reading context:** Students were encouraged to read Grove Ch. 11 (Performance Reviews) and Fournier Ch. 6 (Managing a Team) before today. Reference these during the opening where relevant: "As Grove argues, the performance review is the most important form of task-relevant feedback a manager can provide." Use Fournier's framing on managing up and team dynamics to set the stage for the calibration and SBI exercises. The exercises are self-contained — students who haven't done the reading can participate fully. The readings enrich the experience but are not prerequisites.
-- **Materials:** Ensure PGP and Performance Summary templates are accessible (printed or shared digitally). Students will need the PGP template during the activity block.
+- **Materials:** Ensure PGP and Performance Summary templates are accessible (printed or shared digitally). Students will draft the PGP at home, but reference the template during the PGP lecture.
 - **NEW Materials:** Print or share the SBI scenario cards (`materials/sbi-scenario-cards.md`) and calibration profiles (`materials/calibration-profiles.md`). Each pair needs one scenario card. Each group of 4 needs one copy of all three calibration profiles.
 - **Day 1 Recap Slide:** Have a brief visual recap of what was built in Day 1 (Manager OS, hiring packet, roadmap). This re-orients students and reminds them of the arc.
 - **Hiring Packet Status:** Students began drafting their hiring packets in Block B. They will continue refining them as part of the final portfolio. No mid-week draft was due — acknowledge the Day 1 work: "You started your hiring packets in Block B. You'll have time to polish them before portfolio submission."
@@ -22,39 +22,41 @@
 
 | Time | Min | Duration | Slide(s) | Activity |
 |------|-----|----------|----------|----------|
-| 11:00 | 0 | 3 min | 1 | Title slide, welcome, learning outcomes |
-| 11:03 | 3 | 3 min | 3 | Welcome back — Day 1 recap, Day 2 overview |
-| 11:06 | 6 | 3 min | 4 | Why growth & performance matter |
-| 11:09 | 9 | 4 min | 5 | Career ladders for analytics |
-| 11:13 | 13 | 5 min | 6 | What "Senior" actually means — expect discussion |
-| 11:18 | 18 | 3 min | 7 | Personal Growth Plan (PGP) — PGP vs. PIP |
-| 11:21 | 21 | 4 min | 8 | PGP structure + SBI model |
-| 11:25 | 25 | 3 min | 9 | Radical Candor + feedback anti-patterns |
-| 11:28 | 28 | 4 min | 10 | Performance cycles & documentation |
-| 11:32 | 32 | 3 min | 11 | Calibration sessions |
-| 11:35 | 35 | — | 12 | The ethical PIP |
-| **11:35** | **35** | **22 min** | **14** | **Activity: SBI Feedback Role-Play** |
-| **11:57** | **57** | **17 min** | **16** | **Activity: Mock Calibration** |
-| **12:14** | **74** | **17 min** | **18** | **Activity: PGP Draft** |
-| 12:31 | 91 | 9 min | 19–22 | Debrief + Key takeaways + Transition to Block E |
+| 11:00 | 0 | 3 min | 1–3 | Title slide, welcome, learning outcomes |
+| 11:03 | 3 | 3 min | 4–5 | Welcome back — Day 1 recap, Day 2 overview |
+| 11:06 | 6 | 3 min | 6 | Why growth & performance matter |
+| 11:09 | 9 | 4 min | 7–8 | Career ladders + what "Senior" means |
+| 11:13 | 13 | 5 min | 9 | What "Senior" means — Mid vs. Senior (expect discussion) |
+| 11:18 | 18 | 3 min | 10–11 | Two Tools (PGP vs. PIP) + comparison table |
+| 11:21 | 21 | 3 min | 12–13 | PGP structure + examples by level |
+| 11:24 | 24 | 3 min | 14 | SBI model |
+| **11:27** | **27** | **25 min** | **15–17** | **Activity: SBI Feedback Role-Play** |
+| 11:52 | 52 | 3 min | 18 | Radical Candor + anti-patterns |
+| 11:55 | 55 | 4 min | 19 | Manager Log |
+| 11:59 | 59 | 3 min | 20 | Calibration sessions |
+| 12:02 | 62 | — | 21 | The ethical PIP (cut if behind) |
+| **12:02** | **62** | **20 min** | **22–23** | **Activity: Mock Calibration** |
+| 12:22 | 82 | 8 min | 24–27 | Debrief + Micro-draft + Key takeaways + Transition |
 
 **Total: 100 minutes**
 
 **Timing notes:**
-- Teaching is compressed to 35 minutes. Move briskly through lecture slides. The learning happens in the three activities, not in the lecture.
-- The "What Senior Means" slide (slide 6) tends to generate discussion. Let it breathe for a minute, but don't let it consume the block. You can say: "This is a rich topic — we'll use it in the PGP exercise."
-- The PIP slide (slide 12) is emotionally loaded. Slow down. Make eye contact. If someone shares a difficult experience, acknowledge it.
+- Lecture is interleaved with activities: 24 min lecture → 25 min SBI practice → 10 min lecture → 20 min calibration practice → 8 min debrief
+- This "teach then practice" rhythm prevents cognitive overload and keeps energy up
+- The "What Senior Means" slide (slide 6) tends to generate discussion. Let it breathe for a minute, but don't let it consume the block. You can say: "This is a rich topic — we'll use it in the PGP homework."
+- The PIP slide (slide 21) is emotionally loaded. Slow down. Make eye contact. If someone shares a difficult experience, acknowledge it.
 - If you're running behind on lecture, compress the ethical PIP slide — students can read it. Protect activity time.
 
 ---
 
 ## Activity Facilitation
 
-### SBI Feedback Role-Play (22 minutes)
+### SBI Feedback Role-Play (25 minutes)
 
 **This is the highest-priority new activity.** Protect this time.
 
 **Setup (2 min):**
+- **Model it first.** Before pairing off, do a 60-second live demo with a volunteer. Pick a simple scenario (e.g., Scenario 6 — positive feedback). Deliver SBI feedback to the volunteer so students see what "good" sounds like before they try it. This costs one minute and prevents the blank-stare problem.
 - Pair students. Distribute scenario cards (one per pair).
 - Explain: "Two rounds. Round 1: Partner A gives feedback using SBI, Partner B receives in character. After 8 minutes, 2 minutes of pair debrief. Then swap for Round 2."
 - Emphasize: "Stay in character. If the feedback makes you defensive, be defensive. That's real."
@@ -71,10 +73,14 @@
 - Swap roles. Assign a new scenario or let them continue.
 - Same coaching approach.
 
-**Transition to next activity:**
-- Don't over-debrief here — save it for the full debrief at the end. Just ask: "Quick show of hands — who found articulating the impact statement hardest?" This validates the common struggle and transitions to the next activity.
+**If a student becomes visibly upset:**
+- The SBI role-play can surface real emotions, especially scenarios involving credit-taking or being told you're underperforming. If someone crosses from productive discomfort into genuine distress: pause, check in privately ("Do you want to take a minute?"), and let them opt out of round 2 without making it a scene. The learning goal is practice, not endurance.
 
-### Mock Calibration (17 minutes)
+**Transition to next activity:**
+- Don't over-debrief here — save it for the full debrief at the end. Just ask: "Quick show of hands — who found articulating the impact statement hardest?" This validates the common struggle.
+- Give a 60-second buffer: "Stand up, stretch, find your group of four for the next activity." Students need a moment to mentally reset after emotionally intense pair work.
+
+### Mock Calibration (20 minutes)
 
 **This activity surfaces the discomfort of real calibration.**
 
@@ -90,26 +96,24 @@
 - "Reveal your ratings simultaneously. Where you agree, confirm quickly. Where you disagree — discuss."
 - Listen for:
   - **Profile A (Dana, L3):** Most students rate Exceeds. The interesting discussion is whether the prioritization issue and Python avoidance pull her to Meets.
-  - **Profile B (Kevin, L4):** This is the most contested. Technically brilliant but scope creep + team dynamics. "Exceeds on technical impact, Meets or Below on team leadership." The tension between individual brilliance and team elevation is the real learning.
+  - **Profile B (Kevin, L4):** This is the most contested. Technically brilliant but scope creep + team dynamics + AI usage creating reviewability concerns. "Exceeds on technical impact, Meets or Below on team leadership." The AI dimension adds a 2026-specific wrinkle: does AI-augmented volume with quality risks count as high performance? The tension between individual brilliance and team elevation is the real learning.
   - **Profile C (Mika, L2):** Split between Meets and Below. The "reliability vs. independence" tension. Students who've managed juniors tend to be more generous; students focused on the stats error tend to rate Below.
 
 **Reflection (2 min):**
 - Ask each group: "Which profile was most contested?" (Almost always Kevin.)
 - Key insight to surface: "Notice how 'what's expected at this level' changes everything. Kevin's work would be exceptional for an L3. The question is whether it's enough for an L4."
 
-### PGP Draft (17 minutes)
+### Micro-Draft: One SBI Development Area (5 minutes)
 
-**Compressed from the original 25+20 minutes. Students focus on two sections only.**
+**This bridges the calibration skill to the written portfolio artifact.** Students open the Performance Summary template and write one development area using SBI format for one of the three profiles they just calibrated. This is the exact format the rubric requires ("evidence of SBI application").
 
-- Direct students to the PGP template. **Also point them to the `materials/pgp-starter-template.md`** — this provides example growth areas and sentence starters to reduce blank-page paralysis.
-- "Focus on Growth Areas and Development Actions. Two sections, 17 minutes. Be specific enough that you could check in next month and know whether progress happened."
-- **If students are staring at a blank page after 2 minutes,** prompt them: "Look at the PGP starter template. Pick the growth area that resonates most, adapt it to your case context, and write from there. You can always change it later — the point is to start."
-- Circulate. Common coaching moments:
-  - "Improve communication" → "What aspect of communication? In what context? By when?"
-  - Missing timelines → "When will this happen? What's the first step?"
-  - Generic actions → "Is this specific enough that someone could hold you accountable?"
-- Remind students at 12 minutes: "5 minutes left. Finish the section you're on."
-- Students complete the remaining PGP sections (Strengths, Support Needed, 6-Month Vision) as homework.
+- Circulate and check: are they writing in SBI format (Situation → Behavior → Impact → Recommendation)?
+- Common mistake: writing general impressions ("Kevin needs to communicate better") instead of SBI-grounded evidence. Push for specificity.
+- If someone finishes early: have them write a second development area for a different profile.
+
+**PGP Draft — Homework**
+
+The PGP Draft is now completed at home. During the PGP lecture, emphasize that students have the template (`templates/pgp.md`) and the starter template (`materials/pgp-starter-template.md`) with example growth areas and sentence starters. Remind them to apply the specificity test: "Improve communication" → "Present technical findings to non-technical stakeholders in under 5 minutes, starting at next product review."
 
 ---
 
@@ -160,9 +164,9 @@ Answer: "As honest as the trust relationship allows. Start with observations if 
 ## Transition Notes to Block E
 
 - **Lunch break:** 12:40–13:30 (50 minutes).
-- **Bridge from D to E:** "Block D was about growing people and practicing the hardest conversations in management. Block E is about strengthening the artifacts you've built — your portfolio. You'll revise your weakest artifact, give and receive peer feedback using SBI, and prep for the QBR."
-- **Prompt to carry forward:** "Over lunch, think about which of your portfolio artifacts is the weakest. That's where you'll focus in Block E."
-- **Portfolio reminder:** The PGP and Performance Summary are portfolio deliverables (15% weight combined). Students who didn't finish the PGP in class should complete all sections before the portfolio deadline.
+- **Bridge from D to E:** "Block D was about growing people and practicing the hardest conversations in management. Block E shifts to infrastructure — data stacks, build vs. buy decisions, and working with engineering and IT."
+- **Prompt to carry forward:** "Over lunch, think about what the data infrastructure looks like in your case context. That's what we'll be working with in Block E."
+- **Portfolio reminder:** The PGP and Performance Summary are portfolio deliverables (15% weight combined). Students complete the PGP at home — remind them to finish all sections before the portfolio deadline.
 
 ---
 
@@ -174,5 +178,5 @@ Answer: "As honest as the trust relationship allows. Start with observations if 
 - [ ] **SBI scenario cards printed** — one per pair, enough variety for the class
 - [ ] **Calibration profiles printed** — one set per group of 4
 - [ ] Day 1 recap slide prepared
-- [ ] Timer visible for activities (22 min SBI, 17 min calibration, 17 min PGP)
+- [ ] Timer visible for activities (25 min SBI, 20 min calibration)
 - [ ] Sticky notes or index cards for calibration rating reveals

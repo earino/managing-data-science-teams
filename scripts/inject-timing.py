@@ -125,7 +125,7 @@ BLOCKS = [
         "path": ROOT / "day-2" / "block-d-growth" / "slides.md",
         "start": "11:00",
         "duration": 100,
-        "expected_slides": 33,
+        "expected_slides": 27,
         "entries": [
             ("11:00", r(1, 2), None),      # Title + Learning Outcomes
             ("11:03", r(3, 4), None),       # Welcome Back (2 slides)
@@ -145,45 +145,56 @@ BLOCKS = [
         ],
     },
 
-    # ---- BLOCK E: Portfolio Workshop & Peer Review (Day 2, 13:30–15:10, 100 min, 18 slides) ----
+    # ---- BLOCK E: Infrastructure & Cross-Functional Interfaces (Day 2, 13:30–15:10, 100 min, 26 slides) ----
     # NOTE: Facilitator notes count Marp config as "slide 1".
     # Actual slide 1 = notes slide 2, etc.
     {
-        "path": ROOT / "day-2" / "block-e-portfolio-workshop" / "slides.md",
+        "path": ROOT / "day-2" / "block-e-infrastructure" / "slides.md",
         "start": "13:30",
         "duration": 100,
-        "expected_slides": 18,
+        "expected_slides": 26,
         "entries": [
             ("13:30", r(1, 3), None),       # Title + Learning Outcomes + Shifting Gears
-            ("13:32", r(4, 5), None),       # Portfolio Status + Revision Mindset
-            ("13:35", [6], None),           # Quick Self-Assessment
-            ("13:38", r(7, 8), "Activity brief — Revision Workshop starts at 13:40"),
-            ("14:10", r(9, 12), "Peer Review setup + instructions"),
-            ("14:45", r(13, 14), "QBR Prep (10 min)"),
-            ("14:55", [15], "Instructor Q&A / Office Hours (15 min)"),
-            ("15:10", r(16, 18), "Block recap + Transition to Block F"),
+            ("13:32", [4], "Why Infrastructure Matters (3 min)"),
+            ("13:35", r(5, 6), "XFN Universe + Failure Modes (6 min)"),
+            ("13:41", r(7, 9), "Bidirectional SLAs + template + example (6 min)"),
+            ("13:47", r(10, 11), "Blueprint + Architecture Diagrams (6 min)"),
+            ("13:53", r(12, 13), "Build vs. Buy + Hidden Costs (8 min)"),
+            ("14:01", [14], "Pair discussion: build or buy (2 min)"),
+            ("14:03", [15], "Stack progression story (3 min)"),
+            ("14:06", [16], "Small Org Stack (3 min)"),
+            ("14:09", r(17, 18), "Medium + Large Org Stacks (3 min)"),
+            ("14:12", [19], "Migration Trap (2 min)"),
+            ("14:14", [20], "What You Inherit (3 min)"),
+            ("14:17", [21], "Privacy & Governance (3 min)"),
+            ("14:19", r(22, 23), "Activity: Data Infra Decision Brief (20 min)"),
+            ("14:39", [24], "Debrief + Share-Out (15 min)"),
+            ("14:54", r(25, 26), "Buffer + Transition to Block F"),
         ],
     },
 
-    # ---- BLOCK F: Leading Up & Across; QBR Simulation (Day 2, 15:30–17:10, 100 min, 60 slides) ----
+    # ---- BLOCK F: Leading Up & Executive Communication (Day 2, 15:30–17:10, 100 min, 30 slides) ----
     {
-        "path": ROOT / "day-2" / "block-f-qbr-simulation" / "slides.md",
+        "path": ROOT / "day-2" / "block-f-leading-up" / "slides.md",
         "start": "15:30",
         "duration": 100,
-        "expected_slides": 60,
+        "expected_slides": 30,
         "entries": [
-            ("15:30", r(1, 2), None),
-            ("15:32", r(3, 6), None),
-            ("15:38", r(7, 11), None),
-            ("15:43", r(12, 15), None),
-            ("15:47", r(16, 23), None),
-            ("15:50", r(24, 31), None),
-            ("15:53", r(32, 44), "QBR brief + Role cards — advance briskly"),
-            ("16:00", [45], "QBR Simulation (50 min)"),
-            ("16:50", [46], "Simulation Debrief (8 min)"),
-            ("16:58", r(47, 51), "Portfolio Checklist walkthrough"),
-            ("17:02", r(52, 55), "Next 90 Days + Peer Feedback reminder"),
-            ("17:04", r(56, 60), "Close — celebration + final words"),
+            ("15:30", r(1, 2), None),       # Title + Final Block recap
+            ("15:32", [3], "IC-to-Manager shift (3 min)"),
+            ("15:35", r(4, 5), "Tentpoles of Managing Up + QBR zoom-in (5 min)"),
+            ("15:40", r(6, 8), "Exec comm frameworks: BLUF, Attention Budget, Three Questions (8 min)"),
+            ("15:48", r(9, 11), "Anti-Patterns + Art of the Ask + Escalation (6 min)"),
+            ("15:54", r(12, 15), "Communicating Failure (10 min)"),
+            ("16:04", r(16, 17), "Discussion: delivering worst news (15 min)"),
+            ("16:19", [18], "Your VP Relationship (3 min)"),
+            ("16:22", r(19, 20), "BLUF Rehearsal — two rounds (15 min)"),
+            ("16:37", [21], "AI and the Changing Manager Role (3 min)"),
+            ("16:40", r(22, 24), "Async QBR briefing (8 min)"),
+            ("16:48", [25], "All Graded Work (3 min)"),
+            ("16:51", [26], "First 90 Days (3 min)"),
+            ("16:54", [27], "Learner reflection (2 min)"),
+            ("16:56", r(28, 30), "Course close (8 min)"),
         ],
     },
 ]
