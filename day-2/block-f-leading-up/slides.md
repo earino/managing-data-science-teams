@@ -100,7 +100,7 @@ Every framework in this block is a tool for these moments.
 
 Here's a test: if an executive read **only your first sentence**, would they know your main message? If not, restructure.
 
-<!-- Talk track: The Pyramid Principle comes from Barbara Minto at McKinsey. Start with the conclusion, then supporting arguments, then data if asked. BLUF is the military version of the same idea. Here's why this is hard for you specifically: your academic training taught you to build from methodology to conclusion. Executives want the opposite — conclusion first, evidence on request. Unlearning the academic structure is the single hardest communication habit to break. You practiced BLUF in Day 1 for your executive narrative, and in Block E when you wrote your VP proposal. Now we're going deeper. -->
+<!-- Talk track: The Pyramid Principle comes from Barbara Minto at McKinsey. Start with the conclusion, then supporting arguments, then data if asked. BLUF is the military version of the same idea. Here's why this is hard for you specifically: your academic training taught you to build from methodology to conclusion. Executives want the opposite — conclusion first, evidence on request. Unlearning the academic structure is the single hardest communication habit to break. You practiced BLUF in Day 1 for your executive narrative, and in Block E when you wrote your VP proposal. Now you're applying it to the highest-stakes context — the QBR. -->
 
 ---
 
@@ -133,7 +133,7 @@ Every executive presentation should answer **three questions:**
 
 **Everything else is context.** Put these three answers on your first slide.
 
-<!-- Talk track: There are exactly three things executives want to know. First: are we on track? Give me a color — green, yellow, red. Don't make me guess. Second: what are the risks? Don't hide bad news. Executives hate surprises more than they hate bad news. If your model is underperforming, say so and say what you're doing about it. Third: what do you need from me? This is the one people forget. Executives want to help — they want to unblock you. But you have to ask. If you don't need anything, say "no asks this quarter" — that's actually reassuring. -->
+<!-- Talk track: There are exactly three things executives want to know. First: are we on track? Give me a color — green, yellow, red. Don't make me guess. Second: what are the risks? Don't hide bad news. Executives hate surprises more than they hate bad news. If your model is underperforming, say so and say what you're doing about it. Third: what do you need from me? This is the one people forget. Executives want to help — they want to unblock you. But you have to ask. If you don't need anything, say "no asks this quarter" — that's actually reassuring. Notice these are the same four things the QBR slide listed a moment ago. That's not a coincidence — these three questions ARE the QBR structure. -->
 
 ---
 
@@ -362,7 +362,7 @@ Every artifact you've built — Manager OS, hiring rubric, roadmap, infrastructu
 
 Apply everything from today: **Pyramid Principle, Art of the Ask, the Three Executive Questions.**
 
-<!-- Talk track: You'll submit two things: a written QBR outline and a five-minute video. In the video, you're presenting to your executive team on Zoom. You already practiced the opening — the four sentences you just delivered to your partner. In Block E, you practiced writing a VP proposal in BLUF format. The async QBR is both of those at higher stakes. Use everything you learned today. Lead with BLUF. Answer the three questions. Make your ask specific. Anticipate pushback. -->
+<!-- Talk track: You'll submit two things: a written QBR outline and a five-minute video. In the video, you're presenting to your executive team on Zoom. You already practiced the opening — the four sentences you just delivered to your partner. In Block E, you practiced writing a VP proposal in BLUF format. The async QBR is both of those at higher stakes — the QBR outline and video together are worth 10% of your grade. Use everything you learned today. Lead with BLUF. Answer the three questions. Make your ask specific. Anticipate pushback. -->
 
 ---
 
