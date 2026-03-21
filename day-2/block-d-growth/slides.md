@@ -326,7 +326,7 @@ The manager log is what makes this possible.
 
 ---
 
-<!-- ⏱ Expected: 12:25 (min 85/100) | Key Takeaways + Transition -->
+<!-- ⏱ Expected: 12:20 (min 80/100) | Debrief -->
 ## Debrief
 
 **From the SBI role-play:**
@@ -341,7 +341,7 @@ The manager log is what makes this possible.
 
 ---
 
-<!-- ⏱ Expected: 12:20 (min 80/100) | Micro-draft: bridge to portfolio (5 min) -->
+<!-- ⏱ Expected: 12:22 (min 82/100) | Micro-draft: bridge to portfolio (5 min) -->
 ## Quick Draft: One SBI Development Area
 
 **5 minutes** | Open `templates/performance-summary.md`
@@ -359,7 +359,7 @@ This is the exact format your Performance Summary requires. You're practicing it
 
 ---
 
-<!-- ⏱ Expected: 12:25 (min 85/100) | Key Takeaways + Transition -->
+<!-- ⏱ Expected: 12:27 (min 87/100) | Key Takeaways + Transition -->
 ## Key Takeaways
 
 - **SBI separates observation from judgment.** That's what makes feedback hearable.
@@ -370,7 +370,7 @@ This is the exact format your Performance Summary requires. You're practicing it
 
 ---
 
-<!-- ⏱ Expected: 12:25 (min 85/100) | Key Takeaways + Transition -->
+<!-- ⏱ Expected: 12:27 (min 87/100) | Key Takeaways + Transition -->
 ## Key Takeaways
 
 - **Senior = scope + autonomy + ambiguity tolerance.** Not years.
@@ -383,7 +383,7 @@ This is the exact format your Performance Summary requires. You're practicing it
 
 ---
 
-<!-- ⏱ Expected: 12:25 (min 85/100) | Key Takeaways + Transition -->
+<!-- ⏱ Expected: 12:27 (min 87/100) | Key Takeaways + Transition -->
 <!-- _class: divider -->
 
 ## Up Next: Block E
@@ -395,7 +395,7 @@ This is the exact format your Performance Summary requires. You're practicing it
 
 ---
 
-<!-- ⏱ Expected: 12:25 (min 85/100) | Key Takeaways + Transition -->
+<!-- ⏱ Expected: 12:27 (min 87/100) | Key Takeaways + Transition -->
 ## Transition to Block E
 
 **After lunch: Block E — Infrastructure & Cross-Functional Interfaces (13:30–15:10)**

@@ -375,7 +375,6 @@ Avoid proprietary lock-in where you can. Use standard SQL. Use standard file for
 
 **For everyone:**
 - Refer back to the blueprint slide for the canonical layers
-- Use the cost estimates from the slides as a starting point
 - Use the cost estimates from the stack-by-size slides — order of magnitude is fine, don't Google exact pricing
 - Think about what IT would push back on in your plan
 
