@@ -90,9 +90,31 @@ Students sketch their case context's infrastructure stack on one page.
 - **RFP Scoring Matrix:** optional artifact, template at `resources/rfp-scoring-matrix-template.md`
 - Neither is required but both demonstrate additional depth
 
+## Lecture Teaching Notes
+
+**Stack by Size (10 min):** The story to tell is *progression*, not tools. The point is not "use Fivetran" — it's that a small org needs trusted numbers fast and should resist over-engineering, a medium org needs self-serve and observability, and a large org needs governance and domain autonomy. Linger on the *transitions* between sizes, not the tool tables. Ask: "What changes when you go from 5 people to 50? What breaks?"
+
+**Build vs. Buy (8 min):** The key teaching moment is opportunity cost — "what your team doesn't build while maintaining infrastructure." The Airflow comparison table is designed to make this concrete. Let the numbers speak.
+
+**If energy dips around slides 12-14** (the stack tables): Consider pausing for a 90-second pair turn: "Turn to your neighbor — what's one tool in your case context you'd definitely buy vs. build?" This breaks the lecture monologue at near-zero time cost.
+
+## Common Questions and How to Handle Them
+
+**"Should we use Snowflake or BigQuery?"**
+Redirect: "Great question — let's apply the framework. Is this a core differentiator? No. Do you have the team to self-host? Apply the four questions to your case context." Do not recommend specific vendors.
+
+**"What about AI/LLM infrastructure?"**
+Acknowledge: "The stack is evolving fast. Model serving, vector databases, and LLM API costs are becoming a real layer. For this exercise, focus on the data stack foundations — but if you're in a case context where ML is core, note where model infrastructure fits."
+
+**"This seems like a lot of tools. Do we really need all of them?"**
+Redirect: "That's exactly the right instinct. The small org stack has 4-5 tools. The answer to 'do we need this?' is always 'what pain does it solve, and do we feel that pain yet?'"
+
+**"How do I convince my CTO/VP to approve a tool purchase?"**
+Bridge to Block F: "That's an executive communication problem — exactly what we'll cover in Block F. You'll learn the Art of the Ask framework in about an hour."
+
 ## Vendor Neutrality
 
-Maintain absolute vendor neutrality. Use specific tool names only as examples of categories, never as recommendations. Students will ask "should we use Snowflake or BigQuery?" — redirect to the Build vs. Buy framework and their specific case context constraints.
+Maintain absolute vendor neutrality. Use specific tool names only as examples of categories, never as recommendations.
 
 ## Materials Checklist
 

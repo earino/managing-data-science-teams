@@ -61,7 +61,7 @@ You don't need to be a data engineer — but you need to understand the stack we
 
 Your analysts can only analyze what they can access. If the infrastructure is broken, their skills don't matter.
 
-<!-- Talk track: Your analysts can only analyze what they can access. If the infrastructure is broken, their skills don't matter. The manager's job is not to configure the tools — it's to make the right choices about which tools, how much to invest, and who owns what. -->
+<!-- Talk track: Here's a scenario I've seen: a team of brilliant analysts, all with PhDs, completely blocked because their data pipeline broke over a weekend and nobody knew how to fix it. The work stopped for three days. The manager's job is not to fix the pipeline — it's to make sure the right infrastructure decisions were made so that doesn't happen. That's what this block is about. -->
 
 ---
 
@@ -162,7 +162,7 @@ With cross-cutting concerns at every layer:
 
 **Anchor this slide.** We'll come back to it throughout the block.
 
-<!-- Talk track: Here's the big picture. Every modern data stack follows this flow. This diagram is the anchor for the rest of this block. When we talk about specific tools, always ask: where does this fit in the flow? -->
+<!-- Talk track: Let me walk you through this with a concrete example. Your app generates a click event when a user signs up. That event flows through ingestion — something like Fivetran pulls it into your warehouse. Storage is where it lands — BigQuery, Snowflake. Transform is where dbt cleans it up and joins it with other tables. The semantic layer is where you define what "active user" means so the whole company uses the same number. And visualization is the Looker dashboard your VP checks every Monday. At every layer, you're asking: is it working, what happens when it breaks, and what does it cost? This flow is the mental model for the rest of this block. -->
 
 ---
 
@@ -178,7 +178,7 @@ With cross-cutting concerns at every layer:
 | **Semantic Layer** | Defines metrics so everyone agrees | "One definition of 'revenue'?" |
 | **Visualization** | Dashboards end users see | "Can stakeholders self-serve?" |
 
-<!-- Talk track: Each layer does one thing. If you come from a business or social science background and architecture diagrams feel intimidating, this table is for you. -->
+<!-- Talk track: Each layer does one thing. Even if you've built models in Python and run complex SQL, infrastructure architecture is a different vocabulary. This table translates it. The key questions in the right column are what you ask as a manager — you don't need to know how ingestion works, you need to know how fresh the data is. -->
 
 ---
 
@@ -261,7 +261,7 @@ Add to the medium stack:
 
 | Layer | Addition | Why now |
 |---|---|---|
-| **Architecture** | Data mesh / domain ownership | Decentralized ownership, centralized standards |
+| **Architecture** | Data mesh / domain ownership | Each business domain owns its data products; central team sets standards |
 | **ML platform** | MLflow, SageMaker, or Vertex | Model training, versioning, deployment |
 | **Feature store** | Feast or Tecton | Shared features across models |
 | **Model governance** | Model cards, bias audits, monitoring | Regulatory and ethical requirements |
@@ -424,7 +424,7 @@ For your case context, sketch a one-page **"Our Next 6 Months of Data Infrastruc
 4. **Budget estimate** — Monthly and annual costs
 5. **Top risk** — What could go wrong? What do you depend on?
 
-<!-- Talk track: Open the data infrastructure blueprint template for reference. You have 30 minutes. I want you to sketch a plan for your case context's data infrastructure. Be specific about tools — don't write "we need a warehouse," write "we'll use BigQuery because..." Small context students: resist the urge to over-engineer. Large context students: focus on what's achievable in 6 months. Go. I'll circulate. -->
+<!-- Talk track: The full template in your resources folder is comprehensive — it's designed for your portfolio. For this 30-minute exercise, focus on just the five items on the slide: current state, target architecture, key tools, budget, and top risk. Think of it as a sketch, not a finished document. Be specific about tools — don't write "we need a warehouse," write "we'll use BigQuery because..." Small context students: resist the urge to over-engineer. Large context students: focus on what's achievable in 6 months. Go. I'll circulate. -->
 
 ---
 
