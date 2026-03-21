@@ -380,39 +380,45 @@ You will almost never build a stack from scratch. You will **inherit** one. Befo
 
 **Time: 20 minutes | Working individually.**
 
-Write a one-page decision brief for your case context:
+1. **Current state** (5 min) — What exists today? Biggest pain point?
 
-1. **Current state** (5 min) — What infrastructure exists today? What's the biggest pain point?
+2. **AI impact** (8 min) — How does AI change your case context? Pick one lens:
+   - **Infrastructure:** AI tools — build or buy? At what cost?
+   - **People:** How do hiring criteria or team norms change?
+   - **Governance:** What new risks or policies do you need?
 
-2. **AI impact** (8 min) — How does AI change your case context? Pick whichever feels most urgent:
-   - **Infrastructure lens:** What AI tools would your team use? Build or buy? At what cost?
-   - **People lens:** How would you change your hiring rubric or team norms if ICs are AI-augmented?
-   - **Governance lens:** What new risks does AI introduce to your data stack? What policy do you need?
+3. **VP proposal** (7 min) — One paragraph, BLUF: What do you need? Why? Cost? Consequence of no?
 
-3. **VP proposal** (7 min) — One paragraph, BLUF format: What do you need? Why? What does it cost? What happens if you don't get it?
+<!-- Talk track: Three items, twenty minutes. First: current state — what exists and what's the biggest pain point. Five minutes. Second: how does AI change your case context? Pick the lens that feels most urgent — infrastructure, people, or governance. No wrong answer — the choice itself tells you something about your priorities. Eight minutes. Third: write a one-paragraph proposal to your VP. Lead with what you need. That's BLUF — you practiced it in Day 1. Seven minutes. Go. -->
 
-<!-- Talk track: Three items, twenty minutes. First: current state — what exists and what's the biggest pain point. Five minutes. Second: how does AI change your case context? Pick the lens that feels most urgent — infrastructure, people, or governance. There's no wrong answer — the choice itself tells you something about your priorities. Eight minutes. Third: write a one-paragraph proposal to your VP. Lead with what you need, then why, then the cost, then what happens if you don't get it. That's BLUF — you practiced it in Day 1. Seven minutes. Go. I'll circulate. -->
+---
+
+<!-- ⏱ Expected: 14:19 (min 49/100) | Activity Example -->
+## Example: What a Good Decision Brief Looks Like
+
+**Current state:** "We run on BigQuery + dbt + Metabase. No observability. Dashboards broke twice last month — stakeholders found out before we did."
+
+**AI impact (governance lens):** "Three analysts use Claude daily for code and analysis drafts. No policy exists. Last week an analyst pasted customer churn data including email addresses into a prompt. We need an AI usage policy before someone pastes payment data."
+
+**VP proposal:** "We need two things: Monte Carlo for data observability ($1,500/month) and an approved AI usage policy (staff time only). Without observability, we'll keep getting surprised by broken dashboards. Without the AI policy, one analyst's mistake becomes a GDPR incident."
+
+<!-- Talk track: Here's what a good one looks like. Notice the current state is one sentence — not an architecture diagram. The AI impact picks a specific lens and names a specific incident. And the VP proposal leads with what's needed, quantifies the cost, and names the consequence of no. That's BLUF. Aim for this level of specificity. -->
 
 ---
 
 <!-- ⏱ Expected: 14:39 (min 69/100) | Debrief + Share-Out (15 min) -->
 ## Debrief: Share Your VP Proposal
 
-**15 minutes**
+**Share-out:** 2-3 volunteers read their VP proposal aloud (60 sec each).
+- Is the BLUF clear? Would you fund it?
 
-**Share-out (8 min):** 2-3 volunteers read their VP proposal aloud (60 seconds each). After each:
-- **Class:** Is the BLUF clear? Would you fund it?
-- **Instructor:** What made the ask compelling — or what's missing?
+**Discussion:** What AI lens did you pick? What made you choose it?
 
-**Discussion (7 min):**
-- What AI lens did you pick? What made you choose infrastructure over governance, or vice versa?
-- How does your case context drive your AI strategy?
+**Key insight:** The "right" answer depends on your constraints. **The framework is the answer.**
 
-**Key insight:** The "right" answer depends on your constraints. **The framework is the answer.** Infrastructure decisions are exactly the kind of thing you'll communicate to executives in Block F.
+_Portfolio connection: Data Infrastructure Blueprint and RFP Scoring Matrix are optional artifacts in `resources/`._
 
-**Portfolio connection:** Data Infrastructure Blueprint and RFP Scoring Matrix are optional artifacts — templates in `resources/`.
-
-<!-- Talk track: Let's hear some of these proposals. Who wants to go first? Read your VP paragraph — sixty seconds. Class, I want you to react: is the BLUF clear? Can you tell what they need and why in the first sentence? Would you fund it? After we hear two or three, let's talk about AI lenses. Who picked infrastructure? Who picked governance? What made you choose? Notice how your case context drove that decision — a startup worries about cost and policy, an enterprise worries about regulatory risk. That's the real lesson. -->
+<!-- Talk track: Let's hear some proposals. Who wants to go first? Read your VP paragraph — sixty seconds. Class: is the BLUF clear? Would you fund it? After two or three, let's talk AI lenses. Who picked infrastructure? Governance? What made you choose? Notice how case context drove that decision. That's the real lesson — and it's exactly the skill Block F formalizes. -->
 
 ---
 
