@@ -15,22 +15,24 @@
 
 | Clock | Min | Duration | Content |
 |-------|-----|----------|---------|
-| 15:30 | 0 | 2 min | Frame the block (1 slide) |
-| 15:32 | 2 | 12 min | IC-to-Manager shift + exec comm frameworks (5 slides) |
-| 15:44 | 14 | 6 min | Anti-Patterns + Managing Up (2 slides) |
-| 15:50 | 20 | 3 min | Your Relationship With Your VP |
-| 15:53 | 23 | 10 min | Communicating Failure (4 slides) |
-| 16:03 | 33 | 15 min | **Discussion: delivering worst news** (pair-then-plenary) |
-| 16:18 | 48 | 15 min | **BLUF Rehearsal** (write → deliver → revise → deliver again) |
-| 16:33 | 63 | 3 min | First 90 Days |
-| 16:36 | 66 | 3 min | AI and the Changing Manager Role |
-| 16:39 | 69 | 8 min | Async QBR briefing |
-| 16:47 | 77 | 3 min | Portfolio checklist |
-| 16:50 | 80 | 2 min | Learner reflection |
-| 16:52 | 82 | 8 min | Course close |
-| 17:00 | 90 | 10 min | Buffer |
+| 15:30 | 0 | 2 min | Frame the block |
+| 15:32 | 2 | 3 min | IC-to-Manager shift |
+| 15:35 | 5 | 5 min | Tentpoles of Managing Up + QBR zoom-in |
+| 15:40 | 10 | 8 min | Exec comm: BLUF, Attention Budget, Three Questions |
+| 15:48 | 18 | 6 min | Anti-Patterns + Art of the Ask + Escalation |
+| 15:54 | 24 | 10 min | Communicating Failure (4 slides) |
+| 16:04 | 34 | 15 min | **Discussion: delivering worst news** (pair-then-plenary) |
+| 16:19 | 49 | 3 min | Your Relationship With Your VP |
+| 16:22 | 52 | 15 min | **BLUF Rehearsal** (write → deliver → revise → deliver again) |
+| 16:37 | 67 | 3 min | AI and the Changing Manager Role |
+| 16:40 | 70 | 8 min | Async QBR briefing |
+| 16:48 | 78 | 3 min | All Graded Work |
+| 16:51 | 81 | 3 min | First 90 Days |
+| 16:54 | 84 | 2 min | Learner reflection |
+| 16:56 | 86 | 8 min | Course close |
+| 17:04 | 94 | 6 min | Buffer |
 
-**Note on buffer:** 10 minutes of buffer. The discussion will likely absorb some of this. If running ahead, let the close breathe.
+**Note on buffer:** 6 minutes of buffer. Tight but the content is right-sized. The discussion will absorb any slack.
 
 ## Key Teaching Points
 
@@ -43,9 +45,11 @@
 
 ### Do Not Skip
 - IC-to-Manager shift — it motivates every framework that follows
+- Tentpoles + QBR zoom-in — students need to know what a QBR IS before practicing one
 - Communicating Failure lecture — feeds directly into the discussion
+- VP Relationship — lands after the discussion as synthesis ("that conversation only works with trust")
 - BLUF Rehearsal — the capstone practice moment; every student delivers twice
-- Async QBR briefing — students need clear expectations for their 25% deliverable
+- Async QBR briefing — students need clear expectations for their deliverable
 - Course close — endings matter. Don't rush.
 
 ### Can Cut If Behind
@@ -80,12 +84,19 @@ This is dense — asking, trade-off framing, one-ask-per-meeting, when to escala
 
 Don't expand disagree-and-commit into a long discussion — it's a principle, not a framework. One sentence: "Argue in the room, then execute fully."
 
-### Your VP Relationship (3 min)
+### Tentpoles of Managing Up + QBR Zoom-in (5 min)
 
-This slide is the relationship layer on top of the communication frameworks. The key insight: "Build trust deposits before you make trust withdrawals." Frameworks are useless without a relationship. The most important bullet is "understand their priorities" — ask students: "What is YOUR VP being measured on? If you don't know, you can't frame your updates in terms they care about."
+The tentpoles slide gives students a MAP of their upward communication calendar. Don't just show the table — walk through it: "Weekly you check in with your VP. Monthly you present to peers. Quarterly you do the QBR." Then connect each framework to a tentpole: "BLUF? Every single one. Three Questions? Your weekly check-in. Art of the Ask? Your QBR."
 
-**Connect backward:** "This is why the Art of the Ask works — because you've already built the relationship."
-**Connect forward:** "And this is why Communicating Failure works — because when you've been transparent all along, one bad incident doesn't destroy trust."
+The QBR zoom-in slide defines the acronym students have been hearing all course. Read the "what they expect" bullets aloud — they map exactly to the Three Executive Questions. This is intentional. Say it: "Notice these are the same three questions. That's not a coincidence."
+
+**Key line to deliver:** "The work does not speak for itself — you speak for the work."
+
+### Your VP Relationship (3 min) — AFTER the discussion
+
+This slide lands after students have just practiced delivering bad news. The connection is: "That conversation you just practiced? It only works if you've built the relationship first." This is a synthesis moment, not a new lecture. The key insight: "Build trust deposits before you make trust withdrawals."
+
+The most important bullet is "understand their priorities." Ask: "What is YOUR VP being measured on? If you don't know, you can't frame your updates in terms they care about."
 
 ### Communicating Failure (10 min, 4 slides)
 

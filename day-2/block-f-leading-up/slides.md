@@ -33,7 +33,7 @@ Now you learn to **communicate it all to leadership**. This skill separates anal
 
 ---
 
-<!-- ⏱ Expected: 15:32 (min 2/100) | IC-to-Manager Shift + Exec Communication (12 min) -->
+<!-- ⏱ Expected: 15:32 (min 2/100) | IC-to-Manager Shift (3 min) -->
 ## The Shift: IC Communication → Manager Communication
 
 You just got promoted. Everything about how you communicate upward changes.
@@ -52,22 +52,46 @@ You just got promoted. Everything about how you communicate upward changes.
 
 ---
 
-<!-- ⏱ Expected: 15:32 (min 2/100) -->
-## Why Executive Communication Is a Survival Skill
+<!-- ⏱ Expected: 15:35 (min 5/100) | Tentpoles (3 min) -->
+<!-- _class: compact -->
+## The Tentpoles of Managing Up
 
-Analytics teams that can't communicate their value **get cut**. The work **does not speak for itself** — you speak for the work.
+Your upward communication happens in **recurring rituals** — not ad hoc:
 
-Every budget cycle, every reorg, someone asks:
+| Ritual | Frequency | Audience | You bring |
+|---|---|---|---|
+| **VP Check-in** | Weekly | Your boss | Status, risks, asks |
+| **Business Review** | Monthly | Peers + leadership | Metrics, progress, blockers |
+| **QBR** | Quarterly | Exec team | Roadmap, wins, risks, asks |
+| **Incident Comm** | Ad hoc | VP + stakeholders | Impact, cause, fix |
+| **Half Retro** | Semi-annual | Leadership + team | Review + next-half plan |
 
-> "What does the analytics team actually do?"
+Every framework in this block is a tool for these moments.
 
-Your answer determines your team's future.
-
-<!-- Talk track: I want to be direct about why this matters. Analytics teams get cut. It happens all the time. Not because the work isn't valuable — but because the team couldn't articulate its value in terms the business understood. Every budget cycle, someone asks "what does analytics actually do?" Your answer to that question determines whether your team grows or gets absorbed into engineering. -->
+<!-- Talk track: Before I give you the frameworks, let me show you where you'll actually use them. As a manager, your upward communication isn't ad hoc — it happens in recurring rituals. Weekly, you check in with your VP. Monthly, you present to a broader group. Quarterly, you do a QBR — a formal review with the exec team. When something breaks, you communicate the incident upward. And semi-annually, you look back and plan forward. Every framework I'm about to teach you is a tool for one or more of these moments. The Three Questions? That's your weekly VP check-in. BLUF? That's every single one of them. Art of the Ask? That's your QBR. Communicating Failure? That's the ad hoc moment you hope is rare. -->
 
 ---
 
-<!-- ⏱ Expected: 15:32 (min 2/100) -->
+<!-- ⏱ Expected: 15:38 (min 8/100) | QBR Zoom-in (2 min) -->
+## The QBR — Your Highest-Stakes Tentpole
+
+**QBR = Quarterly Business Review.** The meeting where your team's budget, headcount, and survival get decided.
+
+**Who's in the room:** CEO, CTO, CFO, VP Product — people who control resources you need.
+
+**What they expect:**
+- Are we on track against last quarter's goals?
+- What did analytics deliver that moved the business?
+- What's at risk, and what are you doing about it?
+- What do you need from us?
+
+**Your capstone deliverable is a recorded QBR.** Everything in this block prepares you for it.
+
+<!-- Talk track: Let me zoom in on the QBR — the Quarterly Business Review. This is the highest-stakes ritual on your calendar. The CEO, CTO, CFO, and VP Product are in the room. They control your budget, your headcount, and frankly your team's existence. They expect four things: are we on track, what did we deliver, what's at risk, and what do you need. The work does not speak for itself — you speak for the work. Analytics teams that can't articulate their value in this meeting get quietly reorged out of existence. Your capstone deliverable simulates exactly this meeting. Everything I'm about to teach you prepares you for it. -->
+
+---
+
+<!-- ⏱ Expected: 15:40 (min 10/100) | Exec Comm Frameworks (8 min) -->
 ## Executive Communication: Frameworks
 
 **The Pyramid Principle:** Conclusion first, then supporting arguments, then data.
@@ -80,7 +104,7 @@ Here's a test: if an executive read **only your first sentence**, would they kno
 
 ---
 
-<!-- ⏱ Expected: 15:32 (min 2/100) -->
+<!-- ⏱ Expected: 15:40 (min 10/100) -->
 ## The Executive Attention Budget
 
 Executives make **30–50 decisions per day**. Your QBR is one of many.
@@ -95,7 +119,7 @@ Executives make **30–50 decisions per day**. Your QBR is one of many.
 
 ---
 
-<!-- ⏱ Expected: 15:32 (min 2/100) -->
+<!-- ⏱ Expected: 15:40 (min 10/100) -->
 ## What Executives Actually Want to Know
 
 Every executive presentation should answer **three questions:**
@@ -113,7 +137,7 @@ Every executive presentation should answer **three questions:**
 
 ---
 
-<!-- ⏱ Expected: 15:40 (min 10/100) | Anti-Patterns + Managing Up (6 min) -->
+<!-- ⏱ Expected: 15:48 (min 18/100) | Anti-Patterns + Managing Up (6 min) -->
 <!-- _class: compact -->
 ## The Anti-Patterns of Exec Presentations
 
@@ -129,41 +153,41 @@ Common failure modes — you will see all of these:
 
 ---
 
-<!-- ⏱ Expected: 15:40 (min 10/100) -->
-## Managing Up: The Art of the Ask + When to Escalate
+<!-- ⏱ Expected: 15:48 (min 18/100) -->
+## The Art of the Ask
 
-**The Art of the Ask — be specific and quantify the cost of no:**
+**Be specific and quantify the cost of no:**
 - Not: "We need more resources"
 - Instead: "We need one senior data engineer by Q2 — without them, self-serve slips to Q4, costing 40 analyst-hours/month"
-- **Frame as a trade-off:** "We can do both with one hire, or I deprioritize the churn model. Which do you prefer?"
-- **One ask per meeting.** Get one yes. Come back next month for the next one.
 
-**When to escalate** (not ask — escalate):
-- When the decision is **irreversible**, **affects other teams**, requires **resources you don't have**, or has **legal/compliance implications**
-- Always escalate with a **recommendation**, not just a problem
+**Frame as a trade-off:** "We can do both with one hire, or I deprioritize the churn model. Which do you prefer?"
+
+**One ask per meeting.** Get one yes. Come back next month for the next one.
+
+<!-- Talk track: I watched a brilliant analytics lead walk into a budget meeting and say "we need more resources." The CFO said "doesn't everyone?" and moved on. Three months later, the same person came back with a specific ask, a cost, and a consequence. She got the hire approved in that meeting. The difference was specificity. Frame your ask as a trade-off — give the exec a choice between two concrete options. And one ask per meeting. If you bring five, you get zero. -->
+
+---
+
+<!-- ⏱ Expected: 15:48 (min 18/100) -->
+## When to Escalate
+
+**Escalating is not the same as asking.** You ask when you need resources. You escalate when there's a decision you can't make alone.
+
+**When to escalate:**
+- When the decision is **irreversible**
+- When it **affects other teams** you don't control
+- When you need **resources you don't have**
+- When it has **legal, compliance, or reputational** implications
+
+**How:** Always escalate with a **recommendation**, not just a problem. "I don't know what to do" is not an escalation — it's an abdication.
 
 **"Disagree and commit"** — argue in the room, then execute fully. Quiet sabotage is career-ending.
 
-<!-- Talk track: I watched a brilliant analytics lead walk into a budget meeting and say "we need more resources." The CFO said "doesn't everyone?" and moved on. Three months later, the same person came back with a specific ask, a cost, and a consequence. She got the hire approved in that meeting. The difference was specificity. Frame your ask as a trade-off — give the exec a choice between two concrete options. And one ask per meeting. If you bring five, you get zero. Now — there's a difference between asking for resources and escalating problems. You ask when you need something. You escalate when there's a decision you can't make alone — irreversible, cross-functional, legal. Always escalate with a recommendation. "I don't know what to do" is not an escalation — it's an abdication. And once the decision is made, disagree and commit. Argue hard in the room. Then execute fully. -->
+<!-- Talk track: There's a difference between asking and escalating. You ask when you need something — a hire, a tool, a budget. You escalate when there's a decision you can't make alone — irreversible, cross-functional, legal. Always escalate with a recommendation. "I don't know what to do" is not an escalation — it's an abdication. And once the decision is made, disagree and commit. You can argue hard in the room. But once the call is made, execute fully. Passive-aggressive non-compliance — doing the thing you were told to do but doing it badly — is worse than open disagreement. -->
 
 ---
 
-<!-- ⏱ Expected: 15:47 (min 17/100) | Your VP Relationship (3 min) -->
-## Your Relationship With Your VP
-
-The frameworks only work if the relationship is there first. **Build trust deposits before you make trust withdrawals.**
-
-- **Meet regularly** — weekly or biweekly. Don't wait for them to schedule it. You request it.
-- **Always bring three things:** what's on track, what's at risk, what you need
-- **Never surprise them** — if bad news is coming, they hear it from you first, not from someone else's Slack message
-- **Understand their priorities** — what are THEY being measured on? Align your updates to that, not to your team's internal metrics
-- **Make their job easier** — the managers who get funded are the ones whose VPs never have to chase them for updates
-
-<!-- Talk track: All the frameworks we just covered — BLUF, Art of the Ask, escalation — they only work if you have a relationship with your VP. And relationships are built before you need them, not when you're desperate. Meet with your VP regularly — you request the meeting, not them. Always bring three things: what's on track, what's at risk, what you need. Never surprise them. And here's the one nobody tells you: understand what THEY'RE being measured on. If your VP is measured on revenue growth, frame your updates around revenue impact, not model accuracy. If they're measured on cost efficiency, frame around ROI. You're not being political — you're being relevant. The managers who get funded are the ones whose VPs never have to chase them for information. -->
-
----
-
-<!-- ⏱ Expected: 15:50 (min 20/100) | Communicating Failure (10 min) -->
+<!-- ⏱ Expected: 15:54 (min 24/100) | Communicating Failure (10 min) -->
 ## Incident Postmortems for Analytics: When Things Go Wrong
 
 When things go wrong — and they will:
@@ -177,7 +201,7 @@ What matters is not the failure. It's **how you respond**.
 
 ---
 
-<!-- ⏱ Expected: 15:46 (min 16/100) -->
+<!-- ⏱ Expected: 15:54 (min 24/100) -->
 ## Blameless Postmortems
 
 **Blameless culture:** Focus on **systems**, not people.
@@ -197,7 +221,7 @@ What matters is not the failure. It's **how you respond**.
 
 ---
 
-<!-- ⏱ Expected: 15:46 (min 16/100) -->
+<!-- ⏱ Expected: 15:54 (min 24/100) -->
 ## Communicating Failure Upward
 
 How to tell your VP that the dashboard was wrong, the model failed, or the project is behind.
@@ -212,7 +236,7 @@ How to tell your VP that the dashboard was wrong, the model failed, or the proje
 
 ---
 
-<!-- ⏱ Expected: 15:46 (min 16/100) -->
+<!-- ⏱ Expected: 15:54 (min 24/100) -->
 ## Communicating Failure Upward
 
 **The worst thing you can do:** Hide it. It always comes out, and now you have two problems — the incident and the cover-up.
@@ -226,7 +250,7 @@ Example: "P1 — Revenue dashboard showed incorrect data for 3 days — Resolved
 
 ---
 
-<!-- ⏱ Expected: 15:56 (min 26/100) | Discussion: delivering worst news (15 min) -->
+<!-- ⏱ Expected: 16:04 (min 34/100) | Discussion: delivering worst news (15 min) -->
 <!-- _class: divider -->
 
 ## Discussion: Delivering Your Worst News
@@ -235,7 +259,7 @@ Example: "P1 — Revenue dashboard showed incorrect data for 3 days — Resolved
 
 ---
 
-<!-- ⏱ Expected: 15:56 (min 26/100) -->
+<!-- ⏱ Expected: 16:04 (min 34/100) -->
 ## Discussion: Delivering Your Worst News
 
 Think about the worst thing happening in your case context right now. You have a meeting with your VP in one hour.
@@ -253,7 +277,22 @@ Use the framework: **Lead with impact → What happened → What you're doing �
 
 ---
 
-<!-- ⏱ Expected: 16:11 (min 41/100) | BLUF Rehearsal — expanded (15 min) -->
+<!-- ⏱ Expected: 16:19 (min 49/100) | VP Relationship (3 min) -->
+## Your Relationship With Your VP
+
+The frameworks only work if the relationship is there first. **Build trust deposits before you make trust withdrawals.**
+
+- **Meet regularly** — weekly or biweekly. Don't wait for them to schedule it. You request it.
+- **Always bring three things:** what's on track, what's at risk, what you need
+- **Never surprise them** — if bad news is coming, they hear it from you first, not from someone else's Slack message
+- **Understand their priorities** — what are THEY being measured on? Align your updates to that, not to your team's internal metrics
+- **Make their job easier** — the managers who get funded are the ones whose VPs never have to chase them for updates
+
+<!-- Talk track: You just practiced delivering bad news. That conversation only works if you've built the relationship first. All the frameworks — BLUF, Art of the Ask, the failure framework — they only work if your VP trusts you. And trust is built before you need it, not when you're desperate. Meet with your VP regularly — you request the meeting, not them. Always bring three things: what's on track, what's at risk, what you need. Never surprise them. And understand what THEY'RE being measured on. If your VP is measured on revenue growth, frame your updates around revenue impact. You're not being political — you're being relevant. -->
+
+---
+
+<!-- ⏱ Expected: 16:22 (min 52/100) | BLUF Rehearsal — expanded (15 min) -->
 <!-- _class: divider -->
 
 ## Practice: Your QBR Opening
@@ -262,7 +301,7 @@ Use the framework: **Lead with impact → What happened → What you're doing �
 
 ---
 
-<!-- ⏱ Expected: 16:11 (min 41/100) -->
+<!-- ⏱ Expected: 16:22 (min 52/100) -->
 ## Practice: Your QBR Opening
 
 **Round 1 — Write and deliver (8 min):**
@@ -284,23 +323,7 @@ Use the framework: **Lead with impact → What happened → What you're doing �
 
 ---
 
-<!-- ⏱ Expected: 16:26 (min 56/100) | First 90 Days (3 min) -->
-<!-- _class: compact -->
-## Your First 90 Days as an Analytics Manager
-
-| Phase | What to do | What NOT to do |
-|---|---|---|
-| **Days 1–30** | Listen. Meet every stakeholder. Understand the data landscape. | Don't change anything yet. You haven't earned credibility. |
-| **Days 31–60** | Fix one visible problem. Start 1:1s, team meetings, stakeholder syncs. Begin your Manager OS. | Don't try to fix everything. One quick win builds more trust than a grand plan. |
-| **Days 61–90** | Present your first roadmap. Make your first hiring recommendation. Deliver your first exec update. | Don't skip the exec presentation. Use BLUF, the Three Questions, and the Art of the Ask. |
-
-The core structure is the same at every org size — **listen, then quick wins, then strategy.**
-
-<!-- Talk track: Here's something concrete to take with you. Your first 90 days as an analytics manager. Days 1 through 30: shut up and listen. Meet every stakeholder. Audit the infrastructure — you practiced that in Block E. Don't change anything yet. Days 31 through 60: fix one visible problem. Start your cadences. Begin your Manager OS. Days 61 through 90: present your first roadmap. Make your first hire recommendation. Deliver your first exec update using everything you learned today. Notice how everything from this course maps onto these 90 days. Your Manager OS, your hiring packet, your roadmap, your infrastructure plan, your executive communication skills. It all connects. -->
-
----
-
-<!-- ⏱ Expected: 16:29 (min 59/100) | AI and the Changing Manager Role (3 min) -->
+<!-- ⏱ Expected: 16:37 (min 67/100) | AI (3 min) -->
 ## Managing in the Age of AI
 
 Your team in 2026 is a **hybrid human/AI team** — whether you've formalized it or not.
@@ -317,7 +340,18 @@ Every artifact you've built — Manager OS, hiring rubric, roadmap, infrastructu
 
 ---
 
-<!-- ⏱ Expected: 16:29 (min 59/100) | Async QBR briefing (8 min) -->
+<!-- ⏱ Expected: 16:40 (min 70/100) | Async QBR briefing (8 min) -->
+<!-- _class: divider -->
+
+## Your Capstone Deliverable
+
+## The Async QBR
+
+<!-- Talk track: OK — you've learned the frameworks, you've practiced the opening, you've felt the difference between round one and round two. Now let me brief you on the deliverable. -->
+
+---
+
+<!-- ⏱ Expected: 16:40 (min 70/100) -->
 ## Async QBR: Your Capstone Deliverable
 
 **What you submit** (as part of your final portfolio):
@@ -328,14 +362,14 @@ Every artifact you've built — Manager OS, hiring rubric, roadmap, infrastructu
 
 Apply everything from today: **Pyramid Principle, Art of the Ask, the Three Executive Questions.**
 
-<!-- Talk track: Now let me brief you on your capstone deliverable. You'll submit two things: a written QBR outline and a five-minute video. In the video, you're presenting to your executive team on Zoom. You already practiced the opening — the four sentences you just delivered to your partner. In Block E, you practiced writing a VP proposal in BLUF format. The async QBR is both of those at higher stakes, for 25% of your grade. Use everything you learned today. Lead with BLUF. Answer the three questions. Make your ask specific. Anticipate pushback. -->
+<!-- Talk track: You'll submit two things: a written QBR outline and a five-minute video. In the video, you're presenting to your executive team on Zoom. You already practiced the opening — the four sentences you just delivered to your partner. In Block E, you practiced writing a VP proposal in BLUF format. The async QBR is both of those at higher stakes. Use everything you learned today. Lead with BLUF. Answer the three questions. Make your ask specific. Anticipate pushback. -->
 
 ---
 
-<!-- ⏱ Expected: 16:29 (min 59/100) -->
+<!-- ⏱ Expected: 16:40 (min 70/100) -->
 ## Async QBR: How You'll Be Evaluated
 
-Five dimensions (part of Roadmap + Executive Narrative, 25%):
+Five dimensions:
 
 1. **Clarity of narrative** — BLUF structure, no jargon, logical flow
 2. **Business alignment** — roadmap tied to company goals, not just tech
@@ -349,31 +383,43 @@ Don't wait for them to ask it. In your video, address the hardest question **bef
 
 ---
 
-<!-- ⏱ Expected: 16:43 (min 73/100) | Portfolio checklist + logistics (3 min) -->
+<!-- ⏱ Expected: 16:48 (min 78/100) | All Graded Work (3 min) -->
 <!-- _class: compact -->
-## Portfolio Checklist
+## All Graded Work
 
-**Due: One week from today (23:59 Vienna time)**
+| Component | Weight | Status |
+|---|---|---|
+| Participation & Preparedness | 15% | Ongoing — graded across both days |
+| Day 1 Checkpoint (pass/fail) | 10% | Already submitted |
+| Manager OS Document | 15% | Due March 30 |
+| Hiring Packet | 20% | Due March 30 |
+| Roadmap + Executive Narrative | 15% | Due March 30 |
+| QBR Outline + QBR Video | 10% | Due March 30 |
+| Personal Growth Plan | 7.5% | Due March 30 |
+| Performance Summary | 7.5% | Due March 30 |
+| **Total** | **100%** | |
 
-| Component | Weight |
-|---|---|
-| **1. Manager OS Document** (2–4 pp) | 15% |
-| **2. Hiring Packet** (JD + work sample + rubric + loop) | 20% |
-| **3. Roadmap + Exec Narrative + QBR Outline + QBR Video** | 25% |
-| **4. Personal Growth Plan** | 7.5% |
-| **5. Performance Summary** | 7.5% |
-| Participation & Preparedness | 15% |
-| Day 1 Checkpoint | 10% |
-
-**Format:** Single PDF or repo. **The portfolio is one integrated system** — same team, same case context, coherent story across all artifacts.
-
-_Optional: Data Infrastructure Blueprint, RFP Scoring Matrix (see `resources/`)._
-
-<!-- Talk track: Five portfolio artifacts plus participation and the Day 1 checkpoint. The biggest component is Roadmap plus Executive Narrative plus QBR at 25% — that includes everything: your RICE-scored roadmap, your two-page narrative, your QBR outline, and your five-minute video. The most common mistake: treating the portfolio as five separate documents. It's one system. Your roadmap should reference the same team from your charter. Your QBR should synthesize everything into a coherent story. If an executive could read your portfolio and understand your team, your plan, and your priorities — you've done it right. -->
+<!-- Talk track: Here's the full picture — everything that counts toward your grade. Twenty-five percent is already done or ongoing: participation and the Day 1 checkpoint. The remaining seventy-five percent is the portfolio, due one week from today. The biggest single component is Hiring Packet at twenty percent. Roadmap plus narrative is fifteen, and the QBR — outline and video together — is ten. Don't leave the video to the last night. Record it early, watch it back, re-record if the BLUF isn't clear in the first ten seconds. -->
 
 ---
 
-<!-- ⏱ Expected: 16:46 (min 76/100) | Reflection (2 min) -->
+<!-- ⏱ Expected: 16:51 (min 81/100) | First 90 Days (3 min) -->
+<!-- _class: compact -->
+## Your First 90 Days as an Analytics Manager
+
+| Phase | What to do | What NOT to do |
+|---|---|---|
+| **Days 1–30** | Listen. Meet every stakeholder. Understand the data landscape. | Don't change anything yet. You haven't earned credibility. |
+| **Days 31–60** | Fix one visible problem. Start 1:1s, team meetings, stakeholder syncs. Begin your Manager OS. | Don't try to fix everything. One quick win builds more trust than a grand plan. |
+| **Days 61–90** | Present your first roadmap. Make your first hiring recommendation. Deliver your first exec update. | Don't skip the exec presentation. Use BLUF, the Three Questions, and the Art of the Ask. |
+
+The core structure is the same at every org size — **listen, then quick wins, then strategy.**
+
+<!-- Talk track: Here's something concrete to take with you. Your first 90 days as an analytics manager. Days 1 through 30: shut up and listen. Meet every stakeholder. Audit the infrastructure — you practiced that in Block E. Don't change anything yet. Days 31 through 60: fix one visible problem. Start your cadences. Begin your Manager OS. Days 61 through 90: present your first roadmap. Make your first hire recommendation. Deliver your first exec update using everything you learned today. Notice how everything from this course maps onto these 90 days. Your Manager OS, your hiring packet, your roadmap, your infrastructure plan, your executive communication skills. It all connects. -->
+
+---
+
+<!-- ⏱ Expected: 16:54 (min 84/100) | Reflection (2 min) -->
 ## Your Next 90 Days — Write It Down
 
 **2 minutes.** Write down **3 specific actions** you will take in the next 90 days.
@@ -392,7 +438,7 @@ These are yours. You don't have to share them.
 
 ---
 
-<!-- ⏱ Expected: 16:48 (min 78/100) | Course close (8 min) -->
+<!-- ⏱ Expected: 16:56 (min 86/100) | Course close (8 min) -->
 <!-- _class: divider -->
 
 ## Course Complete
@@ -403,7 +449,7 @@ These are yours. You don't have to share them.
 
 ---
 
-<!-- ⏱ Expected: 16:48 (min 78/100) -->
+<!-- ⏱ Expected: 16:56 (min 86/100) -->
 ## Close: What You've Built
 
 You've built a **Manager Operating System**.
@@ -422,7 +468,7 @@ The **portfolio is the proof**. Refine your drafts. Submit with pride.
 
 ---
 
-<!-- ⏱ Expected: 16:48 (min 78/100) -->
+<!-- ⏱ Expected: 16:56 (min 86/100) -->
 ## Close: Go Build Great Teams
 
 **Office hours are available** — reach out if you need help with the portfolio or the async QBR.
