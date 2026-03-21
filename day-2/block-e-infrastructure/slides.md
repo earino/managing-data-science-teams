@@ -19,7 +19,7 @@ footer: "CEU Vienna | Day 2 – Block E"
 
 By the end of this block you will be able to:
 - Map cross-functional interfaces and document bidirectional SLAs
-- Read and evaluate a data infrastructure architecture diagram
+- Understand the canonical data stack and ask the right questions about each layer
 - Apply a build-vs-buy framework grounded in Total Cost of Ownership
 - Sketch a data infrastructure plan for your case context
 
@@ -30,7 +30,7 @@ By the end of this block you will be able to:
 <!-- ⏱ Expected: 13:30 (min 0/100) -->
 ## Shifting Gears
 
-This morning was intense — feedback, calibration, PIPs.
+This morning was intense — feedback, calibration, hard conversations.
 
 **Take 90 seconds now:**
 Write down one thing from this morning you want to remember. Then set it aside.
@@ -41,27 +41,16 @@ We're moving from the **emotional work** of growing people to the **practical wo
 
 ---
 
-<!-- ⏱ Expected: 13:32 (min 2/100) | Why Infrastructure Matters (4 min) -->
-## Why Infrastructure Matters for Analytics Managers (1/2)
+<!-- ⏱ Expected: 13:32 (min 2/100) | Why Infrastructure Matters (3 min) -->
+## Why Infrastructure Matters for Analytics Managers
 
 You don't need to be a data engineer — but you need to understand the stack well enough to **make decisions**.
 
-- Infrastructure choices are **2–3 year commitments**
-- The wrong warehouse, the wrong BI tool, the wrong ingestion pipeline — these compound into **months of lost productivity**
-- Your team's output is only as good as the **data they can access**
+- Infrastructure choices are **2–3 year commitments** — the wrong warehouse compounds into months of lost productivity
+- Your analysts can only analyze what they can **access**. If the infrastructure is broken, their skills don't matter
+- **The manager's job:** You're not configuring Snowflake. You're deciding *whether* to use it, *how much* to spend, and *who* owns it when it breaks
 
-<!-- Talk track: These are not reversible decisions. When you pick a data warehouse, you're committing your team's workflows, your SQL dialect, your cost structure, and your integration points for the next two to three years. Migrations are brutal. I've seen teams spend six months moving from Redshift to Snowflake — six months where they built almost nothing new. -->
-
----
-
-<!-- ⏱ Expected: 13:32 (min 2/100) | Why Infrastructure Matters -->
-## Why Infrastructure Matters for Analytics Managers (2/2)
-
-**The manager's job:** You're not configuring Snowflake. You're deciding *whether* to use Snowflake, *how much* to spend on it, and *who* is responsible when it breaks.
-
-Your analysts can only analyze what they can access. If the infrastructure is broken, their skills don't matter.
-
-<!-- Talk track: Here's a scenario I've seen: a team of brilliant analysts, all with PhDs, completely blocked because their data pipeline broke over a weekend and nobody knew how to fix it. The work stopped for three days. The manager's job is not to fix the pipeline — it's to make sure the right infrastructure decisions were made so that doesn't happen. That's what this block is about. -->
+<!-- Talk track: These are not reversible decisions. When you pick a data warehouse, you're committing your team's workflows, your SQL dialect, and your cost structure for two to three years. Here's a scenario I've seen: a team of brilliant analysts, all with PhDs, completely blocked because their data pipeline broke over a weekend and nobody knew how to fix it. Three days of zero output. Your job is not to fix the pipeline — it's to make sure the right decisions were made so that doesn't happen. -->
 
 ---
 
@@ -115,8 +104,9 @@ Each failure mode maps to a **preventable relationship gap**. That's what SLAs a
 
 ---
 
-<!-- ⏱ Expected: 13:42 (min 12/100) | SLA Template -->
-## Building Bidirectional SLAs — Template
+<!-- ⏱ Expected: 13:42 (min 12/100) | SLA Template + Example -->
+<!-- _class: compact -->
+## Building Bidirectional SLAs
 
 **Template:**
 
@@ -125,25 +115,15 @@ Each failure mode maps to a **preventable relationship gap**. That's what SLAs a
 > **Escalation path:** [name/role] if SLA is missed.
 > **Review cadence:** Monthly sync to assess and adjust.
 
+**Example — Analytics ↔ Engineering:**
+
+> Analytics will review schema change impact assessments within **3 business days**.
+> Engineering will notify analytics **2 sprints before** any schema change to tracked events.
+> Escalation: VP Engineering and Head of Analytics. Review: First Monday of each month.
+
 SLAs work when **both sides see value**. If it feels one-sided, it won't survive the first quarter.
 
-<!-- Talk track: Let me give you a practical template. Four lines. What you'll provide and by when. What they'll provide and by when. Who to escalate to when someone misses. How often you review. Start with the most critical relationship — usually Engineering — and get that SLA working well before expanding to other teams. -->
-
----
-
-<!-- ⏱ Expected: 13:42 (min 12/100) | SLA Example -->
-## Building Bidirectional SLAs — Example
-
-**Analytics ↔ Engineering SLA:**
-
-> Analytics will review and sign off on schema change impact assessments within **3 business days**.
-> Engineering will notify analytics **2 sprints before** any schema change to tracked events.
-> Escalation: VP Engineering and Head of Analytics.
-> Review: First Monday of each month.
-
-Both sides get something: Engineering gets fast turnaround on impact assessments, and you get advance notice of changes.
-
-<!-- Talk track: Here's a concrete example. You commit to reviewing schema change impacts within three business days, and they commit to notifying you two sprints in advance. Draft one of these for each key cross-functional partner. It takes thirty minutes and saves hundreds of hours of fire-fighting. -->
+<!-- Talk track: Let me give you a practical template. Four lines. What you'll provide and by when. What they'll provide and by when. Who to escalate to when someone misses. How often you review. Here's a concrete example for Engineering. You commit to reviewing schema change impacts within three business days, they commit to notifying you two sprints in advance. Both sides get something. Draft one of these for each key cross-functional partner. It takes thirty minutes and saves hundreds of hours of fire-fighting. -->
 
 ---
 
@@ -241,7 +221,23 @@ Apply the four questions. Be ready to share your answer and your reasoning.
 
 ---
 
-<!-- ⏱ Expected: 14:04 (min 34/100) | Stack by Size — Small (10 min total for all three) -->
+<!-- ⏱ Expected: 14:04 (min 34/100) | Stack Progression -->
+## How Stacks Evolve — The Progression Story
+
+Every analytics stack follows the same arc:
+
+1. **Small (Seed/A):** Get trusted numbers, fast. Buy everything. $500–2K/month.
+2. **Medium (Series B/C):** Self-serve metrics, experimentation, observability. You start making real build-vs-buy decisions. $10K–30K/month.
+3. **Large (Enterprise):** Domain autonomy, ML at scale, regulatory compliance. Your challenge isn't the tools — it's governance and organizational alignment. $100K+/month.
+
+**The pattern:** You start scrappy. You add observability when you get burned by bad data. You add governance when you get audited. You never build the "right" architecture on day one — you evolve toward it.
+
+<!-- Talk track: Before I show you specific tool choices, here's the story that every data stack lives through. You start scrappy — a warehouse, a BI tool, a spreadsheet for governance. That's fine. Then you get burned: a dashboard shows wrong numbers, the CEO asks questions, and you realize you need observability. So you add it. Then you get audited, or a regulator asks about PII, and you realize you need governance. So you add it. Nobody builds the right architecture on day one. You evolve toward it. Let me show you what each stage looks like. -->
+
+---
+
+<!-- ⏱ Expected: 14:07 (min 37/100) | Stack by Size — Small -->
+<!-- _class: compact -->
 ## Small Org Stack (0 to 1)
 
 **Goal:** Trusted numbers, fast. Don't over-engineer.
@@ -255,66 +251,34 @@ Apply the four questions. Be ready to share your answer and your reasoning.
 | **Viz** | Metabase or Preset | Open-source options exist; low cost |
 | **Governance** | Naming conventions + a spreadsheet | Seriously. This is enough to start. |
 
-**Monthly cost:** $500–2,000
+**Monthly cost:** $500–2,000. **Skip everything else** — data catalog, ML platform, feature store. Add complexity when you feel **real pain**, not anticipated pain.
 
-<!-- Talk track: Now let's see what these decisions look like in practice. Keep your build-vs-buy lens on as we walk through three stack sizes. If you're in the small startup case context, this is your stack. Notice: almost everything here is "buy." Your goal is trusted numbers, fast. Total cost: under two thousand a month. -->
-
----
-
-<!-- ⏱ Expected: 14:04 (min 34/100) | Small Org — What to Skip -->
-## Small Org Stack — What to Skip
-
-**Skip:** Data catalog, ML platform, feature store, semantic layer tooling. You're not there yet.
-
-Resist the urge to build for scale you don't have. Every tool you add is a tool you have to maintain.
-
-At this stage, your most scarce resource is **people's time**, not compute capacity. Add complexity when you feel **real pain** — not anticipated pain.
-
-<!-- Talk track: I know it's tempting to build the "right" architecture from day one. Fight that instinct. Every tool you add is a tool someone has to configure, maintain, and debug. Add complexity when you feel real pain, not anticipated pain. -->
+<!-- Talk track: Now let's see what these decisions look like in practice. Keep your build-vs-buy lens on. If you're in the small startup case context, this is your stack. Notice: almost everything here is "buy." Total cost: under two thousand a month. And here's the discipline part — skip everything not on this list. No data catalog for fifty tables. No ML platform when you don't have models in production. Add complexity when you feel real pain, not anticipated pain. -->
 
 ---
 
-<!-- ⏱ Expected: 14:04 (min 34/100) | Stack by Size — Medium -->
-## Medium Org Stack (1 to N)
+<!-- ⏱ Expected: 14:07 (min 37/100) | Stack by Size — Medium + Large -->
+<!-- _class: compact -->
+## Growing the Stack: Medium and Large
 
-**Goal:** Self-serve metrics, experimentation, data trust at scale.
+**Medium (Series B/C) — add to the small stack:** $10K–30K/month
 
-Add to the small stack:
+| Addition | Why now |
+|---|---|
+| Event platform (Segment/RudderStack) | Structured event collection; identity resolution |
+| Experimentation (Statsig/Eppo) | Rigorous A/B testing, not spreadsheet math |
+| Semantic layer (dbt metrics/Cube) | Single source of truth for metric definitions |
+| Observability (Monte Carlo/Elementary) | Know when data breaks before your stakeholders do |
 
-| Layer | Addition | Why now |
-|---|---|---|
-| **Event platform** | Segment or RudderStack | Structured event collection; identity resolution |
-| **Experimentation** | Statsig or Eppo | Rigorous A/B testing, not spreadsheet math |
-| **Semantic layer** | dbt metrics or Cube | Single source of truth for metric definitions |
-| **Catalog** | DataHub or Atlan | Discovery; lineage; tribal knowledge captured |
-| **Observability** | Monte Carlo or Elementary | Know when data breaks before your stakeholders do |
+**Large (Enterprise) — add to the medium stack:** $100K+/month
 
-**Governance:** Formal data owners. Published SLAs. Access controls.
+| Addition | Why now |
+|---|---|
+| Data mesh / domain ownership | Each domain owns its data products; central team sets standards |
+| ML platform (MLflow/SageMaker/Vertex) | Model training, versioning, deployment at scale |
+| Model governance (cards, bias audits) | Regulatory and ethical requirements |
 
-**Monthly cost:** $10,000–30,000
-
-<!-- Talk track: Now you're a Series B company. The small stack isn't enough anymore. Critically, you add observability so you know when data is broken before the CEO messages you on Slack. Monthly cost jumps to ten to thirty thousand. -->
-
----
-
-<!-- ⏱ Expected: 14:04 (min 34/100) | Stack by Size — Large -->
-## Large Org Stack (N to Scale)
-
-**Goal:** Domain autonomy, ML at scale, regulatory compliance.
-
-Add to the medium stack:
-
-| Layer | Addition | Why now |
-|---|---|---|
-| **Architecture** | Data mesh / domain ownership | Each business domain owns its data products; central team sets standards |
-| **ML platform** | MLflow, SageMaker, or Vertex | Model training, versioning, deployment |
-| **Feature store** | Feast or Tecton | Shared features across models |
-| **Model governance** | Model cards, bias audits, monitoring | Regulatory and ethical requirements |
-| **Cost management** | Kubecost, cloud billing dashboards | $100K+/mo demands accountability |
-
-**Monthly cost:** $100,000+
-
-<!-- Talk track: At enterprise scale, the challenges are fundamentally different. You're not trying to get trusted numbers — you're trying to maintain trust across dozens of teams, petabytes of data, and strict regulatory requirements. -->
+<!-- Talk track: At medium scale, the critical addition is observability — knowing when data is broken before the CEO messages you on Slack. At enterprise scale, the challenge shifts from tools to organizational design. Data mesh means each business domain owns its data products. You need model governance because regulators will ask. Monthly cost goes from ten thousand to a hundred thousand plus — but at this scale, that's a fraction of a percent of revenue. -->
 
 ---
 
@@ -335,7 +299,42 @@ Avoid proprietary lock-in where you can. Use standard SQL. Use standard file for
 
 ---
 
-<!-- ⏱ Expected: 14:14 (min 44/100) | Activity: Data Infra One-Pager (30 min) -->
+<!-- ⏱ Expected: 14:13 (min 43/100) | What You Inherit (3 min) -->
+## Your First Month: What You Inherit
+
+You will almost never build a stack from scratch. You will **inherit** one. Before proposing changes, audit what exists:
+
+- **What are we paying for?** List every tool with its monthly cost and contract renewal date
+- **Who owns each pipeline?** If the answer is "nobody" or "the person who left," that's your first risk
+- **What breaks most often?** Ask the team — they know. The answer tells you where to invest first
+- **What's undocumented?** Undocumented pipelines are the ones that break at 2 AM with no runbook
+
+**The rule:** Spend 30 days understanding before spending 30 minutes proposing.
+
+<!-- Talk track: One more thing before the activity. You will almost never build a stack from scratch. You'll inherit one — and it will be messy. Before you propose any changes, spend your first month auditing what exists. What tools are we paying for? Who owns each pipeline? What breaks most? What's undocumented? The undocumented pipelines are the ones that break at 2 AM with no runbook. Spend thirty days understanding before you spend thirty minutes proposing. This connects directly to the First 90 Days framework you'll see in Block F. -->
+
+---
+
+<!-- ⏱ Expected: 14:16 (min 46/100) | Privacy & Governance Basics (3 min) -->
+## Privacy & Governance Basics
+
+**GDPR essentials for analytics managers** (you're at CEU Vienna — this is your legal reality):
+
+| Concept | What it means for you |
+|---|---|
+| **Lawful basis** | You need a legal reason to process personal data |
+| **Data minimization** | Collect only what you need. "We might need it someday" is not a reason |
+| **Right to erasure** | Users can ask you to delete their data. Your pipeline must support this |
+
+**Data classification — know your tiers:**
+- **Public** → blog metrics, benchmarks | **Internal** → aggregate dashboards
+- **Confidential** → user-level data, financials | **Restricted** → PII, health, payment data
+
+<!-- Talk track: Since you're studying in Vienna, this isn't optional knowledge — it's your legal reality. GDPR gives you three concepts to internalize. Lawful basis: you need a legal reason to process personal data. Data minimization: collect only what you need for a specific purpose. Right to erasure: if a user asks to be deleted, your pipeline needs to handle it. And classify your data — know what's public, what's internal, what's confidential, and what's restricted. Every table in your warehouse should have a retention policy. "Keep forever" is not a policy — it's a liability. -->
+
+---
+
+<!-- ⏱ Expected: 14:19 (min 49/100) | Activity: Data Infra One-Pager (30 min) -->
 <!-- _class: divider -->
 
 ## Activity: Data Infra One-Pager
@@ -346,7 +345,7 @@ Avoid proprietary lock-in where you can. Use standard SQL. Use standard file for
 
 ---
 
-<!-- ⏱ Expected: 14:14 (min 44/100) | Activity -->
+<!-- ⏱ Expected: 14:19 (min 49/100) | Activity -->
 ## Activity: Data Infra One-Pager
 
 **Time: 30 minutes** | Reference: `resources/data-infra-blueprint-template.md`
@@ -364,7 +363,7 @@ Avoid proprietary lock-in where you can. Use standard SQL. Use standard file for
 
 ---
 
-<!-- ⏱ Expected: 14:14 (min 44/100) | Activity Tips -->
+<!-- ⏱ Expected: 14:19 (min 49/100) | Activity Tips -->
 ## Activity: Data Infra One-Pager — Tips
 
 **Small org context:** 3-4 tools, under $2K/month. Your one-pager should be simple.
@@ -382,35 +381,23 @@ Avoid proprietary lock-in where you can. Use standard SQL. Use standard file for
 
 ---
 
-<!-- ⏱ Expected: 14:44 (min 74/100) | Debrief (8 min) -->
+<!-- ⏱ Expected: 14:49 (min 79/100) | Debrief (8 min) -->
 ## Debrief
 
 **From the room:**
-
 - What surprised you about your case's infrastructure needs?
 - Where did the Build vs. Buy framework change your initial instinct?
 - What trade-offs did you make? What did you decide to skip?
-- How does your infrastructure plan connect to your roadmap and executive narrative?
 
-<!-- Talk track: Let's come back together. What surprised you? Who found a case where build-vs-buy wasn't obvious? And here's the connection point for the rest of the day — your infrastructure decisions are exactly the kind of thing you'll communicate to executives in Block F. "We need to migrate to Snowflake" is an ask that requires the Art of the Ask framework you'll learn next. -->
+**Key insight:** The "right" stack depends on your constraints. There is no universal answer. **The framework is the answer.**
 
----
+**Portfolio connection:** Data Infrastructure Blueprint and RFP Scoring Matrix are optional artifacts — templates in `resources/`. Not required but they strengthen your submission.
 
-<!-- ⏱ Expected: 14:44 (min 74/100) | Debrief — Key Insight -->
-## Debrief
-
-**Key insight:** The "right" stack depends on your constraints — team size, budget, timeline, regulatory environment. There is no universal answer. The framework is the answer.
-
-**Portfolio connection:**
-- **Data Infrastructure Blueprint** — optional artifact, template at `resources/data-infra-blueprint-template.md`
-- **RFP Scoring Matrix** — optional artifact, template at `resources/rfp-scoring-matrix-template.md`
-- Neither is required but both demonstrate additional depth in your portfolio
-
-<!-- Talk track: There is no universally correct data stack. The right answer depends on your context. The framework — build-vs-buy, TCO analysis, structured vendor scoring — is what lets you make a defensible decision in any context. If you want to develop these further for your portfolio, the templates are in the resources folder. Both are optional but they strengthen your submission. -->
+<!-- Talk track: Let's come back together. What surprised you? Who found a case where build-vs-buy wasn't obvious? Here's the key takeaway: there is no universally correct data stack. The framework is what lets you make a defensible decision in any context. And here's the connection to the rest of the day — your infrastructure decisions are exactly the kind of thing you'll communicate to executives in Block F. "We need to migrate to Snowflake" is an ask that requires the Art of the Ask framework you'll learn next. -->
 
 ---
 
-<!-- ⏱ Expected: 14:52 (min 82/100) | Transition -->
+<!-- ⏱ Expected: 14:57 (min 87/100) | Transition -->
 <!-- _class: divider -->
 
 ## Up Next: Block F
@@ -422,7 +409,7 @@ Avoid proprietary lock-in where you can. Use standard SQL. Use standard file for
 
 ---
 
-<!-- ⏱ Expected: 14:52 (min 82/100) | Transition -->
+<!-- ⏱ Expected: 14:57 (min 87/100) | Transition -->
 ## Transition to Block F
 
 **After break: Block F — Leading Up & Executive Communication (15:30–17:10)**

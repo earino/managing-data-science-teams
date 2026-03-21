@@ -21,16 +21,21 @@ The 90-second breathing exercise acknowledges the shift from Block D's emotional
 | Clock | Min | Duration | Content |
 |-------|-----|----------|---------|
 | 13:30 | 0 | 2 min | Post-lunch reset |
-| 13:32 | 2 | 4 min | Why infrastructure matters |
-| 13:36 | 6 | 6 min | XFN Universe + Failure Modes |
-| 13:42 | 12 | 6 min | Bidirectional SLAs |
-| 13:48 | 18 | 6 min | Blueprint + Architecture Diagrams |
-| 13:54 | 24 | 8 min | Build vs. Buy + Hidden Costs (includes procurement note) |
-| 14:02 | 32 | 2 min | **Pair discussion: build or buy one tool** |
-| 14:04 | 34 | 10 min | Stack by Size (small/medium/large + migration trap) |
-| 14:14 | 44 | 30 min | **Activity: Data Infra One-Pager** |
-| 14:44 | 74 | 8 min | Debrief + portfolio connection |
-| 14:52 | 82 | 18 min | Buffer / transition |
+| 13:32 | 2 | 3 min | Why infrastructure matters |
+| 13:35 | 5 | 6 min | XFN Universe + Failure Modes |
+| 13:41 | 11 | 6 min | Bidirectional SLAs (template + example on one slide) |
+| 13:47 | 17 | 6 min | Blueprint + Architecture Diagrams |
+| 13:53 | 23 | 8 min | Build vs. Buy + Hidden Costs |
+| 14:01 | 31 | 2 min | **Pair discussion: build or buy one tool** |
+| 14:03 | 33 | 3 min | Stack progression story (how stacks evolve) |
+| 14:06 | 36 | 3 min | Small Org Stack |
+| 14:09 | 39 | 3 min | Medium + Large Org Stacks |
+| 14:12 | 42 | 2 min | Migration Trap |
+| 14:14 | 44 | 3 min | What You Inherit (first-month audit) |
+| 14:17 | 47 | 3 min | Privacy & Governance Basics (GDPR, classification) |
+| 14:20 | 50 | 30 min | **Activity: Data Infra One-Pager** |
+| 14:50 | 80 | 7 min | Debrief |
+| 14:57 | 87 | 13 min | Buffer / transition |
 
 ## Key Teaching Points
 
@@ -41,8 +46,9 @@ The 90-second breathing exercise acknowledges the shift from Block D's emotional
 - **Opportunity cost** is the hidden killer in build-vs-buy decisions
 
 ### Can Compress If Running Long
-- Stack by Size (10 min → 6 min, hit the progression story, skip the tool details)
-- With 18 minutes of buffer, you have significant flexibility
+- Stack sections (11 min → 6 min, hit the progression story, skip tool details in Medium/Large)
+- Privacy slide can be compressed to one sentence if truly behind
+- With 13 minutes of buffer, you have comfortable flexibility
 
 ### Do Not Skip
 - Build vs. Buy framework (students will face this immediately in their careers)
