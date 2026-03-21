@@ -62,13 +62,19 @@
 - The tendency to start with methodology instead of impact
 - Students naturally using the framework without prompting (celebrate this!)
 
+**Format:** Whole-class discussion. Aim for 3-4 students to share their scenarios. After each share, invite the class to help reframe using the framework. Don't let one person dominate — "Let's hear from someone in a different case context."
+
+**How to close:** Summarize the pattern: "Notice that every scenario, regardless of case context, follows the same structure — impact first, then facts, then what you're doing about it. That structure works whether the failure is a broken dashboard or a failed hire."
+
+**If the discussion runs hot** (lots of hands, high energy): Let it go to 17-18 minutes — this is a sign of strong engagement. Compress Discussion 2 to compensate.
+
 ### Discussion 2: Your First Week on the Job (15 min)
 
-**Setup:** After the First 90 Days lecture, pose the question. Again, **2 minutes of silent thinking first.**
+**Setup:** After the First 90 Days lecture, pose the question. This one can be more conversational — skip the silent thinking and go straight to open discussion.
 
 **Facilitation approach:**
-- Ask: "What do you do on day one?" — collect 3-4 answers
-- Then ask: "What do you NOT do?" — this is the harder, more interesting question. Push for answers.
+- Open with the hardest question first: "What do you NOT do in your first week?" — this generates more interesting answers than "what do you do?"
+- Collect 3-4 answers, then pivot: "Now what DO you do on day one?"
 - Ask how it differs by org size (startup vs. enterprise)
 - Connect back to everything from both days: Manager OS, stakeholder mapping, hiring decisions, infrastructure assessment
 
@@ -76,7 +82,10 @@
 - Students who want to "fix things" on day one — redirect to listening
 - The instinct to skip the relationship-building phase
 - Students connecting this to their case contexts (encourage this!)
-- The realization that everything from both days maps onto the 90-day framework
+
+**Format:** Whole-class, conversational. This is the last discussion of the course — keep energy up. If the room is tired (it's 16:25), keep it to 10-12 minutes rather than forcing a full 15.
+
+**How to close:** "The 90-day framework maps onto everything you built in this course — your Manager OS is what you create in days 31-60, your roadmap is what you present in days 61-90. Everything connects."
 
 ## Async QBR Briefing (5 min)
 
@@ -121,6 +130,31 @@ Use extra time for:
 2. Open Q&A about the async QBR
 3. Portfolio questions / office hours
 4. Let the course close breathe
+
+## Lecture Teaching Notes
+
+**Pyramid Principle / BLUF (8 min):** The key teaching moment is the contrast with academic communication. These students were trained to build from methodology to conclusion. Executives want the opposite. Name this explicitly: "Your instinct is to show your work first. Fight it. Lead with the answer." The "first sentence test" is the most actionable takeaway — encourage students to mentally apply it to their QBR.
+
+**Communicating Failure (10 min):** The before/after example (ETL join condition vs. "revenue dashboard showed incorrect data for 3 days") is the strongest teaching moment. Pause on it. Let students feel the difference. The subject line format is also highly practical — students will use it immediately.
+
+**First 90 Days (8 min):** Keep this brisk. The org-size table is dense — don't read it cell by cell. Hit the key insight: "The structure is the same at every size — listen, then quick wins, then strategy. What changes is the specific actions." This naturally feeds the discussion.
+
+## Common Questions and How to Handle Them
+
+**"What if my executive doesn't want to hear bad news?"**
+"Then you have a trust problem, not a communication problem. The framework still applies — lead with impact. If your exec punishes honesty, that's information about whether this is the right organization for you."
+
+**"How long should the QBR video be?"**
+"Five minutes maximum. If you can't say it in five minutes, you haven't applied BLUF. Most students find that the hardest part is cutting, not filling."
+
+**"Should the QBR video have slides or just be me talking?"**
+"Either works. Screen-sharing key visuals (your roadmap, a metric chart) is encouraged but not required. Clear audio matters more than production quality."
+
+**"What does 'anticipates pushback' actually look like?"**
+"Imagine your CFO watching your video. What would they interrupt you to ask? 'Can we do this with fewer people?' 'What's the ROI?' Address that question in your video before they would ask it."
+
+**"How do I disagree with my boss and still keep my job?"**
+"Disagree in the room, with evidence and a recommendation. Once the decision is made, commit fully. The career-ending move is not disagreeing — it's agreeing in the meeting and then quietly undermining the decision."
 
 ## Materials Checklist
 

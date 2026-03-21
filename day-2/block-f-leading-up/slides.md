@@ -80,7 +80,7 @@ Your answer determines your team's future.
 
 Here's a test: if an executive read **only your first sentence**, would they know your main message? If not, restructure.
 
-<!-- Talk track: The Pyramid Principle comes from Barbara Minto at McKinsey. Start with the conclusion, then supporting arguments, then data if asked. BLUF is the military version of the same idea. Both say: lead with the answer, not the buildup. -->
+<!-- Talk track: The Pyramid Principle comes from Barbara Minto at McKinsey. Start with the conclusion, then supporting arguments, then data if asked. BLUF is the military version of the same idea. Here's why this is hard for you specifically: your academic training taught you to build from methodology to conclusion. Executives want the opposite — conclusion first, evidence on request. Unlearning the academic structure is the single hardest communication habit to break. -->
 
 ---
 
@@ -166,7 +166,7 @@ How to actually ask executives for what you need:
 **Quantify the cost of NOT getting what you ask for:**
 - "Without this hire, the self-serve project slips to Q4, and the product team continues filing 15 ad-hoc requests per week, costing ~40 analyst-hours monthly"
 
-<!-- Talk track: This is one of the most underdeveloped skills in analytics management. Most managers either don't ask at all, or they ask vaguely. Be painfully specific. Then quantify what happens if you don't get it. Executives think in trade-offs. Help them understand the cost of saying no. -->
+<!-- Talk track: This is one of the most underdeveloped skills in analytics management. I watched a brilliant analytics lead walk into a budget meeting and say "we need more resources." The CFO said "doesn't everyone?" and moved on. Three months later, the same person came back with "we need one senior data engineer by Q2 — without them, the self-serve project slips to Q4, and Product continues filing 15 ad-hoc requests per week, which costs us 40 analyst-hours monthly." She got the hire approved in that meeting. The difference was specificity and quantifying the cost of no. -->
 
 ---
 
@@ -450,14 +450,14 @@ The **portfolio is the proof**. Refine your drafts. Submit with pride.
 **Office hours are available** — reach out if you need help with the portfolio or the async QBR.
 
 The best analytics managers I know share three traits:
-- They **care deeply** about their people
-- They **communicate clearly** with leadership
-- They **never stop learning** the craft of management
+- They **care deeply** about their people — you practiced this in Block D when you gave real feedback
+- They **communicate clearly** with leadership — you practiced this today when you talked about delivering hard news
+- They **never stop learning** the craft of management — you showed this by spending two days building something real
+
+Managing people is hard, and you've been willing to practice it in public. That takes courage.
 
 You now have the frameworks. The rest is practice.
 
-Thank you for your energy, your engagement, and your willingness to practice something hard.
-
 **Now go build great teams.**
 
-<!-- Talk track: The best analytics managers I know care deeply about their people, communicate clearly with leadership, and never stop learning the craft of management. You now have the frameworks. You have the artifacts. You have the practice. The rest is up to you. Thank you for your energy and your engagement. Now go build great teams. -->
+<!-- Talk track: The best analytics managers I know care deeply about their people — you practiced that this morning when you gave SBI feedback to a partner. They communicate clearly with leadership — you practiced that this afternoon in our discussion about delivering bad news. And they never stop learning — you showed that by spending two days building real management artifacts from scratch. I want to acknowledge something: managing people is hard, and you've been willing to practice it in a room full of your peers. That takes real courage. You now have the frameworks. You have the artifacts. You have the practice. Now go build great teams. -->
