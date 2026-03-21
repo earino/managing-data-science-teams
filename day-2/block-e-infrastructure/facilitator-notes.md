@@ -25,9 +25,9 @@ The 90-second breathing exercise acknowledges the shift from Block D's emotional
 | 13:36 | 6 | 6 min | XFN Universe + Failure Modes |
 | 13:42 | 12 | 6 min | Bidirectional SLAs |
 | 13:48 | 18 | 8 min | Blueprint + Architecture Diagrams |
-| 13:56 | 26 | 10 min | Stack by Size (small/medium/large + migration trap) |
-| 14:06 | 36 | 8 min | Build vs. Buy + Hidden Costs |
-| 14:14 | 44 | 2 min | **Pair discussion: build or buy one tool** |
+| 13:56 | 26 | 8 min | Build vs. Buy + Hidden Costs |
+| 14:04 | 34 | 2 min | **Pair discussion: build or buy one tool** |
+| 14:06 | 36 | 10 min | Stack by Size (small/medium/large + migration trap) |
 | 14:16 | 46 | 6 min | RFP Process + Scoring overview |
 | 14:22 | 52 | 6 min | IT, Procurement, Privacy basics |
 | 14:28 | 58 | 30 min | **Activity: Data Infra One-Pager** |
@@ -93,11 +93,11 @@ Students sketch their case context's infrastructure stack on one page.
 
 ## Lecture Teaching Notes
 
-**Stack by Size (10 min):** The story to tell is *progression*, not tools. The point is not "use Fivetran" — it's that a small org needs trusted numbers fast and should resist over-engineering, a medium org needs self-serve and observability, and a large org needs governance and domain autonomy. Linger on the *transitions* between sizes, not the tool tables. Ask: "What changes when you go from 5 people to 50? What breaks?"
+**Build vs. Buy (8 min, starts at 13:56):** Comes right after the blueprint. The key teaching moment is opportunity cost — "what your team doesn't build while maintaining infrastructure." The Airflow comparison table is designed to make this concrete. Let the numbers speak. This section is strong enough to carry post-lunch energy.
 
-**Build vs. Buy (8 min):** The key teaching moment is opportunity cost — "what your team doesn't build while maintaining infrastructure." The Airflow comparison table is designed to make this concrete. Let the numbers speak.
+**Pair discussion (2 min, at 14:04):** This breaks the lecture at minute 34 — right when post-lunch drowsiness peaks. Students apply build-vs-buy to their own case context. It also primes them to evaluate the stack-by-size tables through the build-vs-buy lens rather than passively reading tool names.
 
-**If energy dips around slides 12-14** (the stack tables): Consider pausing for a 90-second pair turn: "Turn to your neighbor — what's one tool in your case context you'd definitely buy vs. build?" This breaks the lecture monologue at near-zero time cost.
+**Stack by Size (10 min, starts at 14:06):** The story to tell is *progression*, not tools. Students now have the build-vs-buy framework, so they can evaluate each tool choice: "Notice that at the small org level, almost everything is 'buy.' At the medium level, you start making real build-vs-buy decisions. At large scale, the question shifts to build-vs-buy-vs-build-on-top-of." Linger on the *transitions* between sizes. Ask: "What changes when you go from 5 people to 50? What breaks?"
 
 ## Common Questions and How to Handle Them
 

@@ -196,101 +196,7 @@ If you can ask those three questions intelligently about each layer, you can hol
 
 ---
 
-<!-- ⏱ Expected: 13:56 (min 26/100) | Stack by Size — Small (10 min total for all three) -->
-## Small Org Stack (0 to 1)
-
-**Goal:** Trusted numbers, fast. Don't over-engineer.
-
-| Layer | Tool | Why |
-|---|---|---|
-| **Sources** | Product DB + basic events | Start with what you have |
-| **Ingestion** | Fivetran or Airbyte | Managed connectors; don't build this |
-| **Storage** | BigQuery or Snowflake (free tier) | Start small, scale later |
-| **Transform** | dbt (Core or Cloud) | SQL-based; version-controlled; testable |
-| **Viz** | Metabase or Preset | Open-source options exist; low cost |
-| **Governance** | Naming conventions + a spreadsheet | Seriously. This is enough to start. |
-
-**Monthly cost:** $500–2,000
-
-<!-- Talk track: If you're in the small startup case context, this is your stack. Your goal is trusted numbers, fast. Not a beautiful architecture diagram. Not a resume-driven stack. Total cost: under two thousand a month. -->
-
----
-
-<!-- ⏱ Expected: 13:56 (min 26/100) | Small Org — What to Skip -->
-## Small Org Stack — What to Skip
-
-**Skip:** Data catalog, ML platform, feature store, semantic layer tooling. You're not there yet.
-
-Resist the urge to build for scale you don't have. Every tool you add is a tool you have to maintain.
-
-At this stage, your most scarce resource is **people's time**, not compute capacity. Add complexity when you feel **real pain** — not anticipated pain.
-
-<!-- Talk track: I know it's tempting to build the "right" architecture from day one. Fight that instinct. Every tool you add is a tool someone has to configure, maintain, and debug. Add complexity when you feel real pain, not anticipated pain. -->
-
----
-
-<!-- ⏱ Expected: 13:56 (min 26/100) | Stack by Size — Medium -->
-## Medium Org Stack (1 to N)
-
-**Goal:** Self-serve metrics, experimentation, data trust at scale.
-
-Add to the small stack:
-
-| Layer | Addition | Why now |
-|---|---|---|
-| **Event platform** | Segment or RudderStack | Structured event collection; identity resolution |
-| **Experimentation** | Statsig or Eppo | Rigorous A/B testing, not spreadsheet math |
-| **Semantic layer** | dbt metrics or Cube | Single source of truth for metric definitions |
-| **Catalog** | DataHub or Atlan | Discovery; lineage; tribal knowledge captured |
-| **Observability** | Monte Carlo or Elementary | Know when data breaks before your stakeholders do |
-
-**Governance:** Formal data owners. Published SLAs. Access controls.
-
-**Monthly cost:** $10,000–30,000
-
-<!-- Talk track: Now you're a Series B company. The small stack isn't enough anymore. Critically, you add observability so you know when data is broken before the CEO messages you on Slack. Monthly cost jumps to ten to thirty thousand. -->
-
----
-
-<!-- ⏱ Expected: 13:56 (min 26/100) | Stack by Size — Large -->
-## Large Org Stack (N to Scale)
-
-**Goal:** Domain autonomy, ML at scale, regulatory compliance.
-
-Add to the medium stack:
-
-| Layer | Addition | Why now |
-|---|---|---|
-| **Architecture** | Data mesh / domain ownership | Each business domain owns its data products; central team sets standards |
-| **ML platform** | MLflow, SageMaker, or Vertex | Model training, versioning, deployment |
-| **Feature store** | Feast or Tecton | Shared features across models |
-| **Model governance** | Model cards, bias audits, monitoring | Regulatory and ethical requirements |
-| **Cost management** | Kubecost, cloud billing dashboards | $100K+/mo demands accountability |
-
-**Monthly cost:** $100,000+
-
-<!-- Talk track: At enterprise scale, the challenges are fundamentally different. You're not trying to get trusted numbers — you're trying to maintain trust across dozens of teams, petabytes of data, and strict regulatory requirements. -->
-
----
-
-<!-- ⏱ Expected: 13:56 (min 26/100) | The Migration Trap -->
-## The Migration Trap
-
-What happens when you outgrow your stack:
-
-1. **Spreadsheets to a real warehouse** — Painful but straightforward. Budget 2–3 months.
-2. **Warehouse to warehouse** — Every query, dashboard, and integration rebuilt. Budget 6–12 months.
-3. **"We built it ourselves and now we can't maintain it"** — The custom pipeline one engineer built, who then left. Nobody understands it.
-
-**Key insight:** Plan for the **next** migration when choosing the current tool. Ask: "How hard will it be to leave this vendor in 3 years?"
-
-Avoid proprietary lock-in where you can. Use standard SQL. Use standard file formats.
-
-<!-- Talk track: I want to talk about what happens when you outgrow your stack. The lesson: when you choose a tool today, ask yourself how hard it will be to leave that tool in three years. Make migration a design criterion, not an afterthought. -->
-
----
-
-<!-- ⏱ Expected: 14:06 (min 36/100) | Build vs. Buy (8 min) -->
+<!-- ⏱ Expected: 13:56 (min 26/100) | Build vs. Buy (8 min) -->
 ## Build vs. Buy — The Framework
 
 **Four questions in order:**
@@ -313,7 +219,7 @@ Avoid proprietary lock-in where you can. Use standard SQL. Use standard file for
 
 ---
 
-<!-- ⏱ Expected: 14:06 (min 36/100) | Hidden Costs -->
+<!-- ⏱ Expected: 13:56 (min 26/100) | Hidden Costs -->
 ## The Hidden Costs of "Free"
 
 Open-source tools have **real costs** — your engineers' time.
@@ -336,7 +242,7 @@ The real question: what does your team **not build** while maintaining this tool
 
 ---
 
-<!-- ⏱ Expected: 14:14 (min 44/100) | Pair discussion (2 min) -->
+<!-- ⏱ Expected: 14:04 (min 34/100) | Pair discussion (2 min) -->
 ## Quick Check: Build or Buy?
 
 **2 minutes — turn to your neighbor:**
@@ -346,6 +252,100 @@ Think about your case context. Name **one tool or capability** your team needs. 
 Apply the four questions. Be ready to share your answer and your reasoning.
 
 <!-- Talk track: Before we move on, let's apply what we just covered. Turn to the person next to you. Think about your case context — name one tool or capability your team needs. Would you build it or buy it? Use the four questions. You have two minutes. Go. -->
+
+---
+
+<!-- ⏱ Expected: 14:06 (min 36/100) | Stack by Size — Small (10 min total for all three) -->
+## Small Org Stack (0 to 1)
+
+**Goal:** Trusted numbers, fast. Don't over-engineer.
+
+| Layer | Tool | Why |
+|---|---|---|
+| **Sources** | Product DB + basic events | Start with what you have |
+| **Ingestion** | Fivetran or Airbyte | Managed connectors; don't build this |
+| **Storage** | BigQuery or Snowflake (free tier) | Start small, scale later |
+| **Transform** | dbt (Core or Cloud) | SQL-based; version-controlled; testable |
+| **Viz** | Metabase or Preset | Open-source options exist; low cost |
+| **Governance** | Naming conventions + a spreadsheet | Seriously. This is enough to start. |
+
+**Monthly cost:** $500–2,000
+
+<!-- Talk track: Now let's see what these decisions look like in practice. Keep your build-vs-buy lens on as we walk through three stack sizes. If you're in the small startup case context, this is your stack. Notice: almost everything here is "buy." Your goal is trusted numbers, fast. Total cost: under two thousand a month. -->
+
+---
+
+<!-- ⏱ Expected: 14:06 (min 36/100) | Small Org — What to Skip -->
+## Small Org Stack — What to Skip
+
+**Skip:** Data catalog, ML platform, feature store, semantic layer tooling. You're not there yet.
+
+Resist the urge to build for scale you don't have. Every tool you add is a tool you have to maintain.
+
+At this stage, your most scarce resource is **people's time**, not compute capacity. Add complexity when you feel **real pain** — not anticipated pain.
+
+<!-- Talk track: I know it's tempting to build the "right" architecture from day one. Fight that instinct. Every tool you add is a tool someone has to configure, maintain, and debug. Add complexity when you feel real pain, not anticipated pain. -->
+
+---
+
+<!-- ⏱ Expected: 14:06 (min 36/100) | Stack by Size — Medium -->
+## Medium Org Stack (1 to N)
+
+**Goal:** Self-serve metrics, experimentation, data trust at scale.
+
+Add to the small stack:
+
+| Layer | Addition | Why now |
+|---|---|---|
+| **Event platform** | Segment or RudderStack | Structured event collection; identity resolution |
+| **Experimentation** | Statsig or Eppo | Rigorous A/B testing, not spreadsheet math |
+| **Semantic layer** | dbt metrics or Cube | Single source of truth for metric definitions |
+| **Catalog** | DataHub or Atlan | Discovery; lineage; tribal knowledge captured |
+| **Observability** | Monte Carlo or Elementary | Know when data breaks before your stakeholders do |
+
+**Governance:** Formal data owners. Published SLAs. Access controls.
+
+**Monthly cost:** $10,000–30,000
+
+<!-- Talk track: Now you're a Series B company. The small stack isn't enough anymore. Critically, you add observability so you know when data is broken before the CEO messages you on Slack. Monthly cost jumps to ten to thirty thousand. -->
+
+---
+
+<!-- ⏱ Expected: 14:06 (min 36/100) | Stack by Size — Large -->
+## Large Org Stack (N to Scale)
+
+**Goal:** Domain autonomy, ML at scale, regulatory compliance.
+
+Add to the medium stack:
+
+| Layer | Addition | Why now |
+|---|---|---|
+| **Architecture** | Data mesh / domain ownership | Each business domain owns its data products; central team sets standards |
+| **ML platform** | MLflow, SageMaker, or Vertex | Model training, versioning, deployment |
+| **Feature store** | Feast or Tecton | Shared features across models |
+| **Model governance** | Model cards, bias audits, monitoring | Regulatory and ethical requirements |
+| **Cost management** | Kubecost, cloud billing dashboards | $100K+/mo demands accountability |
+
+**Monthly cost:** $100,000+
+
+<!-- Talk track: At enterprise scale, the challenges are fundamentally different. You're not trying to get trusted numbers — you're trying to maintain trust across dozens of teams, petabytes of data, and strict regulatory requirements. -->
+
+---
+
+<!-- ⏱ Expected: 14:06 (min 36/100) | The Migration Trap -->
+## The Migration Trap
+
+What happens when you outgrow your stack:
+
+1. **Spreadsheets to a real warehouse** — Painful but straightforward. Budget 2–3 months.
+2. **Warehouse to warehouse** — Every query, dashboard, and integration rebuilt. Budget 6–12 months.
+3. **"We built it ourselves and now we can't maintain it"** — The custom pipeline one engineer built, who then left. Nobody understands it.
+
+**Key insight:** Plan for the **next** migration when choosing the current tool. Ask: "How hard will it be to leave this vendor in 3 years?"
+
+Avoid proprietary lock-in where you can. Use standard SQL. Use standard file formats.
+
+<!-- Talk track: I want to talk about what happens when you outgrow your stack. The lesson: when you choose a tool today, ask yourself how hard it will be to leave that tool in three years. Make migration a design criterion, not an afterthought. -->
 
 ---
 
