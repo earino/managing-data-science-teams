@@ -173,25 +173,24 @@ BLOCKS = [
         ],
     },
 
-    # ---- BLOCK F: Leading Up & Executive Communication (Day 2, 15:30–17:10, 100 min, 28 slides) ----
+    # ---- BLOCK F: Leading Up & Executive Communication (Day 2, 15:30–17:10, 100 min, 25 slides) ----
     {
         "path": ROOT / "day-2" / "block-f-leading-up" / "slides.md",
         "start": "15:30",
         "duration": 100,
-        "expected_slides": 29,
+        "expected_slides": 25,
         "entries": [
-            ("15:30", r(1, 4), None),       # Title + Learning Outcomes + Final Block framing
-            ("15:32", r(5, 8), "Pyramid Principle / BLUF / Executive Attention (8 min)"),
-            ("15:40", r(9, 10), "Three Executive Questions + Anti-Patterns (6 min)"),
-            ("15:46", r(11, 12), "Art of the Ask (6 min)"),
-            ("15:52", r(13, 16), "Communicating Failure lecture (10 min)"),
-            ("16:02", r(17, 18), "Discussion: delivering worst news (15 min)"),
-            ("16:17", [19], "First 90 Days (compressed, 5 min)"),
-            ("16:22", r(20, 21), "BLUF Rehearsal — pair exercise (8 min)"),
-            ("16:30", [22], "AI and the Changing Manager Role (3 min)"),
-            ("16:33", r(23, 24), "Async QBR briefing (8 min)"),
-            ("16:41", r(25, 26), "Portfolio checklist + logistics (5 min)"),
-            ("16:46", r(27, 28), "Course close + celebration (10 min)"),
+            ("15:30", r(1, 2), None),       # Title + Final Block recap
+            ("15:32", r(3, 7), "IC-to-Manager shift + exec comm frameworks (12 min)"),
+            ("15:44", r(8, 9), "Anti-Patterns + Managing Up (6 min)"),
+            ("15:50", r(10, 13), "Communicating Failure lecture (10 min)"),
+            ("16:00", r(14, 15), "Discussion: delivering worst news (15 min)"),
+            ("16:15", r(16, 17), "BLUF Rehearsal — two rounds (15 min)"),
+            ("16:30", [18], "AI and the Changing Manager Role (3 min)"),
+            ("16:33", r(19, 20), "Async QBR briefing (8 min)"),
+            ("16:41", [21], "Portfolio checklist (3 min)"),
+            ("16:44", [22], "Learner reflection (2 min)"),
+            ("16:46", r(23, 25), "Course close (8 min)"),
         ],
     },
 ]

@@ -6,51 +6,91 @@
 
 ## Pre-Class Setup
 
-- No special room arrangement needed (no simulation groups)
-- Timer visible for discussion (15 min) and BLUF rehearsal (8 min)
-- Portfolio checklist slide ready for walkthrough
-- Async QBR briefing slides ready
-- This block has **14 minutes of buffer**
+- Timer visible for discussion (15 min) and BLUF rehearsal (15 min)
+- Portfolio checklist slide ready
+- QBR outline template accessible (`templates/qbr-outline.md`)
+- This is the final block of a two-day intensive. Students are tired but engaged. The mix of lecture, discussion, and practice is designed to sustain energy through 17:10.
 
 ## Timing Breakdown
 
 | Clock | Min | Duration | Content |
 |-------|-----|----------|---------|
-| 15:30 | 0 | 2 min | Frame the block |
-| 15:32 | 2 | 8 min | Pyramid Principle / BLUF / Executive Attention |
-| 15:40 | 10 | 6 min | Three Executive Questions + Anti-Patterns |
-| 15:46 | 16 | 6 min | Art of the Ask |
-| 15:52 | 22 | 10 min | Communicating Failure lecture |
-| 16:02 | 32 | 15 min | **Discussion: delivering worst news** (pair-then-plenary) |
-| 16:17 | 47 | 5 min | First 90 Days (compressed, one slide) |
-| 16:22 | 52 | 8 min | **BLUF Rehearsal** (pair exercise) |
+| 15:30 | 0 | 2 min | Frame the block (1 slide) |
+| 15:32 | 2 | 12 min | IC-to-Manager shift + exec comm frameworks (5 slides) |
+| 15:44 | 14 | 6 min | Anti-Patterns + Managing Up (2 slides) |
+| 15:50 | 20 | 10 min | Communicating Failure (4 slides) |
+| 16:00 | 30 | 15 min | **Discussion: delivering worst news** (pair-then-plenary) |
+| 16:15 | 45 | 15 min | **BLUF Rehearsal** (write → deliver → revise → deliver again) |
 | 16:30 | 60 | 3 min | AI and the Changing Manager Role |
 | 16:33 | 63 | 8 min | Async QBR briefing |
-| 16:41 | 71 | 5 min | Portfolio checklist + logistics |
-| 16:46 | 76 | 10 min | Course close + celebration |
-| 16:56 | 86 | 14 min | Buffer |
+| 16:41 | 71 | 3 min | Portfolio checklist |
+| 16:44 | 74 | 2 min | Learner reflection |
+| 16:46 | 76 | 8 min | Course close |
+| 16:54 | 84 | 16 min | Buffer |
 
-**Note on buffer:** 14 minutes of buffer. The discussion and BLUF rehearsal will likely absorb some of this naturally.
+**Note on buffer:** 16 minutes is generous. The discussion and BLUF rehearsal will likely absorb some of this. If they don't, let the close breathe.
 
 ## Key Teaching Points
 
 ### Must Emphasize
+- **The IC-to-Manager shift** — this is the slide that frames the entire block. Linger on it.
 - **BLUF:** conclusion first, then supporting evidence
 - **Three Executive Questions:** Are we on track? What are the risks? What do you need from me?
-- **Art of the Ask:** be specific, quantify cost of no, one ask per meeting
+- **Art of the Ask:** be specific, quantify cost of no, frame as trade-off, one ask per meeting
 - **Communicating Failure:** lead with impact, not methodology. The worst thing is to hide it.
-- **First 90 Days:** listen first, quick wins second, strategy third
 
 ### Do Not Skip
+- IC-to-Manager shift — it motivates every framework that follows
 - Communicating Failure lecture — feeds directly into the discussion
-- First 90 Days lecture — feeds directly into the discussion
-- Async QBR briefing — students need clear expectations for their capstone deliverable
+- BLUF Rehearsal — the capstone practice moment; every student delivers twice
+- Async QBR briefing — students need clear expectations for their 25% deliverable
+- Course close — endings matter. Don't rush.
 
-## Facilitating the Discussions
+### Can Cut If Behind
+- Anti-Patterns slide (students can read it — the talk track is the value)
+- Portfolio checklist (compress to 1 min — "five artifacts, one week, one PDF")
 
-### Discussion 1: Delivering Your Worst News (15 min)
+## Lecture Teaching Notes
 
-**Setup:** After the Communicating Failure lecture, pose the question. **Pair-then-plenary format:** 2 minutes silent thinking, 3 minutes sharing with a partner, then 10 minutes whole-class discussion. The pair step ensures every student practices saying it out loud — not just the 3-4 who speak in plenary.
+### IC-to-Manager Shift (3 min)
+
+This is the most important new content in the block. It names something students haven't heard articulated: the way you communicated as an IC doesn't work anymore. Walk through the table slowly. The row that lands hardest is usually "when it goes wrong" — as an IC you fix it, as a manager you explain it and own it. That connects directly to the Communicating Failure section.
+
+**Key move:** "This shift is why every framework in this block exists. BLUF, the Three Questions, the Art of the Ask — these are manager communication skills, not IC skills."
+
+### Survival Skill + Pyramid/BLUF + Attention Budget + Three Questions (9 min)
+
+These four slides move fast. The Survival Skill slide motivates ("analytics teams get cut"). Pyramid/BLUF provides the framework. The Attention Budget makes it visceral ("30-50 decisions per day"). The Three Questions give students the structure.
+
+**The "first sentence test"** is the most actionable takeaway. After showing it, say: "Mentally apply this to the first sentence of your QBR. Does your VP know your main message from that sentence alone?"
+
+**Connect to Block E:** "You already practiced BLUF in Block E when you wrote your VP proposal. How many of you led with what you needed? How many buried it?"
+
+### Anti-Patterns (3 min)
+
+The slide has five anti-patterns. Hit all five in the talk track — especially "But First, Methodology" because it's the one this audience is most likely to commit. "You were trained to show your work. That's what makes you a good analyst. It's also what makes you a terrible executive presenter."
+
+### Managing Up: Art of the Ask + Escalation (3 min)
+
+This is dense — asking, trade-off framing, one-ask-per-meeting, when to escalate, how to escalate, disagree-and-commit. The talk track carries it. The CFO story ("doesn't everyone?") is the hook.
+
+**The key distinction:** "Asking is 'I need something.' Escalating is 'there's a decision I can't make alone.' Both are forms of managing up, but they're different skills."
+
+Don't expand disagree-and-commit into a long discussion — it's a principle, not a framework. One sentence: "Argue in the room, then execute fully."
+
+### Communicating Failure (10 min, 4 slides)
+
+This is the strongest teaching section in the block. The before/after example (ETL join condition vs. "revenue dashboard showed incorrect data") is the single most instructive moment. **Pause on it.** Read both versions aloud. Let students feel the difference.
+
+The subject line format is the most immediately practical tool — students will use it next week.
+
+**Connect to the IC-to-Manager shift:** "Notice how the IC instinct is to explain the technical cause. The manager instinct is to lead with business impact. That's the shift in action."
+
+## Facilitating the Discussion
+
+### Discussion: Delivering Your Worst News (15 min)
+
+**Pair-then-plenary format:** 2 minutes silent thinking, 3 minutes sharing with a partner, then 10 minutes whole-class discussion. The pair step ensures every student practices saying it out loud.
 
 **Facilitation approach:**
 - After the pair step, ask for a volunteer to share their scenario
@@ -61,92 +101,92 @@
 
 **Watch for:**
 - Students who minimize ("it's not that bad") — push them to take the scenario seriously
-- Students who catastrophize — help them separate impact from emotion
-- The tendency to start with methodology instead of impact
+- Students who start with methodology instead of impact — redirect: "That's the IC instinct. What's the manager version?"
 - Students naturally using the framework without prompting (celebrate this!)
 
-**Format:** Whole-class discussion. Aim for 3-4 students to share their scenarios. After each share, invite the class to help reframe using the framework. Don't let one person dominate — "Let's hear from someone in a different case context."
+**Format:** Aim for 3-4 students to share. After each, invite the class to reframe. Don't let one person dominate.
 
-**How to close:** Summarize the pattern: "Notice that every scenario, regardless of case context, follows the same structure — impact first, then facts, then what you're doing about it. That structure works whether the failure is a broken dashboard or a failed hire."
+**How to close:** "Notice that every scenario follows the same structure — impact first, then facts, then what you're doing about it. That structure works whether the failure is a broken dashboard or a failed hire."
 
-**If the discussion runs hot** (lots of hands, high energy): Let it go to 18 minutes. You have 14 minutes of buffer, but save some for the BLUF rehearsal — that's the capstone practice moment.
+**If discussion runs hot:** Let it go to 18 minutes. You have 16 minutes of buffer.
 
-## First 90 Days (5 min)
+## BLUF Rehearsal — Expanded (15 min)
 
-This is compressed to one slide. Hit the key insight: **listen, then quick wins, then strategy** — same structure at every org size. Connect it to the course: "Your Manager OS is what you build in days 31-60. Your roadmap is what you present in days 61-90. Everything from this course maps onto these 90 days."
-
-## BLUF Rehearsal (8 min)
-
-**This is the capstone practice moment.** Every student writes, delivers, and gets feedback on their QBR opening. It directly feeds their async video submission.
+**This is the capstone practice moment.** Every student writes, delivers, gets feedback, revises, and delivers again. Two rounds. The improvement between round 1 and round 2 is where the learning happens.
 
 **How to run it:**
-1. **3 min writing:** Students write 4 sentences (the Three Executive Questions + their ask). Circulate and check — if anyone is staring at a blank page, prompt them: "Just answer: are you on track? What's the biggest risk? What do you need?"
+
+**Round 1 (8 min):**
+1. **3 min writing:** Students write 4 sentences (Three Executive Questions + their ask). Circulate and check — if anyone is staring at a blank page, prompt: "Just answer: are you on track? What's the biggest risk? What do you need?"
 2. **2 min each direction:** Partner A delivers in 60 seconds, Partner B gives one SBI feedback point. Then swap.
-3. **No plenary debrief** — the practice IS the learning. Move straight to the AI slide and QBR briefing.
+
+**Round 2 (5 min):**
+3. **2 min revision:** Students revise based on feedback. Common improvements: cutting context, leading with the answer, making the ask specific.
+4. **2 min each direction:** Deliver again. Partner notes what improved.
+
+**No plenary debrief** — the practice IS the learning. Move straight to the AI slide. Students will feel the improvement between rounds; you don't need to narrate it.
 
 **Watch for:** Students who try to present their entire roadmap instead of a 60-second opening. Redirect: "Just the BLUF — four sentences."
 
+**If a student's partner is absent or group is odd:** The instructor joins as a partner for one pair.
+
 ## AI and the Changing Manager Role (3 min)
 
-This slide ties back to the morning's exercises. If students drew Scenario 9 (Liam's AI-generated report), reference it: "You already practiced this." If they calibrated Kevin, reference the AI dimension: "You already debated this." The point is that AI management is not a separate topic — it's woven into feedback, calibration, infrastructure, and executive communication. Students working on their QBR video should consider how AI affects their roadmap and team planning.
+This slide ties back to the morning's exercises. Reference specific scenarios by name: "If you drew Scenario 9 — Liam's AI report — you already practiced giving feedback for an AI failure mode. If you calibrated Kevin, you already debated whether AI-augmented volume counts as high performance. In Block E, you wrote about how AI changes your infrastructure or governance."
+
+The point: AI management is not a separate topic. It's woven into feedback, calibration, infrastructure, and executive communication. Students should consider AI when recording their QBR video.
 
 ## Async QBR Briefing (8 min)
 
-This is worth 25% of the grade — give it the time it deserves. Students just did a BLUF rehearsal, so they have a concrete sense of what their opening sounds like.
-- Show the format (video + outline)
-- Show the 5 evaluation criteria
-- Emphasize: "Apply everything from today — Pyramid Principle, Art of the Ask, the Three Executive Questions"
-- Mention the **Anticipates Pushback** criterion explicitly: "In your video, preemptively address the hardest question an executive would ask. Don't wait for them to ask it."
+This is worth 25% of the grade — give it the time it deserves. Students just did the BLUF rehearsal, so they have a concrete sense of what their opening sounds like.
+
+**Key connections to make:**
+- "You just practiced the opening — that's the first 60 seconds of your video"
+- "In Block E, you wrote a VP proposal in BLUF format — the QBR is that skill at higher stakes"
+- Show the 5 evaluation criteria. Emphasize "Anticipates Pushback" explicitly: "Imagine your CFO watching. What would they ask? Answer it before they would."
 - Deadline: part of final portfolio, one week after Day 2, 23:59 Vienna time
 
-## Portfolio Checklist Walkthrough (5 min)
+## Portfolio Checklist (3 min)
 
-Key updates to communicate:
-- **5 required artifacts** (QBR bundled with Roadmap)
-- Roadmap + Executive Narrative + QBR is **25%** of grade (the heaviest single component)
-- QBR includes both the written outline AND the 5-minute video
-- Infrastructure artifacts remain **optional** (but Block E gives them the foundation)
-- Submission: single PDF or repo, one week after Day 2, 23:59 Vienna time
+Keep this tight. Students have the document.
+- 5 required artifacts. QBR bundled with Roadmap at 25%.
+- "One integrated system, not five separate documents."
+- Most common mistake: inconsistent case context across artifacts
+- Optional infrastructure artifacts from Block E strengthen the submission
 
 ## Learner Reflection: Next 90 Days (2 min)
 
-Before the final close, students write 3 specific actions with dates. This is intentionally quiet — let them sit with it. Do NOT ask them to share. The writing is the point: research shows written intention-setting increases follow-through.
+Intentionally quiet. Students write 3 specific actions with dates. Do NOT ask them to share. The writing is the point.
 
-If a student looks stuck, prompt: "Think about the First 90 Days slide. What's one thing from that framework you'd do in your first month?"
+If a student looks stuck: "Think about what you'd do in your first week as a manager. What's the first thing you'd set up?"
 
 ## Closing Energy (8 min)
 
 This follows the quiet reflection, so the energy shift is: introspective → celebratory. **Make the transition deliberate** — stand up straighter, change your tone, look at the room.
-- Name what they've built: recap the "What You've Built" slide
-- Tie the three traits to specific blocks (the slide does this for you)
+
+- Name what they've built (the slide does this)
+- Tie the three traits to specific blocks and specific practice moments
 - Acknowledge the courage of practicing management in public
+- The close talk track references specific activities from the day (SBI feedback, VP proposal, QBR opening delivered twice) — use those references, they make it feel earned
 - Stay available for 10-15 minutes after for individual questions
-- Remind them: the portfolio deadline, the async QBR, office hours availability
 - The last line — "Now go build great teams" — should feel like a send-off, not a slide transition
 
 ## If Running Behind
 
-The 14-minute buffer absorbs most overruns. If you're still behind:
-1. Portfolio checklist can be 2 min instead of 5 (they have the document — just highlight the key changes)
-2. First 90 Days can be cut entirely — the slide is self-explanatory as a handout
-3. **Do NOT cut** the async QBR briefing — they need clear expectations
-4. **Do NOT rush** the course close — endings matter
+The 16-minute buffer absorbs most overruns. If you're still behind:
+1. Portfolio checklist can be 1 min ("five artifacts, one week, one PDF")
+2. Anti-Patterns slide can be skipped (students can read it)
+3. **Do NOT cut** the BLUF rehearsal — it's the capstone practice
+4. **Do NOT cut** the QBR briefing — 25% of their grade
+5. **Do NOT rush** the course close — endings matter
 
 ## If Running Ahead
 
 Use extra time for:
-1. Extended discussion (let the "worst news" discussion go to 20+ minutes if energy is high)
-2. Open Q&A about the async QBR — students will have questions
-3. Portfolio questions / office hours
+1. Extended discussion (let it go to 20 minutes if energy is high)
+2. Add a third round to the BLUF rehearsal (partner swap — deliver to someone new)
+3. Open Q&A about the async QBR
 4. Let the course close breathe — this is the most valuable use of extra time
-
-## Lecture Teaching Notes
-
-**Pyramid Principle / BLUF (8 min):** The key teaching moment is the contrast with academic communication. These students were trained to build from methodology to conclusion. Executives want the opposite. Name this explicitly: "Your instinct is to show your work first. Fight it. Lead with the answer." The "first sentence test" is the most actionable takeaway — encourage students to mentally apply it to their QBR.
-
-**Communicating Failure (10 min):** The before/after example (ETL join condition vs. "revenue dashboard showed incorrect data for 3 days") is the strongest teaching moment. Pause on it. Let students feel the difference. The subject line format is also highly practical — students will use it immediately.
-
-**First 90 Days (5 min):** One compressed slide. Hit the key insight: "The structure is the same at every size — listen, then quick wins, then strategy." Connect it to the course: Manager OS maps to days 31-60, roadmap maps to days 61-90. Don't belabor it — the slide speaks for itself.
 
 ## Common Questions and How to Handle Them
 
@@ -154,20 +194,24 @@ Use extra time for:
 "Then you have a trust problem, not a communication problem. The framework still applies — lead with impact. If your exec punishes honesty, that's information about whether this is the right organization for you."
 
 **"How long should the QBR video be?"**
-"Five minutes maximum. If you can't say it in five minutes, you haven't applied BLUF. Most students find that the hardest part is cutting, not filling."
+"Five minutes maximum. If you can't say it in five minutes, you haven't applied BLUF. Most students find the hardest part is cutting, not filling."
 
 **"Should the QBR video have slides or just be me talking?"**
-"Either works. Screen-sharing key visuals (your roadmap, a metric chart) is encouraged but not required. Clear audio matters more than production quality."
+"Either works. Screen-sharing key visuals is encouraged but not required. Clear audio matters more than production quality."
 
 **"What does 'anticipates pushback' actually look like?"**
-"Imagine your CFO watching your video. What would they interrupt you to ask? 'Can we do this with fewer people?' 'What's the ROI?' Address that question in your video before they would ask it."
+"Imagine your CFO watching your video. What would they interrupt to ask? 'Can we do this with fewer people?' 'What's the ROI?' Address that question in your video before they would ask it."
 
 **"How do I disagree with my boss and still keep my job?"**
 "Disagree in the room, with evidence and a recommendation. Once the decision is made, commit fully. The career-ending move is not disagreeing — it's agreeing in the meeting and then quietly undermining the decision."
 
+**"How is the QBR different from the VP proposal I wrote in Block E?"**
+"The VP proposal was one paragraph about one infrastructure decision. The QBR is a full executive review covering your team's status, wins, risks, roadmap, and asks — all in five minutes. Same BLUF skill, broader scope, higher stakes."
+
 ## Materials Checklist
 
 - [ ] Slides loaded and tested
-- [ ] Timer visible for discussions
-- [ ] Portfolio checklist template accessible for reference
+- [ ] Timer visible for discussion (15 min) and BLUF rehearsal (15 min)
+- [ ] Portfolio checklist template accessible
 - [ ] QBR outline template accessible (`templates/qbr-outline.md`)
+- [ ] Tissues available (optional but the close can be emotional after two intense days)
