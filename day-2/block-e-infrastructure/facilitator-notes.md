@@ -27,11 +27,12 @@ The 90-second breathing exercise acknowledges the shift from Block D's emotional
 | 13:48 | 18 | 8 min | Blueprint + Architecture Diagrams |
 | 13:56 | 26 | 10 min | Stack by Size (small/medium/large + migration trap) |
 | 14:06 | 36 | 8 min | Build vs. Buy + Hidden Costs |
-| 14:14 | 44 | 6 min | RFP Process + Scoring overview |
-| 14:20 | 50 | 6 min | IT, Procurement, Privacy basics |
-| 14:26 | 56 | 30 min | **Activity: Data Infra One-Pager** |
-| 14:56 | 86 | 8 min | Debrief + portfolio connection |
-| 15:04 | 94 | 6 min | Buffer / transition |
+| 14:14 | 44 | 2 min | **Pair discussion: build or buy one tool** |
+| 14:16 | 46 | 6 min | RFP Process + Scoring overview |
+| 14:22 | 52 | 6 min | IT, Procurement, Privacy basics |
+| 14:28 | 58 | 30 min | **Activity: Data Infra One-Pager** |
+| 14:58 | 88 | 8 min | Debrief + portfolio connection |
+| 15:06 | 96 | 4 min | Buffer / transition |
 
 ## Key Teaching Points
 

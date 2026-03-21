@@ -336,7 +336,20 @@ The real question: what does your team **not build** while maintaining this tool
 
 ---
 
-<!-- ⏱ Expected: 14:14 (min 44/100) | RFP Overview (6 min) -->
+<!-- ⏱ Expected: 14:14 (min 44/100) | Pair discussion (2 min) -->
+## Quick Check: Build or Buy?
+
+**2 minutes — turn to your neighbor:**
+
+Think about your case context. Name **one tool or capability** your team needs. Would you build it or buy it? Why?
+
+Apply the four questions. Be ready to share your answer and your reasoning.
+
+<!-- Talk track: Before we move on, let's apply what we just covered. Turn to the person next to you. Think about your case context — name one tool or capability your team needs. Would you build it or buy it? Use the four questions. You have two minutes. Go. -->
+
+---
+
+<!-- ⏱ Expected: 14:16 (min 46/100) | RFP Overview (6 min) -->
 ## The RFP Process
 
 **When to RFP:** Spending >$10K/year or handling PII.
@@ -356,7 +369,7 @@ The real question: what does your team **not build** while maintaining this tool
 
 ---
 
-<!-- ⏱ Expected: 14:20 (min 50/100) | IT, Procurement, Privacy (6 min) -->
+<!-- ⏱ Expected: 14:22 (min 52/100) | IT, Procurement, Privacy (6 min) -->
 ## Working with IT & Procurement
 
 **Speak their language:**
@@ -376,7 +389,7 @@ The real question: what does your team **not build** while maintaining this tool
 
 ---
 
-<!-- ⏱ Expected: 14:20 (min 50/100) | Privacy Basics -->
+<!-- ⏱ Expected: 14:22 (min 52/100) | Privacy Basics -->
 ## Privacy & Governance Basics
 
 **GDPR essentials for analytics managers:**
@@ -399,7 +412,7 @@ The real question: what does your team **not build** while maintaining this tool
 
 ---
 
-<!-- ⏱ Expected: 14:26 (min 56/100) | Activity: Data Infra One-Pager (30 min) -->
+<!-- ⏱ Expected: 14:28 (min 58/100) | Activity: Data Infra One-Pager (30 min) -->
 <!-- _class: divider -->
 
 ## Activity: Data Infra One-Pager
@@ -410,7 +423,7 @@ The real question: what does your team **not build** while maintaining this tool
 
 ---
 
-<!-- ⏱ Expected: 14:26 (min 56/100) | Activity -->
+<!-- ⏱ Expected: 14:28 (min 58/100) | Activity -->
 ## Activity: Data Infra One-Pager
 
 **Time: 30 minutes** | Reference: `resources/data-infra-blueprint-template.md`
@@ -428,7 +441,7 @@ For your case context, sketch a one-page **"Our Next 6 Months of Data Infrastruc
 
 ---
 
-<!-- ⏱ Expected: 14:26 (min 56/100) | Activity Tips -->
+<!-- ⏱ Expected: 14:28 (min 58/100) | Activity Tips -->
 ## Activity: Data Infra One-Pager — Tips
 
 **Small org context:** 3-4 tools, under $2K/month. Your one-pager should be simple.
@@ -446,7 +459,7 @@ For your case context, sketch a one-page **"Our Next 6 Months of Data Infrastruc
 
 ---
 
-<!-- ⏱ Expected: 14:56 (min 86/100) | Debrief (8 min) -->
+<!-- ⏱ Expected: 14:58 (min 88/100) | Debrief (8 min) -->
 ## Debrief
 
 **From the room:**
@@ -460,7 +473,7 @@ For your case context, sketch a one-page **"Our Next 6 Months of Data Infrastruc
 
 ---
 
-<!-- ⏱ Expected: 14:56 (min 86/100) | Debrief — Key Insight -->
+<!-- ⏱ Expected: 14:58 (min 88/100) | Debrief — Key Insight -->
 ## Debrief
 
 **Key insight:** The "right" stack depends on your constraints — team size, budget, timeline, regulatory environment. There is no universal answer. The framework is the answer.
@@ -474,7 +487,7 @@ For your case context, sketch a one-page **"Our Next 6 Months of Data Infrastruc
 
 ---
 
-<!-- ⏱ Expected: 15:04 (min 94/100) | Transition -->
+<!-- ⏱ Expected: 15:06 (min 96/100) | Transition -->
 <!-- _class: divider -->
 
 ## Up Next: Block F
@@ -486,7 +499,7 @@ For your case context, sketch a one-page **"Our Next 6 Months of Data Infrastruc
 
 ---
 
-<!-- ⏱ Expected: 15:04 (min 94/100) | Transition -->
+<!-- ⏱ Expected: 15:06 (min 96/100) | Transition -->
 ## Transition to Block F
 
 **After break: Block F — Leading Up & Executive Communication (15:30–17:10)**

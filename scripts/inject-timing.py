@@ -145,14 +145,14 @@ BLOCKS = [
         ],
     },
 
-    # ---- BLOCK E: Infrastructure & Cross-Functional Interfaces (Day 2, 13:30–15:10, 100 min, 30 slides) ----
+    # ---- BLOCK E: Infrastructure & Cross-Functional Interfaces (Day 2, 13:30–15:10, 100 min, 31 slides) ----
     # NOTE: Facilitator notes count Marp config as "slide 1".
     # Actual slide 1 = notes slide 2, etc.
     {
         "path": ROOT / "day-2" / "block-e-infrastructure" / "slides.md",
         "start": "13:30",
         "duration": 100,
-        "expected_slides": 30,
+        "expected_slides": 31,
         "entries": [
             ("13:30", r(1, 3), None),       # Title + Learning Outcomes + Shifting Gears
             ("13:32", r(4, 5), "Why Infrastructure Matters (4 min)"),
@@ -161,20 +161,21 @@ BLOCKS = [
             ("13:48", r(11, 13), "Blueprint + Architecture Diagrams (8 min)"),
             ("13:56", r(14, 18), "Stack by Size — small/medium/large + migration trap (10 min)"),
             ("14:06", r(19, 20), "Build vs. Buy + Hidden Costs (8 min)"),
-            ("14:14", [21], "RFP Process + Scoring (6 min)"),
-            ("14:20", r(22, 23), "IT, Procurement, Privacy (6 min)"),
-            ("14:26", r(24, 26), "Activity: Data Infra One-Pager (30 min)"),
-            ("14:56", r(27, 28), "Debrief + portfolio connection (8 min)"),
-            ("15:04", r(29, 30), "Buffer + Transition to Block F"),
+            ("14:14", [21], "Pair discussion: build or buy (2 min)"),
+            ("14:16", [22], "RFP Process + Scoring (6 min)"),
+            ("14:22", r(23, 24), "IT, Procurement, Privacy (6 min)"),
+            ("14:28", r(25, 27), "Activity: Data Infra One-Pager (30 min)"),
+            ("14:58", r(28, 29), "Debrief + portfolio connection (8 min)"),
+            ("15:06", r(30, 31), "Buffer + Transition to Block F"),
         ],
     },
 
-    # ---- BLOCK F: Leading Up & Executive Communication (Day 2, 15:30–17:10, 100 min, 30 slides) ----
+    # ---- BLOCK F: Leading Up & Executive Communication (Day 2, 15:30–17:10, 100 min, 26 slides) ----
     {
         "path": ROOT / "day-2" / "block-f-leading-up" / "slides.md",
         "start": "15:30",
         "duration": 100,
-        "expected_slides": 30,
+        "expected_slides": 26,
         "entries": [
             ("15:30", r(1, 4), None),       # Title + Learning Outcomes + Final Block framing
             ("15:32", r(5, 8), "Pyramid Principle / BLUF / Executive Attention (8 min)"),
@@ -182,11 +183,10 @@ BLOCKS = [
             ("15:46", r(11, 12), "Art of the Ask (6 min)"),
             ("15:52", r(13, 16), "Communicating Failure lecture (10 min)"),
             ("16:02", r(17, 18), "Discussion: delivering worst news (15 min)"),
-            ("16:17", r(19, 21), "First 90 Days lecture (8 min)"),
-            ("16:25", r(22, 23), "Discussion: first week on the job (15 min)"),
-            ("16:40", r(24, 25), "Async QBR briefing (5 min)"),
-            ("16:45", r(26, 27), "Portfolio checklist + logistics (5 min)"),
-            ("16:50", r(28, 30), "Course close + celebration (8 min)"),
+            ("16:17", [19], "First 90 Days (compressed, 5 min)"),
+            ("16:22", r(20, 21), "Async QBR briefing (10 min)"),
+            ("16:32", r(22, 23), "Portfolio checklist + logistics (5 min)"),
+            ("16:37", r(24, 26), "Course close + celebration (10 min)"),
         ],
     },
 ]
