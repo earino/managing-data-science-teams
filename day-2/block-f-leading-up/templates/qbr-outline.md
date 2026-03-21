@@ -108,6 +108,16 @@ _What do you need from the executive team? Be specific about what you're asking 
 
 ---
 
+## Anticipated Pushback
+
+_What is the hardest question an executive would ask about your roadmap, your team, or your asks? Address it here — don't wait for them to ask it. This section demonstrates that you've thought from the executive's perspective, not just your own._
+
+**The hardest question:** [e.g., "Why can't we do this with the existing team?" or "What's the ROI on this hire?"]
+
+**Your answer:** [Address it directly — use data, trade-offs, and the Art of the Ask framework. Be honest about what you don't know.]
+
+---
+
 ## Appendix: Supporting Data
 
 _Include any supporting charts, tables, or data that back up your executive summary. This section is reference material — you should not need to present it, but executives may ask for it during Q&A._
@@ -129,4 +139,5 @@ This QBR outline will be assessed on the following dimensions:
 | **Realism** | Roadmap is achievable with stated resources. Timelines are credible. Asks are proportionate. | Medium |
 | **Risk Transparency** | Risks are identified honestly, with concrete mitigations and owners. No "everything is fine" when it isn't. | Medium |
 | **Completeness** | All sections are filled in with substantive content anchored to the case context. | Medium |
+| **Anticipates Pushback** | The outline preemptively addresses the hardest question an executive would ask. Demonstrates understanding of executive concerns. | High |
 | **Presentation Readiness** | The outline is structured so it can be presented in 5 minutes. Key points are scannable. | Medium |

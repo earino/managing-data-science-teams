@@ -7,10 +7,10 @@
 ## Pre-Class Setup
 
 - No special room arrangement needed (no simulation groups)
-- Timer visible for discussions (2 × 15 min)
+- Timer visible for discussion (15 min) and BLUF rehearsal (8 min)
 - Portfolio checklist slide ready for walkthrough
 - Async QBR briefing slides ready
-- This block has **12 minutes of buffer** — the most relaxed timing on Day 2
+- This block has **14 minutes of buffer**
 
 ## Timing Breakdown
 
@@ -120,7 +120,7 @@ This is the end of a two-day intensive. **Make it count.**
 
 ## If Running Behind
 
-The 23-minute buffer absorbs most overruns comfortably. If you're still behind:
+The 14-minute buffer absorbs most overruns. If you're still behind:
 1. Portfolio checklist can be 2 min instead of 5 (they have the document — just highlight the key changes)
 2. First 90 Days can be cut entirely — the slide is self-explanatory as a handout
 3. **Do NOT cut** the async QBR briefing — they need clear expectations

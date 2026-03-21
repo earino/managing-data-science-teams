@@ -66,6 +66,8 @@ Identify 2-3 areas where this person should focus their development going forwar
 
 **Specificity check:** "Needs to improve communication" is not a development area. "Needs to tailor analytical presentations for executive audiences — currently includes too much methodology detail, which causes executives to disengage. Recommend presenting at the monthly leadership review as practice, with manager coaching beforehand." That is a development area.
 
+**SBI check:** Each development area should be grounded in at least one observed Situation-Behavior-Impact example. For instance: "In the Q2 product review [Situation], presented a 30-slide methodology walkthrough before sharing results [Behavior], which caused the VP to cut the meeting short before hearing the recommendations [Impact]." SBI evidence makes your assessment defensible in calibration.
+
 ---
 
 ## Rating Recommendation

@@ -142,7 +142,7 @@ All artifacts compile into a single **Manager Portfolio** (PDF/repo).
 - Career ladders; **PGPs**; SBI feedback model; performance cycles & calibration; ethical PIPs
   **Role-play:** SBI feedback practice with scenario cards (pairs, 2 rounds)
   **Exercise:** Mock calibration session — rate 3 ambiguous profiles, reach group consensus
-  **Hands-on:** Draft **PGP** (growth areas \+ development actions; finish at home)
+  **Homework:** Draft **PGP** at home using template and starter template (growth areas \+ development actions)
 
 **Block E (13:30–15:10) — Infrastructure & Cross-Functional Interfaces**
 
