@@ -71,8 +71,12 @@
 - Swap roles. Assign a new scenario or let them continue.
 - Same coaching approach.
 
+**If a student becomes visibly upset:**
+- The SBI role-play can surface real emotions, especially scenarios involving credit-taking or being told you're underperforming. If someone crosses from productive discomfort into genuine distress: pause, check in privately ("Do you want to take a minute?"), and let them opt out of round 2 without making it a scene. The learning goal is practice, not endurance.
+
 **Transition to next activity:**
-- Don't over-debrief here — save it for the full debrief at the end. Just ask: "Quick show of hands — who found articulating the impact statement hardest?" This validates the common struggle and transitions to the next activity.
+- Don't over-debrief here — save it for the full debrief at the end. Just ask: "Quick show of hands — who found articulating the impact statement hardest?" This validates the common struggle.
+- Give a 60-second buffer: "Stand up, stretch, find your group of four for the next activity." Students need a moment to mentally reset after emotionally intense pair work.
 
 ### Mock Calibration (20 minutes)
 

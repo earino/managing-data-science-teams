@@ -12,7 +12,7 @@ footer: "CEU Vienna | Day 2 – Block D"
 
 ## Day 2 — Block D | 11:00–12:40
 
-<!-- Talk track: Welcome back. It's been a week since Day 1, and I hope that week gave you time to reflect. On Day 1 you built a Manager OS, a hiring plan, and a roadmap. Today we shift from building the machine to growing the people inside it. This block is about the hardest and most rewarding part of management: helping people develop, giving honest feedback, and making fair performance assessments. By the end of this block, you'll have practiced SBI feedback in pairs and run a mock calibration session. You'll also learn the PGP framework and draft yours at home. Some of this will be uncomfortable. That's by design. Let's get started. -->
+<!-- Talk track: Welcome back. Today we shift from building the machine to growing the people inside it. This block is about the hardest part of management: feedback, performance, and growth. Some of it will be uncomfortable — that's by design. Let's get started. -->
 
 ---
 
@@ -144,7 +144,7 @@ If you promote people to senior just because they've been around for four years,
 
 The individual owns this document. You co-create it.
 
-<!-- Talk track: The PGP template has six sections. Context grounds the plan in your current reality. Strengths and growth areas are the diagnosis. Actions are the treatment plan — concrete, time-bound steps. Vision gives a direction. And the check-in cadence makes sure this isn't a document you write once and forget. The individual owns this document — you co-create it. Push for specificity: "Improve communication" is not a growth area. "Learn to present technical findings to non-technical stakeholders in under 5 minutes" is. -->
+<!-- Talk track: The PGP template has six sections. Context grounds the plan in your current reality. Strengths and growth areas are the diagnosis. Actions are the treatment plan — concrete, time-bound steps. Vision gives a direction. And the check-in cadence makes sure this isn't a document you write once and forget. The individual owns this document — you co-create it. Push for specificity: "Improve communication" is not a growth area. "Learn to present technical findings to non-technical stakeholders in under 5 minutes" is. You'll draft your own PGP at home — we're not doing it in class today, but you have the template and a starter template with example growth areas to help you get going. It's a portfolio deliverable, so take it seriously. -->
 
 ---
 
@@ -159,7 +159,7 @@ The individual owns this document. You co-create it.
 
 **Why SBI works:** It separates observation from judgment. You're not saying "you're sloppy." You're describing a specific behavior and its consequence.
 
-<!-- Talk track: To deliver feedback on growth areas — or anything else — use the SBI model. Situation anchors it in time. Behavior describes what you observed, not your interpretation. Impact explains the consequence. This separates observation from judgment. You're not saying "you're sloppy." You're describing a specific behavior and its specific consequence. -->
+<!-- Talk track: To deliver feedback on growth areas — or anything else — use the SBI model. Situation anchors it in time. Behavior describes what you observed, not your interpretation. Impact explains the consequence. This separates observation from judgment. You're not saying "you're sloppy." You're describing a specific behavior and its specific consequence. And here's something that trips up new managers: SBI works even when you manage someone more technically skilled than you. You don't need to evaluate their code to give feedback — you're observing behaviors and their impact, not grading their methodology. -->
 
 ---
 
@@ -175,7 +175,7 @@ The individual owns this document. You co-create it.
 
 **Anti-patterns:** The Feedback Sandwich (people ignore the bread). Delayed feedback (half-life). "Be more strategic" (fortune cookie, not feedback).
 
-<!-- Talk track: Most new managers default to Ruinous Empathy — they care about the person but avoid the hard conversation. The anti-patterns: the feedback sandwich is popular and useless. Delayed feedback loses all its power. And "be more strategic" is the laziest feedback in corporate America. Always ask: is this specific enough that the person knows exactly what to do differently? -->
+<!-- Talk track: Most new managers default to Ruinous Empathy — they care about the person but avoid the hard conversation. The anti-patterns: the feedback sandwich doesn't work because people pattern-match and discount the positive — they hear "nice thing, BUT..." and only remember the but. Delayed feedback loses its power because neither of you can reconstruct the moment. And "be more strategic" tells the person nothing about what to actually do differently. Always ask: is this specific enough that the person knows exactly what to change? One caveat — Radical Candor is a US-centric framework. In cross-cultural teams, and in this room, "challenging directly" may need to be calibrated to your team's norms. The principle holds — don't avoid hard conversations — but the style of directness varies. -->
 
 ---
 
@@ -353,7 +353,7 @@ The manager log is what makes this possible.
 - Which profile generated the most disagreement? Why?
 - Did anyone change their mind? What convinced you?
 
-<!-- Talk track: Let's come back together. SBI first — what was the hardest part? Usually it's the impact statement. People can describe what happened but struggle to articulate why it mattered. That's the coaching muscle you're building. Calibration — which profile was most contested? I bet it was Kevin — the technically brilliant person with team dynamics issues. -->
+<!-- Talk track: Let's come back together. SBI first — what was the hardest part? Usually it's the impact statement. People can describe what happened but struggle to articulate why it mattered. That's the coaching muscle you're building. Calibration — which profile generated the most disagreement in your group? What made it hard? Notice how "what's expected at this level" changes the entire conversation. -->
 
 ---
 
