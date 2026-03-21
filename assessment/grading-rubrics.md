@@ -60,17 +60,26 @@ The Hiring Packet demonstrates your ability to design a rigorous, fair, and effe
 
 ---
 
-## Roadmap + Executive Narrative + QBR (25%)
+## Roadmap + Executive Narrative (15%)
 
 This component assesses your ability to translate technical possibilities into strategic priorities and communicate them to senior stakeholders.
 
-| Criterion | Excellent (23–25%) | Good (18–22%) | Needs Work (0–17%) |
+| Criterion | Excellent (13–15%) | Good (10–12%) | Needs Work (0–9%) |
 |---|---|---|---|
 | **Strategic alignment to business outcomes** | Every roadmap item is explicitly tied to a business outcome or organizational goal; prioritization reflects strategic value, not just technical interest. | Most items connect to business outcomes but some feel technically motivated without clear business justification. | Roadmap reads as a technical wish list; no clear connection between items and the organization's strategic priorities. |
 | **RICE rigor** | RICE scores are well-calibrated with clear justification for each dimension; scores differentiate meaningfully between items; assumptions are stated. | RICE scores are present and reasonable but may lack justification or show inconsistencies in how dimensions are estimated. | RICE scores are missing, perfunctory, or clearly not used to inform actual prioritization decisions. |
 | **Risk awareness** | Key risks are identified for high-priority items; mitigation strategies are realistic; dependencies and assumptions are called out. | Some risks are noted but coverage is incomplete or mitigations are vague. | No risk identification; roadmap assumes everything will go according to plan. |
 | **Narrative clarity (BLUF, quantified)** | Executive narrative leads with a bottom-line-up-front summary; key claims are quantified where possible; language is precise and jargon-free; a non-technical executive could act on it. | Narrative is clear but may bury the lead, lack quantification, or include unnecessary technical detail. | Narrative is disorganized, overly technical, or fails to convey the "so what" to a senior audience. |
 | **Realism given case context constraints** | Plan reflects genuine understanding of the case context's resource constraints, organizational maturity, data infrastructure, and timeline realities. | Plan is mostly realistic but may underestimate constraints or include items that are aspirational given the context. | Plan ignores the case context's constraints; could not be executed by the described team in the described environment. |
+
+---
+
+## QBR Outline + QBR Video (10%)
+
+This component assesses your ability to present your roadmap and narrative to an executive audience, anticipate pushback, and make a clear ask.
+
+| Criterion | Excellent (9–10%) | Good (7–8%) | Needs Work (0–6%) |
+|---|---|---|---|
 | **QBR video: Anticipates pushback** | Video preemptively addresses the hardest question an executive would ask; demonstrates understanding of executive concerns; uses BLUF structure; ask is specific and quantified. | Video acknowledges potential concerns but may not address the most challenging question; BLUF structure present but may not be crisp. | Video does not anticipate executive questions; presentation is one-directional with no evidence of considering the audience's likely pushback. |
 
 ---
@@ -108,7 +117,8 @@ The Personal Growth Plan and Performance Summary demonstrate your ability to dev
 | Participation & Preparedness | 15% |
 | Day 1 Checkpoint | 10% |
 | Hiring Packet | 20% |
-| Roadmap + Executive Narrative + QBR | 25% |
+| Roadmap + Executive Narrative | 15% |
+| QBR Outline + QBR Video | 10% |
 | Manager OS | 15% |
 | PGP + Performance Summary | 15% |
 | **Total** | **100%** |

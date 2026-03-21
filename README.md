@@ -122,7 +122,8 @@ All work is anchored to one of three case contexts that students choose on Day 1
 | Participation & Preparedness | 15% | Ongoing |
 | Day 1 Checkpoint (draft artifacts) | 10% | March 16, 17:10 |
 | Hiring Packet | 20% | March 30, 23:59 CET |
-| Roadmap + Executive Narrative + QBR | 25% | March 30, 23:59 CET |
+| Roadmap + Executive Narrative | 15% | March 30, 23:59 CET |
+| QBR Outline + QBR Video | 10% | March 30, 23:59 CET |
 | Manager OS Document | 15% | March 30, 23:59 CET |
 | PGP + Performance Summary | 15% | March 30, 23:59 CET |
 

@@ -20,19 +20,20 @@ Late submissions will be penalized unless prior arrangements have been made with
 
 ---
 
-## Required Artifacts (5)
+## Required Artifacts (6)
 
-These five artifacts are required and graded. Check off each as you complete it.
+These six artifacts are required and graded. Check off each as you complete it.
 
 | # | Artifact | Source Block | Weight | Status | Notes |
 |---|---|---|---|---|---|
 | 1 | Manager OS Document (2–4 pp; absorbs charter + stakeholder map) | Block A | 15% | [ ] Complete | |
 | 2 | Hiring Packet (JD + work sample + rubric + interview loop) | Block B | 20% | [ ] Complete | |
-| 3 | Roadmap + Executive Narrative + QBR Outline + QBR Video | Block C / Block F | 25% | [ ] Complete | 5-min video recording required |
-| 4 | Personal Growth Plan | Block D | 7.5% | [ ] Complete | |
-| 5 | Performance Summary (calibration-ready) | Block D | 7.5% | [ ] Complete | |
+| 3 | Roadmap + Executive Narrative | Block C | 15% | [ ] Complete | |
+| 4 | QBR Outline + QBR Video | Block F | 10% | [ ] Complete | 5-min video recording required |
+| 5 | Personal Growth Plan | Block D | 7.5% | [ ] Complete | |
+| 6 | Performance Summary (calibration-ready) | Block D | 7.5% | [ ] Complete | |
 
-**Total required artifacts: 5**
+**Total required artifacts: 6**
 
 ---
 
@@ -65,7 +66,7 @@ Before submitting, verify that your portfolio meets the following formatting sta
 
 Before submitting each artifact, ask yourself the following questions. If you cannot answer "yes" to all three for every required artifact, revisit that section.
 
-**For each of the 5 required artifacts:**
+**For each of the 6 required artifacts:**
 
 1. **Is it complete?**
    Does the artifact address all required elements? Are there any blank sections, placeholder text, or "TODO" notes remaining?
@@ -87,7 +88,8 @@ Your portfolio will be evaluated according to the following weight distribution.
 | Participation & Preparedness | 15% | Engagement, role-play quality (SBI, calibration), class discussions, infrastructure activity, red-team critiques, case preparation |
 | Day 1 Checkpoint | 10% | Pass/fail: Team Charter complete, 6+ stakeholders mapped, 5+ roadmap items with RICE scores |
 | Hiring Packet | 20% | Role clarity, work sample design, rubric specificity, interview loop logic |
-| Roadmap + Executive Narrative + QBR | 25% | Strategic alignment, RICE rigor, risk awareness, narrative clarity, realism, anticipates pushback |
+| Roadmap + Executive Narrative | 15% | Strategic alignment, RICE rigor, risk awareness, narrative clarity, realism |
+| QBR Outline + QBR Video | 10% | Anticipates pushback, BLUF structure, specific and quantified ask |
 | Manager OS | 15% | Completeness, practicality, context adaptation, decision hygiene |
 | PGP + Performance Summary | 15% | Growth area specificity, plan actionability, calibration quality, SBI application |
 | **Total** | **100%** | |

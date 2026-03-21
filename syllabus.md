@@ -94,7 +94,8 @@ All artifacts compile into a single **Manager Portfolio** (PDF/repo).
 | Participation & Preparedness | Active presence in discussions, role-plays, class discussions, infrastructure activity, red-team critiques. | Ongoing | 15% |
 | **Day 1 Checkpoint (drafts)** | **Team Charter \+ Stakeholder Map \+ Roadmap Outline (RICE sketch)** — pass/fail on completeness. | End of Day 1 | 10% |
 | Hiring Packet (final) | JD, work sample, rubric, interview loop. | Portfolio | 20% |
-| Roadmap \+ Exec Narrative \+ QBR (final) | 12-month roadmap \+ 2-page narrative \+ QBR outline. | Portfolio | 25% |
+| Roadmap \+ Exec Narrative (final) | 12-month roadmap \+ 2-page narrative. | Portfolio | 15% |
+| QBR Outline \+ QBR Video | QBR outline \+ 5-min recorded presentation. | Portfolio | 10% |
 | Manager OS (final) | 2–4 pages: operational playbook synthesizing charter \+ stakeholder map into cadences, artifacts, KPIs, and decision hygiene. | Portfolio | 15% |
 | PGP \+ Performance Summary (final) | Growth plan \+ calibration-ready performance summary. | Portfolio | **15%** |
 
@@ -157,13 +158,14 @@ All artifacts compile into a single **Manager Portfolio** (PDF/repo).
 
 ## 9\. Deliverables (Portfolio Checklist)
 
-### Required (5 artifacts)
+### Required (6 artifacts)
 
 1. **Manager OS Document** (2–4 pages) — your operational playbook, synthesizing your team charter and stakeholder map into a single framework covering cadences, rituals, artifacts, and decision hygiene (Block A)
 2. **Hiring Packet** — JD, work sample, rubric, interview loop (Block B)
-3. **Roadmap \+ Executive Narrative \+ QBR** — 12-month roadmap with RICE, risk register, 2-page narrative, QBR outline, and 5-minute QBR video (Blocks C/F)
-4. **Personal Growth Plan** (Block D)
-5. **Performance Summary** (1-2 pp) — calibration-ready assessment of a hypothetical direct report from your case context. Use behavioral evidence and SBI framework to differentiate performance levels. (Block D)
+3. **Roadmap \+ Executive Narrative** — 12-month roadmap with RICE, risk register, and 2-page narrative (Block C)
+4. **QBR Outline \+ QBR Video** — QBR outline and 5-minute QBR video (Block F)
+5. **Personal Growth Plan** (Block D)
+6. **Performance Summary** (1-2 pp) — calibration-ready assessment of a hypothetical direct report from your case context. Use behavioral evidence and SBI framework to differentiate performance levels. (Block D)
 
 ### Optional (for a richer portfolio, not separately graded)
 
