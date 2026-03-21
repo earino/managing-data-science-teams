@@ -22,7 +22,8 @@ footer: "CEU Vienna | Day 2 – Block D"
 By the end of this block you will be able to:
 - Deliver structured feedback using the SBI model
 - Conduct evidence-based performance calibration
-- Create a Personal Growth Plan (PGP) for yourself or a direct report
+- Distinguish growth planning (PGP) from performance improvement (PIP)
+- Apply the PGP framework to articulate specific, actionable growth areas
 
 <!-- Talk track: Three outcomes for today's first block. Feedback, calibration, and growth planning — the people side of management. -->
 
@@ -59,13 +60,14 @@ By the end of this block you will be able to:
 
 **The #1 reason data scientists leave:** They don't feel like they're growing.
 
+- **Bain/LinkedIn data:** "Lack of career growth" is the top reason analytics professionals leave — ahead of compensation, work-life balance, and management quality
 - Turnover costs **1.5-2x salary** — for a senior DS making $180K, that's $270K-$360K
-- The best analytics people have options
-- Your job as a manager is to make **staying the obvious choice**
+- The median tenure for a data scientist is **2.3 years** (LinkedIn Workforce Report). Every departure resets your team's institutional knowledge
+- The best analytics people have options. Your job is to make **staying the obvious choice**
 
 **Growth isn't a perk — it's retention strategy.**
 
-<!-- Talk track: Before we dive into frameworks, the business case. The number one reason data scientists leave their jobs is not compensation — it's that they don't feel like they're growing. Turnover costs 1.5 to 2 times their salary. The best people have options. Your job is not to lock them in — it's to make staying the obvious choice by investing in their growth, giving honest feedback, and showing them a path forward. -->
+<!-- Talk track: Before we dive into frameworks, the business case. The number one reason data scientists leave their jobs is not compensation — it's that they don't feel like they're growing. LinkedIn's workforce data shows median data scientist tenure at about two and a half years. Every time someone leaves, you lose six months of institutional knowledge and spend three to six months ramping their replacement. That's nearly a year of reduced output. The best people have options. Your job is not to lock them in — it's to make staying the obvious choice by investing in their growth, giving honest feedback, and showing them a path forward. -->
 
 ---
 
@@ -105,29 +107,52 @@ By the end of this block you will be able to:
 ---
 
 <!-- ⏱ Expected: 11:13 (min 13/100) -->
+<!-- _class: compact -->
 ## What "Senior" Actually Means
 
 **The litmus test:** Can you give them an ambiguous problem and trust them to come back with a well-scoped analysis, clear findings, and actionable recommendations?
 
+| | Great Mid (L3) | Senior (L4+) |
+|---|---|---|
+| Given "why is churn increasing?" | Thorough analysis — but needs you to scope it first | Defines churn, selects cohort, identifies drivers, drafts recommendations — without being told how |
+| When blocked | Escalates and waits | Finds an alternative path, tells you after |
+| Impact radius | Their own work is excellent | The team is better because they're on it |
+
 If you promote people to senior just because they've been around for four years, you devalue the title for everyone.
 
-<!-- Talk track: If you promote people to senior just because they've been around for four years, you devalue the title. The litmus test: can I give this person an ambiguous problem and trust them to come back with everything scoped and solved? If yes, they're operating at a senior level. -->
+<!-- Talk track: Here's the trap: a great mid-level person can be incredibly productive. They deliver thorough, high-quality work — but they need you to scope it first. Tell them "analyze churn," they'll ask: how are we defining churn? Which cohort? What time window? Those are good questions — that's a strong mid. A senior person, given the same ambiguous question, comes back having made all those decisions themselves, identified three actionable drivers, and drafted recommendations. Both are valuable. But they're different levels. The difference isn't quality of output — it's who does the scoping. -->
 
 ---
 
 <!-- ⏱ Expected: 11:18 (min 18/100) -->
-## The Personal Growth Plan (PGP)
+## Two Tools, Opposite Purposes
 
-**A PGP is NOT a PIP.** Say it again: **PGP is not a PIP.**
+As a manager, you have two formal tools for developing people. They sound similar but serve opposite purposes:
+
+**PGP — Personal Growth Plan:** A proactive, aspirational document you co-create with someone who is performing well. "You're doing great — here's how we accelerate your career." The individual owns it. You do this for **everyone**, ideally in the first month.
+
+**PIP — Performance Improvement Plan:** A corrective, HR-involved process for someone who is genuinely underperforming after you've already given clear feedback multiple times. "This isn't working — here's what needs to change in 30-90 days." **PIPs should be rare.** If you're putting more than one person on a PIP per year, the problem might be your management, not their performance.
+
+<!-- Talk track: Let me introduce two tools you'll use as a manager. They have similar-sounding acronyms but they could not be more different in purpose. A PGP — Personal Growth Plan — is something you do proactively with people who are doing well. It's aspirational. "You're a strong L3, here's how we get you to L4." A PIP — Performance Improvement Plan — is corrective. It's what happens when someone is genuinely underperforming and you've already tried feedback, support, and clear expectations. PIPs involve HR. They have hard deadlines. They sometimes end in termination. These are fundamentally different tools, and confusing them is one of the most common mistakes new managers make. -->
+
+---
+
+<!-- ⏱ Expected: 11:18 (min 18/100) -->
+<!-- _class: compact -->
+## PGP vs. PIP — Know the Difference
 
 | | PGP (Growth Plan) | PIP (Improvement Plan) |
 |---|---|---|
 | **Tone** | Aspirational | Corrective |
 | **Owner** | The individual | The manager / HR |
-| **Trigger** | Proactive | Reactive |
+| **Trigger** | Proactive — for everyone | Reactive — after repeated feedback fails |
 | **Timeline** | 6-12 months | 30-90 days |
+| **Outcome** | Promotion, new skills, career growth | Improvement or exit |
+| **Frequency** | Every direct report, every cycle | Rare — 1-2 per year at most |
 
-<!-- Talk track: The Personal Growth Plan is one of the most powerful tools in your management toolkit — if you use it right. And using it right starts with one critical distinction: a PGP is NOT a PIP. A PIP is corrective — "you're underperforming." A PGP is aspirational — "you're doing well and here's how we accelerate your career." If your team conflates the two, nobody will engage honestly with a PGP because they'll think they're in trouble. -->
+**When does a DS get PIPed?** Repeated errors reaching stakeholders, refusal to incorporate feedback, or missed commitments after clear expectations — **and** you've already given SBI feedback multiple times.
+
+<!-- Talk track: If your team conflates PGPs and PIPs, nobody will engage honestly with a growth plan because they'll think they're in trouble. A PGP is a gift — it means you're investing in someone. A PIP is a last resort — it means the investment didn't work. When would you PIP a data scientist? Not for a single mistake. Not for being slow to ramp. You PIP when there's a sustained pattern — analyses with errors reaching stakeholders, refusal to incorporate feedback, commitments missed after expectations were explicitly set — and you've already given SBI feedback multiple times. If you haven't done those things first, you're not ready for a PIP. You're ready for better management. -->
 
 ---
 
@@ -149,6 +174,21 @@ The individual owns this document. You co-create it.
 ---
 
 <!-- ⏱ Expected: 11:21 (min 21/100) -->
+## PGP in Practice — Growth Areas by Level
+
+| Level | Example Growth Area | Example Action |
+|---|---|---|
+| **L2 (Junior)** | "Move from guided to independent analysis scoping" | "Scope next 3 analyses independently; debrief with manager after each" |
+| **L3 (Mid)** | "Present technical findings to non-technical stakeholders in under 5 minutes" | "Present at next 2 product reviews; manager coaches on deck structure beforehand" |
+| **L4 (Senior)** | "Develop the team's experimentation capability, not just your own" | "Mentor one L2 through their first A/B test by Q3; create a reusable runbook" |
+
+**The specificity test:** If your growth area could apply to any analyst anywhere (e.g., "improve communication"), it is too vague. Rewrite it until it is specific to THIS person in THIS context.
+
+<!-- Talk track: What does a good PGP actually look like? It depends on level. For a junior, growth is about moving from guided to independent work. For a mid-level person, it's about expanding their impact beyond their own analyses. For a senior, it's about elevating the team, not just their own output. Notice the pattern: each growth area is specific enough that you'd know in three months whether progress happened. "Improve communication" is not a growth area. "Present technical findings to non-technical stakeholders in under 5 minutes, starting at the next product review" is. That's the specificity test. -->
+
+---
+
+<!-- ⏱ Expected: 11:24 (min 24/100) -->
 ## The SBI Model — Feedback That Lands
 
 | Component | What it means | Example |
@@ -163,92 +203,7 @@ The individual owns this document. You co-create it.
 
 ---
 
-<!-- ⏱ Expected: 11:25 (min 25/100) -->
-## Radical Candor + Anti-Patterns
-
-**Radical Candor (Kim Scott):** The best feedback = **caring personally** + **challenging directly**.
-
-| | Challenge Directly | Don't Challenge |
-|---|---|---|
-| **Care** | Radical Candor | Ruinous Empathy |
-| **Don't Care** | Obnoxious Aggression | Manipulative Insincerity |
-
-**Anti-patterns:** The Feedback Sandwich (people ignore the bread). Delayed feedback (half-life). "Be more strategic" (fortune cookie, not feedback).
-
-<!-- Talk track: Most new managers default to Ruinous Empathy — they care about the person but avoid the hard conversation. The anti-patterns: the feedback sandwich doesn't work because people pattern-match and discount the positive — they hear "nice thing, BUT..." and only remember the but. Delayed feedback loses its power because neither of you can reconstruct the moment. And "be more strategic" tells the person nothing about what to actually do differently. Always ask: is this specific enough that the person knows exactly what to change? One caveat — Radical Candor is a US-centric framework. In cross-cultural teams, and in this room, "challenging directly" may need to be calibrated to your team's norms. The principle holds — don't avoid hard conversations — but the style of directness varies. -->
-
----
-
-<!-- ⏱ Expected: 11:28 (min 28/100) -->
-## The Manager Log
-
-**The Manager Log:** Keep a running document of accomplishments, feedback given, and notable moments. Update it weekly. 3 bullets per person, 5 minutes.
-
-**The goal: no surprises at review time.** When review season comes, you have 50 weeks of evidence instead of vague impressions.
-
-<!-- Talk track: The secret weapon is the manager log. Every week, write down what your reports accomplished, feedback you gave, and career notes. Three bullets, five minutes. Without documentation, you default to recency bias, availability bias, and often unconscious demographic bias. The manager log is not busywork — it's the foundation of fair performance management. -->
-
----
-
-<!-- ⏱ Expected: 11:32 (min 32/100) -->
-## Calibration Sessions
-
-**What:** Managers present their direct reports to peer managers. The group norms on performance ratings together.
-
-**Why calibration matters:**
-- Prevents grade inflation
-- Ensures fairness across teams
-- Forces managers to articulate **impact, not effort**
-
-<!-- Talk track: Calibration is where performance management gets real. A group of managers sit in a room and each presents their people. Without calibration, every manager becomes Lake Wobegon — everyone is above average. Calibration forces consistency. -->
-
----
-
-<!-- ⏱ Expected: 11:32 (min 32/100) -->
-## Calibration Sessions
-
-**Your job in calibration:** Advocate with evidence, not emotion.
-
-- Bad: "She worked really hard"
-- Good: "She shipped the churn model that saved $2.4M in annual revenue"
-
-The manager log is what makes this possible.
-
-<!-- Talk track: Your job is to advocate for your people with evidence. "She worked really hard" is not a calibration argument. "She shipped the churn model that saved $2.4M in annual revenue" is. The manager log we just talked about is what makes this possible. Without it, you're going in with vague impressions. With it, you're going in with receipts. -->
-
----
-
-<!-- ⏱ Expected: 11:35 (min 35/100) -->
-<!-- _class: cut -->
-
-## The Ethical PIP
-
-**When someone isn't performing, follow a principled sequence:**
-
-1. **Clarity** — Do they know the expectations?
-2. **Support** — Have you provided what they need?
-3. **Feedback** — Specific, timely, actionable? Multiple times?
-
-<!-- Talk track: PIPs are the hardest part of management. Before you ever get to one, check yourself. Did you set clear expectations? Did you provide support? Did you give timely feedback? If the answer to any of those is no, the first fix is on you. -->
-
----
-
-<!-- ⏱ Expected: 11:35 (min 35/100) -->
-<!-- _class: cut -->
-
-## The Ethical PIP
-
-4. **Documentation** — Is it fair and specific?
-5. **Timeline** — Is 30-90 days reasonable?
-6. **Dignity** — Always. A PIP is not punishment.
-
-**Before a PIP, ask:** "If this person's best friend were watching, would they say I've been fair?"
-
-<!-- Talk track: And sometimes what looks like underperformance is actually wrong role fit, unclear expectations, personal crisis, burnout, or your own failure as a manager. Diagnose before you prescribe. PIPs should be rare. Most performance issues are solved by clear expectations, regular feedback, and adequate support — long before a PIP is necessary. -->
-
----
-
-<!-- ⏱ Expected: 11:35 (min 35/100) | Activity: SBI Feedback Role-Play (25 min) -->
+<!-- ⏱ Expected: 11:27 (min 27/100) | Activity: SBI Feedback Role-Play (25 min) -->
 <!-- _class: divider -->
 
 ## Activity: SBI Feedback Role-Play
@@ -259,7 +214,7 @@ The manager log is what makes this possible.
 
 ---
 
-<!-- ⏱ Expected: 11:35 (min 35/100) | Activity: SBI Feedback Role-Play (25 min) -->
+<!-- ⏱ Expected: 11:27 (min 27/100) | Activity: SBI Feedback Role-Play (25 min) -->
 ## Activity: SBI Feedback Role-Play
 
 **Time: 25 minutes** | Open `materials/sbi-scenario-cards.md`
@@ -273,7 +228,7 @@ The manager log is what makes this possible.
 
 ---
 
-<!-- ⏱ Expected: 11:35 (min 35/100) | Activity: SBI Feedback Role-Play (25 min) -->
+<!-- ⏱ Expected: 11:27 (min 27/100) | Activity: SBI Feedback Role-Play (25 min) -->
 ## Activity: SBI Feedback Role-Play
 
 **Rules:**
@@ -288,7 +243,84 @@ The manager log is what makes this possible.
 
 ---
 
-<!-- ⏱ Expected: 12:00 (min 60/100) | Activity: Mock Calibration (20 min) -->
+<!-- ⏱ Expected: 11:52 (min 52/100) -->
+## Radical Candor + Anti-Patterns
+
+**Radical Candor (Kim Scott):** The best feedback = **caring personally** + **challenging directly**.
+
+| | Challenge Directly | Don't Challenge |
+|---|---|---|
+| **Care** | Radical Candor | Ruinous Empathy |
+| **Don't Care** | Obnoxious Aggression | Manipulative Insincerity |
+
+**Anti-patterns:** The Feedback Sandwich (people ignore the bread). Delayed feedback (half-life). "Be more strategic" (fortune cookie, not feedback).
+
+<!-- Talk track: You just felt what it's like to give direct feedback. That discomfort has a name — you were choosing Radical Candor over Ruinous Empathy. Most new managers default to Ruinous Empathy — they care about the person but avoid the hard conversation. The anti-patterns: the feedback sandwich doesn't work because people pattern-match and discount the positive — they hear "nice thing, BUT..." and only remember the but. Delayed feedback loses its power because neither of you can reconstruct the moment. And "be more strategic" tells the person nothing about what to actually do differently. Always ask: is this specific enough that the person knows exactly what to change? One caveat — Radical Candor is a US-centric framework. In cross-cultural teams, and in this room, "challenging directly" may need to be calibrated to your team's norms. The principle holds — don't avoid hard conversations — but the style of directness varies. -->
+
+---
+
+<!-- ⏱ Expected: 11:55 (min 55/100) -->
+<!-- _class: compact -->
+## The Manager Log
+
+Keep a running document per direct report. Update it weekly. **3 bullets per person, 5 minutes.**
+
+| Log this | Don't log this |
+|---|---|
+| Key accomplishments with business impact | Opinions or feelings about the person |
+| Feedback you gave (with date) | Hearsay from others without verification |
+| Growth moments and stretch assignments | Attendance or hours worked |
+| Specific examples of collaboration or conflict | Anything you wouldn't share with HR if asked |
+| Risks you're tracking (skills gaps, engagement) | Protected characteristics or personal details |
+
+**The goal: no surprises at review time.** When review season comes, you have 50 weeks of evidence instead of vague impressions.
+
+<!-- Talk track: The secret weapon is the manager log. Every week, three bullets per person, five minutes. What did they accomplish? What feedback did you give? What should you track for their development? Without documentation, you default to recency bias, availability bias, and often unconscious demographic bias. A quick note on what NOT to log: opinions, feelings, hearsay, hours worked. Log observable behaviors and their impact — this is SBI applied to documentation. One legal note: your manager log may be discoverable in an employment dispute. Write every entry as if HR and the employee will both read it. That's not paranoia — it's professionalism. -->
+
+---
+
+<!-- ⏱ Expected: 11:59 (min 59/100) -->
+## Calibration Sessions
+
+**What:** Managers present their direct reports to peer managers. The group norms on performance ratings together.
+
+**Why calibration matters:**
+- Prevents grade inflation
+- Ensures fairness across teams
+- Forces managers to articulate **impact, not effort**
+
+**Your job in calibration:** Advocate with evidence, not emotion.
+
+- Bad: "She worked really hard"
+- Good: "She shipped the churn model that saved $2.4M in annual revenue"
+
+The manager log is what makes this possible.
+
+<!-- Talk track: Calibration is where performance management gets real. A group of managers sit in a room and each presents their people. Without calibration, every manager becomes Lake Wobegon — everyone is above average. Your job is to advocate with evidence. "She worked really hard" is not a calibration argument. "She shipped the churn model that saved $2.4M in annual revenue" is. The manager log is what makes this possible — without it, you're going in with vague impressions. With it, you're going in with receipts. -->
+
+---
+
+<!-- ⏱ Expected: 12:02 (min 62/100) -->
+<!-- _class: cut -->
+
+## The Ethical PIP
+
+**Before you ever start a PIP, check yourself:**
+
+1. **Clarity** — Do they know the expectations?
+2. **Support** — Have you provided what they need?
+3. **Feedback** — Specific, timely, actionable? Multiple times?
+4. **Documentation** — Is it fair and specific?
+5. **Timeline** — Is 30-90 days reasonable?
+6. **Dignity** — Always. A PIP is not punishment.
+
+**Before a PIP, ask:** "If this person's best friend were watching, would they say I've been fair?"
+
+<!-- Talk track: PIPs are the hardest part of management. Before you ever get to one, check yourself. Did you set clear expectations? Did you provide support? Did you give timely feedback? If the answer to any of those is no, the first fix is on you. And sometimes what looks like underperformance is actually wrong role fit, unclear expectations, personal crisis, burnout, or your own failure as a manager. Diagnose before you prescribe. The best-friend test: if this person's best friend were watching everything you've done as their manager, would they say you've been fair? If yes, proceed. If no, fix your management first. -->
+
+---
+
+<!-- ⏱ Expected: 12:02 (min 62/100) | Activity: Mock Calibration (20 min) -->
 <!-- _class: divider -->
 
 ## Activity: Mock Calibration
@@ -299,7 +331,7 @@ The manager log is what makes this possible.
 
 ---
 
-<!-- ⏱ Expected: 12:00 (min 60/100) | Activity: Mock Calibration (20 min) -->
+<!-- ⏱ Expected: 12:02 (min 62/100) | Activity: Mock Calibration (20 min) -->
 ## Activity: Mock Calibration
 
 **Time: 20 minutes** | Open `materials/calibration-profiles.md`
@@ -308,25 +340,15 @@ The manager log is what makes this possible.
 - **Form groups of 4.**
 - **5 min:** Read all three profiles silently. Write your independent ratings on a card (Exceeds / Meets / Below).
 - **10 min:** Reveal ratings simultaneously. Discuss disagreements. Reach consensus.
-
-<!-- Talk track: Now we're going to do something that will be uncomfortable — and that's exactly the point. Form groups of four. You'll get three fictional performance profiles. Read them all silently, then independently rate each person: Exceeds, Meets, or Below expectations — for their current level. Do NOT discuss yet. -->
-
----
-
-<!-- ⏱ Expected: 12:00 (min 60/100) | Activity: Mock Calibration (20 min) -->
-## Activity: Mock Calibration
-
 - **2 min:** Group reflection — Which profile was most contested? Why?
 
 **Rating Scale:** Exceeds / Meets / Below — relative to the person's **current level**.
 
-**The discomfort is the point.** Disagreement surfaces the assumptions that real calibration is designed to surface.
-
-<!-- Talk track: Once everyone has their ratings, reveal them simultaneously. Where you agree, confirm quickly. Where you disagree — that's where the real learning happens. The disagreement surfaces assumptions about what "good" looks like, what counts as evidence, and how level expectations change the conversation. You have 20 minutes. Go. -->
+<!-- Talk track: Form groups of four. You'll get three fictional performance profiles. Read them all silently, then independently rate each person: Exceeds, Meets, or Below expectations — for their current level. Do NOT discuss yet. Once everyone has their ratings, reveal simultaneously. Where you disagree — that's where the real learning happens. You have 20 minutes. Go. -->
 
 ---
 
-<!-- ⏱ Expected: 12:20 (min 80/100) | Debrief -->
+<!-- ⏱ Expected: 12:22 (min 82/100) | Debrief -->
 ## Debrief
 
 **From the SBI role-play:**
@@ -341,7 +363,7 @@ The manager log is what makes this possible.
 
 ---
 
-<!-- ⏱ Expected: 12:22 (min 82/100) | Micro-draft: bridge to portfolio (5 min) -->
+<!-- ⏱ Expected: 12:24 (min 84/100) | Micro-draft: bridge to portfolio (5 min) -->
 ## Quick Draft: One SBI Development Area
 
 **5 minutes** | Open `templates/performance-summary.md`
@@ -359,31 +381,23 @@ This is the exact format your Performance Summary requires. You're practicing it
 
 ---
 
-<!-- ⏱ Expected: 12:27 (min 87/100) | Key Takeaways + Transition -->
+<!-- ⏱ Expected: 12:29 (min 89/100) | Key Takeaways + Transition -->
 ## Key Takeaways
 
 - **SBI separates observation from judgment.** That's what makes feedback hearable.
 - **Calibration is uncomfortable by design.** The discomfort surfaces hidden assumptions.
 - **PGP is not a PIP.** Growth plans are proactive and aspirational.
-
-<!-- Talk track: Key takeaways. SBI works because it separates what you saw from what you think — that separation is what makes feedback hearable. Calibration is uncomfortable by design — if it feels easy, you're rubber-stamping. PGP is not a PIP — repeat this to your future teams. -->
-
----
-
-<!-- ⏱ Expected: 12:27 (min 87/100) | Key Takeaways + Transition -->
-## Key Takeaways
-
 - **Senior = scope + autonomy + ambiguity tolerance.** Not years.
 - **Document continuously.** The manager log defeats recency bias.
 - **Dignity is non-negotiable.** In PIPs, feedback, calibration — always.
 
 **These aren't just frameworks. They're commitments you make to the people who report to you.**
 
-<!-- Talk track: Senior means scope, autonomy, ambiguity tolerance — not tenure. Document continuously. And dignity is non-negotiable in every interaction. These aren't just frameworks. They're commitments you make to the people who report to you. -->
+<!-- Talk track: Key takeaways. SBI separates what you saw from what you think. Calibration is uncomfortable by design — if it feels easy, you're rubber-stamping. PGP is not a PIP. Senior means scope, autonomy, ambiguity tolerance — not tenure. Document continuously. And dignity is non-negotiable in every interaction. These aren't just frameworks. They're commitments you make to the people who report to you. -->
 
 ---
 
-<!-- ⏱ Expected: 12:27 (min 87/100) | Key Takeaways + Transition -->
+<!-- ⏱ Expected: 12:29 (min 89/100) | Key Takeaways + Transition -->
 <!-- _class: divider -->
 
 ## Up Next: Block E
@@ -395,7 +409,7 @@ This is the exact format your Performance Summary requires. You're practicing it
 
 ---
 
-<!-- ⏱ Expected: 12:27 (min 87/100) | Key Takeaways + Transition -->
+<!-- ⏱ Expected: 12:29 (min 89/100) | Key Takeaways + Transition -->
 ## Transition to Block E
 
 **After lunch: Block E — Infrastructure & Cross-Functional Interfaces (13:30–15:10)**

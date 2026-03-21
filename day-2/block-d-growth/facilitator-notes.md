@@ -25,25 +25,26 @@
 | 11:00 | 0 | 3 min | 1–3 | Title slide, welcome, learning outcomes |
 | 11:03 | 3 | 3 min | 4–5 | Welcome back — Day 1 recap, Day 2 overview |
 | 11:06 | 6 | 3 min | 6 | Why growth & performance matter |
-| 11:09 | 9 | 4 min | 7–8 | Career ladders for analytics, what "Senior" means |
-| 11:13 | 13 | 5 min | 9 | What "Senior" actually means — expect discussion |
-| 11:18 | 18 | 3 min | 10 | Personal Growth Plan (PGP) — PGP vs. PIP |
-| 11:21 | 21 | 4 min | 11–12 | PGP structure + SBI model |
-| 11:25 | 25 | 3 min | 13 | Radical Candor + feedback anti-patterns |
-| 11:28 | 28 | 4 min | 14–15 | Performance cycles & documentation |
-| 11:32 | 32 | 3 min | 16–17 | Calibration sessions |
-| 11:35 | 35 | — | 18–19 | The ethical PIP |
-| **11:35** | **35** | **25 min** | **20–22** | **Activity: SBI Feedback Role-Play** |
-| **12:00** | **60** | **20 min** | **23–25** | **Activity: Mock Calibration** |
-| 12:20 | 80 | 10 min | 26–30 | Debrief + Key takeaways + Transition to Block E |
+| 11:09 | 9 | 4 min | 7–8 | Career ladders + what "Senior" means |
+| 11:13 | 13 | 5 min | 9 | What "Senior" means — Mid vs. Senior (expect discussion) |
+| 11:18 | 18 | 3 min | 10–11 | Two Tools (PGP vs. PIP) + comparison table |
+| 11:21 | 21 | 3 min | 12–13 | PGP structure + examples by level |
+| 11:24 | 24 | 3 min | 14 | SBI model |
+| **11:27** | **27** | **25 min** | **15–17** | **Activity: SBI Feedback Role-Play** |
+| 11:52 | 52 | 3 min | 18 | Radical Candor + anti-patterns |
+| 11:55 | 55 | 4 min | 19 | Manager Log |
+| 11:59 | 59 | 3 min | 20 | Calibration sessions |
+| 12:02 | 62 | — | 21 | The ethical PIP (cut if behind) |
+| **12:02** | **62** | **20 min** | **22–23** | **Activity: Mock Calibration** |
+| 12:22 | 82 | 8 min | 24–27 | Debrief + Micro-draft + Key takeaways + Transition |
 
 **Total: 100 minutes**
 
 **Timing notes:**
-- Lecture: ~45 min | SBI Role-Play: ~25 min | Mock Calibration: ~20 min | Wrap-up + buffer: ~10 min
-- Teaching is compressed to 35 minutes. Move briskly through lecture slides. The learning happens in the activities, not in the lecture.
+- Lecture is interleaved with activities: 24 min lecture → 25 min SBI practice → 10 min lecture → 20 min calibration practice → 8 min debrief
+- This "teach then practice" rhythm prevents cognitive overload and keeps energy up
 - The "What Senior Means" slide (slide 6) tends to generate discussion. Let it breathe for a minute, but don't let it consume the block. You can say: "This is a rich topic — we'll use it in the PGP homework."
-- The PIP slides (slides 18–19) are emotionally loaded. Slow down. Make eye contact. If someone shares a difficult experience, acknowledge it.
+- The PIP slide (slide 21) is emotionally loaded. Slow down. Make eye contact. If someone shares a difficult experience, acknowledge it.
 - If you're running behind on lecture, compress the ethical PIP slide — students can read it. Protect activity time.
 
 ---

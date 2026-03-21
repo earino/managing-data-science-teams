@@ -455,3 +455,16 @@ section.cut::before {
   z-index: 100;
   letter-spacing: 0.05em;
 }
+
+/* ---------------------------------------------------------------------------
+   Compact slide — smaller text for dense tables or lists
+   Use <!-- _class: compact -->
+   --------------------------------------------------------------------------- */
+
+section.compact table {
+  font-size: 0.82em;
+}
+
+section.compact h2 {
+  margin-bottom: 0.3em;
+}

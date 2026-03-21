@@ -125,7 +125,7 @@ BLOCKS = [
         "path": ROOT / "day-2" / "block-d-growth" / "slides.md",
         "start": "11:00",
         "duration": 100,
-        "expected_slides": 29,
+        "expected_slides": 27,
         "entries": [
             ("11:00", r(1, 2), None),      # Title + Learning Outcomes
             ("11:03", r(3, 4), None),       # Welcome Back (2 slides)
