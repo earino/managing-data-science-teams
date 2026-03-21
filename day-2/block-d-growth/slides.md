@@ -182,9 +182,26 @@ The individual owns this document. You co-create it.
 | **L3 (Mid)** | "Present technical findings to non-technical stakeholders in under 5 minutes" | "Present at next 2 product reviews; manager coaches on deck structure beforehand" |
 | **L4 (Senior)** | "Develop the team's experimentation capability, not just your own" | "Mentor one L2 through their first A/B test by Q3; create a reusable runbook" |
 
-**The specificity test:** If your growth area could apply to any analyst anywhere (e.g., "improve communication"), it is too vague. Rewrite it until it is specific to THIS person in THIS context.
+**The specificity test:** If your growth area could apply to any analyst anywhere (e.g., "improve communication"), it is too vague.
 
-<!-- Talk track: What does a good PGP actually look like? It depends on level. For a junior, growth is about moving from guided to independent work. For a mid-level person, it's about expanding their impact beyond their own analyses. For a senior, it's about elevating the team, not just their own output. Notice the pattern: each growth area is specific enough that you'd know in three months whether progress happened. "Improve communication" is not a growth area. "Present technical findings to non-technical stakeholders in under 5 minutes, starting at the next product review" is. That's the specificity test. -->
+<!-- Talk track: What does a good PGP actually look like? It depends on level. For a junior, growth is about moving from guided to independent work. For a mid-level person, it's about expanding their impact beyond their own analyses. For a senior, it's about elevating the team, not just their own output. -->
+
+---
+
+<!-- ⏱ Expected: 11:21 (min 21/100) -->
+## Gold Standard — One Complete PGP Entry
+
+**This is what 15% of your grade looks like:**
+
+> **Growth area:** Present technical findings to non-technical stakeholders in under 5 minutes
+> **Action:** Present at next 2 product reviews; manager coaches on deck structure beforehand
+> **Measure:** VP Product can summarize my key finding after the presentation without asking clarifying questions
+> **Support needed:** Manager pre-reviews deck; team lead shadows first presentation for feedback
+> **Timeline:** Demonstrate by end of Q2
+
+If your PGP entries look like this, you're in excellent shape for the portfolio.
+
+<!-- Talk track: Let me show you a gold standard entry — this is what the rubric is looking for when it says "actionability" and "specificity." Growth area: specific. Action: concrete. Measure: observable — you'd know if it happened. Support needed: what the manager commits to, not just what the person does. Timeline: a real date. This is a complete entry. If yours look like this, you're in excellent shape. -->
 
 ---
 
