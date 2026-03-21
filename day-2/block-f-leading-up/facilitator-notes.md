@@ -18,17 +18,19 @@
 | 15:30 | 0 | 2 min | Frame the block (1 slide) |
 | 15:32 | 2 | 12 min | IC-to-Manager shift + exec comm frameworks (5 slides) |
 | 15:44 | 14 | 6 min | Anti-Patterns + Managing Up (2 slides) |
-| 15:50 | 20 | 10 min | Communicating Failure (4 slides) |
-| 16:00 | 30 | 15 min | **Discussion: delivering worst news** (pair-then-plenary) |
-| 16:15 | 45 | 15 min | **BLUF Rehearsal** (write → deliver → revise → deliver again) |
-| 16:30 | 60 | 3 min | AI and the Changing Manager Role |
-| 16:33 | 63 | 8 min | Async QBR briefing |
-| 16:41 | 71 | 3 min | Portfolio checklist |
-| 16:44 | 74 | 2 min | Learner reflection |
-| 16:46 | 76 | 8 min | Course close |
-| 16:54 | 84 | 16 min | Buffer |
+| 15:50 | 20 | 3 min | Your Relationship With Your VP |
+| 15:53 | 23 | 10 min | Communicating Failure (4 slides) |
+| 16:03 | 33 | 15 min | **Discussion: delivering worst news** (pair-then-plenary) |
+| 16:18 | 48 | 15 min | **BLUF Rehearsal** (write → deliver → revise → deliver again) |
+| 16:33 | 63 | 3 min | First 90 Days |
+| 16:36 | 66 | 3 min | AI and the Changing Manager Role |
+| 16:39 | 69 | 8 min | Async QBR briefing |
+| 16:47 | 77 | 3 min | Portfolio checklist |
+| 16:50 | 80 | 2 min | Learner reflection |
+| 16:52 | 82 | 8 min | Course close |
+| 17:00 | 90 | 10 min | Buffer |
 
-**Note on buffer:** 16 minutes is generous. The discussion and BLUF rehearsal will likely absorb some of this. If they don't, let the close breathe.
+**Note on buffer:** 10 minutes of buffer. The discussion will likely absorb some of this. If running ahead, let the close breathe.
 
 ## Key Teaching Points
 
@@ -77,6 +79,13 @@ This is dense — asking, trade-off framing, one-ask-per-meeting, when to escala
 **The key distinction:** "Asking is 'I need something.' Escalating is 'there's a decision I can't make alone.' Both are forms of managing up, but they're different skills."
 
 Don't expand disagree-and-commit into a long discussion — it's a principle, not a framework. One sentence: "Argue in the room, then execute fully."
+
+### Your VP Relationship (3 min)
+
+This slide is the relationship layer on top of the communication frameworks. The key insight: "Build trust deposits before you make trust withdrawals." Frameworks are useless without a relationship. The most important bullet is "understand their priorities" — ask students: "What is YOUR VP being measured on? If you don't know, you can't frame your updates in terms they care about."
+
+**Connect backward:** "This is why the Art of the Ask works — because you've already built the relationship."
+**Connect forward:** "And this is why Communicating Failure works — because when you've been transparent all along, one bad incident doesn't destroy trust."
 
 ### Communicating Failure (10 min, 4 slides)
 
@@ -129,6 +138,12 @@ The subject line format is the most immediately practical tool — students will
 **Watch for:** Students who try to present their entire roadmap instead of a 60-second opening. Redirect: "Just the BLUF — four sentences."
 
 **If a student's partner is absent or group is odd:** The instructor joins as a partner for one pair.
+
+## First 90 Days (3 min)
+
+Compressed to one slide. Hit the key insight: **listen, then quick wins, then strategy.** Connect it to the course: "Your Manager OS is what you build in days 31-60. Your roadmap is what you present in days 61-90. The infrastructure audit from Block E is your first month. Everything from this course maps onto these 90 days."
+
+Don't belabor it — the slide speaks for itself. This is the "take it with you" moment before the QBR briefing.
 
 ## AI and the Changing Manager Role (3 min)
 

@@ -173,24 +173,26 @@ BLOCKS = [
         ],
     },
 
-    # ---- BLOCK F: Leading Up & Executive Communication (Day 2, 15:30–17:10, 100 min, 25 slides) ----
+    # ---- BLOCK F: Leading Up & Executive Communication (Day 2, 15:30–17:10, 100 min, 27 slides) ----
     {
         "path": ROOT / "day-2" / "block-f-leading-up" / "slides.md",
         "start": "15:30",
         "duration": 100,
-        "expected_slides": 25,
+        "expected_slides": 27,
         "entries": [
             ("15:30", r(1, 2), None),       # Title + Final Block recap
             ("15:32", r(3, 7), "IC-to-Manager shift + exec comm frameworks (12 min)"),
             ("15:44", r(8, 9), "Anti-Patterns + Managing Up (6 min)"),
-            ("15:50", r(10, 13), "Communicating Failure lecture (10 min)"),
-            ("16:00", r(14, 15), "Discussion: delivering worst news (15 min)"),
-            ("16:15", r(16, 17), "BLUF Rehearsal — two rounds (15 min)"),
-            ("16:30", [18], "AI and the Changing Manager Role (3 min)"),
-            ("16:33", r(19, 20), "Async QBR briefing (8 min)"),
-            ("16:41", [21], "Portfolio checklist (3 min)"),
-            ("16:44", [22], "Learner reflection (2 min)"),
-            ("16:46", r(23, 25), "Course close (8 min)"),
+            ("15:50", [10], "Your VP Relationship (3 min)"),
+            ("15:53", r(11, 14), "Communicating Failure lecture (10 min)"),
+            ("16:03", r(15, 16), "Discussion: delivering worst news (15 min)"),
+            ("16:18", r(17, 18), "BLUF Rehearsal — two rounds (15 min)"),
+            ("16:33", [19], "First 90 Days (3 min)"),
+            ("16:36", [20], "AI and the Changing Manager Role (3 min)"),
+            ("16:39", r(21, 22), "Async QBR briefing (8 min)"),
+            ("16:47", [23], "Portfolio checklist (3 min)"),
+            ("16:50", [24], "Learner reflection (2 min)"),
+            ("16:52", r(25, 27), "Course close (8 min)"),
         ],
     },
 ]

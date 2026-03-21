@@ -148,7 +148,22 @@ Common failure modes — you will see all of these:
 
 ---
 
-<!-- ⏱ Expected: 15:46 (min 16/100) | Communicating Failure (10 min) -->
+<!-- ⏱ Expected: 15:47 (min 17/100) | Your VP Relationship (3 min) -->
+## Your Relationship With Your VP
+
+The frameworks only work if the relationship is there first. **Build trust deposits before you make trust withdrawals.**
+
+- **Meet regularly** — weekly or biweekly. Don't wait for them to schedule it. You request it.
+- **Always bring three things:** what's on track, what's at risk, what you need
+- **Never surprise them** — if bad news is coming, they hear it from you first, not from someone else's Slack message
+- **Understand their priorities** — what are THEY being measured on? Align your updates to that, not to your team's internal metrics
+- **Make their job easier** — the managers who get funded are the ones whose VPs never have to chase them for updates
+
+<!-- Talk track: All the frameworks we just covered — BLUF, Art of the Ask, escalation — they only work if you have a relationship with your VP. And relationships are built before you need them, not when you're desperate. Meet with your VP regularly — you request the meeting, not them. Always bring three things: what's on track, what's at risk, what you need. Never surprise them. And here's the one nobody tells you: understand what THEY'RE being measured on. If your VP is measured on revenue growth, frame your updates around revenue impact, not model accuracy. If they're measured on cost efficiency, frame around ROI. You're not being political — you're being relevant. The managers who get funded are the ones whose VPs never have to chase them for information. -->
+
+---
+
+<!-- ⏱ Expected: 15:50 (min 20/100) | Communicating Failure (10 min) -->
 ## Incident Postmortems for Analytics: When Things Go Wrong
 
 When things go wrong — and they will:
@@ -269,7 +284,23 @@ Use the framework: **Lead with impact → What happened → What you're doing �
 
 ---
 
-<!-- ⏱ Expected: 16:26 (min 56/100) | AI and the Changing Manager Role (3 min) -->
+<!-- ⏱ Expected: 16:26 (min 56/100) | First 90 Days (3 min) -->
+<!-- _class: compact -->
+## Your First 90 Days as an Analytics Manager
+
+| Phase | What to do | What NOT to do |
+|---|---|---|
+| **Days 1–30** | Listen. Meet every stakeholder. Understand the data landscape. | Don't change anything yet. You haven't earned credibility. |
+| **Days 31–60** | Fix one visible problem. Start 1:1s, team meetings, stakeholder syncs. Begin your Manager OS. | Don't try to fix everything. One quick win builds more trust than a grand plan. |
+| **Days 61–90** | Present your first roadmap. Make your first hiring recommendation. Deliver your first exec update. | Don't skip the exec presentation. Use BLUF, the Three Questions, and the Art of the Ask. |
+
+The core structure is the same at every org size — **listen, then quick wins, then strategy.**
+
+<!-- Talk track: Here's something concrete to take with you. Your first 90 days as an analytics manager. Days 1 through 30: shut up and listen. Meet every stakeholder. Audit the infrastructure — you practiced that in Block E. Don't change anything yet. Days 31 through 60: fix one visible problem. Start your cadences. Begin your Manager OS. Days 61 through 90: present your first roadmap. Make your first hire recommendation. Deliver your first exec update using everything you learned today. Notice how everything from this course maps onto these 90 days. Your Manager OS, your hiring packet, your roadmap, your infrastructure plan, your executive communication skills. It all connects. -->
+
+---
+
+<!-- ⏱ Expected: 16:29 (min 59/100) | AI and the Changing Manager Role (3 min) -->
 ## Managing in the Age of AI
 
 Your team in 2026 is a **hybrid human/AI team** — whether you've formalized it or not.
@@ -318,7 +349,7 @@ Don't wait for them to ask it. In your video, address the hardest question **bef
 
 ---
 
-<!-- ⏱ Expected: 16:37 (min 67/100) | Portfolio checklist + logistics (3 min) -->
+<!-- ⏱ Expected: 16:43 (min 73/100) | Portfolio checklist + logistics (3 min) -->
 <!-- _class: compact -->
 ## Portfolio Checklist
 
@@ -342,7 +373,7 @@ _Optional: Data Infrastructure Blueprint, RFP Scoring Matrix (see `resources/`).
 
 ---
 
-<!-- ⏱ Expected: 16:40 (min 70/100) | Reflection (2 min) -->
+<!-- ⏱ Expected: 16:46 (min 76/100) | Reflection (2 min) -->
 ## Your Next 90 Days — Write It Down
 
 **2 minutes.** Write down **3 specific actions** you will take in the next 90 days.
@@ -361,7 +392,7 @@ These are yours. You don't have to share them.
 
 ---
 
-<!-- ⏱ Expected: 16:42 (min 72/100) | Course close (8 min) -->
+<!-- ⏱ Expected: 16:48 (min 78/100) | Course close (8 min) -->
 <!-- _class: divider -->
 
 ## Course Complete
@@ -372,7 +403,7 @@ These are yours. You don't have to share them.
 
 ---
 
-<!-- ⏱ Expected: 16:42 (min 72/100) -->
+<!-- ⏱ Expected: 16:48 (min 78/100) -->
 ## Close: What You've Built
 
 You've built a **Manager Operating System**.
@@ -391,7 +422,7 @@ The **portfolio is the proof**. Refine your drafts. Submit with pride.
 
 ---
 
-<!-- ⏱ Expected: 16:42 (min 72/100) -->
+<!-- ⏱ Expected: 16:48 (min 78/100) -->
 ## Close: Go Build Great Teams
 
 **Office hours are available** — reach out if you need help with the portfolio or the async QBR.
