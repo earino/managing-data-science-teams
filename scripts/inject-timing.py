@@ -145,27 +145,26 @@ BLOCKS = [
         ],
     },
 
-    # ---- BLOCK E: Infrastructure & Cross-Functional Interfaces (Day 2, 13:30–15:10, 100 min, 30 slides) ----
+    # ---- BLOCK E: Infrastructure & Cross-Functional Interfaces (Day 2, 13:30–15:10, 100 min, 27 slides) ----
     # NOTE: Facilitator notes count Marp config as "slide 1".
     # Actual slide 1 = notes slide 2, etc.
     {
         "path": ROOT / "day-2" / "block-e-infrastructure" / "slides.md",
         "start": "13:30",
         "duration": 100,
-        "expected_slides": 30,
+        "expected_slides": 27,
         "entries": [
             ("13:30", r(1, 3), None),       # Title + Learning Outcomes + Shifting Gears
             ("13:32", r(4, 5), "Why Infrastructure Matters (4 min)"),
             ("13:36", r(6, 7), "XFN Universe + Failure Modes (6 min)"),
             ("13:42", r(8, 10), "Bidirectional SLAs (6 min)"),
-            ("13:48", r(11, 13), "Blueprint + Architecture Diagrams (8 min)"),
-            ("13:56", r(14, 15), "Build vs. Buy + Hidden Costs (8 min)"),
-            ("14:04", [16], "Pair discussion: build or buy (2 min)"),
-            ("14:06", r(17, 21), "Stack by Size — small/medium/large + migration trap (10 min)"),
-            ("14:16", r(22, 23), "IT, Procurement, Privacy (6 min)"),
-            ("14:22", r(24, 26), "Activity: Data Infra One-Pager (30 min)"),
-            ("14:52", r(27, 28), "Debrief + portfolio connection (8 min)"),
-            ("15:00", r(29, 30), "Buffer + Transition to Block F"),
+            ("13:48", r(11, 12), "Blueprint + Architecture Diagrams (6 min)"),
+            ("13:54", r(13, 14), "Build vs. Buy + Hidden Costs (8 min)"),
+            ("14:02", [15], "Pair discussion: build or buy (2 min)"),
+            ("14:04", r(16, 20), "Stack by Size — small/medium/large + migration trap (10 min)"),
+            ("14:14", r(21, 23), "Activity: Data Infra One-Pager (30 min)"),
+            ("14:44", r(24, 25), "Debrief + portfolio connection (8 min)"),
+            ("14:52", r(26, 27), "Buffer + Transition to Block F"),
         ],
     },
 

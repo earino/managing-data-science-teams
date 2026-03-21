@@ -147,7 +147,7 @@ Both sides get something: Engineering gets fast turnaround on impact assessments
 
 ---
 
-<!-- ⏱ Expected: 13:48 (min 18/100) | Blueprint + Architecture (8 min) -->
+<!-- ⏱ Expected: 13:48 (min 18/100) | Blueprint + Architecture (6 min) -->
 ## The Data Infrastructure Blueprint
 
 The canonical flow — every modern data stack follows this pattern:
@@ -182,21 +182,7 @@ With cross-cutting concerns at every layer:
 
 ---
 
-<!-- ⏱ Expected: 13:48 (min 18/100) | Three Questions -->
-## Reading an Architecture Diagram (cont.)
-
-**At every layer, ask three questions:**
-1. "How do we know it's working?" — observability
-2. "What happens when it breaks?" — resilience
-3. "What does it cost?" — cost management
-
-If you can ask those three questions intelligently about each layer, you can hold your own in any infrastructure conversation.
-
-<!-- Talk track: Train yourself to ask these three questions at every layer of the stack. If you can ask these intelligently, you can hold your own in any infrastructure conversation with an engineer or a CTO. -->
-
----
-
-<!-- ⏱ Expected: 13:56 (min 26/100) | Build vs. Buy (8 min) -->
+<!-- ⏱ Expected: 13:54 (min 24/100) | Build vs. Buy (8 min) -->
 ## Build vs. Buy — The Framework
 
 **Four questions in order:**
@@ -215,11 +201,11 @@ If you can ask those three questions intelligently about each layer, you can hol
 
 **Default to buy** for infrastructure. Default to build for business logic.
 
-<!-- Talk track: Build versus buy is one of the most consequential decisions you'll make. The rule of thumb: default to buy for infrastructure, default to build for business logic. Infrastructure is commodity. Business logic is where your team adds unique value. -->
+<!-- Talk track: Build versus buy is one of the most consequential decisions you'll make. The rule of thumb: default to buy for infrastructure, default to build for business logic. Infrastructure is commodity. Business logic is where your team adds unique value. And when you decide to buy — involve IT from day one, not after you've already started a trial. Procurement takes two to six times longer than you expect. If you need a tool by Q3, start the process in Q1. -->
 
 ---
 
-<!-- ⏱ Expected: 13:56 (min 26/100) | Hidden Costs -->
+<!-- ⏱ Expected: 13:54 (min 24/100) | Hidden Costs -->
 ## The Hidden Costs of "Free"
 
 Open-source tools have **real costs** — your engineers' time.
@@ -242,7 +228,7 @@ The real question: what does your team **not build** while maintaining this tool
 
 ---
 
-<!-- ⏱ Expected: 14:04 (min 34/100) | Pair discussion (2 min) -->
+<!-- ⏱ Expected: 14:02 (min 32/100) | Pair discussion (2 min) -->
 ## Quick Check: Build or Buy?
 
 **2 minutes — turn to your neighbor:**
@@ -255,7 +241,7 @@ Apply the four questions. Be ready to share your answer and your reasoning.
 
 ---
 
-<!-- ⏱ Expected: 14:06 (min 36/100) | Stack by Size — Small (10 min total for all three) -->
+<!-- ⏱ Expected: 14:04 (min 34/100) | Stack by Size — Small (10 min total for all three) -->
 ## Small Org Stack (0 to 1)
 
 **Goal:** Trusted numbers, fast. Don't over-engineer.
@@ -275,7 +261,7 @@ Apply the four questions. Be ready to share your answer and your reasoning.
 
 ---
 
-<!-- ⏱ Expected: 14:06 (min 36/100) | Small Org — What to Skip -->
+<!-- ⏱ Expected: 14:04 (min 34/100) | Small Org — What to Skip -->
 ## Small Org Stack — What to Skip
 
 **Skip:** Data catalog, ML platform, feature store, semantic layer tooling. You're not there yet.
@@ -288,7 +274,7 @@ At this stage, your most scarce resource is **people's time**, not compute capac
 
 ---
 
-<!-- ⏱ Expected: 14:06 (min 36/100) | Stack by Size — Medium -->
+<!-- ⏱ Expected: 14:04 (min 34/100) | Stack by Size — Medium -->
 ## Medium Org Stack (1 to N)
 
 **Goal:** Self-serve metrics, experimentation, data trust at scale.
@@ -311,7 +297,7 @@ Add to the small stack:
 
 ---
 
-<!-- ⏱ Expected: 14:06 (min 36/100) | Stack by Size — Large -->
+<!-- ⏱ Expected: 14:04 (min 34/100) | Stack by Size — Large -->
 ## Large Org Stack (N to Scale)
 
 **Goal:** Domain autonomy, ML at scale, regulatory compliance.
@@ -332,7 +318,7 @@ Add to the medium stack:
 
 ---
 
-<!-- ⏱ Expected: 14:06 (min 36/100) | The Migration Trap -->
+<!-- ⏱ Expected: 14:04 (min 34/100) | The Migration Trap -->
 ## The Migration Trap
 
 What happens when you outgrow your stack:
@@ -349,50 +335,7 @@ Avoid proprietary lock-in where you can. Use standard SQL. Use standard file for
 
 ---
 
-<!-- ⏱ Expected: 14:16 (min 46/100) | IT, Procurement, Privacy (6 min) -->
-## Working with IT & Procurement
-
-**Speak their language:**
-- Security posture, SOC 2 Type II, penetration testing
-- Data residency (EU data stays in EU — GDPR)
-- SSO / SAML integration (no separate passwords)
-- Audit logs (who accessed what, when)
-
-**Procurement realities:**
-- Budget cycle alignment — miss the window, wait a year
-- Procurement takes **2–6x longer** than you think
-- Security review + legal review + finance approval = months
-
-**The golden rule:** Involve IT early. Not as a blocker — as a partner.
-
-<!-- Talk track: Here's where most analytics managers fail: they find a tool, start a trial, build dependencies, and then discover IT won't approve it. Learn to speak IT's language. And procurement takes two to six times longer than you expect. If you need a tool by Q3, start the process in Q1. -->
-
----
-
-<!-- ⏱ Expected: 14:16 (min 46/100) | Privacy Basics -->
-## Privacy & Governance Basics
-
-**GDPR essentials for analytics managers:**
-
-| Concept | What it means for you |
-|---|---|
-| **Lawful basis** | You need a legal reason to process personal data |
-| **Data minimization** | Collect only what you need. "We might need it someday" is not a reason. |
-| **Right to erasure** | Users can ask you to delete their data. Your pipeline must support this. |
-
-**Data classification — know your tiers:**
-- **Public** — Can share openly (blog metrics, public benchmarks)
-- **Internal** — Company-wide access (aggregate dashboards)
-- **Confidential** — Need-to-know (user-level data, financial details)
-- **Restricted** — Highest sensitivity (PII, health data, payment data)
-
-**Retention:** Don't keep what you don't need. Set policies. Enforce them.
-
-<!-- Talk track: Privacy is not optional and it's not someone else's problem. As an analytics manager, you are directly responsible for how your team collects, stores, and uses personal data. Every table in your warehouse should have a retention policy. "Keep forever" is not a policy — it's a liability. -->
-
----
-
-<!-- ⏱ Expected: 14:22 (min 52/100) | Activity: Data Infra One-Pager (30 min) -->
+<!-- ⏱ Expected: 14:14 (min 44/100) | Activity: Data Infra One-Pager (30 min) -->
 <!-- _class: divider -->
 
 ## Activity: Data Infra One-Pager
@@ -403,7 +346,7 @@ Avoid proprietary lock-in where you can. Use standard SQL. Use standard file for
 
 ---
 
-<!-- ⏱ Expected: 14:22 (min 52/100) | Activity -->
+<!-- ⏱ Expected: 14:14 (min 44/100) | Activity -->
 ## Activity: Data Infra One-Pager
 
 **Time: 30 minutes** | Reference: `resources/data-infra-blueprint-template.md`
@@ -421,7 +364,7 @@ Avoid proprietary lock-in where you can. Use standard SQL. Use standard file for
 
 ---
 
-<!-- ⏱ Expected: 14:22 (min 52/100) | Activity Tips -->
+<!-- ⏱ Expected: 14:14 (min 44/100) | Activity Tips -->
 ## Activity: Data Infra One-Pager — Tips
 
 **Small org context:** 3-4 tools, under $2K/month. Your one-pager should be simple.
@@ -440,7 +383,7 @@ Avoid proprietary lock-in where you can. Use standard SQL. Use standard file for
 
 ---
 
-<!-- ⏱ Expected: 14:52 (min 82/100) | Debrief (8 min) -->
+<!-- ⏱ Expected: 14:44 (min 74/100) | Debrief (8 min) -->
 ## Debrief
 
 **From the room:**
@@ -454,7 +397,7 @@ Avoid proprietary lock-in where you can. Use standard SQL. Use standard file for
 
 ---
 
-<!-- ⏱ Expected: 14:52 (min 82/100) | Debrief — Key Insight -->
+<!-- ⏱ Expected: 14:44 (min 74/100) | Debrief — Key Insight -->
 ## Debrief
 
 **Key insight:** The "right" stack depends on your constraints — team size, budget, timeline, regulatory environment. There is no universal answer. The framework is the answer.
@@ -468,7 +411,7 @@ Avoid proprietary lock-in where you can. Use standard SQL. Use standard file for
 
 ---
 
-<!-- ⏱ Expected: 15:00 (min 90/100) | Transition -->
+<!-- ⏱ Expected: 14:52 (min 82/100) | Transition -->
 <!-- _class: divider -->
 
 ## Up Next: Block F
@@ -480,7 +423,7 @@ Avoid proprietary lock-in where you can. Use standard SQL. Use standard file for
 
 ---
 
-<!-- ⏱ Expected: 15:00 (min 90/100) | Transition -->
+<!-- ⏱ Expected: 14:52 (min 82/100) | Transition -->
 ## Transition to Block F
 
 **After break: Block F — Leading Up & Executive Communication (15:30–17:10)**

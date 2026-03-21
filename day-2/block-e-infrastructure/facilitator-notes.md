@@ -24,27 +24,25 @@ The 90-second breathing exercise acknowledges the shift from Block D's emotional
 | 13:32 | 2 | 4 min | Why infrastructure matters |
 | 13:36 | 6 | 6 min | XFN Universe + Failure Modes |
 | 13:42 | 12 | 6 min | Bidirectional SLAs |
-| 13:48 | 18 | 8 min | Blueprint + Architecture Diagrams |
-| 13:56 | 26 | 8 min | Build vs. Buy + Hidden Costs |
-| 14:04 | 34 | 2 min | **Pair discussion: build or buy one tool** |
-| 14:06 | 36 | 10 min | Stack by Size (small/medium/large + migration trap) |
-| 14:16 | 46 | 6 min | IT, Procurement, Privacy basics |
-| 14:22 | 52 | 30 min | **Activity: Data Infra One-Pager** |
-| 14:52 | 82 | 8 min | Debrief + portfolio connection |
-| 15:00 | 90 | 10 min | Buffer / transition |
+| 13:48 | 18 | 6 min | Blueprint + Architecture Diagrams |
+| 13:54 | 24 | 8 min | Build vs. Buy + Hidden Costs (includes procurement note) |
+| 14:02 | 32 | 2 min | **Pair discussion: build or buy one tool** |
+| 14:04 | 34 | 10 min | Stack by Size (small/medium/large + migration trap) |
+| 14:14 | 44 | 30 min | **Activity: Data Infra One-Pager** |
+| 14:44 | 74 | 8 min | Debrief + portfolio connection |
+| 14:52 | 82 | 18 min | Buffer / transition |
 
 ## Key Teaching Points
 
 ### Must Emphasize
 - The blueprint is a **mental model**, not a prescription — students should adapt it to their case
 - **Build vs. Buy default:** buy infrastructure, build business logic
-- **IT is a partner, not a blocker** — involve them early
-- **Procurement timelines are real** (2–6x longer than you expect)
+- **Procurement timelines are real** (2–6x longer than you expect) — folded into the build-vs-buy talk track
 - **Opportunity cost** is the hidden killer in build-vs-buy decisions
 
 ### Can Compress If Running Long
-- IT, Procurement, Privacy (6 min → 3 min, focus on procurement timeline reality)
-- With 10 minutes of buffer, you have significant flexibility
+- Stack by Size (10 min → 6 min, hit the progression story, skip the tool details)
+- With 18 minutes of buffer, you have significant flexibility
 
 ### Do Not Skip
 - Build vs. Buy framework (students will face this immediately in their careers)
@@ -91,11 +89,11 @@ Students sketch their case context's infrastructure stack on one page.
 
 ## Lecture Teaching Notes
 
-**Build vs. Buy (8 min, starts at 13:56):** Comes right after the blueprint. The key teaching moment is opportunity cost — "what your team doesn't build while maintaining infrastructure." The Airflow comparison table is designed to make this concrete. Let the numbers speak. This section is strong enough to carry post-lunch energy.
+**Build vs. Buy (8 min, starts at 13:54):** Comes right after the blueprint. The key teaching moment is opportunity cost — "what your team doesn't build while maintaining infrastructure." The Airflow comparison table is designed to make this concrete. Let the numbers speak. End this section with the procurement reality: "When you buy, involve IT from day one. Procurement takes 2-6x longer than you expect." This folds in the essential IT/procurement lesson without a separate slide.
 
-**Pair discussion (2 min, at 14:04):** This breaks the lecture at minute 34 — right when post-lunch drowsiness peaks. Students apply build-vs-buy to their own case context. It also primes them to evaluate the stack-by-size tables through the build-vs-buy lens rather than passively reading tool names.
+**Pair discussion (2 min, at 14:02):** This breaks the lecture at minute 34 — right when post-lunch drowsiness peaks. Students apply build-vs-buy to their own case context. It also primes them to evaluate the stack-by-size tables through the build-vs-buy lens rather than passively reading tool names.
 
-**Stack by Size (10 min, starts at 14:06):** The story to tell is *progression*, not tools. Students now have the build-vs-buy framework, so they can evaluate each tool choice: "Notice that at the small org level, almost everything is 'buy.' At the medium level, you start making real build-vs-buy decisions. At large scale, the question shifts to build-vs-buy-vs-build-on-top-of." Linger on the *transitions* between sizes. Ask: "What changes when you go from 5 people to 50? What breaks?"
+**Stack by Size (10 min, starts at 14:04):** The story to tell is *progression*, not tools. Students now have the build-vs-buy framework, so they can evaluate each tool choice: "Notice that at the small org level, almost everything is 'buy.' At the medium level, you start making real build-vs-buy decisions. At large scale, the question shifts to build-vs-buy-vs-build-on-top-of." Linger on the *transitions* between sizes. Ask: "What changes when you go from 5 people to 50? What breaks?"
 
 ## Common Questions and How to Handle Them
 
