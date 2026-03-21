@@ -273,78 +273,22 @@ Use the framework: **Lead with impact → What happened → What you're doing �
 
 ---
 
-<!-- ⏱ Expected: 16:17 (min 47/100) | First 90 Days lecture (8 min) -->
+<!-- ⏱ Expected: 16:17 (min 47/100) | First 90 Days (compressed, 5 min) -->
 ## Your First 90 Days as an Analytics Manager
 
-A practical roadmap for the first 90 days in role, tailored by org size.
+| Phase | What to do | What NOT to do |
+|---|---|---|
+| **Days 1–30** | Listen. Meet every stakeholder. Understand the data landscape. | Don't change anything yet. You haven't earned credibility. |
+| **Days 31–60** | Fix one visible problem. Start 1:1s, team meetings, stakeholder syncs. Begin your Manager OS. | Don't try to fix everything. One quick win builds more trust than a grand plan. |
+| **Days 61–90** | Present your first roadmap. Make your first hiring recommendation. Deliver your first exec update. | Don't skip the exec presentation. Use BLUF, the Three Questions, and the Art of the Ask. |
 
-**Days 1–30: Listen, Learn, Build Relationships**
-- Meet every stakeholder. Ask: "What do you need from analytics? What's working? What's broken?"
-- Understand the data landscape — what exists, what's trusted, what's a mess
-- Don't change anything yet. Earn credibility through listening.
+The core structure is the same at every org size — **listen, then quick wins, then strategy.**
 
-<!-- Talk track: Let me give you something concrete to take with you — a practical roadmap for your first 90 days as an analytics manager. Days 1 through 30: shut up and listen. Seriously. Meet every stakeholder. Understand the data landscape. Don't change anything yet. You haven't earned the credibility to change things. -->
-
----
-
-<!-- ⏱ Expected: 16:17 (min 47/100) -->
-## Your First 90 Days as an Analytics Manager
-
-**Days 31–60: Quick Wins, Establish Cadences**
-- Fix one visible, painful problem (the dashboard everyone complains about, the report that's always late)
-- Start your 1:1s, team meetings, and stakeholder syncs
-- Begin documenting your Manager OS — even a rough draft
-
-**Days 61–90: Roadmap, First Hire Decision, First Exec Presentation**
-- Present your first roadmap draft to leadership
-- Make your first hiring or resourcing recommendation
-- Deliver your first exec update — use everything from this block
-
-<!-- Talk track: Days 31 through 60: start making small, visible improvements. Fix the dashboard everyone hates. Start your cadences. Begin writing your Manager OS. Days 61 through 90: now you have enough context to be strategic. Present your first roadmap. Make your first hiring recommendation. Deliver your first exec update. -->
+<!-- Talk track: Here's something concrete to take with you — your first 90 days as an analytics manager. Days 1 through 30: shut up and listen. Meet every stakeholder. Don't change anything yet. Days 31 through 60: fix one visible, painful problem — the dashboard everyone hates, the report that's always late. Start your cadences. Begin writing your Manager OS. Days 61 through 90: present your first roadmap. Make your first hire recommendation. Deliver your first exec update using everything you learned today. Notice how everything from this course maps onto these 90 days — your Manager OS, your hiring packet, your roadmap, your executive communication skills. It all connects. -->
 
 ---
 
-<!-- ⏱ Expected: 16:17 (min 47/100) -->
-## Your First 90 Days — By Org Size
-
-| Context | Days 1–30 Focus | Days 31–60 Focus | Days 61–90 Focus |
-|---|---|---|---|
-| **Small org** | Learn the business, learn the data | Ship a quick win, start stakeholder trust | Propose a roadmap, make the case for hire #2 |
-| **Medium org** | Meet all stakeholders, audit existing work | Establish cadences, fix one broken process | Present roadmap, identify team skill gaps |
-| **Large org** | Map the org chart, find allies | Align with existing processes, find quick wins within constraints | First exec presentation, first reorg proposal if needed |
-
-The core structure is the same — **listen, then quick wins, then strategy** — but the specifics shift based on your context.
-
-<!-- Talk track: The 90-day plan varies by org size. At a small startup, your 90-day goal is to ship something and make the case for your second hire. At a large enterprise, your 90-day goal is to navigate the org chart and deliver your first aligned presentation. The core structure is the same. -->
-
----
-
-<!-- ⏱ Expected: 16:25 (min 55/100) | Discussion: first week on the job (15 min) -->
-<!-- _class: divider -->
-
-## Discussion: Your First Week on the Job
-
-## 15 Minutes
-
----
-
-<!-- ⏱ Expected: 16:25 (min 55/100) -->
-## Discussion: Your First Week on the Job
-
-You just got hired as the analytics manager in your case context.
-
-- What do you do on **day one**?
-- Who do you **meet first**?
-- What do you **NOT do**? (This might be the hardest question.)
-- What's different about your first week at a **startup vs. an enterprise**?
-
-*Take 2 minutes to think silently, then we'll discuss as a class.*
-
-<!-- Talk track: You just got the job. You're the new analytics manager in your case context. Day one. What do you do? More importantly — what do you NOT do? Take two minutes to think silently, then we'll open it up. -->
-
----
-
-<!-- ⏱ Expected: 16:40 (min 70/100) | Async QBR briefing (5 min) -->
+<!-- ⏱ Expected: 16:22 (min 52/100) | Async QBR briefing (10 min) -->
 ## Async QBR: Your Capstone Deliverable
 
 **What you submit** (as part of your final portfolio):
@@ -359,7 +303,7 @@ Apply everything from today: **Pyramid Principle, Art of the Ask, the Three Exec
 
 ---
 
-<!-- ⏱ Expected: 16:40 (min 70/100) -->
+<!-- ⏱ Expected: 16:22 (min 52/100) -->
 ## Async QBR: How You'll Be Evaluated
 
 Five dimensions (part of Roadmap + Executive Narrative, 25%):
@@ -376,7 +320,7 @@ Don't wait for them to ask it. In your video, address the hardest question **bef
 
 ---
 
-<!-- ⏱ Expected: 16:45 (min 75/100) | Portfolio checklist + logistics (5 min) -->
+<!-- ⏱ Expected: 16:32 (min 62/100) | Portfolio checklist + logistics (5 min) -->
 ## Portfolio Checklist: Components
 
 **Due: One week from today (23:59 Vienna time)**
@@ -395,7 +339,7 @@ Your portfolio has **5 graded components:**
 
 ---
 
-<!-- ⏱ Expected: 16:45 (min 75/100) -->
+<!-- ⏱ Expected: 16:32 (min 62/100) -->
 ## Portfolio Checklist: Submission
 
 **Format:** Single PDF or structured repository
@@ -414,7 +358,7 @@ The portfolio is not five separate documents. It's **one integrated system**. Yo
 
 ---
 
-<!-- ⏱ Expected: 16:50 (min 80/100) | Course close + celebration (8 min) -->
+<!-- ⏱ Expected: 16:37 (min 67/100) | Course close + celebration (8 min) -->
 <!-- _class: divider -->
 
 ## Course Complete
@@ -425,7 +369,7 @@ The portfolio is not five separate documents. It's **one integrated system**. Yo
 
 ---
 
-<!-- ⏱ Expected: 16:50 (min 80/100) -->
+<!-- ⏱ Expected: 16:37 (min 67/100) -->
 ## Close: What You've Built
 
 You've built a **Manager Operating System**.
@@ -444,7 +388,7 @@ The **portfolio is the proof**. Refine your drafts. Submit with pride.
 
 ---
 
-<!-- ⏱ Expected: 16:50 (min 80/100) -->
+<!-- ⏱ Expected: 16:37 (min 67/100) -->
 ## Close: Go Build Great Teams
 
 **Office hours are available** — reach out if you need help with the portfolio or the async QBR.

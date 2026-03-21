@@ -22,12 +22,15 @@
 | 15:46 | 16 | 6 min | Art of the Ask |
 | 15:52 | 22 | 10 min | Communicating Failure lecture |
 | 16:02 | 32 | 15 min | **Discussion: delivering worst news** |
-| 16:17 | 47 | 8 min | First 90 Days lecture |
-| 16:25 | 55 | 15 min | **Discussion: first week on the job** |
-| 16:40 | 70 | 5 min | Async QBR briefing |
-| 16:45 | 75 | 5 min | Portfolio checklist + logistics |
-| 16:50 | 80 | 8 min | Course close + celebration |
-| 16:58 | 88 | 12 min | Buffer |
+| 16:17 | 47 | 5 min | First 90 Days (compressed, one slide) |
+| 16:22 | 52 | 10 min | Async QBR briefing |
+| 16:32 | 62 | 5 min | Portfolio checklist + logistics |
+| 16:37 | 67 | 10 min | Course close + celebration |
+| 16:47 | 77 | 23 min | Buffer |
+
+**Note on buffer:** 23 minutes is generous by design. Day 1 taught us everything runs long.
+Use it for: extended discussion, QBR Q&A, portfolio questions, or letting the close breathe.
+The discussion will likely absorb 5-8 minutes of this naturally.
 
 ## Key Teaching Points
 
@@ -66,30 +69,15 @@
 
 **How to close:** Summarize the pattern: "Notice that every scenario, regardless of case context, follows the same structure — impact first, then facts, then what you're doing about it. That structure works whether the failure is a broken dashboard or a failed hire."
 
-**If the discussion runs hot** (lots of hands, high energy): Let it go to 17-18 minutes — this is a sign of strong engagement. Compress Discussion 2 to compensate.
+**If the discussion runs hot** (lots of hands, high energy): Let it go to 20 minutes — you have 23 minutes of buffer. This is a sign of strong engagement and the best possible use of the extra time.
 
-### Discussion 2: Your First Week on the Job (15 min)
+## First 90 Days (5 min)
 
-**Setup:** After the First 90 Days lecture, pose the question. This one can be more conversational — skip the silent thinking and go straight to open discussion.
+This is compressed to one slide. Hit the key insight: **listen, then quick wins, then strategy** — same structure at every org size. Connect it to the course: "Your Manager OS is what you build in days 31-60. Your roadmap is what you present in days 61-90. Everything from this course maps onto these 90 days."
 
-**Facilitation approach:**
-- Open with the hardest question first: "What do you NOT do in your first week?" — this generates more interesting answers than "what do you do?"
-- Collect 3-4 answers, then pivot: "Now what DO you do on day one?"
-- Ask how it differs by org size (startup vs. enterprise)
-- Connect back to everything from both days: Manager OS, stakeholder mapping, hiring decisions, infrastructure assessment
+## Async QBR Briefing (10 min)
 
-**Watch for:**
-- Students who want to "fix things" on day one — redirect to listening
-- The instinct to skip the relationship-building phase
-- Students connecting this to their case contexts (encourage this!)
-
-**Format:** Whole-class, conversational. This is the last discussion of the course — keep energy up. If the room is tired (it's 16:25), keep it to 10-12 minutes rather than forcing a full 15.
-
-**How to close:** "The 90-day framework maps onto everything you built in this course — your Manager OS is what you create in days 31-60, your roadmap is what you present in days 61-90. Everything connects."
-
-## Async QBR Briefing (5 min)
-
-Keep this tight and concrete:
+This is worth 25% of the grade — give it the time it deserves.
 - Show the format (video + outline)
 - Show the 5 evaluation criteria
 - Emphasize: "Apply everything from today — Pyramid Principle, Art of the Ask, the Three Executive Questions"
@@ -105,7 +93,7 @@ Key updates to communicate:
 - Infrastructure artifacts remain **optional** (but Block E gives them the foundation)
 - Submission: single PDF or repo, one week after Day 2, 23:59 Vienna time
 
-## Closing Energy (8 min)
+## Closing Energy (10 min)
 
 This is the end of a two-day intensive. **Make it count.**
 - Acknowledge the emotional and intellectual journey
@@ -117,19 +105,19 @@ This is the end of a two-day intensive. **Make it count.**
 
 ## If Running Behind
 
-The 12-minute buffer absorbs most overruns. If you're still behind:
-1. Compress the second discussion (First 90 Days) from 15 to 10 min
-2. Portfolio checklist can be 2 min instead of 5 (they have the document — just highlight the key changes)
+The 23-minute buffer absorbs most overruns comfortably. If you're still behind:
+1. Portfolio checklist can be 2 min instead of 5 (they have the document — just highlight the key changes)
+2. First 90 Days can be cut entirely — the slide is self-explanatory as a handout
 3. **Do NOT cut** the async QBR briefing — they need clear expectations
 4. **Do NOT rush** the course close — endings matter
 
 ## If Running Ahead
 
 Use extra time for:
-1. Extended discussion on either topic
-2. Open Q&A about the async QBR
+1. Extended discussion (let the "worst news" discussion go to 20+ minutes if energy is high)
+2. Open Q&A about the async QBR — students will have questions
 3. Portfolio questions / office hours
-4. Let the course close breathe
+4. Let the course close breathe — this is the most valuable use of extra time
 
 ## Lecture Teaching Notes
 
@@ -137,7 +125,7 @@ Use extra time for:
 
 **Communicating Failure (10 min):** The before/after example (ETL join condition vs. "revenue dashboard showed incorrect data for 3 days") is the strongest teaching moment. Pause on it. Let students feel the difference. The subject line format is also highly practical — students will use it immediately.
 
-**First 90 Days (8 min):** Keep this brisk. The org-size table is dense — don't read it cell by cell. Hit the key insight: "The structure is the same at every size — listen, then quick wins, then strategy. What changes is the specific actions." This naturally feeds the discussion.
+**First 90 Days (5 min):** One compressed slide. Hit the key insight: "The structure is the same at every size — listen, then quick wins, then strategy." Connect it to the course: Manager OS maps to days 31-60, roadmap maps to days 61-90. Don't belabor it — the slide speaks for itself.
 
 ## Common Questions and How to Handle Them
 
