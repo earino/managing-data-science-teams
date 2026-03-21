@@ -292,7 +292,23 @@ The frameworks only work if the relationship is there first. **Build trust depos
 
 ---
 
-<!-- ⏱ Expected: 16:22 (min 52/100) | BLUF Rehearsal — expanded (15 min) -->
+<!-- ⏱ Expected: 16:22 (min 52/100) | First 90 Days (3 min) -->
+<!-- _class: compact -->
+## Your First 90 Days as an Analytics Manager
+
+| Phase | What to do | What NOT to do |
+|---|---|---|
+| **Days 1–30** | Listen. Meet every stakeholder. Understand the data landscape. | Don't change anything yet. You haven't earned credibility. |
+| **Days 31–60** | Fix one visible problem. Start 1:1s, team meetings, stakeholder syncs. Begin your Manager OS. | Don't try to fix everything. One quick win builds more trust than a grand plan. |
+| **Days 61–90** | Present your first roadmap. Make your first hiring recommendation. Deliver your first exec update. | Don't skip the exec presentation. Use BLUF, the Three Questions, and the Art of the Ask. |
+
+The core structure is the same at every org size — **listen, then quick wins, then strategy.**
+
+<!-- Talk track: Before we practice the QBR, here's the map for everything you've learned. Your first 90 days as an analytics manager. Days 1 through 30: shut up and listen. Meet every stakeholder. Audit the infrastructure — you practiced that in Block E. Don't change anything yet. Days 31 through 60: fix one visible problem. Start your cadences. Begin your Manager OS. Days 61 through 90: present your first roadmap. Make your first hire recommendation. Deliver your first exec update using everything you learned today. Notice how everything from this course maps onto these 90 days. Your Manager OS, your hiring packet, your roadmap, your infrastructure plan, your executive communication skills. It all connects. And the QBR you're about to practice? That's your day 90 presentation. -->
+
+---
+
+<!-- ⏱ Expected: 16:25 (min 55/100) | BLUF Rehearsal — expanded (15 min) -->
 <!-- _class: divider -->
 
 ## Practice: Your QBR Opening
@@ -400,22 +416,6 @@ Don't wait for them to ask it. In your video, address the hardest question **bef
 | **Total** | **100%** | |
 
 <!-- Talk track: Here's the full picture — everything that counts toward your grade. Twenty-five percent is already done or ongoing: participation and the Day 1 checkpoint. The remaining seventy-five percent is the portfolio, due one week from today. The biggest single component is Hiring Packet at twenty percent. Roadmap plus narrative is fifteen, and the QBR — outline and video together — is ten. Don't leave the video to the last night. Record it early, watch it back, re-record if the BLUF isn't clear in the first ten seconds. -->
-
----
-
-<!-- ⏱ Expected: 16:51 (min 81/100) | First 90 Days (3 min) -->
-<!-- _class: compact -->
-## Your First 90 Days as an Analytics Manager
-
-| Phase | What to do | What NOT to do |
-|---|---|---|
-| **Days 1–30** | Listen. Meet every stakeholder. Understand the data landscape. | Don't change anything yet. You haven't earned credibility. |
-| **Days 31–60** | Fix one visible problem. Start 1:1s, team meetings, stakeholder syncs. Begin your Manager OS. | Don't try to fix everything. One quick win builds more trust than a grand plan. |
-| **Days 61–90** | Present your first roadmap. Make your first hiring recommendation. Deliver your first exec update. | Don't skip the exec presentation. Use BLUF, the Three Questions, and the Art of the Ask. |
-
-The core structure is the same at every org size — **listen, then quick wins, then strategy.**
-
-<!-- Talk track: Here's something concrete to take with you. Your first 90 days as an analytics manager. Days 1 through 30: shut up and listen. Meet every stakeholder. Audit the infrastructure — you practiced that in Block E. Don't change anything yet. Days 31 through 60: fix one visible problem. Start your cadences. Begin your Manager OS. Days 61 through 90: present your first roadmap. Make your first hire recommendation. Deliver your first exec update using everything you learned today. Notice how everything from this course maps onto these 90 days. Your Manager OS, your hiring packet, your roadmap, your infrastructure plan, your executive communication skills. It all connects. -->
 
 ---
 
