@@ -55,6 +55,7 @@ You don't need to be a data engineer — but you need to understand the stack we
 ---
 
 <!-- ⏱ Expected: 13:36 (min 6/100) | XFN Universe + Failure Modes (6 min) -->
+<!-- _class: compact -->
 ## Your Cross-Functional Universe
 
 Analytics doesn't exist in a vacuum. Your key interfaces:
@@ -104,9 +105,8 @@ Each failure mode maps to a **preventable relationship gap**. That's what SLAs a
 
 ---
 
-<!-- ⏱ Expected: 13:42 (min 12/100) | SLA Template + Example -->
-<!-- _class: compact -->
-## Building Bidirectional SLAs
+<!-- ⏱ Expected: 13:42 (min 12/100) | SLA Template -->
+## Building Bidirectional SLAs — Template
 
 **Template:**
 
@@ -115,15 +115,25 @@ Each failure mode maps to a **preventable relationship gap**. That's what SLAs a
 > **Escalation path:** [name/role] if SLA is missed.
 > **Review cadence:** Monthly sync to assess and adjust.
 
-**Example — Analytics ↔ Engineering:**
+SLAs work when **both sides see value**. If it feels one-sided, it won't survive the first quarter.
+
+<!-- Talk track: Let me give you a practical template. Four lines. What you'll provide and by when. What they'll provide and by when. Who to escalate to when someone misses. How often you review. Start with the most critical relationship — usually Engineering — and get that SLA working well before expanding. -->
+
+---
+
+<!-- ⏱ Expected: 13:42 (min 12/100) | SLA Example -->
+## Building Bidirectional SLAs — Example
+
+**Analytics ↔ Engineering SLA:**
 
 > Analytics will review schema change impact assessments within **3 business days**.
 > Engineering will notify analytics **2 sprints before** any schema change to tracked events.
-> Escalation: VP Engineering and Head of Analytics. Review: First Monday of each month.
+> Escalation: VP Engineering and Head of Analytics.
+> Review: First Monday of each month.
 
-SLAs work when **both sides see value**. If it feels one-sided, it won't survive the first quarter.
+Both sides get something: Engineering gets fast turnaround on impact assessments, and you get advance notice of changes.
 
-<!-- Talk track: Let me give you a practical template. Four lines. What you'll provide and by when. What they'll provide and by when. Who to escalate to when someone misses. How often you review. Here's a concrete example for Engineering. You commit to reviewing schema change impacts within three business days, they commit to notifying you two sprints in advance. Both sides get something. Draft one of these for each key cross-functional partner. It takes thirty minutes and saves hundreds of hours of fire-fighting. -->
+<!-- Talk track: Here's a concrete example. You commit to reviewing schema change impacts within three business days, they commit to notifying you two sprints in advance. Both sides get something. Draft one of these for each key cross-functional partner. It takes thirty minutes and saves hundreds of hours of fire-fighting. -->
 
 ---
 
@@ -186,6 +196,7 @@ With cross-cutting concerns at every layer:
 ---
 
 <!-- ⏱ Expected: 13:54 (min 24/100) | Hidden Costs -->
+<!-- _class: compact -->
 ## The Hidden Costs of "Free"
 
 Open-source tools have **real costs** — your engineers' time.
@@ -257,11 +268,13 @@ Every analytics stack follows the same arc:
 
 ---
 
-<!-- ⏱ Expected: 14:07 (min 37/100) | Stack by Size — Medium + Large -->
+<!-- ⏱ Expected: 14:07 (min 37/100) | Stack by Size — Medium -->
 <!-- _class: compact -->
-## Growing the Stack: Medium and Large
+## Medium Org Stack (1 to N)
 
-**Medium (Series B/C) — add to the small stack:** $10K–30K/month
+**Goal:** Self-serve metrics, experimentation, data trust at scale. $10K–30K/month.
+
+Add to the small stack:
 
 | Addition | Why now |
 |---|---|
@@ -270,13 +283,30 @@ Every analytics stack follows the same arc:
 | Semantic layer (dbt metrics/Cube) | Single source of truth for metric definitions |
 | Observability (Monte Carlo/Elementary) | Know when data breaks before your stakeholders do |
 
-**Large (Enterprise) — add to the medium stack:** $100K+/month
+**Governance:** Formal data owners. Published SLAs. Access controls.
+
+<!-- Talk track: At medium scale, the critical addition is observability — knowing when data is broken before the CEO messages you on Slack. You also add a semantic layer so there's one agreed-upon definition of "active user" and "revenue." Monthly cost jumps to ten to thirty thousand. -->
+
+---
+
+<!-- ⏱ Expected: 14:07 (min 37/100) | Stack by Size — Large -->
+<!-- _class: compact -->
+## Large Org Stack (N to Scale)
+
+**Goal:** Domain autonomy, ML at scale, regulatory compliance. $100K+/month.
+
+Add to the medium stack:
 
 | Addition | Why now |
 |---|---|
 | Data mesh / domain ownership | Each domain owns its data products; central team sets standards |
 | ML platform (MLflow/SageMaker/Vertex) | Model training, versioning, deployment at scale |
 | Model governance (cards, bias audits) | Regulatory and ethical requirements |
+| Cost management (Kubecost, billing dashboards) | $100K+/mo demands accountability |
+
+**Your challenge isn't the tools — it's governance and organizational alignment.**
+
+<!-- Talk track: At enterprise scale, the challenges are fundamentally different. You're not trying to get trusted numbers — you're trying to maintain trust across dozens of teams, petabytes of data, and strict regulatory requirements. Your challenge isn't choosing tools. It's navigating procurement, proving ROI, and managing the politics of a data mesh transition. -->
 
 <!-- Talk track: At medium scale, the critical addition is observability — knowing when data is broken before the CEO messages you on Slack. At enterprise scale, the challenge shifts from tools to organizational design. Data mesh means each business domain owns its data products. You need model governance because regulators will ask. Monthly cost goes from ten thousand to a hundred thousand plus — but at this scale, that's a fraction of a percent of revenue. -->
 
@@ -334,70 +364,59 @@ You will almost never build a stack from scratch. You will **inherit** one. Befo
 
 ---
 
-<!-- ⏱ Expected: 14:19 (min 49/100) | Activity: Data Infra One-Pager (30 min) -->
+<!-- ⏱ Expected: 14:19 (min 49/100) | Activity: Data Infra Decision Brief (20 min) -->
 <!-- _class: divider -->
 
-## Activity: Data Infra One-Pager
+## Activity: Data Infra Decision Brief
 
-## 30 Minutes
+## 20 Minutes
 
-<!-- Talk track: Time for hands-on work. -->
+<!-- Talk track: Time for hands-on work. This is focused and fast — three items, twenty minutes. -->
 
 ---
 
 <!-- ⏱ Expected: 14:19 (min 49/100) | Activity -->
-## Activity: Data Infra One-Pager
+## Activity: Data Infra Decision Brief
 
-**Time: 30 minutes** | Reference: `resources/data-infra-blueprint-template.md`
+**Time: 20 minutes | Working individually.**
 
-**Working individually.** For your case context, sketch a one-page **"Our Next 6 Months of Data Infrastructure"** plan.
+Write a one-page decision brief for your case context:
 
-**Your one-pager must include:**
-1. **Current state** — What exists today? Gaps and pain points?
-2. **Target architecture** — Stack in 6 months, mapped to blueprint layers
-3. **Key tools** — Selection for each layer and rationale (use Build vs. Buy)
-4. **Budget estimate** — Monthly and annual costs
-5. **Top risk** — What could go wrong? What do you depend on?
+1. **Current state** (5 min) — What infrastructure exists today? What's the biggest pain point?
 
-<!-- Talk track: The full template in your resources folder is comprehensive — it's designed for your portfolio. For this 30-minute exercise, focus on just the five items on the slide: current state, target architecture, key tools, budget, and top risk. Think of it as a sketch, not a finished document. Be specific about tools — don't write "we need a warehouse," write "we'll use BigQuery because..." Small context students: resist the urge to over-engineer. Large context students: focus on what's achievable in 6 months. Go. I'll circulate. -->
+2. **AI impact** (8 min) — How does AI change your case context? Pick whichever feels most urgent:
+   - **Infrastructure lens:** What AI tools would your team use? Build or buy? At what cost?
+   - **People lens:** How would you change your hiring rubric or team norms if ICs are AI-augmented?
+   - **Governance lens:** What new risks does AI introduce to your data stack? What policy do you need?
 
----
+3. **VP proposal** (7 min) — One paragraph, BLUF format: What do you need? Why? What does it cost? What happens if you don't get it?
 
-<!-- ⏱ Expected: 14:19 (min 49/100) | Activity Tips -->
-## Activity: Data Infra One-Pager — Tips
-
-**Small org context:** 3-4 tools, under $2K/month. Your one-pager should be simple.
-
-**Medium org context:** Focus on what you're adding to the small stack and why.
-
-**Large org context:** Focus on what's achievable in 6 months, not the 5-year vision.
-
-**For everyone:**
-- Refer back to the blueprint slide for the canonical layers
-- Use the cost estimates from the stack-by-size slides — order of magnitude is fine, don't Google exact pricing
-- Think about what IT would push back on in your plan
-
-<!-- Talk track: A few tips as you work. Refer back to the blueprint slide — make sure you've thought about each layer. Use the cost estimates from the slides. And think about your plan through IT's eyes. If you picked a tool without SOC 2, they'll push back. -->
+<!-- Talk track: Three items, twenty minutes. First: current state — what exists and what's the biggest pain point. Five minutes. Second: how does AI change your case context? Pick the lens that feels most urgent — infrastructure, people, or governance. There's no wrong answer — the choice itself tells you something about your priorities. Eight minutes. Third: write a one-paragraph proposal to your VP. Lead with what you need, then why, then the cost, then what happens if you don't get it. That's BLUF — you practiced it in Day 1. Seven minutes. Go. I'll circulate. -->
 
 ---
 
-<!-- ⏱ Expected: 14:49 (min 79/100) | Debrief (8 min) -->
-## Debrief
+<!-- ⏱ Expected: 14:39 (min 69/100) | Debrief + Share-Out (15 min) -->
+## Debrief: Share Your VP Proposal
 
-**From the room:**
-- What surprised you about your case's infrastructure needs?
-- Where did the Build vs. Buy framework change your initial instinct?
-- What trade-offs did you make? What did you decide to skip?
+**15 minutes**
 
-**Key insight:** The "right" stack depends on your constraints. There is no universal answer. **The framework is the answer.**
+**Share-out (8 min):** 2-3 volunteers read their VP proposal aloud (60 seconds each). After each:
+- **Class:** Is the BLUF clear? Would you fund it?
+- **Instructor:** What made the ask compelling — or what's missing?
 
-**Portfolio connection:** Data Infrastructure Blueprint and RFP Scoring Matrix are optional artifacts — templates in `resources/`. Not required but they strengthen your submission.
+**Discussion (7 min):**
+- What AI lens did you pick? What made you choose infrastructure over governance, or vice versa?
+- How does your case context drive your AI strategy?
 
-<!-- Talk track: Let's come back together. What surprised you? Who found a case where build-vs-buy wasn't obvious? Here's the key takeaway: there is no universally correct data stack. The framework is what lets you make a defensible decision in any context. And here's the connection to the rest of the day — your infrastructure decisions are exactly the kind of thing you'll communicate to executives in Block F. "We need to migrate to Snowflake" is an ask that requires the Art of the Ask framework you'll learn next. -->
+**Key insight:** The "right" answer depends on your constraints. **The framework is the answer.** Infrastructure decisions are exactly the kind of thing you'll communicate to executives in Block F.
+
+**Portfolio connection:** Data Infrastructure Blueprint and RFP Scoring Matrix are optional artifacts — templates in `resources/`.
+
+<!-- Talk track: Let's hear some of these proposals. Who wants to go first? Read your VP paragraph — sixty seconds. Class, I want you to react: is the BLUF clear? Can you tell what they need and why in the first sentence? Would you fund it? After we hear two or three, let's talk about AI lenses. Who picked infrastructure? Who picked governance? What made you choose? Notice how your case context drove that decision — a startup worries about cost and policy, an enterprise worries about regulatory risk. That's the real lesson. -->
 
 ---
 
-<!-- ⏱ Expected: 14:57 (min 87/100) | Transition -->
+<!-- ⏱ Expected: 14:54 (min 84/100) | Transition -->
 <!-- _class: divider -->
 
 ## Up Next: Block F
@@ -409,7 +428,7 @@ You will almost never build a stack from scratch. You will **inherit** one. Befo
 
 ---
 
-<!-- ⏱ Expected: 14:57 (min 87/100) | Transition -->
+<!-- ⏱ Expected: 14:54 (min 84/100) | Transition -->
 ## Transition to Block F
 
 **After break: Block F — Leading Up & Executive Communication (15:30–17:10)**

@@ -145,31 +145,31 @@ BLOCKS = [
         ],
     },
 
-    # ---- BLOCK E: Infrastructure & Cross-Functional Interfaces (Day 2, 13:30–15:10, 100 min, 25 slides) ----
+    # ---- BLOCK E: Infrastructure & Cross-Functional Interfaces (Day 2, 13:30–15:10, 100 min, 26 slides) ----
     # NOTE: Facilitator notes count Marp config as "slide 1".
     # Actual slide 1 = notes slide 2, etc.
     {
         "path": ROOT / "day-2" / "block-e-infrastructure" / "slides.md",
         "start": "13:30",
         "duration": 100,
-        "expected_slides": 25,
+        "expected_slides": 26,
         "entries": [
             ("13:30", r(1, 3), None),       # Title + Learning Outcomes + Shifting Gears
             ("13:32", [4], "Why Infrastructure Matters (3 min)"),
             ("13:35", r(5, 6), "XFN Universe + Failure Modes (6 min)"),
-            ("13:41", r(7, 8), "Bidirectional SLAs + template/example (6 min)"),
-            ("13:47", r(9, 10), "Blueprint + Architecture Diagrams (6 min)"),
-            ("13:53", r(11, 12), "Build vs. Buy + Hidden Costs (8 min)"),
-            ("14:01", [13], "Pair discussion: build or buy (2 min)"),
-            ("14:03", [14], "Stack progression story (3 min)"),
-            ("14:06", [15], "Small Org Stack (3 min)"),
-            ("14:09", [16], "Medium + Large Org Stacks (3 min)"),
-            ("14:12", [17], "Migration Trap (2 min)"),
-            ("14:14", [18], "What You Inherit (3 min)"),
-            ("14:17", [19], "Privacy & Governance (3 min)"),
-            ("14:20", r(20, 22), "Activity: Data Infra One-Pager (30 min)"),
-            ("14:50", [23], "Debrief (7 min)"),
-            ("14:57", r(24, 25), "Buffer + Transition to Block F"),
+            ("13:41", r(7, 9), "Bidirectional SLAs + template + example (6 min)"),
+            ("13:47", r(10, 11), "Blueprint + Architecture Diagrams (6 min)"),
+            ("13:53", r(12, 13), "Build vs. Buy + Hidden Costs (8 min)"),
+            ("14:01", [14], "Pair discussion: build or buy (2 min)"),
+            ("14:03", [15], "Stack progression story (3 min)"),
+            ("14:06", [16], "Small Org Stack (3 min)"),
+            ("14:09", r(17, 18), "Medium + Large Org Stacks (3 min)"),
+            ("14:12", [19], "Migration Trap (2 min)"),
+            ("14:14", [20], "What You Inherit (3 min)"),
+            ("14:17", [21], "Privacy & Governance (3 min)"),
+            ("14:19", r(22, 23), "Activity: Data Infra Decision Brief (20 min)"),
+            ("14:39", [24], "Debrief + Share-Out (15 min)"),
+            ("14:54", r(25, 26), "Buffer + Transition to Block F"),
         ],
     },
 

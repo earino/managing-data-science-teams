@@ -33,9 +33,9 @@ The 90-second breathing exercise acknowledges the shift from Block D's emotional
 | 14:12 | 42 | 2 min | Migration Trap |
 | 14:14 | 44 | 3 min | What You Inherit (first-month audit) |
 | 14:17 | 47 | 3 min | Privacy & Governance Basics (GDPR, classification) |
-| 14:20 | 50 | 30 min | **Activity: Data Infra One-Pager** |
-| 14:50 | 80 | 7 min | Debrief |
-| 14:57 | 87 | 13 min | Buffer / transition |
+| 14:19 | 49 | 20 min | **Activity: Data Infra Decision Brief** |
+| 14:39 | 69 | 15 min | Debrief + Share-Out |
+| 14:54 | 84 | 16 min | Buffer / transition |
 
 ## Key Teaching Points
 
@@ -55,37 +55,39 @@ The 90-second breathing exercise acknowledges the shift from Block D's emotional
 - Stack by Size progression (the story of how stacks evolve is the real lesson — not the specific tools)
 - The activity (hands-on application is irreplaceable)
 
-## Activity: Data Infra One-Pager (30 min)
+## Activity: Data Infra Decision Brief (20 min)
 
-Students sketch their case context's infrastructure stack on one page.
+Students write a focused decision brief with 3 items.
 
 **What they produce:**
-1. Current state — what exists, gaps, pain points
-2. Target architecture — stack in 6 months, mapped to blueprint layers
-3. Key tools — selection for each layer with rationale
-4. Budget estimate — monthly and annual costs
-5. Top risk — what could go wrong, what dependencies exist
+1. **Current state** (5 min) — what exists, biggest pain point
+2. **AI impact** (8 min) — pick one lens (infrastructure, people, or governance) and be specific about how AI changes their case context
+3. **VP proposal** (7 min) — one paragraph in BLUF format: what they need, why, cost, consequence of no
 
-**Circulate actively.** Common mistakes to coach away from:
-- Drawing the "dream stack" instead of their actual case context constraints
-- Forgetting to consider team size and skill when choosing tools
-- Proposing migrations without considering the Migration Trap
-- Over-engineering for small org contexts ("you don't need a data catalog for fifty tables")
-- Under-scoping for large org contexts (not accounting for procurement and governance)
+**Circulate actively.** Common mistakes to coach:
+- Item 1: Describing the dream state instead of the current pain point
+- Item 2: Being vague about AI ("we should use AI more"). Push for specifics: which tool, what cost, what risk, what policy
+- Item 3: Burying the ask. First sentence should be what they need. If it starts with context, redirect: "BLUF — what do you need?"
 
-**The one-pager is NOT a graded artifact** but feeds into the optional Data Infrastructure Blueprint portfolio item.
+**If a student freezes on AI lens:** Ask "what scares you most about AI in your case?" That usually points to the right lens — scared of cost = infrastructure, scared of quality = people, scared of compliance = governance.
 
-**If students finish early:** Have them think about which tool choice would be hardest to explain to their CTO, and draft a one-sentence justification using the Build vs. Buy framework.
+**If students finish early:** Have them write a second VP proposal from a different AI lens.
 
-## Debrief (8 min)
+**The decision brief is NOT a graded artifact** but feeds into the optional Data Infrastructure Blueprint portfolio item and practices BLUF for Block F.
 
-**Key questions:**
-- What surprised you about your case's infrastructure needs?
-- Where did the Build vs. Buy framework change your initial instinct?
-- What trade-offs did you make? What did you decide to skip?
-- How does your infrastructure plan connect to your roadmap and executive narrative?
+## Debrief + Share-Out (15 min)
 
-**Connection to Block F:** Infrastructure decisions are executive communication topics. "We need to migrate to Snowflake" is an ask that requires the Art of the Ask framework they'll learn in Block F. Plant this seed.
+**Share-out (8 min):**
+- Ask for 2-3 volunteers to read their VP proposal aloud (60 seconds each)
+- After each: "Class — is the BLUF clear? Can you tell what they need in the first sentence? Would you fund it?"
+- If nobody volunteers: pick someone from each case context and ask them to share just item 3
+
+**Discussion (7 min):**
+- "What AI lens did you pick? What made you choose it?"
+- "Did anyone pick a different lens than they expected?"
+- Surface the pattern: case context drives AI strategy
+
+**Connection to Block F:** The VP proposals students just wrote are exactly the skill Block F formalizes. "You just practiced the Art of the Ask — in Block F we'll give it a name and a framework."
 
 ## Connection to Portfolio
 
