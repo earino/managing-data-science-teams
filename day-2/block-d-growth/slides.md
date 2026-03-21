@@ -125,6 +125,21 @@ If you promote people to senior just because they've been around for four years,
 ---
 
 <!-- ⏱ Expected: 11:18 (min 18/100) -->
+## The SBI Model — Feedback That Lands
+
+| Component | What it means | Example |
+|---|---|---|
+| **S** — Situation | When and where | "In yesterday's stakeholder meeting..." |
+| **B** — Behavior | What you observed | "...you presented without confidence intervals..." |
+| **I** — Impact | The effect it had | "...the VP questioned our methodology." |
+
+**Why SBI works:** It separates observation from judgment. You're not saying "you're sloppy." You're describing a specific behavior and its consequence.
+
+<!-- Talk track: Before we get into growth plans, let me give you the tool you'll use to deliver feedback on growth areas — and everything else. The SBI model. Situation anchors it in time. Behavior describes what you observed, not your interpretation. Impact explains the consequence. This separates observation from judgment. You're not saying "you're sloppy." You're describing a specific behavior and its specific consequence. SBI works even when you manage someone more technically skilled than you — you're observing behaviors and their impact, not grading their methodology. We'll practice this in a few minutes. -->
+
+---
+
+<!-- ⏱ Expected: 11:21 (min 21/100) -->
 ## Two Tools, Opposite Purposes
 
 As a manager, you have two formal tools for developing people. They sound similar but serve opposite purposes:
@@ -202,21 +217,6 @@ The individual owns this document. You co-create it.
 If your PGP entries look like this, you're in excellent shape for the portfolio.
 
 <!-- Talk track: Let me show you a gold standard entry — this is what the rubric is looking for when it says "actionability" and "specificity." Growth area: specific. Action: concrete. Measure: observable — you'd know if it happened. Support needed: what the manager commits to, not just what the person does. Timeline: a real date. This is a complete entry. If yours look like this, you're in excellent shape. -->
-
----
-
-<!-- ⏱ Expected: 11:24 (min 24/100) -->
-## The SBI Model — Feedback That Lands
-
-| Component | What it means | Example |
-|---|---|---|
-| **S** — Situation | When and where | "In yesterday's stakeholder meeting..." |
-| **B** — Behavior | What you observed | "...you presented without confidence intervals..." |
-| **I** — Impact | The effect it had | "...the VP questioned our methodology." |
-
-**Why SBI works:** It separates observation from judgment. You're not saying "you're sloppy." You're describing a specific behavior and its consequence.
-
-<!-- Talk track: To deliver feedback on growth areas — or anything else — use the SBI model. Situation anchors it in time. Behavior describes what you observed, not your interpretation. Impact explains the consequence. This separates observation from judgment. You're not saying "you're sloppy." You're describing a specific behavior and its specific consequence. And here's something that trips up new managers: SBI works even when you manage someone more technically skilled than you. You don't need to evaluate their code to give feedback — you're observing behaviors and their impact, not grading their methodology. -->
 
 ---
 
