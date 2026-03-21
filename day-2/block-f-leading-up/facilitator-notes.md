@@ -23,11 +23,11 @@
 | 15:54 | 24 | 10 min | Communicating Failure (4 slides) |
 | 16:04 | 34 | 15 min | **Discussion: delivering worst news** (pair-then-plenary) |
 | 16:19 | 49 | 3 min | Your Relationship With Your VP |
-| 16:22 | 52 | 15 min | **BLUF Rehearsal** (write → deliver → revise → deliver again) |
-| 16:37 | 67 | 3 min | AI and the Changing Manager Role |
-| 16:40 | 70 | 8 min | Async QBR briefing |
-| 16:48 | 78 | 3 min | All Graded Work |
-| 16:51 | 81 | 3 min | First 90 Days |
+| 16:22 | 52 | 3 min | First 90 Days |
+| 16:25 | 55 | 15 min | **BLUF Rehearsal** (write → deliver → revise → deliver again) |
+| 16:40 | 70 | 3 min | AI and the Changing Manager Role |
+| 16:43 | 73 | 8 min | Async QBR briefing |
+| 16:51 | 81 | 3 min | All Graded Work |
 | 16:54 | 84 | 2 min | Learner reflection |
 | 16:56 | 86 | 8 min | Course close |
 | 17:04 | 94 | 6 min | Buffer |
@@ -128,7 +128,13 @@ The subject line format is the most immediately practical tool — students will
 
 **How to close:** "Notice that every scenario follows the same structure — impact first, then facts, then what you're doing about it. That structure works whether the failure is a broken dashboard or a failed hire."
 
-**If discussion runs hot:** Let it go to 18 minutes. You have 16 minutes of buffer.
+**If discussion runs hot:** Let it go to 18 minutes. You have 6 minutes of buffer — use it here, this is the best learning moment in the block.
+
+## First 90 Days (3 min)
+
+This now sits between the VP Relationship and the BLUF Rehearsal. It's the map for everything they've learned: "Your Manager OS is days 31-60. Your roadmap is days 61-90. The infrastructure audit from Block E is your first month."
+
+Close with: "And the QBR you're about to practice? That's your day 90 presentation." This sets up the BLUF rehearsal as the culmination, not just another exercise.
 
 ## BLUF Rehearsal — Expanded (15 min)
 
@@ -149,12 +155,6 @@ The subject line format is the most immediately practical tool — students will
 **Watch for:** Students who try to present their entire roadmap instead of a 60-second opening. Redirect: "Just the BLUF — four sentences."
 
 **If a student's partner is absent or group is odd:** The instructor joins as a partner for one pair.
-
-## First 90 Days (3 min)
-
-Compressed to one slide. Hit the key insight: **listen, then quick wins, then strategy.** Connect it to the course: "Your Manager OS is what you build in days 31-60. Your roadmap is what you present in days 61-90. The infrastructure audit from Block E is your first month. Everything from this course maps onto these 90 days."
-
-Don't belabor it — the slide speaks for itself. This is the "take it with you" moment before the QBR briefing.
 
 ## AI and the Changing Manager Role (3 min)
 
