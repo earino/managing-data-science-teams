@@ -125,7 +125,7 @@ BLOCKS = [
         "path": ROOT / "day-2" / "block-d-growth" / "slides.md",
         "start": "11:00",
         "duration": 100,
-        "expected_slides": 33,
+        "expected_slides": 29,
         "entries": [
             ("11:00", r(1, 2), None),      # Title + Learning Outcomes
             ("11:03", r(3, 4), None),       # Welcome Back (2 slides)
@@ -173,7 +173,7 @@ BLOCKS = [
         "path": ROOT / "day-2" / "block-f-leading-up" / "slides.md",
         "start": "15:30",
         "duration": 100,
-        "expected_slides": 28,
+        "expected_slides": 29,
         "entries": [
             ("15:30", r(1, 4), None),       # Title + Learning Outcomes + Final Block framing
             ("15:32", r(5, 8), "Pyramid Principle / BLUF / Executive Attention (8 min)"),
